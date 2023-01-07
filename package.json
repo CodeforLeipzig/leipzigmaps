@@ -38,6 +38,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+  "homepage": "https://codeforleipzig.github.io/leipzigmaps",
   "eslintConfig": {
     "extends": [
       "react-app",
