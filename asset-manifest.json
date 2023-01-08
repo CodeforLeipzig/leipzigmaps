@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/leipzigmaps/static/css/main.56613f6e.chunk.css",
-    "main.js": "/leipzigmaps/static/js/main.d4dd93d4.chunk.js",
-    "main.js.map": "/leipzigmaps/static/js/main.d4dd93d4.chunk.js.map",
+    "main.js": "/leipzigmaps/static/js/main.6d356843.chunk.js",
+    "main.js.map": "/leipzigmaps/static/js/main.6d356843.chunk.js.map",
     "runtime-main.js": "/leipzigmaps/static/js/runtime-main.1590d5e3.js",
     "runtime-main.js.map": "/leipzigmaps/static/js/runtime-main.1590d5e3.js.map",
     "static/css/2.f1117937.chunk.css": "/leipzigmaps/static/css/2.f1117937.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.f1117937.chunk.css",
     "static/js/2.a6c99d19.chunk.js",
     "static/css/main.56613f6e.chunk.css",
-    "static/js/main.d4dd93d4.chunk.js"
+    "static/js/main.6d356843.chunk.js"
   ]
 }
