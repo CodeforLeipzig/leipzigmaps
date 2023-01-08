@@ -10,11 +10,12 @@
       "city_district": "West",
       "city": "Leipzig",
       "state": "Sachsen",
+      "ISO3166-2-lvl4": "DE-SN",
       "postcode": "04209",
       "country": "Deutschland",
       "country_code": "de"
     },
-    "link": "https://www.leipzig.de/detailansicht-adresse/gruenauer-welle/",
+    "link": "https://www.leipzig.de//detailansicht-adresse/gruenauer-welle",
     "type": "indoor_pool",
     "lat": "51.31507295",
     "lon": "12.291681015468672"
@@ -27,14 +28,15 @@
       "city_district": "Ost",
       "city": "Leipzig",
       "state": "Sachsen",
+      "ISO3166-2-lvl4": "DE-SN",
       "postcode": "04329",
       "country": "Deutschland",
       "country_code": "de"
     },
-    "link": "https://www.leipzig.de/detailansicht-adresse/sachsen-therme/",
+    "link": "https://www.leipzig.de//detailansicht-adresse/sachsen-therme",
     "type": "indoor_pool",
-    "lat": "51.3486082",
-    "lon": "12.475952"
+    "lat": "51.3497763",
+    "lon": "12.4739067"
   },
   {
     "title": "Schwimmhalle Mitte",
@@ -46,14 +48,15 @@
       "city_district": "Nord",
       "city": "Leipzig",
       "state": "Sachsen",
+      "ISO3166-2-lvl4": "DE-SN",
       "postcode": "04155",
       "country": "Deutschland",
       "country_code": "de"
     },
-    "link": "https://www.leipzig.de/detailansicht-adresse/schwimmhalle-mitte/",
+    "link": "https://www.leipzig.de//detailansicht-adresse/schwimmhalle-mitte",
     "type": "indoor_pool",
-    "lat": "51.36223905",
-    "lon": "12.353382424708549"
+    "lat": "51.36225665",
+    "lon": "12.353394654258464"
   },
   {
     "title": "Schwimmhalle Nord",
@@ -65,11 +68,12 @@
       "city_district": "Nord",
       "city": "Leipzig",
       "state": "Sachsen",
+      "ISO3166-2-lvl4": "DE-SN",
       "postcode": "04157",
       "country": "Deutschland",
       "country_code": "de"
     },
-    "link": "https://www.leipzig.de/detailansicht-adresse/schwimmhalle-nord/",
+    "link": "https://www.leipzig.de//detailansicht-adresse/schwimmhalle-nord",
     "type": "indoor_pool",
     "lat": "51.37231965",
     "lon": "12.38134070842299"
@@ -85,11 +89,12 @@
       "city_district": "Nordost",
       "city": "Leipzig",
       "state": "Sachsen",
+      "ISO3166-2-lvl4": "DE-SN",
       "postcode": "04347",
       "country": "Deutschland",
       "country_code": "de"
     },
-    "link": "https://www.leipzig.de/detailansicht-adresse/schwimmhalle-nordost/",
+    "link": "https://www.leipzig.de//detailansicht-adresse/schwimmhalle-nordost",
     "type": "indoor_pool",
     "lat": "51.358358550000005",
     "lon": "12.404955916520343"
@@ -104,11 +109,12 @@
       "city_district": "Mitte",
       "city": "Leipzig",
       "state": "Sachsen",
+      "ISO3166-2-lvl4": "DE-SN",
       "postcode": "04103",
       "country": "Deutschland",
       "country_code": "de"
     },
-    "link": "https://www.leipzig.de/detailansicht-adresse/schwimmhalle-sued/",
+    "link": "https://www.leipzig.de//detailansicht-adresse/schwimmhalle-sued",
     "type": "indoor_pool",
     "lat": "51.3239909",
     "lon": "12.385783649999993"
@@ -123,11 +129,12 @@
       "city_district": "Südost",
       "city": "Leipzig",
       "state": "Sachsen",
+      "ISO3166-2-lvl4": "DE-SN",
       "postcode": "04299",
       "country": "Deutschland",
       "country_code": "de"
     },
-    "link": "https://www.leipzig.de/detailansicht-adresse/schwimmhalle-suedost/",
+    "link": "https://www.leipzig.de//detailansicht-adresse/schwimmhalle-suedost",
     "type": "indoor_pool",
     "lat": "51.31632955",
     "lon": "12.42836830011111"
@@ -135,7 +142,7 @@
   {
     "title": "Schwimmhalle Universität Leipzig",
     "address": {
-      "leisure": "Sprunghalle",
+      "leisure": "Universitätsschwimmhalle",
       "house_number": "4",
       "road": "Mainzer Straße",
       "neighbourhood": "Bachviertel",
@@ -143,14 +150,15 @@
       "city_district": "Mitte",
       "city": "Leipzig",
       "state": "Sachsen",
+      "ISO3166-2-lvl4": "DE-SN",
       "postcode": "04109",
       "country": "Deutschland",
       "country_code": "de"
     },
-    "link": "https://www.leipzig.de/detailansicht-adresse/schwimmhalle-universitaet-leipzig/",
+    "link": "https://www.leipzig.de//detailansicht-adresse/schwimmhalle-universitaet-leipzig",
     "type": "indoor_pool",
-    "lat": "51.336345",
-    "lon": "12.353650897046567"
+    "lat": "51.336847199999994",
+    "lon": "12.353675175513555"
   },
   {
     "title": "Schwimmhalle West",
@@ -162,11 +170,12 @@
       "city_district": "Altwest",
       "city": "Leipzig",
       "state": "Sachsen",
+      "ISO3166-2-lvl4": "DE-SN",
       "postcode": "04179",
       "country": "Deutschland",
       "country_code": "de"
     },
-    "link": "https://www.leipzig.de/detailansicht-adresse/schwimmhalle-west/",
+    "link": "https://www.leipzig.de//detailansicht-adresse/schwimmhalle-west",
     "type": "indoor_pool",
     "lat": "51.34652235",
     "lon": "12.311952829626495"
@@ -177,15 +186,16 @@
       "leisure": "Sportbad an der Elster",
       "house_number": "8",
       "road": "Antonienstraße",
-      "suburb": "Schleußig",
+      "suburb": "Plagwitz",
       "city_district": "Südwest",
       "city": "Leipzig",
       "state": "Sachsen",
+      "ISO3166-2-lvl4": "DE-SN",
       "postcode": "04229",
       "country": "Deutschland",
       "country_code": "de"
     },
-    "link": "https://www.leipzig.de/detailansicht-adresse/sportbad-an-der-elster/",
+    "link": "https://www.leipzig.de//detailansicht-adresse/sportbad-an-der-elster",
     "type": "indoor_pool",
     "lat": "51.319954300000006",
     "lon": "12.336005139793688"
@@ -193,7 +203,7 @@
   {
     "title": "Sprunghalle der Universität Leipzig",
     "address": {
-      "leisure": "Sprunghalle",
+      "leisure": "Universitätsschwimmhalle",
       "house_number": "4",
       "road": "Mainzer Straße",
       "neighbourhood": "Bachviertel",
@@ -201,14 +211,15 @@
       "city_district": "Mitte",
       "city": "Leipzig",
       "state": "Sachsen",
+      "ISO3166-2-lvl4": "DE-SN",
       "postcode": "04109",
       "country": "Deutschland",
       "country_code": "de"
     },
-    "link": "https://www.leipzig.de/detailansicht-adresse/sprunghalle-der-universitaet-leipzig/",
+    "link": "https://www.leipzig.de//detailansicht-adresse/sprunghalle-der-universitaet-leipzig",
     "type": "indoor_pool",
-    "lat": "51.336345",
-    "lon": "12.353650897046567"
+    "lat": "51.336847199999994",
+    "lon": "12.353675175513555"
   },
   {
     "title": "Kinderfreibecken \"Robbe\"",
@@ -220,11 +231,12 @@
       "city_district": "Nord",
       "city": "Leipzig",
       "state": "Sachsen",
+      "ISO3166-2-lvl4": "DE-SN",
       "postcode": "04157",
       "country": "Deutschland",
       "country_code": "de"
     },
-    "link": "https://www.leipzig.de/detailansicht-adresse/kinderfreibecken-robbe/",
+    "link": "https://www.leipzig.de//detailansicht-adresse/kinderfreibecken-robbe",
     "type": "outdoor_pool",
     "lat": "51.37231965",
     "lon": "12.38134070842299"
@@ -232,21 +244,21 @@
   {
     "title": "Ökobad Lindenthal",
     "address": {
-      "leisure": "Ökobad Lindenthal",
       "house_number": "3",
       "road": "Am Freibad",
       "suburb": "Lindenthal",
       "city_district": "Nordwest",
       "city": "Leipzig",
       "state": "Sachsen",
+      "ISO3166-2-lvl4": "DE-SN",
       "postcode": "04158",
       "country": "Deutschland",
       "country_code": "de"
     },
-    "link": "https://www.leipzig.de/detailansicht-adresse/oekobad-lindenthal/",
+    "link": "https://www.leipzig.de//detailansicht-adresse/oekobad-lindenthal",
     "type": "outdoor_pool",
-    "lat": "51.39330115",
-    "lon": "12.326786040773502"
+    "lat": "51.3935438",
+    "lon": "12.3269022"
   },
   {
     "title": "Schreberbad",
@@ -259,11 +271,12 @@
       "city_district": "Mitte",
       "city": "Leipzig",
       "state": "Sachsen",
+      "ISO3166-2-lvl4": "DE-SN",
       "postcode": "04109",
       "country": "Deutschland",
       "country_code": "de"
     },
-    "link": "https://www.leipzig.de/detailansicht-adresse/schreberbad/",
+    "link": "https://www.leipzig.de//detailansicht-adresse/schreberbad",
     "type": "outdoor_pool",
     "lat": "51.338967100000005",
     "lon": "12.358802401994044"
@@ -271,26 +284,25 @@
   {
     "title": "Sommerbad Kleinzschocher",
     "address": {
-      "leisure": "Sommerbad Kleinzschocher",
       "house_number": "75",
       "road": "Küchenholzallee",
-      "suburb": "Schleußig",
+      "suburb": "Kleinzschocher",
       "city_district": "Südwest",
       "city": "Leipzig",
       "state": "Sachsen",
+      "ISO3166-2-lvl4": "DE-SN",
       "postcode": "04229",
       "country": "Deutschland",
       "country_code": "de"
     },
-    "link": "https://www.leipzig.de/detailansicht-adresse/sommerbad-kleinzschocher/",
+    "link": "https://www.leipzig.de//detailansicht-adresse/sommerbad-kleinzschocher",
     "type": "outdoor_pool",
-    "lat": "51.316385600000004",
-    "lon": "12.339059870524782"
+    "lat": "51.3163021",
+    "lon": "12.338389"
   },
   {
     "title": "Sommerbad Schönefeld",
     "address": {
-      "leisure": "Sommerbad Schönefeld",
       "house_number": "39",
       "road": "Volbedingstraße",
       "neighbourhood": "Schönefeld",
@@ -298,32 +310,33 @@
       "city_district": "Nordost",
       "city": "Leipzig",
       "state": "Sachsen",
+      "ISO3166-2-lvl4": "DE-SN",
       "postcode": "04357",
       "country": "Deutschland",
       "country_code": "de"
     },
-    "link": "https://www.leipzig.de/detailansicht-adresse/sommerbad-schoenefeld/",
+    "link": "https://www.leipzig.de//detailansicht-adresse/sommerbad-schoenefeld",
     "type": "outdoor_pool",
-    "lat": "51.3630321",
-    "lon": "12.411970819689838"
+    "lat": "51.3621058",
+    "lon": "12.4110359"
   },
   {
     "title": "Sommerbad Südost",
     "address": {
-      "leisure": "Sommerbad Südost",
       "house_number": "173",
       "road": "Oststraße",
       "suburb": "Stötteritz",
       "city_district": "Südost",
       "city": "Leipzig",
       "state": "Sachsen",
+      "ISO3166-2-lvl4": "DE-SN",
       "postcode": "04299",
       "country": "Deutschland",
       "country_code": "de"
     },
-    "link": "https://www.leipzig.de/detailansicht-adresse/sommerbad-suedost/",
+    "link": "https://www.leipzig.de//detailansicht-adresse/sommerbad-suedost",
     "type": "outdoor_pool",
-    "lat": "51.32639035",
-    "lon": "12.420285180237116"
+    "lat": "51.3262935",
+    "lon": "12.4198936"
   }
 ]
