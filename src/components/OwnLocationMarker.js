@@ -1,15 +1,19 @@
 import { renderToString } from 'react-dom/server'
+import React, { useState } from 'react';
 
 import './OwnLocationMarker.css'
 
 import L from 'leaflet'
 import { Marker } from 'react-leaflet';
-import { usePosition } from 'use-position';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCircle } from '@fortawesome/free-solid-svg-icons';
 import { colors } from './MarkerToggles';
 
 const OwnLocationMarker = () => {
+  const [userLocation, setUserLocation] = useState(null);
+  const [error, setError] = useState(null);
+  navigator.geolocation
+
   var myIcon = L.divIcon({
     className: 'ownLocationMarker',
     iconSize: [20, 20],
@@ -51,9 +55,21 @@ const OwnLocationMarker = () => {
     error,
   } = usePosition(watch, {enableHighAccuracy: true});
 
-  console.log(error)
-
-  if(error) return <div style={{ color: '#fff', padding: 5, backgroundColor: 'red', position: 'absolute', top: 0, right: 0, zIndex: 9999 }}>{error}</div>
+  const getUserLocation = () => {
+    if (navigator.geolocation) {
+      navigator.geolocation.getCurrentPosition((position) => {
+          const { latitude, longitude } = position.coords;
+          setUserLocation({ latitude, longitude });
+          setError(null);
+        },
+        (error) => {
+          setError('Error getting user location: ' + error);
+        }
+      );
+    } else {
+      setError('Geolocation is not supported by this browser.');
+    }
+  };
 
   return (
     <Marker
