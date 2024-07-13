@@ -1,1 +1,828 @@
-{"version":0.6,"generator":"Overpass API 0.7.56.9 76e5016d","osm3s":{"timestamp_osm_base":"2021-09-29T21:35:28Z","timestamp_areas_base":"2021-09-29T21:15:13Z","copyright":"The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."},"elements":[{"type":"node","id":332389410,"lat":51.3383745,"lon":12.3907348,"tags":{"addr:city":"Leipzig","addr:housenumber":"2","addr:postcode":"04103","addr:street":"Dresdner Straße","leisure":"fitness_centre","name":"Bodystreet"}},{"type":"node","id":566111289,"lat":51.3387894,"lon":12.3750043,"tags":{"brand":"Fitness First","brand:wikidata":"Q127120","brand:wikipedia":"en:Fitness First","leisure":"fitness_centre","name":"Fitness First","opening_hours":"Mo-Fr 06:30-23:00; Sa,Su,PH 08:00-22:00","sport":"fitness","wheelchair":"no"}},{"type":"node","id":1012959846,"lat":51.3363123,"lon":12.3932935,"tags":{"brand":"McFit","brand:wikidata":"Q871302","brand:wikipedia":"en:McFit","leisure":"fitness_centre","name":"McFit","wheelchair":"no"}},{"type":"node","id":1640657052,"lat":51.3419232,"lon":12.3042161,"tags":{"brand":"McFit","brand:wikidata":"Q871302","brand:wikipedia":"en:McFit","leisure":"fitness_centre","name":"McFit","sport":"fitness","website":"https://www.mcfit.com/"}},{"type":"node","id":3472691013,"lat":51.3312009,"lon":12.396048,"tags":{"leisure":"fitness_centre","name":"Bodystreet","opening_hours":"Mo-Fr 08:00-21:00; Sa 10:00-14:00","wheelchair":"yes"}},{"type":"node","id":4182119274,"lat":51.3486135,"lon":12.4026592,"tags":{"addr:city":"Leipzig","addr:housenumber":"19","addr:postcode":"04315","addr:street":"Schulze-Delitzsch-Straße","leisure":"fitness_centre","name":"Element Ost Yoga Studio","sport":"yoga","website":"https://www.element-ost.yoga/"}},{"type":"node","id":4466964627,"lat":51.3355732,"lon":12.3797376,"tags":{"addr:city":"Leipzig","addr:housenumber":"12","addr:postcode":"04103","addr:street":"Roßplatz","leisure":"fitness_centre","name":"Die Pilatisten","opening_hours":"Mo-Fr 07:00-21:00, Sa 09:00-12:00","sport":"gymnastics","website":"https://pilatisten.de/","wheelchair":"no"}},{"type":"node","id":4949617917,"lat":51.3205784,"lon":12.3413215,"tags":{"addr:city":"Leipzig","addr:district":"Schleusig","addr:housenumber":"88","addr:postcode":"04229","addr:street":"Könneritzstraße","leisure":"fitness_centre","name":"Hatha Yoga Leipzig","sport":"yoga","website":"http://www.hatha-yoga-leipzig.de"}},{"type":"node","id":5113254444,"lat":51.3449733,"lon":12.3907617,"tags":{"leisure":"fitness_centre","name":"tanzwerk Leipziger Ballettschule","sport":"ballet"}},{"type":"node","id":5245634122,"lat":51.3355019,"lon":12.3339793,"tags":{"addr:city":"Leipzig","addr:housenumber":"29","addr:postcode":"04177","addr:street":"Lützner Straße","leisure":"fitness_centre","name":"Etage Leipzig Raum für Kunst und Bewegung","sport":"yoga;contact_improvisation;taijiquan;authentic_movement;butoh","website":"http://etageleipzig.de/"}},{"type":"node","id":5251027722,"lat":51.3369942,"lon":12.3512883,"tags":{"leisure":"fitness_centre","name":"Boxhalle"}},{"type":"node","id":5307329189,"lat":51.335931,"lon":12.3331741,"tags":{"addr:city":"Leipzig","addr:housenumber":"1A","addr:postcode":"04177","addr:street":"Josephstraße","email":"leipzig-luetznerstrasse@bodystreet.com","leisure":"fitness_centre","name":"body street","opening_hours":"Mo-Fr 09:00-21:00; Sa 10:00-15:00","operator":"Bodystreet GmbH","phone":"+49 341 49295019","website":"https://www.bodystreet.com/de/standorte/deutschland/leipzig/bodystreet-leipzig-luetznerstrasse/","wheelchair":"yes"}},{"type":"node","id":5638235766,"lat":51.3052068,"lon":12.3818248,"tags":{"healthcare:speciality":"hydrotherapy","leisure":"fitness_centre","name":"Bornaische55","swimming_pool":"yes","website":"https://www.bornaische55.de"}},{"type":"node","id":5730429575,"lat":51.3378853,"lon":12.4735539,"tags":{"leisure":"fitness_centre"}},{"type":"node","id":5756405130,"lat":51.3187592,"lon":12.4294342,"tags":{"leisure":"fitness_centre","name":"clever fit"}},{"type":"node","id":5783014809,"lat":51.3311719,"lon":12.3732797,"tags":{"addr:city":"Leipzig","addr:housenumber":"29b","addr:postcode":"04107","addr:street":"Riemannstraße","leisure":"fitness_centre","name":"Yogama","source":"resident knowledge","sport":"yoga","website":"http://yogama.de"}},{"type":"node","id":5805220812,"lat":51.3347181,"lon":12.3791324,"tags":{"addr:city":"Leipzig","addr:housenumber":"3","addr:postcode":"04103","addr:street":"Leplaystraße","leisure":"fitness_centre","name":"CityBootCamp","opening_hours":"\"Nach Vereinbarung\"","phone":"+49 173 6994161"}},{"type":"node","id":6046033393,"lat":51.3351892,"lon":12.3692845,"tags":{"contact:website":"https://glueckskind-yoga-leipzig.de","description":"Glückskind - Yoga, Pilates & mehr für dich","leisure":"fitness_centre","name":"Glückskind","sport":"yoga"}},{"type":"node","id":6121250632,"lat":51.3391328,"lon":12.3832295,"tags":{"brand":"John Reed","contact:email":"info@johnreed.fitness","contact:phone":"+49 9552 93190","contact:website":"https://johnreed.fitness/club-leipzig/","full_name":"John Reed Club Leipzig Alte Post","leisure":"fitness_centre","level":"1","name":"John Reed","opening_hours":"Mo-Su 06:00-24:00","sauna":"no","swimming_pool":"no"}},{"type":"node","id":6533573985,"lat":51.3407791,"lon":12.3851656,"tags":{"leisure":"fitness_centre","name":"Vimodrom","opening_hours":"Mo-Fr 09:00-19:00","wheelchair":"limited"}},{"type":"node","id":6681569885,"lat":51.3394946,"lon":12.3958262,"tags":{"addr:housenumber":"1A","addr:postcode":"04317","addr:street":"Gabelsbergerstraße","internet_access":"wlan","leisure":"fitness_centre","name":"Kampfsportschule Leipzig","name:en":"Martial arts school","phone":"+49 176 20945862","website":"http://twrle.business.site"}},{"type":"node","id":7552144819,"lat":51.3406211,"lon":12.3644114,"tags":{"addr:city":"Leipzig","addr:housenumber":"24","addr:postcode":"04109","addr:street":"Elsterstraße","leisure":"fitness_centre","name":"Skyline Sportsclub","phone":"+49 341 1416777","sport":"fitness","website":"https://www.skyline-sportsclub.de/"}},{"type":"node","id":8458885551,"lat":51.324285,"lon":12.4136029,"tags":{"leisure":"fitness_centre","name":"emoyos Sports Club","opening_hours:signed":"no","wheelchair":"no"}},{"type":"way","id":137143590,"nodes":[1504335904,1504335912,1504335925,1504335868,1504335844,1504335857,1504335904],"lat":51.2865924,"lon":12.3963172,"tags":{"building":"yes","leisure":"fitness_centre"}},{"type":"way","id":443599281,"nodes":[4411473304,4411492204,4411492205,4411536493,4411473304],"lat":51.3620595,"lon":12.4010171,"tags":{"addr:city":"Leipzig","addr:housenumber":"4","addr:postcode":"04357","addr:street":"Wollkämmereistraße","building":"yes","building:levels":"2","leisure":"fitness_centre","name":"FitX Mockau-Süd","smoking":"outside","website":"https://www.fitx.de/"}},{"type":"way","id":455494116,"nodes":[4518891677,4518891679,4518891678,4518891680,4518891677],"lat":51.3673789,"lon":12.4237263,"tags":{"addr:city":"Leipzig","addr:housenumber":"48","addr:postcode":"04347","addr:street":"Theklaer Straße","building":"yes","email":"info@balancestudio.de","leisure":"fitness_centre","name":"balance studio","phone":"+49 341 23 48 448","sport":"gymnastics","website":"http://www.balancestudio.de/"}},{"type":"way","id":670343700,"nodes":[6277597163,6277597162,6277597161,6277597160,6277597163],"lat":51.3266129,"lon":12.3059727,"tags":{"addr:city":"Leipzig","addr:housenumber":"179","addr:postcode":"04179","addr:street":"Lützner Straße","building":"commercial","building:levels":"3","height":"11","leisure":"fitness_centre","name":"Fit X","opening_hours":"24/7","roof:levels":"0.25","roof:shape":"flat","url":"https://www.fitx.de/fitnessstudio/leipzig-neulindenau"}}]}
+{
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.1 084b4234",
+    "osm3s": {
+      "timestamp_osm_base": "2024-07-10T19:29:15Z",
+      "timestamp_areas_base": "2024-07-10T16:54:56Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+  
+  {
+    "type": "node",
+    "id": 332389410,
+    "lat": 51.3383745,
+    "lon": 12.3907348,
+    "tags": {
+      "addr:city": "Leipzig",
+      "addr:housenumber": "2",
+      "addr:postcode": "04103",
+      "addr:street": "Dresdner Straße",
+      "check_date:opening_hours": "2023-10-06",
+      "leisure": "fitness_centre",
+      "name": "Bodystreet",
+      "opening_hours:signed": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 566111289,
+    "lat": 51.3387894,
+    "lon": 12.3750043,
+    "tags": {
+      "brand": "Fitness First",
+      "brand:wikidata": "Q127120",
+      "brand:wikipedia": "en:Fitness First",
+      "check_date:opening_hours": "2023-06-18",
+      "leisure": "fitness_centre",
+      "name": "Fitness First",
+      "opening_hours": "Mo-Fr 06:30-23:00; Sa,Su,PH 08:00-22:00",
+      "sport": "fitness",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1012959846,
+    "lat": 51.3363123,
+    "lon": 12.3932935,
+    "tags": {
+      "brand": "McFit",
+      "brand:wikidata": "Q871302",
+      "brand:wikipedia": "en:McFit",
+      "check_date": "2023-07-26",
+      "check_date:opening_hours": "2024-01-24",
+      "leisure": "fitness_centre",
+      "name": "McFit",
+      "opening_hours:signed": "no",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1640657052,
+    "lat": 51.3419232,
+    "lon": 12.3042161,
+    "tags": {
+      "brand": "McFit",
+      "brand:wikidata": "Q871302",
+      "brand:wikipedia": "en:McFit",
+      "leisure": "fitness_centre",
+      "name": "McFit",
+      "sport": "fitness",
+      "website": "https://www.mcfit.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3472691013,
+    "lat": 51.3312009,
+    "lon": 12.3960480,
+    "tags": {
+      "brand": "Bodystreet",
+      "brand:wikidata": "Q117880186",
+      "check_date:opening_hours": "2023-10-19",
+      "leisure": "fitness_centre",
+      "name": "Bodystreet",
+      "opening_hours": "Mo-Fr 08:00-21:00; Sa 10:00-14:00",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4182119274,
+    "lat": 51.3486135,
+    "lon": 12.4026592,
+    "tags": {
+      "addr:city": "Leipzig",
+      "addr:housenumber": "19",
+      "addr:postcode": "04315",
+      "addr:street": "Schulze-Delitzsch-Straße",
+      "check_date:opening_hours": "2024-05-12",
+      "leisure": "fitness_centre",
+      "name": "Element Ost Studio für Yoga und Bewegungslehre",
+      "opening_hours:signed": "no",
+      "sport": "yoga",
+      "website": "https://www.element-ost.yoga/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4466964627,
+    "lat": 51.3355732,
+    "lon": 12.3797376,
+    "tags": {
+      "addr:city": "Leipzig",
+      "addr:country": "DE",
+      "addr:housenumber": "12",
+      "addr:postcode": "04103",
+      "addr:street": "Roßplatz",
+      "check_date:opening_hours": "2023-09-26",
+      "leisure": "fitness_centre",
+      "name": "Die Pilatisten",
+      "opening_hours": "Mo-Fr 07:00-21:00, Sa 09:00-12:00",
+      "sport": "gymnastics",
+      "website": "https://pilatisten.de/",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4949617917,
+    "lat": 51.3205784,
+    "lon": 12.3413215,
+    "tags": {
+      "addr:city": "Leipzig",
+      "addr:housenumber": "88",
+      "addr:postcode": "04229",
+      "addr:street": "Könneritzstraße",
+      "check_date": "2024-03-05",
+      "email": "monika.bramm@hatha-yoga-leipzig.de",
+      "leisure": "fitness_centre",
+      "name": "Hatha Yoga Leipzig",
+      "operator": "Monika Bramm",
+      "phone": "+49 341 2278648",
+      "sport": "yoga",
+      "website": "http://www.hatha-yoga-leipzig.de"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5113254444,
+    "lat": 51.3449733,
+    "lon": 12.3907617,
+    "tags": {
+      "check_date": "2024-03-05",
+      "leisure": "fitness_centre",
+      "name": "tanzwerk Leipziger Ballettschule",
+      "school": "dance",
+      "sport": "ballet"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5245634122,
+    "lat": 51.3355019,
+    "lon": 12.3339793,
+    "tags": {
+      "addr:city": "Leipzig",
+      "addr:housenumber": "29",
+      "addr:postcode": "04177",
+      "addr:street": "Lützner Straße",
+      "leisure": "fitness_centre",
+      "name": "Etage Leipzig Raum für Kunst und Bewegung",
+      "sport": "yoga;contact_improvisation;taijiquan;authentic_movement;butoh",
+      "website": "https://etageleipzig.de/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5251027722,
+    "lat": 51.3369942,
+    "lon": 12.3512883,
+    "tags": {
+      "leisure": "fitness_centre",
+      "name": "Boxhalle"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5307329189,
+    "lat": 51.3359310,
+    "lon": 12.3331741,
+    "tags": {
+      "addr:city": "Leipzig",
+      "addr:housenumber": "1A",
+      "addr:postcode": "04177",
+      "addr:street": "Josephstraße",
+      "brand": "Körperformen",
+      "brand:wikidata": "Q117455940",
+      "email": "leipzig-luetznerstrasse@bodystreet.com",
+      "leisure": "fitness_centre",
+      "name": "Körperformen",
+      "opening_hours": "\"nach Terminvereinbarung\"",
+      "operator": "Bodystreet GmbH",
+      "phone": "+49 341 49295019",
+      "website": "https://www.bodystreet.com/de/standorte/deutschland/leipzig/bodystreet-leipzig-luetznerstrasse/",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5638235766,
+    "lat": 51.3052068,
+    "lon": 12.3818248,
+    "tags": {
+      "check_date:opening_hours": "2023-06-02",
+      "healthcare:speciality": "hydrotherapy",
+      "leisure": "fitness_centre",
+      "name": "Bornaische55",
+      "opening_hours": "Mo-Th 08:00-21:00; Fr 08:00-18:00; Sa 08:00-16:00",
+      "swimming_pool": "yes",
+      "website": "https://www.bornaische55.de",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5730429575,
+    "lat": 51.3378853,
+    "lon": 12.4735539,
+    "tags": {
+      "leisure": "fitness_centre"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5756405130,
+    "lat": 51.3187592,
+    "lon": 12.4294342,
+    "tags": {
+      "brand": "Clever fit",
+      "brand:wikidata": "Q27909675",
+      "leisure": "fitness_centre",
+      "name": "Clever fit"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5783014809,
+    "lat": 51.3311719,
+    "lon": 12.3732797,
+    "tags": {
+      "addr:city": "Leipzig",
+      "addr:country": "DE",
+      "addr:housenumber": "29b",
+      "addr:postcode": "04107",
+      "addr:street": "Riemannstraße",
+      "leisure": "fitness_centre",
+      "name": "Yogama",
+      "source": "resident knowledge",
+      "sport": "yoga",
+      "website": "https://yogama.de/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5805220812,
+    "lat": 51.3347181,
+    "lon": 12.3791324,
+    "tags": {
+      "addr:city": "Leipzig",
+      "addr:housenumber": "3",
+      "addr:postcode": "04103",
+      "addr:street": "Leplaystraße",
+      "check_date": "2024-02-10",
+      "leisure": "fitness_centre",
+      "name": "CityBootCamp",
+      "opening_hours": "\"Nach Vereinbarung\"",
+      "phone": "+49 173 6994161"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6046033393,
+    "lat": 51.3351892,
+    "lon": 12.3692845,
+    "tags": {
+      "contact:website": "https://glueckskind-yoga-leipzig.de",
+      "description": "Glückskind - Yoga, Pilates & mehr für dich",
+      "leisure": "fitness_centre",
+      "name": "Glückskind",
+      "sport": "yoga"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6121250632,
+    "lat": 51.3391328,
+    "lon": 12.3832295,
+    "tags": {
+      "addr:city": "Leipzig",
+      "addr:country": "DE",
+      "addr:housenumber": "1-4",
+      "addr:postcode": "04109",
+      "addr:street": "Augustusplatz",
+      "branch": "Club Leipzig",
+      "check_date:opening_hours": "2024-02-10",
+      "contact:email": "info@johnreed.fitness",
+      "contact:phone": "+49 9552 93190",
+      "contact:website": "https://johnreed.fitness/club-leipzig/",
+      "full_name": "John Reed Club Leipzig Alte Post",
+      "leisure": "fitness_centre",
+      "level": "1",
+      "name": "John Reed Fitness",
+      "opening_hours": "Mo-Su 06:00-24:00",
+      "phone": "+49 34 197691885",
+      "sauna": "no",
+      "sport": "fitness",
+      "swimming_pool": "no",
+      "website": "https://johnreed.fitness/club-leipzig"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6239650138,
+    "lat": 51.3427292,
+    "lon": 12.3225270,
+    "tags": {
+      "addr:city": "Leipzig",
+      "addr:housenumber": "50",
+      "addr:postcode": "04177",
+      "addr:street": "Georg-Schwarz-Straße",
+      "check_date": "2024-05-27",
+      "leisure": "fitness_centre",
+      "level": "0",
+      "name": "Soul Room",
+      "opening_hours:signed": "no",
+      "website": "https://www.soulroomleipzig.de",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6533573985,
+    "lat": 51.3407791,
+    "lon": 12.3851656,
+    "tags": {
+      "check_date:opening_hours": "2024-07-01",
+      "leisure": "fitness_centre",
+      "name": "VIMODROM Leipzig Zentrum",
+      "opening_hours": "Mo-Fr 09:00-19:00",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6681569885,
+    "lat": 51.3394946,
+    "lon": 12.3958262,
+    "tags": {
+      "addr:housenumber": "1A",
+      "addr:postcode": "04317",
+      "addr:street": "Gabelsbergerstraße",
+      "internet_access": "wlan",
+      "leisure": "fitness_centre",
+      "name": "Kampfsportschule Leipzig",
+      "name:en": "Martial arts school",
+      "phone": "+49 176 20945862",
+      "website": "https://twrle.business.site/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7552144819,
+    "lat": 51.3406211,
+    "lon": 12.3644114,
+    "tags": {
+      "addr:city": "Leipzig",
+      "addr:housenumber": "24",
+      "addr:postcode": "04109",
+      "addr:street": "Elsterstraße",
+      "leisure": "fitness_centre",
+      "name": "Skyline Sportsclub",
+      "phone": "+49 341 1416777",
+      "sport": "fitness",
+      "website": "https://www.skyline-sportsclub.de/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8458885551,
+    "lat": 51.3242850,
+    "lon": 12.4136029,
+    "tags": {
+      "check_date:opening_hours": "2024-01-15",
+      "leisure": "fitness_centre",
+      "name": "emoyos Sports Club",
+      "opening_hours": "Mo 08:00-12:00,14:00-19:00; Tu 12:00-18:00; We 08:00-19:00; Th 12:00-20:00; Fr 08:00-12:00,14:00-19:00",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9417837707,
+    "lat": 51.3301437,
+    "lon": 12.3321837,
+    "tags": {
+      "leisure": "fitness_centre",
+      "name": "Ashtanga Yoga Loft",
+      "opening_hours": "\"Monatliche wechselndes Programm\"",
+      "sport": "yoga"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9536041633,
+    "lat": 51.3455544,
+    "lon": 12.3074820,
+    "tags": {
+      "addr:city": "Leipzig",
+      "addr:housenumber": "27",
+      "addr:postcode": "04179",
+      "addr:street": "Franz-Flemming-Straße",
+      "email": "kontakt@crossfit-leipzig.de",
+      "leisure": "fitness_centre",
+      "name": "Crossfit Leipzig",
+      "opening_hours:signed": "no",
+      "phone": "+4934121948553",
+      "website": "https://crossfit-leipzig.com",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9570997562,
+    "lat": 51.3445440,
+    "lon": 12.3944251,
+    "tags": {
+      "brand": "Clever fit",
+      "brand:wikidata": "Q27909675",
+      "brand:wikipedia": "de:Clever fit",
+      "check_date:opening_hours": "2023-04-24",
+      "leisure": "fitness_centre",
+      "name": "Clever fit",
+      "opening_hours:signed": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9578007749,
+    "lat": 51.3730113,
+    "lon": 12.3289146,
+    "tags": {
+      "addr:city": "Leipzig",
+      "addr:housenumber": "290",
+      "addr:postcode": "04159",
+      "addr:street": "Georg-Schumann-Straße",
+      "email": "info@meinclubleipzig.de",
+      "leisure": "fitness_centre",
+      "name": "MEIN CLUB",
+      "opening_hours": "Mo,We,Fr 07:30-22:00; Tu,Th 09:00-22:00; Sa 10:00-18:00; Su 10:00-15:00",
+      "phone": "+493419096099",
+      "website": "https://www.meinclubleipzig.de"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9653605917,
+    "lat": 51.3256311,
+    "lon": 12.3371800,
+    "tags": {
+      "addr:city": "Leipzig",
+      "addr:housenumber": "60A",
+      "addr:postcode": "04229",
+      "addr:street": "Erich-Zeigner-Allee",
+      "contact:facebook": "VIMODROM Leipzig Plagwitz",
+      "email": "info@vimodrom-leipzig.de",
+      "leisure": "fitness_centre",
+      "name": "VIMODROM Leipzig Plagwitz",
+      "opening_hours": "Mo-Fr 09:00-19:00",
+      "phone": "+4934124899248",
+      "website": "https://www.vimodrom.de/standorte/leipzig-plagwitz/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9677895317,
+    "lat": 51.3648022,
+    "lon": 12.3658713,
+    "tags": {
+      "leisure": "fitness_centre",
+      "name": "Today - witte personal training",
+      "survey:date": "2022-04-19"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9709512784,
+    "lat": 51.3204587,
+    "lon": 12.3739975,
+    "tags": {
+      "leisure": "fitness_centre",
+      "name": "emyos",
+      "opening_hours": "Mo,Tu 08:00-20:00; We,Th 12:00-20:00; Fr 08:00-18:00",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9786700014,
+    "lat": 51.3640500,
+    "lon": 12.3660736,
+    "tags": {
+      "addr:city": "Leipzig",
+      "addr:housenumber": "40",
+      "addr:postcode": "04155",
+      "addr:street": "Lindenthaler Straße",
+      "leisure": "fitness_centre",
+      "name": "Körperformen Leipzig",
+      "opening_hours": "Mo-Fr 10:00-19:00",
+      "website": "https://www.körperformen.com/studios/ems-training-leipzig-gohlis/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10091954087,
+    "lat": 51.3361058,
+    "lon": 12.3278969,
+    "tags": {
+      "addr:floor": "1. OG",
+      "addr:housenumber": "49",
+      "addr:street": "Demmeringstraße",
+      "check_date": "2022-10-11",
+      "check_date:opening_hours": "2022-10-25",
+      "leisure": "fitness_centre",
+      "level": "1",
+      "name": "Matthias Sport Center",
+      "opening_hours:signed": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10782171552,
+    "lat": 51.3432079,
+    "lon": 12.4156351,
+    "tags": {
+      "addr:city": "Leipzig",
+      "addr:country": "DE",
+      "addr:housenumber": "83",
+      "addr:postcode": "04315",
+      "addr:street": "Wurzner Straße",
+      "leisure": "fitness_centre",
+      "name": "Corporis&Trainer-Leipzig",
+      "opening_hours": "Mo-Fr 07:00-22:30, Sa 7:00-19:30, So 8:00-19:30",
+      "phone": "+49 177 8711449",
+      "sport": "fitness",
+      "website": "https://corporis-physical-fitness-program.business.site/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10782230108,
+    "lat": 51.3438582,
+    "lon": 12.4156765,
+    "tags": {
+      "addr:city": "Leipzig",
+      "addr:postcode": "04315",
+      "addr:street": "Wurzner Straße",
+      "email": "info@trainer-leipzig.de",
+      "leisure": "fitness_centre",
+      "name": "Trainer Leipzig",
+      "phone": "+49 177 8711449",
+      "website": "https://trainer-leipzig.de/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10789961765,
+    "lat": 51.3403502,
+    "lon": 12.3768844,
+    "tags": {
+      "check_date": "2023-04-06",
+      "leisure": "fitness_centre",
+      "level": "0",
+      "name": "PELOTON",
+      "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10962978732,
+    "lat": 51.3543214,
+    "lon": 12.2951319,
+    "tags": {
+      "addr:city": "Leipzig",
+      "addr:housenumber": "21",
+      "addr:postcode": "04178",
+      "addr:street": "Stefan-Zweig-Straße",
+      "leisure": "fitness_centre",
+      "name": "Tantrazentrum Leipzig",
+      "phone": "0341- 4429 0958",
+      "sport": "yoga",
+      "website": "https://www.tantrazentrum-leipzig.de/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10976383308,
+    "lat": 51.3469599,
+    "lon": 12.4025951,
+    "tags": {
+      "addr:city": "Leipzig",
+      "addr:housenumber": "42",
+      "addr:postcode": "04315",
+      "addr:street": "Mariannenstraße",
+      "email": "info@element-ost.yoga",
+      "leisure": "fitness_centre",
+      "name": "ELEMENT OUTDOOR Studio für Yoga und Bewegungslehre",
+      "phone": "0341 / 65 67 00 60",
+      "sport": "yoga",
+      "website": "https://www.element-ost.yoga/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11053190418,
+    "lat": 51.3373830,
+    "lon": 12.3620612,
+    "tags": {
+      "addr:housenumber": "2",
+      "addr:street": "Schrebergäßchen",
+      "check_date": "2023-07-18",
+      "leisure": "fitness_centre",
+      "name": "Shanta-Yoga Leipzig",
+      "sport": "yoga",
+      "website": "https://www.shanta-yoga-leipzig.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11306616569,
+    "lat": 51.3146802,
+    "lon": 12.3738840,
+    "tags": {
+      "internet_access": "wlan",
+      "leisure": "fitness_centre",
+      "name": "FIT STAR",
+      "opening_hours": "24/7",
+      "website": "https://www.fit-star.de/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11434958457,
+    "lat": 51.3632630,
+    "lon": 12.3862361,
+    "tags": {
+      "addr:city": "Leipzig",
+      "addr:housenumber": "36",
+      "addr:postcode": "04129",
+      "addr:street": "Wittenberger Straße",
+      "leisure": "fitness_centre",
+      "name": "ELEMENT Ost Studio für Yoga und Bewegungslehre",
+      "opening_hours": "\"nur zu kursterminen\"",
+      "sport": "yoga",
+      "website": "https://element-ost.yoga/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11579568270,
+    "lat": 51.3399140,
+    "lon": 12.3775967,
+    "tags": {
+      "addr:city": "Leipzig",
+      "addr:housenumber": "13-15",
+      "addr:postcode": "04109",
+      "addr:street": "Grimmaische Straße",
+      "brand": "Kieser Training",
+      "brand:wikidata": "Q1112367",
+      "contact:facebook": "https://www.facebook.com/KieserTrainingMitteOst",
+      "contact:instagram": "https://www.instagram.com/kieser.global/",
+      "contact:linkedin": "https://www.linkedin.com/company/kieser-training-ag/",
+      "leisure": "fitness_centre",
+      "name": "Kieser Training",
+      "name:ja": "カイザー・トレーニング",
+      "opening_hours": "Mo-Fr 07:00-21:00; Sa-Su 09:00-18:00;PH off",
+      "phone": "+49 341 9904455",
+      "website": "https://www.kieser.de/en/studios/leipzig-mitte/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11744804551,
+    "lat": 51.3455038,
+    "lon": 12.3651548,
+    "tags": {
+      "addr:housenumber": "1",
+      "addr:street": "Hinrichsenstraße",
+      "check_date": "2024-03-19",
+      "description": "Yoga und Meditation",
+      "leisure": "fitness_centre",
+      "name": "Yoga im Zentrum",
+      "operator": "Maria Lichtenberg",
+      "phone": "+49 174 9958262",
+      "sport": "yoga",
+      "website": "https://www.leipzigyoga.com",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11941193922,
+    "lat": 51.3387972,
+    "lon": 12.3744074,
+    "tags": {
+      "brand": "FitX",
+      "brand:wikidata": "Q29031618",
+      "check_date": "2024-05-28",
+      "internet_access": "wlan",
+      "internet_access:fee": "customers",
+      "leisure": "fitness_centre",
+      "name": "FitX",
+      "website": "https://www.fit-one.de/leipzig.html",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "way",
+    "id": 443599281,
+    "center": {
+      "lat": 51.3621502,
+      "lon": 12.4014055
+    },
+    "nodes": [
+      4411473304,
+      4411492204,
+      4411492205,
+      4411536493,
+      4411473304
+    ],
+    "tags": {
+      "addr:city": "Leipzig",
+      "addr:housenumber": "4",
+      "addr:postcode": "04357",
+      "addr:street": "Wollkämmereistraße",
+      "branch": "Mockau Süd",
+      "brand": "FitX",
+      "brand:wikidata": "Q29031618",
+      "building": "retail",
+      "building:levels": "2",
+      "leisure": "fitness_centre",
+      "name": "FitX",
+      "opening_hours": "24/7",
+      "roof:shape": "flat",
+      "smoking": "outside",
+      "toilets:wheelchair": "yes",
+      "website": "https://www.fitx.de/",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "way",
+    "id": 455494116,
+    "center": {
+      "lat": 51.3672971,
+      "lon": 12.4238089
+    },
+    "nodes": [
+      4518891677,
+      4518891679,
+      4518891678,
+      4518891680,
+      4518891677
+    ],
+    "tags": {
+      "addr:city": "Leipzig",
+      "addr:housenumber": "48",
+      "addr:postcode": "04347",
+      "addr:street": "Theklaer Straße",
+      "building": "yes",
+      "email": "info@balancestudio.de",
+      "leisure": "fitness_centre",
+      "name": "balance studio",
+      "phone": "+49 341 23 48 448",
+      "sport": "gymnastics",
+      "website": "https://www.balancestudio.de/"
+    }
+  },
+  {
+    "type": "way",
+    "id": 670343700,
+    "center": {
+      "lat": 51.3265918,
+      "lon": 12.3063783
+    },
+    "nodes": [
+      6277597163,
+      6277597162,
+      6277597161,
+      6277597160,
+      6277597163
+    ],
+    "tags": {
+      "addr:city": "Leipzig",
+      "addr:housenumber": "179",
+      "addr:postcode": "04179",
+      "addr:street": "Lützner Straße",
+      "brand": "FitX",
+      "brand:wikidata": "Q29031618",
+      "building": "commercial",
+      "building:levels": "3",
+      "check_date": "2023-12-22",
+      "height": "11",
+      "leisure": "fitness_centre",
+      "name": "FitX",
+      "opening_hours": "24/7",
+      "roof:levels": "0.25",
+      "roof:shape": "flat",
+      "url": "https://www.fitx.de/fitnessstudio/leipzig-neulindenau"
+    }
+  }
+  
+    ]
+  }
+  
