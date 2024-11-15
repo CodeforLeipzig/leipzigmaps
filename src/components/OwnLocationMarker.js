@@ -12,7 +12,7 @@ import { colors } from './MarkerToggles';
 const OwnLocationMarker = () => {
   var myIcon = L.divIcon({
     className: 'ownLocationMarker',
-    iconSize: [20, 20],
+    iconSize: [30, 20],
     html: renderToString(
       <div>
         <FontAwesomeIcon
