@@ -42,7 +42,7 @@
     "predeploy": "yarn run build",
     "deploy": "gh-pages -d build -r https://github.com/CodeforLeipzig/leipzigmaps.git"
   },
-  "homepage": "https://codeforleipzig.github.io/leipzigmaps/",
+  "homepage": "https://leipzigmaps.codeforleipzig.de",
   "eslintConfig": {
     "extends": [
       "react-app",
