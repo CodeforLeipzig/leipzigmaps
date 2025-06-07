@@ -1,0 +1,1608 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=13&rubrik_nr=3&periode=y",
+    "title": "Trinkwasserprobeentnahmen__insgesamt"
+  },
+  "data": {
+    "2003": {
+      "Trinkwasserprobeentnahmen insgesamt": [
+        {
+          "value": 2751
+        }
+      ],
+      "Trinkwassernetz": [
+        {
+          "value": 273
+        }
+      ],
+      "darunter Grenzwertüberschreitungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 6
+        },
+        {
+          "value": 8
+        },
+        {
+          "value": 44
+        },
+        {
+          "value": 7
+        }
+      ],
+      "Wasserwerke": [
+        {
+          "value": 156
+        }
+      ],
+      "Wasser für die Öffentlichkeit": [
+        {
+          "value": 1096
+        }
+      ],
+      "sonstige Trinkwasseranlagen": [
+        {
+          "value": 770
+        }
+      ],
+      "darunter: Grenzwertüberschreitungen": [
+        {
+          "value": 166
+        }
+      ],
+      "Badewasserprobennahmen insgesamt": [
+        {
+          "value": 1449
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 181
+        }
+      ],
+      "Naturbäder/Kleinbadeteiche": [
+        {
+          "value": 223
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 1040
+        }
+      ],
+      "Saunen": [
+        {
+          "value": 92
+        }
+      ]
+    },
+    "2004": {
+      "Saunen": [
+        {
+          "value": 80
+        }
+      ],
+      "darunter Grenzwertüberschreitungen": [
+        {
+          "value": 7
+        },
+        {
+          "value": 10
+        },
+        {
+          "value": 22
+        },
+        {
+          "value": 7
+        },
+        {
+          "value": 57
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 5
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 865
+        }
+      ],
+      "Naturbäder/Kleinbadeteiche": [
+        {
+          "value": 243
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 181
+        }
+      ],
+      "Badewasserprobennahmen insgesamt": [
+        {
+          "value": 1417
+        }
+      ],
+      "darunter: Grenzwertüberschreitungen": [
+        {
+          "value": 110
+        }
+      ],
+      "sonstige Trinkwasseranlagen": [
+        {
+          "value": 714
+        }
+      ],
+      "Wasser für die Öffentlichkeit": [
+        {
+          "value": 875
+        }
+      ],
+      "Wasserwerke": [
+        {
+          "value": 156
+        }
+      ],
+      "Trinkwassernetz": [
+        {
+          "value": 491
+        }
+      ],
+      "Trinkwasserprobeentnahmen insgesamt": [
+        {
+          "value": 2474
+        }
+      ]
+    },
+    "2005": {
+      "Trinkwasserprobeentnahmen insgesamt": [
+        {
+          "value": 2498
+        }
+      ],
+      "Trinkwassernetz": [
+        {
+          "value": 602
+        }
+      ],
+      "darunter Grenzwertüberschreitungen": [
+        {
+          "value": 22
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 89
+        },
+        {
+          "value": 13
+        },
+        {
+          "value": 7
+        },
+        {
+          "value": 46
+        },
+        {
+          "value": 3
+        }
+      ],
+      "Wasserwerke": [
+        {
+          "value": 187
+        }
+      ],
+      "Wasser für die Öffentlichkeit": [
+        {
+          "value": 814
+        }
+      ],
+      "sonstige Trinkwasseranlagen": [
+        {
+          "value": 862
+        }
+      ],
+      "darunter: Grenzwertüberschreitungen": [
+        {
+          "value": 133
+        }
+      ],
+      "Badewasserprobennahmen insgesamt": [
+        {
+          "value": 1199
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 194
+        }
+      ],
+      "Naturbäder/Kleinbadeteiche": [
+        {
+          "value": 209
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 724
+        }
+      ],
+      "Saunen": [
+        {
+          "value": 27
+        }
+      ]
+    },
+    "2006": {
+      "Saunen": [
+        {
+          "value": 48
+        }
+      ],
+      "darunter Grenzwertüberschreitungen": [
+        {
+          "value": 4
+        },
+        {
+          "value": 38
+        },
+        {
+          "value": 8
+        },
+        {
+          "value": 10
+        },
+        {
+          "value": 108
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 19
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 612
+        }
+      ],
+      "Naturbäder/Kleinbadeteiche": [
+        {
+          "value": 117
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 102
+        }
+      ],
+      "Badewasserprobennahmen insgesamt": [
+        {
+          "value": 903
+        }
+      ],
+      "darunter: Grenzwertüberschreitungen": [
+        {
+          "value": 101
+        }
+      ],
+      "sonstige Trinkwasseranlagen": [
+        {
+          "value": 710
+        }
+      ],
+      "Wasser für die Öffentlichkeit": [
+        {
+          "value": 891
+        }
+      ],
+      "Wasserwerke": [
+        {
+          "value": 138
+        }
+      ],
+      "Trinkwassernetz": [
+        {
+          "value": 594
+        }
+      ],
+      "Trinkwasserprobeentnahmen insgesamt": [
+        {
+          "value": 2373
+        }
+      ]
+    },
+    "2007": {
+      "darunter Grenzwertüberschreitungen": [
+        {
+          "value": 13
+        },
+        {
+          "value": 6
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 70
+        },
+        {
+          "value": 19
+        },
+        {
+          "value": 8
+        },
+        {
+          "value": 48
+        }
+      ],
+      "Saunen": [
+        {
+          "value": 48
+        }
+      ],
+      "Trinkwasserprobeentnahmen insgesamt": [
+        {
+          "value": 1903
+        }
+      ],
+      "Trinkwassernetz": [
+        {
+          "value": 270
+        }
+      ],
+      "Wasserwerke": [
+        {
+          "value": 82
+        }
+      ],
+      "Wasser für die Öffentlichkeit": [
+        {
+          "value": 746
+        }
+      ],
+      "sonstige Trinkwasseranlagen": [
+        {
+          "value": 783
+        }
+      ],
+      "darunter: Grenzwertüberschreitungen": [
+        {
+          "value": 84
+        }
+      ],
+      "Badewasserprobennahmen insgesamt": [
+        {
+          "value": 885
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 146
+        }
+      ],
+      "Naturbäder/Kleinbadeteiche": [
+        {
+          "value": 81
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 542
+        }
+      ]
+    },
+    "2008": {
+      "Trinkwasserprobeentnahmen insgesamt": [
+        {
+          "value": 2001
+        }
+      ],
+      "Trinkwassernetz": [
+        {
+          "value": 297
+        }
+      ],
+      "darunter Grenzwertüberschreitungen": [
+        {
+          "value": 4
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 148
+        },
+        {
+          "value": 40
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 62
+        },
+        {
+          "value": 17
+        }
+      ],
+      "Wasserwerke": [
+        {
+          "value": 100
+        }
+      ],
+      "Wasser für die Öffentlichkeit": [
+        {
+          "value": 906
+        }
+      ],
+      "sonstige Trinkwasseranlagen": [
+        {
+          "value": 676
+        }
+      ],
+      "darunter: Grenzwertüberschreitungen": [
+        {
+          "value": 90
+        }
+      ],
+      "Badewasserprobennahmen insgesamt": [
+        {
+          "value": 916
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 119
+        }
+      ],
+      "Naturbäder/Kleinbadeteiche": [
+        {
+          "value": 58
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 665
+        }
+      ],
+      "Saunen": [
+        {
+          "value": 62
+        }
+      ]
+    },
+    "2009": {
+      "Trinkwasserprobeentnahmen insgesamt": [
+        {
+          "value": 1961
+        }
+      ],
+      "Trinkwassernetz": [
+        {
+          "value": 239
+        }
+      ],
+      "darunter Grenzwertüberschreitungen": [
+        {
+          "value": 7
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 138
+        },
+        {
+          "value": 20
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 46
+        },
+        {
+          "value": 6
+        }
+      ],
+      "Wasserwerke": [
+        {
+          "value": 87
+        }
+      ],
+      "Wasser für die Öffentlichkeit": [
+        {
+          "value": 948
+        }
+      ],
+      "sonstige Trinkwasseranlagen": [
+        {
+          "value": 727
+        }
+      ],
+      "darunter: Grenzwertüberschreitungen": [
+        {
+          "value": 95
+        }
+      ],
+      "Badewasserprobennahmen insgesamt": [
+        {
+          "value": 956
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 137
+        }
+      ],
+      "Naturbäder/Kleinbadeteiche": [
+        {
+          "value": 68
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 634
+        }
+      ],
+      "Saunen": [
+        {
+          "value": 68
+        }
+      ]
+    },
+    "2010": {
+      "Trinkwasserprobeentnahmen insgesamt": [
+        {
+          "value": 1926
+        }
+      ],
+      "Trinkwassernetz": [
+        {
+          "value": 216
+        }
+      ],
+      "darunter Grenzwertüberschreitungen": [
+        {
+          "value": 6
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 116
+        },
+        {
+          "value": 20
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 54
+        },
+        {
+          "value": 5
+        }
+      ],
+      "Wasserwerke": [
+        {
+          "value": 80
+        }
+      ],
+      "Wasser für die Öffentlichkeit": [
+        {
+          "value": 573
+        }
+      ],
+      "sonstige Trinkwasseranlagen": [
+        {
+          "value": 717
+        }
+      ],
+      "darunter: Grenzwertüberschreitungen": [
+        {
+          "value": 115
+        }
+      ],
+      "Badewasserprobennahmen insgesamt": [
+        {
+          "value": 759
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 174
+        }
+      ],
+      "Naturbäder/Kleinbadeteiche": [
+        {
+          "value": 77
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 582
+        }
+      ],
+      "Saunen": [
+        {
+          "value": 60
+        }
+      ]
+    },
+    "2011": {
+      "Trinkwasserprobeentnahmen insgesamt": [
+        {
+          "value": 2072
+        }
+      ],
+      "Trinkwassernetz": [
+        {
+          "value": 288
+        }
+      ],
+      "darunter Grenzwertüberschreitungen": [
+        {
+          "value": 10
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 112
+        },
+        {
+          "value": 12
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 53
+        },
+        {
+          "value": 7
+        }
+      ],
+      "Wasserwerke": [
+        {
+          "value": 95
+        }
+      ],
+      "Wasser für die Öffentlichkeit": [
+        {
+          "value": 1004
+        }
+      ],
+      "sonstige Trinkwasseranlagen": [
+        {
+          "value": 685
+        }
+      ],
+      "darunter: Grenzwertüberschreitungen": [
+        {
+          "value": 89
+        }
+      ],
+      "Badewasserprobennahmen insgesamt": [
+        {
+          "value": 872
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 134
+        }
+      ],
+      "Naturbäder/Kleinbadeteiche": [
+        {
+          "value": 85
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 574
+        }
+      ],
+      "Saunen": [
+        {
+          "value": 53
+        }
+      ]
+    },
+    "2012": {
+      "Trinkwasserprobeentnahmen insgesamt": [
+        {
+          "value": 3021
+        }
+      ],
+      "Trinkwassernetz": [
+        {
+          "value": 272
+        }
+      ],
+      "darunter Grenzwertüberschreitungen": [
+        {
+          "value": 1
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 152
+        },
+        {
+          "value": 10
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 64
+        },
+        {
+          "value": 9
+        }
+      ],
+      "Wasserwerke": [
+        {
+          "value": 118
+        }
+      ],
+      "Wasser für die Öffentlichkeit": [
+        {
+          "value": 1863
+        }
+      ],
+      "sonstige Trinkwasseranlagen": [
+        {
+          "value": 760
+        }
+      ],
+      "darunter: Grenzwertüberschreitungen": [
+        {
+          "value": 74
+        }
+      ],
+      "Badewasserprobennahmen insgesamt": [
+        {
+          "value": 1045
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 120
+        }
+      ],
+      "Naturbäder/Kleinbadeteiche": [
+        {
+          "value": 84
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 743
+        }
+      ],
+      "Saunen": [
+        {
+          "value": 66
+        }
+      ]
+    },
+    "2013": {
+      "Trinkwasserprobeentnahmen insgesamt": [
+        {
+          "value": 2788
+        }
+      ],
+      "Trinkwassernetz": [
+        {
+          "value": 32
+        }
+      ],
+      "darunter Grenzwertüberschreitungen": [
+        {
+          "value": 2
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 77
+        },
+        {
+          "value": 7
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 40
+        },
+        {
+          "value": 4
+        }
+      ],
+      "Wasserwerke": [
+        {
+          "value": 66
+        }
+      ],
+      "Wasser für die Öffentlichkeit": [
+        {
+          "value": 2004
+        }
+      ],
+      "sonstige Trinkwasseranlagen": [
+        {
+          "value": 735
+        }
+      ],
+      "darunter: Grenzwertüberschreitungen": [
+        {
+          "value": 56
+        }
+      ],
+      "Badewasserprobennahmen insgesamt": [
+        {
+          "value": 878
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 105
+        }
+      ],
+      "Naturbäder/Kleinbadeteiche": [
+        {
+          "value": 66
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 617
+        }
+      ],
+      "Saunen": [
+        {
+          "value": 58
+        }
+      ]
+    },
+    "2014": {
+      "Wasser für die Öffentlichkeit": [
+        {
+          "value": 1521
+        }
+      ],
+      "darunter Grenzwertüberschreitungen": [
+        {
+          "value": 89
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 54
+        },
+        {
+          "value": 8
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 2
+        }
+      ],
+      "sonstige Trinkwasseranlagen": [
+        {
+          "value": 606
+        }
+      ],
+      "darunter: Grenzwertüberschreitungen": [
+        {
+          "value": 42
+        }
+      ],
+      "Badewasserprobennahmen insgesamt": [
+        {
+          "value": 834
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 75
+        }
+      ],
+      "Naturbäder/Kleinbadeteiche": [
+        {
+          "value": 60
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 599
+        }
+      ],
+      "Saunen": [
+        {
+          "value": 70
+        }
+      ],
+      "Trinkwasserprobeentnahmen insgesamt": [
+        {
+          "value": 2217
+        }
+      ],
+      "Trinkwassernetz": [
+        {
+          "value": 42
+        }
+      ],
+      "Wasserwerke": [
+        {
+          "value": 48
+        }
+      ]
+    },
+    "2015": {
+      "Trinkwasserprobeentnahmen insgesamt": [
+        {
+          "value": 2546
+        }
+      ],
+      "Trinkwassernetz": [
+        {
+          "value": 48
+        }
+      ],
+      "darunter Grenzwertüberschreitungen": [
+        {
+          "value": null
+        },
+        {
+          "value": 0
+        },
+        {
+          "value": 66
+        },
+        {
+          "value": 6
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 33
+        },
+        {
+          "value": 12
+        }
+      ],
+      "Wasserwerke": [
+        {
+          "value": 48
+        }
+      ],
+      "Wasser für die Öffentlichkeit": [
+        {
+          "value": 1850
+        }
+      ],
+      "sonstige Trinkwasseranlagen": [
+        {
+          "value": 600
+        }
+      ],
+      "darunter: Grenzwertüberschreitungen": [
+        {
+          "value": 46
+        }
+      ],
+      "Badewasserprobennahmen insgesamt": [
+        {
+          "value": 848
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 101
+        }
+      ],
+      "Naturbäder/Kleinbadeteiche": [
+        {
+          "value": 34
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 568
+        }
+      ],
+      "Saunen": [
+        {
+          "value": 113
+        }
+      ]
+    },
+    "2016": {
+      "Trinkwasserprobeentnahmen insgesamt": [
+        {
+          "value": 2617
+        }
+      ],
+      "Trinkwassernetz": [
+        {
+          "value": 58
+        }
+      ],
+      "darunter Grenzwertüberschreitungen": [
+        {
+          "value": null
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 130
+        },
+        {
+          "value": 8
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 64
+        },
+        {
+          "value": 6
+        }
+      ],
+      "Wasserwerke": [
+        {
+          "value": 52
+        }
+      ],
+      "Wasser für die Öffentlichkeit": [
+        {
+          "value": 1431
+        }
+      ],
+      "sonstige Trinkwasseranlagen": [
+        {
+          "value": 1068
+        }
+      ],
+      "darunter: Grenzwertüberschreitungen": [
+        {
+          "value": 139
+        }
+      ],
+      "Badewasserprobennahmen insgesamt": [
+        {
+          "value": 979
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 95
+        }
+      ],
+      "Naturbäder/Kleinbadeteiche": [
+        {
+          "value": 73
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 709
+        }
+      ],
+      "Saunen": [
+        {
+          "value": 66
+        }
+      ]
+    },
+    "2017": {
+      "Trinkwasserprobeentnahmen insgesamt": [
+        {
+          "value": 2362
+        }
+      ],
+      "Trinkwassernetz": [
+        {
+          "value": 53
+        }
+      ],
+      "darunter Grenzwertüberschreitungen": [
+        {
+          "value": 1
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 111
+        },
+        {
+          "value": 13
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 68
+        },
+        {
+          "value": 8
+        }
+      ],
+      "Wasserwerke": [
+        {
+          "value": 37
+        }
+      ],
+      "Wasser für die Öffentlichkeit": [
+        {
+          "value": 1613
+        }
+      ],
+      "sonstige Trinkwasseranlagen": [
+        {
+          "value": 646
+        }
+      ],
+      "darunter: Grenzwertüberschreitungen": [
+        {
+          "value": 70
+        }
+      ],
+      "Badewasserprobennahmen insgesamt": [
+        {
+          "value": 948
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 90
+        }
+      ],
+      "Naturbäder/Kleinbadeteiche": [
+        {
+          "value": 75
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 682
+        }
+      ],
+      "Saunen": [
+        {
+          "value": 64
+        }
+      ]
+    },
+    "2018": {
+      "Trinkwasserprobeentnahmen insgesamt": [
+        {
+          "value": 1865
+        }
+      ],
+      "Trinkwassernetz": [
+        {
+          "value": 182
+        }
+      ],
+      "darunter Grenzwertüberschreitungen": [
+        {
+          "value": 32
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 86
+        },
+        {
+          "value": 25
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 37
+        },
+        {
+          "value": 7
+        }
+      ],
+      "Wasserwerke": [
+        {
+          "value": 50
+        }
+      ],
+      "Wasser für die Öffentlichkeit": [
+        {
+          "value": 1505
+        }
+      ],
+      "sonstige Trinkwasseranlagen": [
+        {
+          "value": 122
+        }
+      ],
+      "darunter: Grenzwertüberschreitungen": [
+        {
+          "value": 12
+        }
+      ],
+      "Badewasserprobennahmen insgesamt": [
+        {
+          "value": 535
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 126
+        }
+      ],
+      "Naturbäder/Kleinbadeteiche": [
+        {
+          "value": null
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 330
+        }
+      ],
+      "Saunen": [
+        {
+          "value": 30
+        }
+      ]
+    },
+    "2019": {
+      "darunter Grenzwertüberschreitungen": [
+        {
+          "value": null
+        },
+        {
+          "value": 53
+        },
+        {
+          "value": 6
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 85
+        },
+        {
+          "value": null
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 229
+        }
+      ],
+      "Saunen": [
+        {
+          "value": 36
+        }
+      ],
+      "Trinkwasserprobeentnahmen insgesamt": [
+        {
+          "value": 1460
+        }
+      ],
+      "Trinkwassernetz": [
+        {
+          "value": 23
+        }
+      ],
+      "Wasserwerke": [
+        {
+          "value": 24
+        }
+      ],
+      "Wasser für die Öffentlichkeit": [
+        {
+          "value": 1392
+        }
+      ],
+      "sonstige Trinkwasseranlagen": [
+        {
+          "value": 11
+        }
+      ],
+      "darunter: Grenzwertüberschreitungen": [
+        {
+          "value": null
+        }
+      ],
+      "Badewasserprobennahmen insgesamt": [
+        {
+          "value": 354
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 23
+        }
+      ],
+      "Naturbäder/Kleinbadeteiche": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2020": {
+      "Trinkwasserprobeentnahmen insgesamt": [
+        {
+          "value": 794
+        }
+      ],
+      "Trinkwassernetz": [
+        {
+          "value": null
+        }
+      ],
+      "darunter Grenzwertüberschreitungen": [
+        {
+          "value": null
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 51
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 6
+        },
+        {
+          "value": 1
+        }
+      ],
+      "Wasserwerke": [
+        {
+          "value": 55
+        }
+      ],
+      "Wasser für die Öffentlichkeit": [
+        {
+          "value": 729
+        }
+      ],
+      "sonstige Trinkwasseranlagen": [
+        {
+          "value": null
+        }
+      ],
+      "darunter: Grenzwertüberschreitungen": [
+        {
+          "value": null
+        }
+      ],
+      "Badewasserprobennahmen insgesamt": [
+        {
+          "value": 120
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": null
+        }
+      ],
+      "Naturbäder/Kleinbadeteiche": [
+        {
+          "value": 14
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 63
+        }
+      ],
+      "Saunen": [
+        {
+          "value": 2
+        }
+      ]
+    },
+    "2021": {
+      "Trinkwasserprobeentnahmen insgesamt": [
+        {
+          "value": 187
+        }
+      ],
+      "Trinkwassernetz": [
+        {
+          "value": 1
+        }
+      ],
+      "darunter Grenzwertüberschreitungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 17
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Wasserwerke": [
+        {
+          "value": null
+        }
+      ],
+      "Wasser für die Öffentlichkeit": [
+        {
+          "value": 180
+        }
+      ],
+      "sonstige Trinkwasseranlagen": [
+        {
+          "value": null
+        }
+      ],
+      "darunter: Grenzwertüberschreitungen": [
+        {
+          "value": null
+        }
+      ],
+      "Badewasserprobennahmen insgesamt": [
+        {
+          "value": 7
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 2
+        }
+      ],
+      "Naturbäder/Kleinbadeteiche": [
+        {
+          "value": null
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 5
+        }
+      ],
+      "Saunen": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2022": {
+      "Trinkwasserprobeentnahmen insgesamt": [
+        {
+          "value": 221
+        }
+      ],
+      "Trinkwassernetz": [
+        {
+          "value": 8
+        }
+      ],
+      "darunter Grenzwertüberschreitungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 6
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 23
+        },
+        {
+          "value": 4
+        }
+      ],
+      "Wasserwerke": [
+        {
+          "value": 29
+        }
+      ],
+      "Wasser für die Öffentlichkeit": [
+        {
+          "value": 188
+        }
+      ],
+      "sonstige Trinkwasseranlagen": [
+        {
+          "value": 4
+        }
+      ],
+      "darunter: Grenzwertüberschreitungen": [
+        {
+          "value": 4
+        }
+      ],
+      "Badewasserprobennahmen insgesamt": [
+        {
+          "value": 147
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 12
+        }
+      ],
+      "Naturbäder/Kleinbadeteiche": [
+        {
+          "value": 16
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 72
+        }
+      ],
+      "Saunen": [
+        {
+          "value": 10
+        }
+      ]
+    }
+  }
+}

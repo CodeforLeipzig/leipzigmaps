@@ -1,0 +1,4183 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=2&rubrik_nr=5&periode=y",
+    "title": "Einwohner im Alter von ...__unter 5 Jahre"
+  },
+  "data": {
+    "2000": {
+      "unter 5 Jahre": [
+        {
+          "value": 16457
+        }
+      ],
+      "5 bis unter 10 Jahre": [
+        {
+          "value": 13447
+        }
+      ],
+      "10 bis unter 15 Jahre": [
+        {
+          "value": 25427
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 30017
+        }
+      ],
+      "20 bis unter 25 Jahre": [
+        {
+          "value": 42741
+        }
+      ],
+      "25 bis unter 30 Jahre": [
+        {
+          "value": 38054
+        }
+      ],
+      "30 bis unter 35 Jahre": [
+        {
+          "value": 43732
+        }
+      ],
+      "35 bis unter 40 Jahre": [
+        {
+          "value": 42878
+        }
+      ],
+      "40 bis unter 45 Jahre": [
+        {
+          "value": 35609
+        }
+      ],
+      "45 bis unter 50 Jahre": [
+        {
+          "value": 35880
+        }
+      ],
+      "50 bis unter 55 Jahre": [
+        {
+          "value": 28778
+        }
+      ],
+      "55 bis unter 60 Jahre": [
+        {
+          "value": 35939
+        }
+      ],
+      "60 bis unter 65 Jahre": [
+        {
+          "value": 39224
+        }
+      ],
+      "65 bis unter 70 Jahre": [
+        {
+          "value": 28051
+        }
+      ],
+      "70 bis unter 75 Jahre": [
+        {
+          "value": 23205
+        }
+      ],
+      "75 bis unter 80 Jahre": [
+        {
+          "value": 17311
+        }
+      ],
+      "80 bis unter 85 Jahre": [
+        {
+          "value": 9971
+        }
+      ],
+      "85 Jahre und älter": [
+        {
+          "value": 11461
+        }
+      ],
+      "unter 1 Jahr (Säuglinge)": [
+        {
+          "value": 3559
+        }
+      ],
+      "unter 3 Jahren (Kleinkinder)": [
+        {
+          "value": 10583
+        }
+      ],
+      "unter 6 Jahren (Vorschulkinder)": [
+        {
+          "value": 18924
+        }
+      ],
+      "6 bis unter 10 Jahren (Grundschulkinder)": [
+        {
+          "value": 10980
+        }
+      ],
+      "6 bis unter 15 Jahre (Schulkinder)": [
+        {
+          "value": 36407
+        }
+      ],
+      "15 bis unter 18 Jahren (Schulpflichtige/Auszubildende)": [
+        {
+          "value": 16699
+        }
+      ],
+      "unter 18 Jahren (Minderjährige)": [
+        {
+          "value": 72030
+        }
+      ],
+      "14 Jahren und älter (Strafmündige)": [
+        {
+          "value": 467948
+        }
+      ],
+      "18 Jahren und älter (Volljährige)": [
+        {
+          "value": 446152
+        }
+      ],
+      "15 bis unter 65 Jahren (Erwerbsfähige)": [
+        {
+          "value": 372852
+        }
+      ],
+      "65 Jahren und älter (Rentner)": [
+        {
+          "value": 89999
+        }
+      ],
+      "Jugendquote": [
+        {
+          "value": 14.8399
+        }
+      ],
+      "Altenquote": [
+        {
+          "value": 24.138
+        }
+      ],
+      "Soziallastquote": [
+        {
+          "value": 38.9779
+        }
+      ],
+      "Durchschnittsalter in Jahren": [
+        {
+          "value": 42.4865
+        }
+      ]
+    },
+    "2001": {
+      "unter 5 Jahre": [
+        {
+          "value": 17308
+        }
+      ],
+      "5 bis unter 10 Jahre": [
+        {
+          "value": 13010
+        }
+      ],
+      "10 bis unter 15 Jahre": [
+        {
+          "value": 23441
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 29507
+        }
+      ],
+      "20 bis unter 25 Jahre": [
+        {
+          "value": 45102
+        }
+      ],
+      "25 bis unter 30 Jahre": [
+        {
+          "value": 37269
+        }
+      ],
+      "30 bis unter 35 Jahre": [
+        {
+          "value": 43228
+        }
+      ],
+      "35 bis unter 40 Jahre": [
+        {
+          "value": 42835
+        }
+      ],
+      "40 bis unter 45 Jahre": [
+        {
+          "value": 36526
+        }
+      ],
+      "45 bis unter 50 Jahre": [
+        {
+          "value": 35418
+        }
+      ],
+      "50 bis unter 55 Jahre": [
+        {
+          "value": 31182
+        }
+      ],
+      "55 bis unter 60 Jahre": [
+        {
+          "value": 31283
+        }
+      ],
+      "60 bis unter 65 Jahre": [
+        {
+          "value": 40500
+        }
+      ],
+      "65 bis unter 70 Jahre": [
+        {
+          "value": 29734
+        }
+      ],
+      "70 bis unter 75 Jahre": [
+        {
+          "value": 23508
+        }
+      ],
+      "75 bis unter 80 Jahre": [
+        {
+          "value": 17092
+        }
+      ],
+      "80 bis unter 85 Jahre": [
+        {
+          "value": 11605
+        }
+      ],
+      "85 Jahre und älter": [
+        {
+          "value": 10872
+        }
+      ],
+      "unter 1 Jahr (Säuglinge)": [
+        {
+          "value": 3534
+        }
+      ],
+      "unter 3 Jahren (Kleinkinder)": [
+        {
+          "value": 10903
+        }
+      ],
+      "unter 6 Jahren (Vorschulkinder)": [
+        {
+          "value": 20097
+        }
+      ],
+      "6 bis unter 10 Jahren (Grundschulkinder)": [
+        {
+          "value": 10221
+        }
+      ],
+      "6 bis unter 15 Jahre (Schulkinder)": [
+        {
+          "value": 33662
+        }
+      ],
+      "15 bis unter 18 Jahren (Schulpflichtige/Auszubildende)": [
+        {
+          "value": 16255
+        }
+      ],
+      "unter 18 Jahren (Minderjährige)": [
+        {
+          "value": 70014
+        }
+      ],
+      "14 Jahren und älter (Strafmündige)": [
+        {
+          "value": 471120
+        }
+      ],
+      "18 Jahren und älter (Volljährige)": [
+        {
+          "value": 449406
+        }
+      ],
+      "15 bis unter 65 Jahren (Erwerbsfähige)": [
+        {
+          "value": 372850
+        }
+      ],
+      "65 Jahren und älter (Rentner)": [
+        {
+          "value": 92811
+        }
+      ],
+      "Jugendquote": [
+        {
+          "value": 14.4184
+        }
+      ],
+      "Altenquote": [
+        {
+          "value": 24.8923
+        }
+      ],
+      "Soziallastquote": [
+        {
+          "value": 39.3107
+        }
+      ],
+      "Durchschnittsalter in Jahren": [
+        {
+          "value": 42.6588
+        }
+      ]
+    },
+    "2002": {
+      "unter 5 Jahre": [
+        {
+          "value": 17986
+        }
+      ],
+      "5 bis unter 10 Jahre": [
+        {
+          "value": 13345
+        }
+      ],
+      "10 bis unter 15 Jahre": [
+        {
+          "value": 20750
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 29518
+        }
+      ],
+      "20 bis unter 25 Jahre": [
+        {
+          "value": 46278
+        }
+      ],
+      "25 bis unter 30 Jahre": [
+        {
+          "value": 38983
+        }
+      ],
+      "30 bis unter 35 Jahre": [
+        {
+          "value": 41814
+        }
+      ],
+      "35 bis unter 40 Jahre": [
+        {
+          "value": 42701
+        }
+      ],
+      "40 bis unter 45 Jahre": [
+        {
+          "value": 37985
+        }
+      ],
+      "45 bis unter 50 Jahre": [
+        {
+          "value": 34643
+        }
+      ],
+      "50 bis unter 55 Jahre": [
+        {
+          "value": 32702
+        }
+      ],
+      "55 bis unter 60 Jahre": [
+        {
+          "value": 29397
+        }
+      ],
+      "60 bis unter 65 Jahre": [
+        {
+          "value": 40235
+        }
+      ],
+      "65 bis unter 70 Jahre": [
+        {
+          "value": 31389
+        }
+      ],
+      "70 bis unter 75 Jahre": [
+        {
+          "value": 23843
+        }
+      ],
+      "75 bis unter 80 Jahre": [
+        {
+          "value": 17375
+        }
+      ],
+      "80 bis unter 85 Jahre": [
+        {
+          "value": 12997
+        }
+      ],
+      "85 Jahre und älter": [
+        {
+          "value": 10132
+        }
+      ],
+      "unter 1 Jahr (Säuglinge)": [
+        {
+          "value": 3545
+        }
+      ],
+      "unter 3 Jahren (Kleinkinder)": [
+        {
+          "value": 11083
+        }
+      ],
+      "unter 6 Jahren (Vorschulkinder)": [
+        {
+          "value": 21042
+        }
+      ],
+      "6 bis unter 10 Jahren (Grundschulkinder)": [
+        {
+          "value": 10289
+        }
+      ],
+      "6 bis unter 15 Jahre (Schulkinder)": [
+        {
+          "value": 31039
+        }
+      ],
+      "15 bis unter 18 Jahren (Schulpflichtige/Auszubildende)": [
+        {
+          "value": 16339
+        }
+      ],
+      "unter 18 Jahren (Minderjährige)": [
+        {
+          "value": 68420
+        }
+      ],
+      "14 Jahren und älter (Strafmündige)": [
+        {
+          "value": 475246
+        }
+      ],
+      "18 Jahren und älter (Volljährige)": [
+        {
+          "value": 453653
+        }
+      ],
+      "15 bis unter 65 Jahren (Erwerbsfähige)": [
+        {
+          "value": 374256
+        }
+      ],
+      "65 Jahren und älter (Rentner)": [
+        {
+          "value": 95736
+        }
+      ],
+      "Jugendquote": [
+        {
+          "value": 13.9159
+        }
+      ],
+      "Altenquote": [
+        {
+          "value": 25.5804
+        }
+      ],
+      "Soziallastquote": [
+        {
+          "value": 39.4962
+        }
+      ],
+      "Durchschnittsalter in Jahren": [
+        {
+          "value": 42.8061
+        }
+      ]
+    },
+    "2003": {
+      "unter 5 Jahre": [
+        {
+          "value": 18589
+        }
+      ],
+      "5 bis unter 10 Jahre": [
+        {
+          "value": 14144
+        }
+      ],
+      "10 bis unter 15 Jahre": [
+        {
+          "value": 18082
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 29318
+        }
+      ],
+      "20 bis unter 25 Jahre": [
+        {
+          "value": 47402
+        }
+      ],
+      "25 bis unter 30 Jahre": [
+        {
+          "value": 41951
+        }
+      ],
+      "30 bis unter 35 Jahre": [
+        {
+          "value": 39740
+        }
+      ],
+      "35 bis unter 40 Jahre": [
+        {
+          "value": 42170
+        }
+      ],
+      "40 bis unter 45 Jahre": [
+        {
+          "value": 39434
+        }
+      ],
+      "45 bis unter 50 Jahre": [
+        {
+          "value": 34157
+        }
+      ],
+      "50 bis unter 55 Jahre": [
+        {
+          "value": 34459
+        }
+      ],
+      "60 bis unter 65 Jahre": [
+        {
+          "value": 39545
+        }
+      ],
+      "65 bis unter 70 Jahre": [
+        {
+          "value": 33996
+        }
+      ],
+      "70 bis unter 75 Jahre": [
+        {
+          "value": 23483
+        }
+      ],
+      "75 bis unter 80 Jahre": [
+        {
+          "value": 18098
+        }
+      ],
+      "80 bis unter 85 Jahre": [
+        {
+          "value": 13903
+        }
+      ],
+      "85 Jahre und älter": [
+        {
+          "value": 9606
+        }
+      ],
+      "unter 1 Jahr (Säuglinge)": [
+        {
+          "value": 3646
+        }
+      ],
+      "unter 3 Jahren (Kleinkinder)": [
+        {
+          "value": 11309
+        }
+      ],
+      "unter 6 Jahren (Vorschulkinder)": [
+        {
+          "value": 21909
+        }
+      ],
+      "6 bis unter 10 Jahren (Grundschulkinder)": [
+        {
+          "value": 10824
+        }
+      ],
+      "6 bis unter 15 Jahre (Schulkinder)": [
+        {
+          "value": 28906
+        }
+      ],
+      "15 bis unter 18 Jahren (Schulpflichtige/Auszubildende)": [
+        {
+          "value": 16230
+        }
+      ],
+      "unter 18 Jahren (Minderjährige)": [
+        {
+          "value": 67045
+        }
+      ],
+      "14 Jahren und älter (Strafmündige)": [
+        {
+          "value": 479361
+        }
+      ],
+      "18 Jahren und älter (Volljährige)": [
+        {
+          "value": 458116
+        }
+      ],
+      "15 bis unter 65 Jahren (Erwerbsfähige)": [
+        {
+          "value": 375260
+        }
+      ],
+      "65 Jahren und älter (Rentner)": [
+        {
+          "value": 99086
+        }
+      ],
+      "Jugendquote": [
+        {
+          "value": 13.5413
+        }
+      ],
+      "Altenquote": [
+        {
+          "value": 26.4046
+        }
+      ],
+      "Soziallastquote": [
+        {
+          "value": 39.9459
+        }
+      ],
+      "Durchschnittsalter in Jahren": [
+        {
+          "value": 42.9122
+        }
+      ],
+      "55 bis unter 60 Jahre": [
+        {
+          "value": 27084
+        }
+      ]
+    },
+    "2004": {
+      "unter 5 Jahre": [
+        {
+          "value": 19295
+        }
+      ],
+      "5 bis unter 10 Jahre": [
+        {
+          "value": 15138
+        }
+      ],
+      "10 bis unter 15 Jahre": [
+        {
+          "value": 15679
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 29038
+        }
+      ],
+      "20 bis unter 25 Jahre": [
+        {
+          "value": 47763
+        }
+      ],
+      "25 bis unter 30 Jahre": [
+        {
+          "value": 44750
+        }
+      ],
+      "30 bis unter 35 Jahre": [
+        {
+          "value": 38193
+        }
+      ],
+      "35 bis unter 40 Jahre": [
+        {
+          "value": 41618
+        }
+      ],
+      "40 bis unter 45 Jahre": [
+        {
+          "value": 40412
+        }
+      ],
+      "45 bis unter 50 Jahre": [
+        {
+          "value": 34008
+        }
+      ],
+      "50 bis unter 55 Jahre": [
+        {
+          "value": 34607
+        }
+      ],
+      "55 bis unter 60 Jahre": [
+        {
+          "value": 25980
+        }
+      ],
+      "60 bis unter 65 Jahre": [
+        {
+          "value": 37875
+        }
+      ],
+      "65 bis unter 70 Jahre": [
+        {
+          "value": 35686
+        }
+      ],
+      "70 bis unter 75 Jahre": [
+        {
+          "value": 24424
+        }
+      ],
+      "75 bis unter 80 Jahre": [
+        {
+          "value": 19141
+        }
+      ],
+      "80 bis unter 85 Jahre": [
+        {
+          "value": 13879
+        }
+      ],
+      "85 Jahre und älter": [
+        {
+          "value": 9975
+        }
+      ],
+      "unter 1 Jahr (Säuglinge)": [
+        {
+          "value": 3930
+        }
+      ],
+      "unter 3 Jahren (Kleinkinder)": [
+        {
+          "value": 11799
+        }
+      ],
+      "unter 6 Jahren (Vorschulkinder)": [
+        {
+          "value": 22823
+        }
+      ],
+      "6 bis unter 10 Jahren (Grundschulkinder)": [
+        {
+          "value": 11610
+        }
+      ],
+      "6 bis unter 15 Jahre (Schulkinder)": [
+        {
+          "value": 27289
+        }
+      ],
+      "15 bis unter 18 Jahren (Schulpflichtige/Auszubildende)": [
+        {
+          "value": 16158
+        }
+      ],
+      "unter 18 Jahren (Minderjährige)": [
+        {
+          "value": 66270
+        }
+      ],
+      "14 Jahren und älter (Strafmündige)": [
+        {
+          "value": 481982
+        }
+      ],
+      "18 Jahren und älter (Volljährige)": [
+        {
+          "value": 461191
+        }
+      ],
+      "15 bis unter 65 Jahren (Erwerbsfähige)": [
+        {
+          "value": 374244
+        }
+      ],
+      "65 Jahren und älter (Rentner)": [
+        {
+          "value": 103105
+        }
+      ],
+      "Jugendquote": [
+        {
+          "value": 13.3902
+        }
+      ],
+      "Altenquote": [
+        {
+          "value": 27.5502
+        }
+      ],
+      "Soziallastquote": [
+        {
+          "value": 40.9404
+        }
+      ],
+      "Durchschnittsalter in Jahren": [
+        {
+          "value": 43.0047
+        }
+      ]
+    },
+    "2005": {
+      "unter 5 Jahre": [
+        {
+          "value": 19810
+        }
+      ],
+      "5 bis unter 10 Jahre": [
+        {
+          "value": 16235
+        }
+      ],
+      "10 bis unter 15 Jahre": [
+        {
+          "value": 13521
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 28078
+        }
+      ],
+      "20 bis unter 25 Jahre": [
+        {
+          "value": 47405
+        }
+      ],
+      "25 bis unter 30 Jahre": [
+        {
+          "value": 47363
+        }
+      ],
+      "30 bis unter 35 Jahre": [
+        {
+          "value": 36546
+        }
+      ],
+      "35 bis unter 40 Jahre": [
+        {
+          "value": 40919
+        }
+      ],
+      "40 bis unter 45 Jahre": [
+        {
+          "value": 41243
+        }
+      ],
+      "45 bis unter 50 Jahre": [
+        {
+          "value": 34431
+        }
+      ],
+      "50 bis unter 55 Jahre": [
+        {
+          "value": 34319
+        }
+      ],
+      "55 bis unter 60 Jahre": [
+        {
+          "value": 27614
+        }
+      ],
+      "60 bis unter 65 Jahre": [
+        {
+          "value": 34010
+        }
+      ],
+      "65 bis unter 70 Jahre": [
+        {
+          "value": 36912
+        }
+      ],
+      "70 bis unter 75 Jahre": [
+        {
+          "value": 25546
+        }
+      ],
+      "75 bis unter 80 Jahre": [
+        {
+          "value": 19917
+        }
+      ],
+      "80 bis unter 85 Jahre": [
+        {
+          "value": 13476
+        }
+      ],
+      "85 Jahre und älter": [
+        {
+          "value": 10811
+        }
+      ],
+      "unter 1 Jahr (Säuglinge)": [
+        {
+          "value": 3976
+        }
+      ],
+      "unter 3 Jahren (Kleinkinder)": [
+        {
+          "value": 12249
+        }
+      ],
+      "unter 6 Jahren (Vorschulkinder)": [
+        {
+          "value": 23489
+        }
+      ],
+      "6 bis unter 10 Jahren (Grundschulkinder)": [
+        {
+          "value": 12556
+        }
+      ],
+      "6 bis unter 15 Jahre (Schulkinder)": [
+        {
+          "value": 26077
+        }
+      ],
+      "15 bis unter 18 Jahren (Schulpflichtige/Auszubildende)": [
+        {
+          "value": 15259
+        }
+      ],
+      "unter 18 Jahren (Minderjährige)": [
+        {
+          "value": 64825
+        }
+      ],
+      "14 Jahren und älter (Strafmündige)": [
+        {
+          "value": 481777
+        }
+      ],
+      "18 Jahren und älter (Volljährige)": [
+        {
+          "value": 463331
+        }
+      ],
+      "15 bis unter 65 Jahren (Erwerbsfähige)": [
+        {
+          "value": 371928
+        }
+      ],
+      "65 Jahren und älter (Rentner)": [
+        {
+          "value": 106662
+        }
+      ],
+      "Jugendquote": [
+        {
+          "value": 13.3268
+        }
+      ],
+      "Altenquote": [
+        {
+          "value": 28.6781
+        }
+      ],
+      "Soziallastquote": [
+        {
+          "value": 42.0049
+        }
+      ],
+      "Durchschnittsalter in Jahren": [
+        {
+          "value": 43.1316
+        }
+      ]
+    },
+    "2006": {
+      "unter 5 Jahre": [
+        {
+          "value": 20410
+        }
+      ],
+      "5 bis unter 10 Jahre": [
+        {
+          "value": 17089
+        }
+      ],
+      "10 bis unter 15 Jahre": [
+        {
+          "value": 13086
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 25912
+        }
+      ],
+      "20 bis unter 25 Jahre": [
+        {
+          "value": 46127
+        }
+      ],
+      "25 bis unter 30 Jahre": [
+        {
+          "value": 47777
+        }
+      ],
+      "30 bis unter 35 Jahre": [
+        {
+          "value": 34194
+        }
+      ],
+      "35 bis unter 40 Jahre": [
+        {
+          "value": 38896
+        }
+      ],
+      "40 bis unter 45 Jahre": [
+        {
+          "value": 40052
+        }
+      ],
+      "45 bis unter 50 Jahre": [
+        {
+          "value": 34790
+        }
+      ],
+      "50 bis unter 55 Jahre": [
+        {
+          "value": 33436
+        }
+      ],
+      "55 bis unter 60 Jahre": [
+        {
+          "value": 29406
+        }
+      ],
+      "60 bis unter 65 Jahre": [
+        {
+          "value": 29275
+        }
+      ],
+      "65 bis unter 70 Jahre": [
+        {
+          "value": 37784
+        }
+      ],
+      "70 bis unter 75 Jahre": [
+        {
+          "value": 27091
+        }
+      ],
+      "75 bis unter 80 Jahre": [
+        {
+          "value": 20077
+        }
+      ],
+      "80 bis unter 85 Jahre": [
+        {
+          "value": 13449
+        }
+      ],
+      "85 Jahre und älter": [
+        {
+          "value": 11662
+        }
+      ],
+      "unter 1 Jahr (Säuglinge)": [
+        {
+          "value": 4070
+        }
+      ],
+      "unter 3 Jahren (Kleinkinder)": [
+        {
+          "value": 12675
+        }
+      ],
+      "unter 6 Jahren (Vorschulkinder)": [
+        {
+          "value": 24113
+        }
+      ],
+      "6 bis unter 10 Jahren (Grundschulkinder)": [
+        {
+          "value": 13386
+        }
+      ],
+      "6 bis unter 15 Jahre (Schulkinder)": [
+        {
+          "value": 26472
+        }
+      ],
+      "15 bis unter 18 Jahren (Schulpflichtige/Auszubildende)": [
+        {
+          "value": 13128
+        }
+      ],
+      "unter 18 Jahren (Minderjährige)": [
+        {
+          "value": 63713
+        }
+      ],
+      "14 Jahren und älter (Strafmündige)": [
+        {
+          "value": 472710
+        }
+      ],
+      "18 Jahren und älter (Volljährige)": [
+        {
+          "value": 456800
+        }
+      ],
+      "15 bis unter 65 Jahren (Erwerbsfähige)": [
+        {
+          "value": 359865
+        }
+      ],
+      "65 Jahren und älter (Rentner)": [
+        {
+          "value": 110063
+        }
+      ],
+      "Jugendquote": [
+        {
+          "value": 14.0567
+        }
+      ],
+      "Altenquote": [
+        {
+          "value": 30.5845
+        }
+      ],
+      "Soziallastquote": [
+        {
+          "value": 44.6412
+        }
+      ],
+      "Durchschnittsalter in Jahren": [
+        {
+          "value": 43.3465
+        }
+      ]
+    },
+    "2007": {
+      "unter 5 Jahre": [
+        {
+          "value": 21096
+        }
+      ],
+      "5 bis unter 10 Jahre": [
+        {
+          "value": 17703
+        }
+      ],
+      "10 bis unter 15 Jahre": [
+        {
+          "value": 13329
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 23451
+        }
+      ],
+      "20 bis unter 25 Jahre": [
+        {
+          "value": 45383
+        }
+      ],
+      "25 bis unter 30 Jahre": [
+        {
+          "value": 48186
+        }
+      ],
+      "30 bis unter 35 Jahre": [
+        {
+          "value": 34621
+        }
+      ],
+      "35 bis unter 40 Jahre": [
+        {
+          "value": 35876
+        }
+      ],
+      "40 bis unter 45 Jahre": [
+        {
+          "value": 38175
+        }
+      ],
+      "45 bis unter 50 Jahre": [
+        {
+          "value": 35528
+        }
+      ],
+      "50 bis unter 55 Jahre": [
+        {
+          "value": 32381
+        }
+      ],
+      "55 bis unter 60 Jahre": [
+        {
+          "value": 30511
+        }
+      ],
+      "60 bis unter 65 Jahre": [
+        {
+          "value": 27257
+        }
+      ],
+      "65 bis unter 70 Jahre": [
+        {
+          "value": 37397
+        }
+      ],
+      "70 bis unter 75 Jahre": [
+        {
+          "value": 28519
+        }
+      ],
+      "75 bis unter 80 Jahre": [
+        {
+          "value": 20310
+        }
+      ],
+      "80 bis unter 85 Jahre": [
+        {
+          "value": 13627
+        }
+      ],
+      "85 Jahre und älter": [
+        {
+          "value": 12111
+        }
+      ],
+      "unter 1 Jahr (Säuglinge)": [
+        {
+          "value": 4325
+        }
+      ],
+      "unter 3 Jahren (Kleinkinder)": [
+        {
+          "value": 13001
+        }
+      ],
+      "unter 6 Jahren (Vorschulkinder)": [
+        {
+          "value": 24862
+        }
+      ],
+      "6 bis unter 10 Jahren (Grundschulkinder)": [
+        {
+          "value": 13937
+        }
+      ],
+      "6 bis unter 15 Jahre (Schulkinder)": [
+        {
+          "value": 27266
+        }
+      ],
+      "15 bis unter 18 Jahren (Schulpflichtige/Auszubildende)": [
+        {
+          "value": 10823
+        }
+      ],
+      "unter 18 Jahren (Minderjährige)": [
+        {
+          "value": 62951
+        }
+      ],
+      "14 Jahren und älter (Strafmündige)": [
+        {
+          "value": 465856
+        }
+      ],
+      "18 Jahren und älter (Volljährige)": [
+        {
+          "value": 452510
+        }
+      ],
+      "15 bis unter 65 Jahren (Erwerbsfähige)": [
+        {
+          "value": 351369
+        }
+      ],
+      "65 Jahren und älter (Rentner)": [
+        {
+          "value": 111964
+        }
+      ],
+      "Jugendquote": [
+        {
+          "value": 14.8357
+        }
+      ],
+      "Altenquote": [
+        {
+          "value": 31.8651
+        }
+      ],
+      "Soziallastquote": [
+        {
+          "value": 46.7008
+        }
+      ],
+      "Durchschnittsalter in Jahren": [
+        {
+          "value": 43.4849
+        }
+      ]
+    },
+    "2008": {
+      "unter 5 Jahre": [
+        {
+          "value": 22356
+        }
+      ],
+      "5 bis unter 10 Jahre": [
+        {
+          "value": 18495
+        }
+      ],
+      "10 bis unter 15 Jahre": [
+        {
+          "value": 14347
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 20867
+        }
+      ],
+      "20 bis unter 25 Jahre": [
+        {
+          "value": 45440
+        }
+      ],
+      "25 bis unter 30 Jahre": [
+        {
+          "value": 49188
+        }
+      ],
+      "30 bis unter 35 Jahre": [
+        {
+          "value": 37206
+        }
+      ],
+      "35 bis unter 40 Jahre": [
+        {
+          "value": 34136
+        }
+      ],
+      "40 bis unter 45 Jahre": [
+        {
+          "value": 37575
+        }
+      ],
+      "45 bis unter 50 Jahre": [
+        {
+          "value": 36660
+        }
+      ],
+      "50 bis unter 55 Jahre": [
+        {
+          "value": 31914
+        }
+      ],
+      "55 bis unter 60 Jahre": [
+        {
+          "value": 32121
+        }
+      ],
+      "60 bis unter 65 Jahre": [
+        {
+          "value": 25147
+        }
+      ],
+      "65 bis unter 70 Jahre": [
+        {
+          "value": 36662
+        }
+      ],
+      "70 bis unter 75 Jahre": [
+        {
+          "value": 30842
+        }
+      ],
+      "75 bis unter 80 Jahre": [
+        {
+          "value": 20053
+        }
+      ],
+      "80 bis unter 85 Jahre": [
+        {
+          "value": 14306
+        }
+      ],
+      "85 Jahre und älter": [
+        {
+          "value": 12344
+        }
+      ],
+      "unter 1 Jahr (Säuglinge)": [
+        {
+          "value": 4817
+        }
+      ],
+      "unter 3 Jahren (Kleinkinder)": [
+        {
+          "value": 13942
+        }
+      ],
+      "unter 6 Jahren (Vorschulkinder)": [
+        {
+          "value": 26258
+        }
+      ],
+      "6 bis unter 10 Jahren (Grundschulkinder)": [
+        {
+          "value": 14593
+        }
+      ],
+      "6 bis unter 15 Jahre (Schulkinder)": [
+        {
+          "value": 28940
+        }
+      ],
+      "15 bis unter 18 Jahren (Schulpflichtige/Auszubildende)": [
+        {
+          "value": 8844
+        }
+      ],
+      "unter 18 Jahren (Minderjährige)": [
+        {
+          "value": 64042
+        }
+      ],
+      "14 Jahren und älter (Strafmündige)": [
+        {
+          "value": 467101
+        }
+      ],
+      "18 Jahren und älter (Volljährige)": [
+        {
+          "value": 455617
+        }
+      ],
+      "15 bis unter 65 Jahren (Erwerbsfähige)": [
+        {
+          "value": 350254
+        }
+      ],
+      "65 Jahren und älter (Rentner)": [
+        {
+          "value": 114207
+        }
+      ],
+      "Jugendquote": [
+        {
+          "value": 15.7594
+        }
+      ],
+      "Altenquote": [
+        {
+          "value": 32.6069
+        }
+      ],
+      "Soziallastquote": [
+        {
+          "value": 48.3663
+        }
+      ],
+      "Durchschnittsalter in Jahren": [
+        {
+          "value": 43.4565
+        }
+      ]
+    },
+    "2009": {
+      "unter 5 Jahre": [
+        {
+          "value": 23005
+        }
+      ],
+      "5 bis unter 10 Jahre": [
+        {
+          "value": 19195
+        }
+      ],
+      "10 bis unter 15 Jahre": [
+        {
+          "value": 15241
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 18617
+        }
+      ],
+      "20 bis unter 25 Jahre": [
+        {
+          "value": 45639
+        }
+      ],
+      "25 bis unter 30 Jahre": [
+        {
+          "value": 49537
+        }
+      ],
+      "30 bis unter 35 Jahre": [
+        {
+          "value": 39270
+        }
+      ],
+      "35 bis unter 40 Jahre": [
+        {
+          "value": 32625
+        }
+      ],
+      "40 bis unter 45 Jahre": [
+        {
+          "value": 36546
+        }
+      ],
+      "45 bis unter 50 Jahre": [
+        {
+          "value": 37513
+        }
+      ],
+      "50 bis unter 55 Jahre": [
+        {
+          "value": 31949
+        }
+      ],
+      "55 bis unter 60 Jahre": [
+        {
+          "value": 32417
+        }
+      ],
+      "60 bis unter 65 Jahre": [
+        {
+          "value": 24251
+        }
+      ],
+      "65 bis unter 70 Jahre": [
+        {
+          "value": 35103
+        }
+      ],
+      "70 bis unter 75 Jahre": [
+        {
+          "value": 32485
+        }
+      ],
+      "75 bis unter 80 Jahre": [
+        {
+          "value": 20881
+        }
+      ],
+      "80 bis unter 85 Jahre": [
+        {
+          "value": 15046
+        }
+      ],
+      "85 Jahre und älter": [
+        {
+          "value": 12597
+        }
+      ],
+      "unter 1 Jahr (Säuglinge)": [
+        {
+          "value": 4704
+        }
+      ],
+      "unter 3 Jahren (Kleinkinder)": [
+        {
+          "value": 14459
+        }
+      ],
+      "unter 6 Jahren (Vorschulkinder)": [
+        {
+          "value": 27218
+        }
+      ],
+      "6 bis unter 10 Jahren (Grundschulkinder)": [
+        {
+          "value": 14982
+        }
+      ],
+      "6 bis unter 15 Jahre (Schulkinder)": [
+        {
+          "value": 30223
+        }
+      ],
+      "15 bis unter 18 Jahren (Schulpflichtige/Auszubildende)": [
+        {
+          "value": 8256
+        }
+      ],
+      "unter 18 Jahren (Minderjährige)": [
+        {
+          "value": 65697
+        }
+      ],
+      "14 Jahren und älter (Strafmündige)": [
+        {
+          "value": 467023
+        }
+      ],
+      "18 Jahren und älter (Volljährige)": [
+        {
+          "value": 456220
+        }
+      ],
+      "15 bis unter 65 Jahren (Erwerbsfähige)": [
+        {
+          "value": 348364
+        }
+      ],
+      "65 Jahren und älter (Rentner)": [
+        {
+          "value": 116112
+        }
+      ],
+      "Jugendquote": [
+        {
+          "value": 16.4888
+        }
+      ],
+      "Altenquote": [
+        {
+          "value": 33.3307
+        }
+      ],
+      "Soziallastquote": [
+        {
+          "value": 49.8194
+        }
+      ],
+      "Durchschnittsalter in Jahren": [
+        {
+          "value": 43.4881
+        }
+      ]
+    },
+    "2010": {
+      "unter 5 Jahre": [
+        {
+          "value": 23997
+        }
+      ],
+      "5 bis unter 10 Jahre": [
+        {
+          "value": 19521
+        }
+      ],
+      "10 bis unter 15 Jahre": [
+        {
+          "value": 16138
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 15933
+        }
+      ],
+      "20 bis unter 25 Jahre": [
+        {
+          "value": 45780
+        }
+      ],
+      "25 bis unter 30 Jahre": [
+        {
+          "value": 49396
+        }
+      ],
+      "30 bis unter 35 Jahre": [
+        {
+          "value": 41776
+        }
+      ],
+      "35 bis unter 40 Jahre": [
+        {
+          "value": 31328
+        }
+      ],
+      "40 bis unter 45 Jahre": [
+        {
+          "value": 35598
+        }
+      ],
+      "45 bis unter 50 Jahre": [
+        {
+          "value": 37869
+        }
+      ],
+      "50 bis unter 55 Jahre": [
+        {
+          "value": 32146
+        }
+      ],
+      "55 bis unter 60 Jahre": [
+        {
+          "value": 32022
+        }
+      ],
+      "60 bis unter 65 Jahre": [
+        {
+          "value": 25745
+        }
+      ],
+      "65 bis unter 70 Jahre": [
+        {
+          "value": 31587
+        }
+      ],
+      "70 bis unter 75 Jahre": [
+        {
+          "value": 33739
+        }
+      ],
+      "75 bis unter 80 Jahre": [
+        {
+          "value": 21932
+        }
+      ],
+      "80 bis unter 85 Jahre": [
+        {
+          "value": 15604
+        }
+      ],
+      "85 Jahre und älter": [
+        {
+          "value": 12843
+        }
+      ],
+      "unter 1 Jahr (Säuglinge)": [
+        {
+          "value": 4955
+        }
+      ],
+      "unter 3 Jahren (Kleinkinder)": [
+        {
+          "value": 15039
+        }
+      ],
+      "unter 6 Jahren (Vorschulkinder)": [
+        {
+          "value": 28126
+        }
+      ],
+      "6 bis unter 10 Jahren (Grundschulkinder)": [
+        {
+          "value": 15392
+        }
+      ],
+      "6 bis unter 15 Jahre (Schulkinder)": [
+        {
+          "value": 31530
+        }
+      ],
+      "15 bis unter 18 Jahren (Schulpflichtige/Auszubildende)": [
+        {
+          "value": 7919
+        }
+      ],
+      "unter 18 Jahren (Minderjährige)": [
+        {
+          "value": 67575
+        }
+      ],
+      "14 Jahren und älter (Strafmündige)": [
+        {
+          "value": 466068
+        }
+      ],
+      "18 Jahren und älter (Volljährige)": [
+        {
+          "value": 455379
+        }
+      ],
+      "15 bis unter 65 Jahren (Erwerbsfähige)": [
+        {
+          "value": 347593
+        }
+      ],
+      "65 Jahren und älter (Rentner)": [
+        {
+          "value": 115705
+        }
+      ],
+      "Jugendquote": [
+        {
+          "value": 17.1626
+        }
+      ],
+      "Altenquote": [
+        {
+          "value": 33.2875
+        }
+      ],
+      "Soziallastquote": [
+        {
+          "value": 50.4501
+        }
+      ],
+      "Durchschnittsalter in Jahren": [
+        {
+          "value": 43.5084
+        }
+      ]
+    },
+    "2011": {
+      "unter 5 Jahre": [
+        {
+          "value": 24975
+        }
+      ],
+      "5 bis unter 10 Jahre": [
+        {
+          "value": 20161
+        }
+      ],
+      "10 bis unter 15 Jahre": [
+        {
+          "value": 17137
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 15793
+        }
+      ],
+      "20 bis unter 25 Jahre": [
+        {
+          "value": 45399
+        }
+      ],
+      "25 bis unter 30 Jahre": [
+        {
+          "value": 49712
+        }
+      ],
+      "30 bis unter 35 Jahre": [
+        {
+          "value": 43931
+        }
+      ],
+      "35 bis unter 40 Jahre": [
+        {
+          "value": 30951
+        }
+      ],
+      "40 bis unter 45 Jahre": [
+        {
+          "value": 35493
+        }
+      ],
+      "45 bis unter 50 Jahre": [
+        {
+          "value": 37737
+        }
+      ],
+      "50 bis unter 55 Jahre": [
+        {
+          "value": 33311
+        }
+      ],
+      "55 bis unter 60 Jahre": [
+        {
+          "value": 31932
+        }
+      ],
+      "60 bis unter 65 Jahre": [
+        {
+          "value": 27948
+        }
+      ],
+      "65 bis unter 70 Jahre": [
+        {
+          "value": 27626
+        }
+      ],
+      "70 bis unter 75 Jahre": [
+        {
+          "value": 34890
+        }
+      ],
+      "75 bis unter 80 Jahre": [
+        {
+          "value": 23529
+        }
+      ],
+      "80 bis unter 85 Jahre": [
+        {
+          "value": 15766
+        }
+      ],
+      "85 Jahre und älter": [
+        {
+          "value": 13252
+        }
+      ],
+      "unter 1 Jahr (Säuglinge)": [
+        {
+          "value": 5140
+        }
+      ],
+      "unter 3 Jahren (Kleinkinder)": [
+        {
+          "value": 15391
+        }
+      ],
+      "unter 6 Jahren (Vorschulkinder)": [
+        {
+          "value": 29302
+        }
+      ],
+      "6 bis unter 10 Jahren (Grundschulkinder)": [
+        {
+          "value": 15834
+        }
+      ],
+      "6 bis unter 15 Jahre (Schulkinder)": [
+        {
+          "value": 32971
+        }
+      ],
+      "15 bis unter 18 Jahren (Schulpflichtige/Auszubildende)": [
+        {
+          "value": 8215
+        }
+      ],
+      "unter 18 Jahren (Minderjährige)": [
+        {
+          "value": 70488
+        }
+      ],
+      "14 Jahren und älter (Strafmündige)": [
+        {
+          "value": 470362
+        }
+      ],
+      "18 Jahren und älter (Volljährige)": [
+        {
+          "value": 459055
+        }
+      ],
+      "15 bis unter 65 Jahren (Erwerbsfähige)": [
+        {
+          "value": 352207
+        }
+      ],
+      "65 Jahren und älter (Rentner)": [
+        {
+          "value": 115063
+        }
+      ],
+      "Jugendquote": [
+        {
+          "value": 17.6808
+        }
+      ],
+      "Altenquote": [
+        {
+          "value": 32.6691
+        }
+      ],
+      "Soziallastquote": [
+        {
+          "value": 50.3499
+        }
+      ],
+      "Durchschnittsalter in Jahren": [
+        {
+          "value": 43.4446
+        }
+      ]
+    },
+    "2012": {
+      "unter 5 Jahre": [
+        {
+          "value": 25865
+        }
+      ],
+      "5 bis unter 10 Jahre": [
+        {
+          "value": 21074
+        }
+      ],
+      "10 bis unter 15 Jahre": [
+        {
+          "value": 17884
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 16569
+        }
+      ],
+      "20 bis unter 25 Jahre": [
+        {
+          "value": 43541
+        }
+      ],
+      "25 bis unter 30 Jahre": [
+        {
+          "value": 51941
+        }
+      ],
+      "30 bis unter 35 Jahre": [
+        {
+          "value": 45925
+        }
+      ],
+      "35 bis unter 40 Jahre": [
+        {
+          "value": 33033
+        }
+      ],
+      "40 bis unter 45 Jahre": [
+        {
+          "value": 34725
+        }
+      ],
+      "45 bis unter 50 Jahre": [
+        {
+          "value": 37645
+        }
+      ],
+      "50 bis unter 55 Jahre": [
+        {
+          "value": 34805
+        }
+      ],
+      "55 bis unter 60 Jahre": [
+        {
+          "value": 31477
+        }
+      ],
+      "60 bis unter 65 Jahre": [
+        {
+          "value": 29343
+        }
+      ],
+      "65 bis unter 70 Jahre": [
+        {
+          "value": 26017
+        }
+      ],
+      "70 bis unter 75 Jahre": [
+        {
+          "value": 34743
+        }
+      ],
+      "75 bis unter 80 Jahre": [
+        {
+          "value": 25076
+        }
+      ],
+      "80 bis unter 85 Jahre": [
+        {
+          "value": 15991
+        }
+      ],
+      "85 Jahre und älter": [
+        {
+          "value": 13724
+        }
+      ],
+      "unter 1 Jahr (Säuglinge)": [
+        {
+          "value": 5222
+        }
+      ],
+      "unter 3 Jahren (Kleinkinder)": [
+        {
+          "value": 15965
+        }
+      ],
+      "unter 6 Jahren (Vorschulkinder)": [
+        {
+          "value": 30406
+        }
+      ],
+      "6 bis unter 10 Jahren (Grundschulkinder)": [
+        {
+          "value": 16533
+        }
+      ],
+      "6 bis unter 15 Jahre (Schulkinder)": [
+        {
+          "value": 34417
+        }
+      ],
+      "15 bis unter 18 Jahren (Schulpflichtige/Auszubildende)": [
+        {
+          "value": 8750
+        }
+      ],
+      "unter 18 Jahren (Minderjährige)": [
+        {
+          "value": 73573
+        }
+      ],
+      "14 Jahren und älter (Strafmündige)": [
+        {
+          "value": 477851
+        }
+      ],
+      "18 Jahren und älter (Volljährige)": [
+        {
+          "value": 465805
+        }
+      ],
+      "15 bis unter 65 Jahren (Erwerbsfähige)": [
+        {
+          "value": 359004
+        }
+      ],
+      "65 Jahren und älter (Rentner)": [
+        {
+          "value": 115551
+        }
+      ],
+      "Jugendquote": [
+        {
+          "value": 18.0563
+        }
+      ],
+      "Altenquote": [
+        {
+          "value": 32.1865
+        }
+      ],
+      "Soziallastquote": [
+        {
+          "value": 50.2429
+        }
+      ],
+      "Durchschnittsalter in Jahren": [
+        {
+          "value": 43.3272
+        }
+      ]
+    },
+    "2013": {
+      "unter 5 Jahre": [
+        {
+          "value": 26648
+        }
+      ],
+      "5 bis unter 10 Jahre": [
+        {
+          "value": 22227
+        }
+      ],
+      "10 bis unter 15 Jahre": [
+        {
+          "value": 18599
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 17685
+        }
+      ],
+      "20 bis unter 25 Jahre": [
+        {
+          "value": 40990
+        }
+      ],
+      "25 bis unter 30 Jahre": [
+        {
+          "value": 54513
+        }
+      ],
+      "30 bis unter 35 Jahre": [
+        {
+          "value": 47949
+        }
+      ],
+      "35 bis unter 40 Jahre": [
+        {
+          "value": 35936
+        }
+      ],
+      "40 bis unter 45 Jahre": [
+        {
+          "value": 33608
+        }
+      ],
+      "45 bis unter 50 Jahre": [
+        {
+          "value": 37226
+        }
+      ],
+      "50 bis unter 55 Jahre": [
+        {
+          "value": 36266
+        }
+      ],
+      "55 bis unter 60 Jahre": [
+        {
+          "value": 31246
+        }
+      ],
+      "60 bis unter 65 Jahre": [
+        {
+          "value": 30961
+        }
+      ],
+      "65 bis unter 70 Jahre": [
+        {
+          "value": 24110
+        }
+      ],
+      "70 bis unter 75 Jahre": [
+        {
+          "value": 34125
+        }
+      ],
+      "75 bis unter 80 Jahre": [
+        {
+          "value": 27273
+        }
+      ],
+      "80 bis unter 85 Jahre": [
+        {
+          "value": 15769
+        }
+      ],
+      "85 Jahre und älter": [
+        {
+          "value": 14268
+        }
+      ],
+      "unter 1 Jahr (Säuglinge)": [
+        {
+          "value": 5394
+        }
+      ],
+      "unter 3 Jahren (Kleinkinder)": [
+        {
+          "value": 16424
+        }
+      ],
+      "unter 6 Jahren (Vorschulkinder)": [
+        {
+          "value": 31630
+        }
+      ],
+      "6 bis unter 10 Jahren (Grundschulkinder)": [
+        {
+          "value": 17245
+        }
+      ],
+      "6 bis unter 15 Jahre (Schulkinder)": [
+        {
+          "value": 35844
+        }
+      ],
+      "15 bis unter 18 Jahren (Schulpflichtige/Auszubildende)": [
+        {
+          "value": 9548
+        }
+      ],
+      "unter 18 Jahren (Minderjährige)": [
+        {
+          "value": 77022
+        }
+      ],
+      "14 Jahren und älter (Strafmündige)": [
+        {
+          "value": 485462
+        }
+      ],
+      "18 Jahren und älter (Volljährige)": [
+        {
+          "value": 472377
+        }
+      ],
+      "15 bis unter 65 Jahren (Erwerbsfähige)": [
+        {
+          "value": 366380
+        }
+      ],
+      "65 Jahren und älter (Rentner)": [
+        {
+          "value": 115545
+        }
+      ],
+      "Jugendquote": [
+        {
+          "value": 18.4164
+        }
+      ],
+      "Altenquote": [
+        {
+          "value": 31.5369
+        }
+      ],
+      "Soziallastquote": [
+        {
+          "value": 49.9533
+        }
+      ],
+      "Durchschnittsalter in Jahren": [
+        {
+          "value": 43.1818
+        }
+      ]
+    },
+    "2014": {
+      "unter 5 Jahre": [
+        {
+          "value": 27945
+        }
+      ],
+      "5 bis unter 10 Jahre": [
+        {
+          "value": 23059
+        }
+      ],
+      "10 bis unter 15 Jahre": [
+        {
+          "value": 19427
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 18973
+        }
+      ],
+      "20 bis unter 25 Jahre": [
+        {
+          "value": 38903
+        }
+      ],
+      "25 bis unter 30 Jahre": [
+        {
+          "value": 57154
+        }
+      ],
+      "30 bis unter 35 Jahre": [
+        {
+          "value": 49997
+        }
+      ],
+      "35 bis unter 40 Jahre": [
+        {
+          "value": 38957
+        }
+      ],
+      "40 bis unter 45 Jahre": [
+        {
+          "value": 32664
+        }
+      ],
+      "45 bis unter 50 Jahre": [
+        {
+          "value": 36750
+        }
+      ],
+      "50 bis unter 55 Jahre": [
+        {
+          "value": 37511
+        }
+      ],
+      "55 bis unter 60 Jahre": [
+        {
+          "value": 31557
+        }
+      ],
+      "60 bis unter 65 Jahre": [
+        {
+          "value": 31494
+        }
+      ],
+      "65 bis unter 70 Jahre": [
+        {
+          "value": 23375
+        }
+      ],
+      "70 bis unter 75 Jahre": [
+        {
+          "value": 32840
+        }
+      ],
+      "75 bis unter 80 Jahre": [
+        {
+          "value": 28999
+        }
+      ],
+      "80 bis unter 85 Jahre": [
+        {
+          "value": 16549
+        }
+      ],
+      "85 Jahre und älter": [
+        {
+          "value": 14861
+        }
+      ],
+      "unter 1 Jahr (Säuglinge)": [
+        {
+          "value": 5801
+        }
+      ],
+      "unter 3 Jahren (Kleinkinder)": [
+        {
+          "value": 17210
+        }
+      ],
+      "unter 6 Jahren (Vorschulkinder)": [
+        {
+          "value": 32866
+        }
+      ],
+      "6 bis unter 10 Jahren (Grundschulkinder)": [
+        {
+          "value": 18138
+        }
+      ],
+      "6 bis unter 15 Jahre (Schulkinder)": [
+        {
+          "value": 37565
+        }
+      ],
+      "15 bis unter 18 Jahren (Schulpflichtige/Auszubildende)": [
+        {
+          "value": 10405
+        }
+      ],
+      "unter 18 Jahren (Minderjährige)": [
+        {
+          "value": 80836
+        }
+      ],
+      "14 Jahren und älter (Strafmündige)": [
+        {
+          "value": 494368
+        }
+      ],
+      "18 Jahren und älter (Volljährige)": [
+        {
+          "value": 480179
+        }
+      ],
+      "15 bis unter 65 Jahren (Erwerbsfähige)": [
+        {
+          "value": 373960
+        }
+      ],
+      "65 Jahren und älter (Rentner)": [
+        {
+          "value": 116624
+        }
+      ],
+      "Jugendquote": [
+        {
+          "value": 18.8338
+        }
+      ],
+      "Altenquote": [
+        {
+          "value": 31.1862
+        }
+      ],
+      "Soziallastquote": [
+        {
+          "value": 50.0201
+        }
+      ],
+      "Durchschnittsalter in Jahren": [
+        {
+          "value": 42.9997
+        }
+      ]
+    },
+    "2015": {
+      "unter 5 Jahre": [
+        {
+          "value": 29672
+        }
+      ],
+      "5 bis unter 10 Jahre": [
+        {
+          "value": 24527
+        }
+      ],
+      "10 bis unter 15 Jahre": [
+        {
+          "value": 20369
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 21446
+        }
+      ],
+      "20 bis unter 25 Jahre": [
+        {
+          "value": 37062
+        }
+      ],
+      "25 bis unter 30 Jahre": [
+        {
+          "value": 60009
+        }
+      ],
+      "30 bis unter 35 Jahre": [
+        {
+          "value": 52473
+        }
+      ],
+      "35 bis unter 40 Jahre": [
+        {
+          "value": 42430
+        }
+      ],
+      "40 bis unter 45 Jahre": [
+        {
+          "value": 32282
+        }
+      ],
+      "45 bis unter 50 Jahre": [
+        {
+          "value": 36661
+        }
+      ],
+      "50 bis unter 55 Jahre": [
+        {
+          "value": 38455
+        }
+      ],
+      "55 bis unter 60 Jahre": [
+        {
+          "value": 32135
+        }
+      ],
+      "60 bis unter 65 Jahre": [
+        {
+          "value": 31397
+        }
+      ],
+      "65 bis unter 70 Jahre": [
+        {
+          "value": 24926
+        }
+      ],
+      "70 bis unter 75 Jahre": [
+        {
+          "value": 29675
+        }
+      ],
+      "75 bis unter 80 Jahre": [
+        {
+          "value": 30301
+        }
+      ],
+      "80 bis unter 85 Jahre": [
+        {
+          "value": 17655
+        }
+      ],
+      "85 Jahre und älter": [
+        {
+          "value": 15462
+        }
+      ],
+      "unter 1 Jahr (Säuglinge)": [
+        {
+          "value": 6221
+        }
+      ],
+      "unter 3 Jahren (Kleinkinder)": [
+        {
+          "value": 18445
+        }
+      ],
+      "unter 6 Jahren (Vorschulkinder)": [
+        {
+          "value": 35061
+        }
+      ],
+      "6 bis unter 10 Jahren (Grundschulkinder)": [
+        {
+          "value": 19138
+        }
+      ],
+      "6 bis unter 15 Jahre (Schulkinder)": [
+        {
+          "value": 39507
+        }
+      ],
+      "15 bis unter 18 Jahren (Schulpflichtige/Auszubildende)": [
+        {
+          "value": 11499
+        }
+      ],
+      "unter 18 Jahren (Minderjährige)": [
+        {
+          "value": 86067
+        }
+      ],
+      "14 Jahren und älter (Strafmündige)": [
+        {
+          "value": 506247
+        }
+      ],
+      "18 Jahren und älter (Volljährige)": [
+        {
+          "value": 490870
+        }
+      ],
+      "15 bis unter 65 Jahren (Erwerbsfähige)": [
+        {
+          "value": 384350
+        }
+      ],
+      "65 Jahren und älter (Rentner)": [
+        {
+          "value": 118019
+        }
+      ],
+      "Jugendquote": [
+        {
+          "value": 19.4011
+        }
+      ],
+      "Altenquote": [
+        {
+          "value": 30.7061
+        }
+      ],
+      "Soziallastquote": [
+        {
+          "value": 50.1072
+        }
+      ],
+      "Durchschnittsalter in Jahren": [
+        {
+          "value": 42.657
+        }
+      ]
+    },
+    "2016": {
+      "unter 5 Jahre": [
+        {
+          "value": 30902
+        }
+      ],
+      "5 bis unter 10 Jahre": [
+        {
+          "value": 25788
+        }
+      ],
+      "10 bis unter 15 Jahre": [
+        {
+          "value": 21221
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 23133
+        }
+      ],
+      "20 bis unter 25 Jahre": [
+        {
+          "value": 37802
+        }
+      ],
+      "25 bis unter 30 Jahre": [
+        {
+          "value": 59030
+        }
+      ],
+      "30 bis unter 35 Jahre": [
+        {
+          "value": 54396
+        }
+      ],
+      "35 bis unter 40 Jahre": [
+        {
+          "value": 45125
+        }
+      ],
+      "40 bis unter 45 Jahre": [
+        {
+          "value": 32023
+        }
+      ],
+      "45 bis unter 50 Jahre": [
+        {
+          "value": 36672
+        }
+      ],
+      "50 bis unter 55 Jahre": [
+        {
+          "value": 38432
+        }
+      ],
+      "55 bis unter 60 Jahre": [
+        {
+          "value": 33359
+        }
+      ],
+      "60 bis unter 65 Jahre": [
+        {
+          "value": 31330
+        }
+      ],
+      "65 bis unter 70 Jahre": [
+        {
+          "value": 27011
+        }
+      ],
+      "70 bis unter 75 Jahre": [
+        {
+          "value": 25925
+        }
+      ],
+      "75 bis unter 80 Jahre": [
+        {
+          "value": 31437
+        }
+      ],
+      "80 bis unter 85 Jahre": [
+        {
+          "value": 19144
+        }
+      ],
+      "85 Jahre und älter": [
+        {
+          "value": 15891
+        }
+      ],
+      "unter 1 Jahr (Säuglinge)": [
+        {
+          "value": 6371
+        }
+      ],
+      "unter 3 Jahren (Kleinkinder)": [
+        {
+          "value": 19323
+        }
+      ],
+      "unter 6 Jahren (Vorschulkinder)": [
+        {
+          "value": 36439
+        }
+      ],
+      "6 bis unter 10 Jahren (Grundschulkinder)": [
+        {
+          "value": 20251
+        }
+      ],
+      "6 bis unter 15 Jahre (Schulkinder)": [
+        {
+          "value": 41472
+        }
+      ],
+      "15 bis unter 18 Jahren (Schulpflichtige/Auszubildende)": [
+        {
+          "value": 12133
+        }
+      ],
+      "unter 18 Jahren (Minderjährige)": [
+        {
+          "value": 90044
+        }
+      ],
+      "14 Jahren und älter (Strafmündige)": [
+        {
+          "value": 514659
+        }
+      ],
+      "18 Jahren und älter (Volljährige)": [
+        {
+          "value": 498577
+        }
+      ],
+      "15 bis unter 65 Jahren (Erwerbsfähige)": [
+        {
+          "value": 391302
+        }
+      ],
+      "65 Jahren und älter (Rentner)": [
+        {
+          "value": 119408
+        }
+      ],
+      "Jugendquote": [
+        {
+          "value": 19.9107
+        }
+      ],
+      "Altenquote": [
+        {
+          "value": 30.5156
+        }
+      ],
+      "Soziallastquote": [
+        {
+          "value": 50.4263
+        }
+      ],
+      "Durchschnittsalter in Jahren": [
+        {
+          "value": 42.4681
+        }
+      ]
+    },
+    "2017": {
+      "unter 5 Jahre": [
+        {
+          "value": 31835
+        }
+      ],
+      "5 bis unter 10 Jahre": [
+        {
+          "value": 26770
+        }
+      ],
+      "10 bis unter 15 Jahre": [
+        {
+          "value": 22111
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 23832
+        }
+      ],
+      "20 bis unter 25 Jahre": [
+        {
+          "value": 39003
+        }
+      ],
+      "25 bis unter 30 Jahre": [
+        {
+          "value": 55708
+        }
+      ],
+      "30 bis unter 35 Jahre": [
+        {
+          "value": 56341
+        }
+      ],
+      "35 bis unter 40 Jahre": [
+        {
+          "value": 46911
+        }
+      ],
+      "40 bis unter 45 Jahre": [
+        {
+          "value": 33645
+        }
+      ],
+      "45 bis unter 50 Jahre": [
+        {
+          "value": 35607
+        }
+      ],
+      "50 bis unter 55 Jahre": [
+        {
+          "value": 38087
+        }
+      ],
+      "55 bis unter 60 Jahre": [
+        {
+          "value": 34744
+        }
+      ],
+      "60 bis unter 65 Jahre": [
+        {
+          "value": 30755
+        }
+      ],
+      "65 bis unter 70 Jahre": [
+        {
+          "value": 28332
+        }
+      ],
+      "70 bis unter 75 Jahre": [
+        {
+          "value": 24322
+        }
+      ],
+      "75 bis unter 80 Jahre": [
+        {
+          "value": 31211
+        }
+      ],
+      "80 bis unter 85 Jahre": [
+        {
+          "value": 20538
+        }
+      ],
+      "85 Jahre und älter": [
+        {
+          "value": 16200
+        }
+      ],
+      "unter 1 Jahr (Säuglinge)": [
+        {
+          "value": 6426
+        }
+      ],
+      "unter 3 Jahren (Kleinkinder)": [
+        {
+          "value": 19783
+        }
+      ],
+      "unter 6 Jahren (Vorschulkinder)": [
+        {
+          "value": 37507
+        }
+      ],
+      "6 bis unter 10 Jahren (Grundschulkinder)": [
+        {
+          "value": 21098
+        }
+      ],
+      "6 bis unter 15 Jahre (Schulkinder)": [
+        {
+          "value": 43209
+        }
+      ],
+      "15 bis unter 18 Jahren (Schulpflichtige/Auszubildende)": [
+        {
+          "value": 12326
+        }
+      ],
+      "unter 18 Jahren (Minderjährige)": [
+        {
+          "value": 93042
+        }
+      ],
+      "14 Jahren und älter (Strafmündige)": [
+        {
+          "value": 519366
+        }
+      ],
+      "18 Jahren und älter (Volljährige)": [
+        {
+          "value": 502910
+        }
+      ],
+      "15 bis unter 65 Jahren (Erwerbsfähige)": [
+        {
+          "value": 394633
+        }
+      ],
+      "65 Jahren und älter (Rentner)": [
+        {
+          "value": 120603
+        }
+      ],
+      "Jugendquote": [
+        {
+          "value": 20.4534
+        }
+      ],
+      "Altenquote": [
+        {
+          "value": 30.5608
+        }
+      ],
+      "Soziallastquote": [
+        {
+          "value": 51.0142
+        }
+      ],
+      "Durchschnittsalter in Jahren": [
+        {
+          "value": 42.3608
+        }
+      ]
+    },
+    "2018": {
+      "unter 5 Jahre": [
+        {
+          "value": 32052
+        }
+      ],
+      "5 bis unter 10 Jahre": [
+        {
+          "value": 27168
+        }
+      ],
+      "10 bis unter 15 Jahre": [
+        {
+          "value": 23211
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 24368
+        }
+      ],
+      "20 bis unter 25 Jahre": [
+        {
+          "value": 40484
+        }
+      ],
+      "25 bis unter 30 Jahre": [
+        {
+          "value": 51923
+        }
+      ],
+      "30 bis unter 35 Jahre": [
+        {
+          "value": 58298
+        }
+      ],
+      "35 bis unter 40 Jahre": [
+        {
+          "value": 48320
+        }
+      ],
+      "40 bis unter 45 Jahre": [
+        {
+          "value": 36181
+        }
+      ],
+      "45 bis unter 50 Jahre": [
+        {
+          "value": 34234
+        }
+      ],
+      "50 bis unter 55 Jahre": [
+        {
+          "value": 37520
+        }
+      ],
+      "55 bis unter 60 Jahre": [
+        {
+          "value": 35998
+        }
+      ],
+      "60 bis unter 65 Jahre": [
+        {
+          "value": 30419
+        }
+      ],
+      "65 bis unter 70 Jahre": [
+        {
+          "value": 29774
+        }
+      ],
+      "70 bis unter 75 Jahre": [
+        {
+          "value": 22502
+        }
+      ],
+      "75 bis unter 80 Jahre": [
+        {
+          "value": 30610
+        }
+      ],
+      "80 bis unter 85 Jahre": [
+        {
+          "value": 22404
+        }
+      ],
+      "85 Jahre und älter": [
+        {
+          "value": 16271
+        }
+      ],
+      "unter 1 Jahr (Säuglinge)": [
+        {
+          "value": 6284
+        }
+      ],
+      "unter 3 Jahren (Kleinkinder)": [
+        {
+          "value": 19502
+        }
+      ],
+      "unter 6 Jahren (Vorschulkinder)": [
+        {
+          "value": 37794
+        }
+      ],
+      "6 bis unter 10 Jahren (Grundschulkinder)": [
+        {
+          "value": 21426
+        }
+      ],
+      "6 bis unter 15 Jahre (Schulkinder)": [
+        {
+          "value": 44637
+        }
+      ],
+      "15 bis unter 18 Jahren (Schulpflichtige/Auszubildende)": [
+        {
+          "value": 12427
+        }
+      ],
+      "unter 18 Jahren (Minderjährige)": [
+        {
+          "value": 94858
+        }
+      ],
+      "14 Jahren und älter (Strafmündige)": [
+        {
+          "value": 523741
+        }
+      ],
+      "18 Jahren und älter (Volljährige)": [
+        {
+          "value": 506879
+        }
+      ],
+      "15 bis unter 65 Jahren (Erwerbsfähige)": [
+        {
+          "value": 397745
+        }
+      ],
+      "65 Jahren und älter (Rentner)": [
+        {
+          "value": 121561
+        }
+      ],
+      "Jugendquote": [
+        {
+          "value": 20.7246
+        }
+      ],
+      "Altenquote": [
+        {
+          "value": 30.5625
+        }
+      ],
+      "Soziallastquote": [
+        {
+          "value": 51.2871
+        }
+      ],
+      "Durchschnittsalter in Jahren": [
+        {
+          "value": 42.3218
+        }
+      ]
+    },
+    "2019": {
+      "unter 5 Jahre": [
+        {
+          "value": 31497
+        }
+      ],
+      "5 bis unter 10 Jahre": [
+        {
+          "value": 27905
+        }
+      ],
+      "10 bis unter 15 Jahre": [
+        {
+          "value": 23801
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 24831
+        }
+      ],
+      "20 bis unter 25 Jahre": [
+        {
+          "value": 42208
+        }
+      ],
+      "25 bis unter 30 Jahre": [
+        {
+          "value": 48165
+        }
+      ],
+      "30 bis unter 35 Jahre": [
+        {
+          "value": 59903
+        }
+      ],
+      "35 bis unter 40 Jahre": [
+        {
+          "value": 49607
+        }
+      ],
+      "40 bis unter 45 Jahre": [
+        {
+          "value": 38700
+        }
+      ],
+      "45 bis unter 50 Jahre": [
+        {
+          "value": 33017
+        }
+      ],
+      "50 bis unter 55 Jahre": [
+        {
+          "value": 36880
+        }
+      ],
+      "55 bis unter 60 Jahre": [
+        {
+          "value": 37173
+        }
+      ],
+      "60 bis unter 65 Jahre": [
+        {
+          "value": 30703
+        }
+      ],
+      "65 bis unter 70 Jahre": [
+        {
+          "value": 30181
+        }
+      ],
+      "70 bis unter 75 Jahre": [
+        {
+          "value": 21741
+        }
+      ],
+      "75 bis unter 80 Jahre": [
+        {
+          "value": 29420
+        }
+      ],
+      "80 bis unter 85 Jahre": [
+        {
+          "value": 23872
+        }
+      ],
+      "85 Jahre und älter": [
+        {
+          "value": 17355
+        }
+      ],
+      "unter 1 Jahr (Säuglinge)": [
+        {
+          "value": 5978
+        }
+      ],
+      "unter 3 Jahren (Kleinkinder)": [
+        {
+          "value": 18795
+        }
+      ],
+      "unter 6 Jahren (Vorschulkinder)": [
+        {
+          "value": 37486
+        }
+      ],
+      "6 bis unter 10 Jahren (Grundschulkinder)": [
+        {
+          "value": 21916
+        }
+      ],
+      "6 bis unter 15 Jahre (Schulkinder)": [
+        {
+          "value": 45717
+        }
+      ],
+      "15 bis unter 18 Jahren (Schulpflichtige/Auszubildende)": [
+        {
+          "value": 12869
+        }
+      ],
+      "unter 18 Jahren (Minderjährige)": [
+        {
+          "value": 96072
+        }
+      ],
+      "14 Jahren und älter (Strafmündige)": [
+        {
+          "value": 528185
+        }
+      ],
+      "18 Jahren und älter (Volljährige)": [
+        {
+          "value": 510887
+        }
+      ],
+      "15 bis unter 65 Jahren (Erwerbsfähige)": [
+        {
+          "value": 401187
+        }
+      ],
+      "65 Jahren und älter (Rentner)": [
+        {
+          "value": 122569
+        }
+      ],
+      "Jugendquote": [
+        {
+          "value": 20.7392
+        }
+      ],
+      "Altenquote": [
+        {
+          "value": 30.5516
+        }
+      ],
+      "Soziallastquote": [
+        {
+          "value": 51.2908
+        }
+      ],
+      "Durchschnittsalter in Jahren": [
+        {
+          "value": 42.364
+        }
+      ]
+    },
+    "2020": {
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 24835
+        }
+      ],
+      "20 bis unter 25 Jahre": [
+        {
+          "value": 43644
+        }
+      ],
+      "25 bis unter 30 Jahre": [
+        {
+          "value": 44760
+        }
+      ],
+      "30 bis unter 35 Jahre": [
+        {
+          "value": 60818
+        }
+      ],
+      "35 bis unter 40 Jahre": [
+        {
+          "value": 50714
+        }
+      ],
+      "40 bis unter 45 Jahre": [
+        {
+          "value": 41535
+        }
+      ],
+      "45 bis unter 50 Jahre": [
+        {
+          "value": 32106
+        }
+      ],
+      "50 bis unter 55 Jahre": [
+        {
+          "value": 36316
+        }
+      ],
+      "55 bis unter 60 Jahre": [
+        {
+          "value": 37761
+        }
+      ],
+      "60 bis unter 65 Jahre": [
+        {
+          "value": 31176
+        }
+      ],
+      "65 bis unter 70 Jahre": [
+        {
+          "value": 29902
+        }
+      ],
+      "70 bis unter 75 Jahre": [
+        {
+          "value": 23187
+        }
+      ],
+      "75 bis unter 80 Jahre": [
+        {
+          "value": 26409
+        }
+      ],
+      "80 bis unter 85 Jahre": [
+        {
+          "value": 25063
+        }
+      ],
+      "85 Jahre und älter": [
+        {
+          "value": 18559
+        }
+      ],
+      "unter 1 Jahr (Säuglinge)": [
+        {
+          "value": 5970
+        }
+      ],
+      "unter 3 Jahren (Kleinkinder)": [
+        {
+          "value": 18351
+        }
+      ],
+      "unter 6 Jahren (Vorschulkinder)": [
+        {
+          "value": 37059
+        }
+      ],
+      "6 bis unter 10 Jahren (Grundschulkinder)": [
+        {
+          "value": 22362
+        }
+      ],
+      "6 bis unter 15 Jahre (Schulkinder)": [
+        {
+          "value": 47066
+        }
+      ],
+      "15 bis unter 18 Jahren (Schulpflichtige/Auszubildende)": [
+        {
+          "value": 13276
+        }
+      ],
+      "unter 18 Jahren (Minderjährige)": [
+        {
+          "value": 97401
+        }
+      ],
+      "14 Jahren und älter (Strafmündige)": [
+        {
+          "value": 531305
+        }
+      ],
+      "18 Jahren und älter (Volljährige)": [
+        {
+          "value": 513509
+        }
+      ],
+      "15 bis unter 65 Jahren (Erwerbsfähige)": [
+        {
+          "value": 403665
+        }
+      ],
+      "65 Jahren und älter (Rentner)": [
+        {
+          "value": 123120
+        }
+      ],
+      "Jugendquote": [
+        {
+          "value": 20.8403
+        }
+      ],
+      "Altenquote": [
+        {
+          "value": 30.5005
+        }
+      ],
+      "Soziallastquote": [
+        {
+          "value": 51.3408
+        }
+      ],
+      "Durchschnittsalter in Jahren": [
+        {
+          "value": 42.3938
+        }
+      ],
+      "unter 5 Jahre": [
+        {
+          "value": 30862
+        }
+      ],
+      "5 bis unter 10 Jahre": [
+        {
+          "value": 28559
+        }
+      ],
+      "10 bis unter 15 Jahre": [
+        {
+          "value": 24704
+        }
+      ]
+    },
+    "2021": {
+      "unter 5 Jahre": [
+        {
+          "value": 30108
+        }
+      ],
+      "5 bis unter 10 Jahre": [
+        {
+          "value": 28987
+        }
+      ],
+      "10 bis unter 15 Jahre": [
+        {
+          "value": 25598
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 25428
+        }
+      ],
+      "20 bis unter 25 Jahre": [
+        {
+          "value": 44989
+        }
+      ],
+      "25 bis unter 30 Jahre": [
+        {
+          "value": 45308
+        }
+      ],
+      "30 bis unter 35 Jahre": [
+        {
+          "value": 59039
+        }
+      ],
+      "35 bis unter 40 Jahre": [
+        {
+          "value": 51970
+        }
+      ],
+      "40 bis unter 45 Jahre": [
+        {
+          "value": 43675
+        }
+      ],
+      "45 bis unter 50 Jahre": [
+        {
+          "value": 31719
+        }
+      ],
+      "50 bis unter 55 Jahre": [
+        {
+          "value": 36071
+        }
+      ],
+      "55 bis unter 60 Jahre": [
+        {
+          "value": 37511
+        }
+      ],
+      "60 bis unter 65 Jahre": [
+        {
+          "value": 32256
+        }
+      ],
+      "65 bis unter 70 Jahre": [
+        {
+          "value": 29601
+        }
+      ],
+      "70 bis unter 75 Jahre": [
+        {
+          "value": 25086
+        }
+      ],
+      "75 bis unter 80 Jahre": [
+        {
+          "value": 22943
+        }
+      ],
+      "80 bis unter 85 Jahre": [
+        {
+          "value": 25802
+        }
+      ],
+      "85 Jahre und älter": [
+        {
+          "value": 19448
+        }
+      ],
+      "unter 1 Jahr (Säuglinge)": [
+        {
+          "value": 5732
+        }
+      ],
+      "unter 3 Jahren (Kleinkinder)": [
+        {
+          "value": 17927
+        }
+      ],
+      "unter 6 Jahren (Vorschulkinder)": [
+        {
+          "value": 36188
+        }
+      ],
+      "6 bis unter 10 Jahren (Grundschulkinder)": [
+        {
+          "value": 22907
+        }
+      ],
+      "6 bis unter 15 Jahre (Schulkinder)": [
+        {
+          "value": 48505
+        }
+      ],
+      "15 bis unter 18 Jahren (Schulpflichtige/Auszubildende)": [
+        {
+          "value": 13692
+        }
+      ],
+      "unter 18 Jahren (Minderjährige)": [
+        {
+          "value": 98385
+        }
+      ],
+      "14 Jahren und älter (Strafmündige)": [
+        {
+          "value": 535622
+        }
+      ],
+      "18 Jahren und älter (Volljährige)": [
+        {
+          "value": 517154
+        }
+      ],
+      "15 bis unter 65 Jahren (Erwerbsfähige)": [
+        {
+          "value": 407966
+        }
+      ],
+      "65 Jahren und älter (Rentner)": [
+        {
+          "value": 122880
+        }
+      ],
+      "Jugendquote": [
+        {
+          "value": 20.7598
+        }
+      ],
+      "Altenquote": [
+        {
+          "value": 30.1202
+        }
+      ],
+      "Soziallastquote": [
+        {
+          "value": 50.88
+        }
+      ],
+      "Durchschnittsalter in Jahren": [
+        {
+          "value": 42.3409
+        }
+      ]
+    },
+    "2022": {
+      "unter 5 Jahre": [
+        {
+          "value": 29745
+        }
+      ],
+      "5 bis unter 10 Jahre": [
+        {
+          "value": 30452
+        }
+      ],
+      "10 bis unter 15 Jahre": [
+        {
+          "value": 27326
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 26994
+        }
+      ],
+      "20 bis unter 25 Jahre": [
+        {
+          "value": 46091
+        }
+      ],
+      "25 bis unter 30 Jahre": [
+        {
+          "value": 47943
+        }
+      ],
+      "30 bis unter 35 Jahre": [
+        {
+          "value": 56793
+        }
+      ],
+      "35 bis unter 40 Jahre": [
+        {
+          "value": 54758
+        }
+      ],
+      "40 bis unter 45 Jahre": [
+        {
+          "value": 46115
+        }
+      ],
+      "45 bis unter 50 Jahre": [
+        {
+          "value": 33847
+        }
+      ],
+      "50 bis unter 55 Jahre": [
+        {
+          "value": 35573
+        }
+      ],
+      "55 bis unter 60 Jahre": [
+        {
+          "value": 37466
+        }
+      ],
+      "60 bis unter 65 Jahre": [
+        {
+          "value": 33929
+        }
+      ],
+      "65 bis unter 70 Jahre": [
+        {
+          "value": 29384
+        }
+      ],
+      "70 bis unter 75 Jahre": [
+        {
+          "value": 26354
+        }
+      ],
+      "75 bis unter 80 Jahre": [
+        {
+          "value": 21529
+        }
+      ],
+      "80 bis unter 85 Jahre": [
+        {
+          "value": 25534
+        }
+      ],
+      "85 Jahre und älter": [
+        {
+          "value": 20363
+        }
+      ],
+      "unter 1 Jahr (Säuglinge)": [
+        {
+          "value": 5360
+        }
+      ],
+      "unter 3 Jahren (Kleinkinder)": [
+        {
+          "value": 17596
+        }
+      ],
+      "unter 6 Jahren (Vorschulkinder)": [
+        {
+          "value": 35927
+        }
+      ],
+      "6 bis unter 10 Jahren (Grundschulkinder)": [
+        {
+          "value": 24270
+        }
+      ],
+      "6 bis unter 15 Jahre (Schulkinder)": [
+        {
+          "value": 51596
+        }
+      ],
+      "15 bis unter 18 Jahren (Schulpflichtige/Auszubildende)": [
+        {
+          "value": 14672
+        }
+      ],
+      "unter 18 Jahren (Minderjährige)": [
+        {
+          "value": 102195
+        }
+      ],
+      "14 Jahren und älter (Strafmündige)": [
+        {
+          "value": 548106
+        }
+      ],
+      "18 Jahren und älter (Volljährige)": [
+        {
+          "value": 528001
+        }
+      ],
+      "15 bis unter 65 Jahren (Erwerbsfähige)": [
+        {
+          "value": 419509
+        }
+      ],
+      "65 Jahren und älter (Rentner)": [
+        {
+          "value": 123164
+        }
+      ],
+      "Jugendquote": [
+        {
+          "value": 20.8632
+        }
+      ],
+      "Altenquote": [
+        {
+          "value": 29.3591
+        }
+      ],
+      "Soziallastquote": [
+        {
+          "value": 50.2223
+        }
+      ],
+      "Durchschnittsalter in Jahren": [
+        {
+          "value": 42.1496
+        }
+      ]
+    },
+    "2023": {
+      "unter 5 Jahre": [
+        {
+          "value": 28039
+        }
+      ],
+      "5 bis unter 10 Jahre": [
+        {
+          "value": 30496
+        }
+      ],
+      "10 bis unter 15 Jahre": [
+        {
+          "value": 27635
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 28144
+        }
+      ],
+      "20 bis unter 25 Jahre": [
+        {
+          "value": 46583
+        }
+      ],
+      "25 bis unter 30 Jahre": [
+        {
+          "value": 50091
+        }
+      ],
+      "30 bis unter 35 Jahre": [
+        {
+          "value": 53501
+        }
+      ],
+      "35 bis unter 40 Jahre": [
+        {
+          "value": 56542
+        }
+      ],
+      "40 bis unter 45 Jahre": [
+        {
+          "value": 47370
+        }
+      ],
+      "45 bis unter 50 Jahre": [
+        {
+          "value": 36304
+        }
+      ],
+      "50 bis unter 55 Jahre": [
+        {
+          "value": 34217
+        }
+      ],
+      "55 bis unter 60 Jahre": [
+        {
+          "value": 36956
+        }
+      ],
+      "60 bis unter 65 Jahre": [
+        {
+          "value": 35082
+        }
+      ],
+      "65 bis unter 70 Jahre": [
+        {
+          "value": 29075
+        }
+      ],
+      "70 bis unter 75 Jahre": [
+        {
+          "value": 27624
+        }
+      ],
+      "75 bis unter 80 Jahre": [
+        {
+          "value": 19895
+        }
+      ],
+      "80 bis unter 85 Jahre": [
+        {
+          "value": 24923
+        }
+      ],
+      "85 Jahre und älter": [
+        {
+          "value": 21621
+        }
+      ],
+      "unter 1 Jahr (Säuglinge)": [
+        {
+          "value": 4629
+        }
+      ],
+      "unter 3 Jahren (Kleinkinder)": [
+        {
+          "value": 16079
+        }
+      ],
+      "unter 6 Jahren (Vorschulkinder)": [
+        {
+          "value": 34030
+        }
+      ],
+      "6 bis unter 10 Jahren (Grundschulkinder)": [
+        {
+          "value": 24505
+        }
+      ],
+      "6 bis unter 15 Jahre (Schulkinder)": [
+        {
+          "value": 52140
+        }
+      ],
+      "15 bis unter 18 Jahren (Schulpflichtige/Auszubildende)": [
+        {
+          "value": 15518
+        }
+      ],
+      "unter 18 Jahren (Minderjährige)": [
+        {
+          "value": 101688
+        }
+      ],
+      "14 Jahren und älter (Strafmündige)": [
+        {
+          "value": 553131
+        }
+      ],
+      "18 Jahren und älter (Volljährige)": [
+        {
+          "value": 532410
+        }
+      ],
+      "15 bis unter 65 Jahren (Erwerbsfähige)": [
+        {
+          "value": 424790
+        }
+      ],
+      "65 Jahren und älter (Rentner)": [
+        {
+          "value": 123138
+        }
+      ],
+      "Jugendquote": [
+        {
+          "value": 20.2853
+        }
+      ],
+      "Altenquote": [
+        {
+          "value": 28.988
+        }
+      ],
+      "Soziallastquote": [
+        {
+          "value": 49.2733
+        }
+      ],
+      "Durchschnittsalter in Jahren": [
+        {
+          "value": 42.2099
+        }
+      ]
+    },
+    "2024": {
+      "unter 5 Jahre": [
+        {
+          "value": 26386
+        }
+      ],
+      "5 bis unter 10 Jahre": [
+        {
+          "value": 30111
+        }
+      ],
+      "10 bis unter 15 Jahre": [
+        {
+          "value": 28381
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 28930
+        }
+      ],
+      "20 bis unter 25 Jahre": [
+        {
+          "value": 47308
+        }
+      ],
+      "25 bis unter 30 Jahre": [
+        {
+          "value": 52407
+        }
+      ],
+      "30 bis unter 35 Jahre": [
+        {
+          "value": 50240
+        }
+      ],
+      "35 bis unter 40 Jahre": [
+        {
+          "value": 57969
+        }
+      ],
+      "40 bis unter 45 Jahre": [
+        {
+          "value": 48569
+        }
+      ],
+      "45 bis unter 50 Jahre": [
+        {
+          "value": 38648
+        }
+      ],
+      "50 bis unter 55 Jahre": [
+        {
+          "value": 32923
+        }
+      ],
+      "55 bis unter 60 Jahre": [
+        {
+          "value": 36232
+        }
+      ],
+      "60 bis unter 65 Jahre": [
+        {
+          "value": 35957
+        }
+      ],
+      "65 bis unter 70 Jahre": [
+        {
+          "value": 29285
+        }
+      ],
+      "70 bis unter 75 Jahre": [
+        {
+          "value": 27925
+        }
+      ],
+      "75 bis unter 80 Jahre": [
+        {
+          "value": 19339
+        }
+      ],
+      "80 bis unter 85 Jahre": [
+        {
+          "value": 23853
+        }
+      ],
+      "85 Jahre und älter": [
+        {
+          "value": 23372
+        }
+      ],
+      "unter 1 Jahr (Säuglinge)": [
+        {
+          "value": 4364
+        }
+      ],
+      "unter 3 Jahren (Kleinkinder)": [
+        {
+          "value": 14564
+        }
+      ],
+      "unter 6 Jahren (Vorschulkinder)": [
+        {
+          "value": 32210
+        }
+      ],
+      "6 bis unter 10 Jahren (Grundschulkinder)": [
+        {
+          "value": 24287
+        }
+      ],
+      "6 bis unter 15 Jahre (Schulkinder)": [
+        {
+          "value": 52668
+        }
+      ],
+      "15 bis unter 18 Jahren (Schulpflichtige/Auszubildende)": [
+        {
+          "value": 16032
+        }
+      ],
+      "unter 18 Jahren (Minderjährige)": [
+        {
+          "value": 100910
+        }
+      ],
+      "14 Jahren und älter (Strafmündige)": [
+        {
+          "value": 558456
+        }
+      ],
+      "18 Jahren und älter (Volljährige)": [
+        {
+          "value": 536925
+        }
+      ],
+      "15 bis unter 65 Jahren (Erwerbsfähige)": [
+        {
+          "value": 429183
+        }
+      ],
+      "65 Jahren und älter (Rentner)": [
+        {
+          "value": 123774
+        }
+      ],
+      "Jugendquote": [
+        {
+          "value": 19.7766
+        }
+      ],
+      "Altenquote": [
+        {
+          "value": 28.8394
+        }
+      ],
+      "Soziallastquote": [
+        {
+          "value": 48.6161
+        }
+      ],
+      "Durchschnittsalter in Jahren": [
+        {
+          "value": 42.285
+        }
+      ]
+    }
+  }
+}

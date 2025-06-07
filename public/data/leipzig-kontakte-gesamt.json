@@ -1,0 +1,341 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=4&rubrik_nr=8&periode=y",
+    "title": "Kontakte__gesamt"
+  },
+  "data": {
+    "2015": {
+      "Kontakte gesamt": [
+        {
+          "value": 4419
+        }
+      ],
+      "in der Beratungsstelle": [
+        {
+          "value": 665
+        }
+      ],
+      "telefonisch, E-Mail": [
+        {
+          "value": 2312
+        }
+      ],
+      "Seniorentelefon": [
+        {
+          "value": 64
+        }
+      ],
+      "Besuch der Musterausstellung": [
+        {
+          "value": 1266
+        }
+      ],
+      "für Gruppen und Institutionen (Vorträge)": [
+        {
+          "value": null
+        }
+      ],
+      "Hausbesuch": [
+        {
+          "value": 112
+        }
+      ]
+    },
+    "2016": {
+      "Hausbesuch": [
+        {
+          "value": 127
+        }
+      ],
+      "für Gruppen und Institutionen (Vorträge)": [
+        {
+          "value": null
+        }
+      ],
+      "Besuch der Musterausstellung": [
+        {
+          "value": 1089
+        }
+      ],
+      "Seniorentelefon": [
+        {
+          "value": 125
+        }
+      ],
+      "telefonisch, E-Mail": [
+        {
+          "value": 2920
+        }
+      ],
+      "in der Beratungsstelle": [
+        {
+          "value": 632
+        }
+      ],
+      "Kontakte gesamt": [
+        {
+          "value": 4768
+        }
+      ]
+    },
+    "2017": {
+      "Kontakte gesamt": [
+        {
+          "value": 4193
+        }
+      ],
+      "in der Beratungsstelle": [
+        {
+          "value": 599
+        }
+      ],
+      "telefonisch, E-Mail": [
+        {
+          "value": 3415
+        }
+      ],
+      "Seniorentelefon": [
+        {
+          "value": 90
+        }
+      ],
+      "Besuch der Musterausstellung": [
+        {
+          "value": 901
+        }
+      ],
+      "für Gruppen und Institutionen (Vorträge)": [
+        {
+          "value": null
+        }
+      ],
+      "Hausbesuch": [
+        {
+          "value": 89
+        }
+      ]
+    },
+    "2018": {
+      "Hausbesuch": [
+        {
+          "value": 199
+        }
+      ],
+      "für Gruppen und Institutionen (Vorträge)": [
+        {
+          "value": 350
+        }
+      ],
+      "Besuch der Musterausstellung": [
+        {
+          "value": 1269
+        }
+      ],
+      "Seniorentelefon": [
+        {
+          "value": 225
+        }
+      ],
+      "telefonisch, E-Mail": [
+        {
+          "value": 3180
+        }
+      ],
+      "in der Beratungsstelle": [
+        {
+          "value": 574
+        }
+      ],
+      "Kontakte gesamt": [
+        {
+          "value": 4528
+        }
+      ]
+    },
+    "2019": {
+      "Kontakte gesamt": [
+        {
+          "value": 3951
+        }
+      ],
+      "in der Beratungsstelle": [
+        {
+          "value": 495
+        }
+      ],
+      "telefonisch, E-Mail": [
+        {
+          "value": 2710
+        }
+      ],
+      "Seniorentelefon": [
+        {
+          "value": 122
+        }
+      ],
+      "Besuch der Musterausstellung": [
+        {
+          "value": 984
+        }
+      ],
+      "für Gruppen und Institutionen (Vorträge)": [
+        {
+          "value": 412
+        }
+      ],
+      "Hausbesuch": [
+        {
+          "value": 191
+        }
+      ]
+    },
+    "2020": {
+      "Hausbesuch": [
+        {
+          "value": 46
+        }
+      ],
+      "für Gruppen und Institutionen (Vorträge)": [
+        {
+          "value": 25
+        }
+      ],
+      "Besuch der Musterausstellung": [
+        {
+          "value": 141
+        }
+      ],
+      "Seniorentelefon": [
+        {
+          "value": 167
+        }
+      ],
+      "telefonisch, E-Mail": [
+        {
+          "value": 2910
+        }
+      ],
+      "in der Beratungsstelle": [
+        {
+          "value": 276
+        }
+      ],
+      "Kontakte gesamt": [
+        {
+          "value": 3317
+        }
+      ]
+    },
+    "2021": {
+      "Kontakte gesamt": [
+        {
+          "value": 3761
+        }
+      ],
+      "in der Beratungsstelle": [
+        {
+          "value": null
+        }
+      ],
+      "telefonisch, E-Mail": [
+        {
+          "value": 3375
+        }
+      ],
+      "Seniorentelefon": [
+        {
+          "value": 317
+        }
+      ],
+      "Besuch der Musterausstellung": [
+        {
+          "value": 28
+        }
+      ],
+      "Hausbesuch": [
+        {
+          "value": 69
+        }
+      ],
+      "für Gruppen und Institutionen (Vorträge)": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2022": {
+      "Hausbesuch": [
+        {
+          "value": 30
+        }
+      ],
+      "für Gruppen und Institutionen (Vorträge)": [
+        {
+          "value": 55
+        }
+      ],
+      "Besuch der Musterausstellung": [
+        {
+          "value": 262
+        }
+      ],
+      "Kontakte gesamt": [
+        {
+          "value": 3404
+        }
+      ],
+      "in der Beratungsstelle": [
+        {
+          "value": 162
+        }
+      ],
+      "telefonisch, E-Mail": [
+        {
+          "value": 2867
+        }
+      ],
+      "Seniorentelefon": [
+        {
+          "value": 290
+        }
+      ]
+    },
+    "2023": {
+      "Kontakte gesamt": [
+        {
+          "value": 4518
+        }
+      ],
+      "in der Beratungsstelle": [
+        {
+          "value": 405
+        }
+      ],
+      "telefonisch, E-Mail": [
+        {
+          "value": 3150
+        }
+      ],
+      "Seniorentelefon": [
+        {
+          "value": 202
+        }
+      ],
+      "Besuch der Musterausstellung": [
+        {
+          "value": 627
+        }
+      ],
+      "Hausbesuch": [
+        {
+          "value": 66
+        }
+      ],
+      "für Gruppen und Institutionen (Vorträge)": [
+        {
+          "value": 695
+        }
+      ]
+    }
+  }
+}

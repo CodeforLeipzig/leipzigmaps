@@ -1,0 +1,1434 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=9&rubrik_nr=2&periode=y",
+    "title": "Persönliches Nettoeinkommen__Personen__insgesamt"
+  },
+  "data": {
+    "2000": {
+      "Personen insgesamt": [
+        {
+          "value": 1023
+        }
+      ],
+      "Männer": [
+        {
+          "value": 1074
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 895
+        }
+      ],
+      "18 bis 34 Jahre": [
+        {
+          "value": 869
+        }
+      ],
+      "35 bis 49 Jahre": [
+        {
+          "value": 1165
+        }
+      ],
+      "50 bis 64 Jahre": [
+        {
+          "value": 971
+        }
+      ],
+      "65 bis 85 Jahre": [
+        {
+          "value": 1023
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 1540
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 971
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 1789
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 2234
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 2454
+        }
+      ]
+    },
+    "2001": {
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 2414
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 2130
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 1790
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 1023
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 1534
+        }
+      ],
+      "65 bis 85 Jahre": [
+        {
+          "value": 971
+        }
+      ],
+      "50 bis 64 Jahre": [
+        {
+          "value": 1023
+        }
+      ],
+      "35 bis 49 Jahre": [
+        {
+          "value": 1125
+        }
+      ],
+      "18 bis 34 Jahre": [
+        {
+          "value": 818
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 894
+        }
+      ],
+      "Männer": [
+        {
+          "value": 1074
+        }
+      ],
+      "Personen insgesamt": [
+        {
+          "value": 1023
+        }
+      ]
+    },
+    "2002": {
+      "Personen insgesamt": [
+        {
+          "value": 1000
+        }
+      ],
+      "Männer": [
+        {
+          "value": 1087
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 859
+        }
+      ],
+      "18 bis 34 Jahre": [
+        {
+          "value": 874
+        }
+      ],
+      "35 bis 49 Jahre": [
+        {
+          "value": 1100
+        }
+      ],
+      "50 bis 64 Jahre": [
+        {
+          "value": 915
+        }
+      ],
+      "65 bis 85 Jahre": [
+        {
+          "value": 1000
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 1500
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 1021
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 1800
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 2154
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 2498
+        }
+      ]
+    },
+    "2003": {
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 2382
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 2154
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 1800
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 995
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 1436
+        }
+      ],
+      "65 bis 85 Jahre": [
+        {
+          "value": 1000
+        }
+      ],
+      "50 bis 64 Jahre": [
+        {
+          "value": 941
+        }
+      ],
+      "35 bis 49 Jahre": [
+        {
+          "value": 1100
+        }
+      ],
+      "18 bis 34 Jahre": [
+        {
+          "value": 756
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 817
+        }
+      ],
+      "Männer": [
+        {
+          "value": 1050
+        }
+      ],
+      "Personen insgesamt": [
+        {
+          "value": 980
+        }
+      ]
+    },
+    "2005": {
+      "Personen insgesamt": [
+        {
+          "value": 969
+        }
+      ],
+      "Männer": [
+        {
+          "value": 1100
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 800
+        }
+      ],
+      "18 bis 34 Jahre": [
+        {
+          "value": 650
+        }
+      ],
+      "35 bis 49 Jahre": [
+        {
+          "value": 1200
+        }
+      ],
+      "50 bis 64 Jahre": [
+        {
+          "value": 979
+        }
+      ],
+      "65 bis 85 Jahre": [
+        {
+          "value": 990
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 1450
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 890
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 1800
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 2200
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 2400
+        }
+      ]
+    },
+    "2006": {
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 2400
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 2015
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 1800
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 971
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 1400
+        }
+      ],
+      "65 bis 85 Jahre": [
+        {
+          "value": 800
+        }
+      ],
+      "50 bis 64 Jahre": [
+        {
+          "value": 900
+        }
+      ],
+      "35 bis 49 Jahre": [
+        {
+          "value": 1200
+        }
+      ],
+      "18 bis 34 Jahre": [
+        {
+          "value": 1000
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 800
+        }
+      ],
+      "Männer": [
+        {
+          "value": 1100
+        }
+      ],
+      "Personen insgesamt": [
+        {
+          "value": 980
+        }
+      ]
+    },
+    "2007": {
+      "Personen insgesamt": [
+        {
+          "value": 959
+        }
+      ],
+      "Männer": [
+        {
+          "value": 1107
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 835
+        }
+      ],
+      "18 bis 34 Jahre": [
+        {
+          "value": 689
+        }
+      ],
+      "35 bis 49 Jahre": [
+        {
+          "value": 1218
+        }
+      ],
+      "50 bis 64 Jahre": [
+        {
+          "value": 1013
+        }
+      ],
+      "65 bis 85 Jahre": [
+        {
+          "value": 960
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 1391
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 1067
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 1717
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 2200
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 2583
+        }
+      ]
+    },
+    "2008": {
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 2605
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 2371
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 1827
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 983
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 1379
+        }
+      ],
+      "65 bis 85 Jahre": [
+        {
+          "value": 958
+        }
+      ],
+      "50 bis 64 Jahre": [
+        {
+          "value": 1005
+        }
+      ],
+      "35 bis 49 Jahre": [
+        {
+          "value": 1249
+        }
+      ],
+      "18 bis 34 Jahre": [
+        {
+          "value": 869
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 893
+        }
+      ],
+      "Männer": [
+        {
+          "value": 1130
+        }
+      ],
+      "Personen insgesamt": [
+        {
+          "value": 1005
+        }
+      ]
+    },
+    "2009": {
+      "Personen insgesamt": [
+        {
+          "value": 977
+        }
+      ],
+      "Männer": [
+        {
+          "value": 1059
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 900
+        }
+      ],
+      "18 bis 34 Jahre": [
+        {
+          "value": 826
+        }
+      ],
+      "35 bis 49 Jahre": [
+        {
+          "value": 1233
+        }
+      ],
+      "50 bis 64 Jahre": [
+        {
+          "value": 938
+        }
+      ],
+      "65 bis 85 Jahre": [
+        {
+          "value": 982
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 1427
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 1081
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 1835
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 2298
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 2436
+        }
+      ]
+    },
+    "2010": {
+      "Personen insgesamt": [
+        {
+          "value": 1036
+        }
+      ],
+      "Männer": [
+        {
+          "value": 1152
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 915
+        }
+      ],
+      "18 bis 34 Jahre": [
+        {
+          "value": 914
+        }
+      ],
+      "35 bis 49 Jahre": [
+        {
+          "value": 1272
+        }
+      ],
+      "50 bis 64 Jahre": [
+        {
+          "value": 1017
+        }
+      ],
+      "65 bis 85 Jahre": [
+        {
+          "value": 980
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 1062
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 1872
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 2346
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 2830
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 1414
+        }
+      ]
+    },
+    "2011": {
+      "Personen insgesamt": [
+        {
+          "value": 1066
+        }
+      ],
+      "Männer": [
+        {
+          "value": 1162
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 964
+        }
+      ],
+      "18 bis 34 Jahre": [
+        {
+          "value": 972
+        }
+      ],
+      "35 bis 49 Jahre": [
+        {
+          "value": 1313
+        }
+      ],
+      "50 bis 64 Jahre": [
+        {
+          "value": 1078
+        }
+      ],
+      "65 bis 85 Jahre": [
+        {
+          "value": 997
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 1414
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 1051
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 1881
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 2292
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 2662
+        }
+      ]
+    },
+    "2012": {
+      "Personen insgesamt": [
+        {
+          "value": 1135.33
+        }
+      ],
+      "Männer": [
+        {
+          "value": 1288.8
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 1010.98
+        }
+      ],
+      "18 bis 34 Jahre": [
+        {
+          "value": 1089.14
+        }
+      ],
+      "35 bis 49 Jahre": [
+        {
+          "value": 1298.71
+        }
+      ],
+      "50 bis 64 Jahre": [
+        {
+          "value": 1241.03
+        }
+      ],
+      "65 bis 85 Jahre": [
+        {
+          "value": 992.112
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 1502.81
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 1074.05
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 2018.71
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 2489.54
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 3048.15
+        }
+      ]
+    },
+    "2013": {
+      "Personen insgesamt": [
+        {
+          "value": 1151.84
+        }
+      ],
+      "Männer": [
+        {
+          "value": 1291.88
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 1009.12
+        }
+      ],
+      "18 bis 34 Jahre": [
+        {
+          "value": 1063.27
+        }
+      ],
+      "35 bis 49 Jahre": [
+        {
+          "value": 1464
+        }
+      ],
+      "50 bis 64 Jahre": [
+        {
+          "value": 1202.41
+        }
+      ],
+      "65 bis 85 Jahre": [
+        {
+          "value": 1008.64
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 1549.24
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 1147.59
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 2054.2
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 2581.1
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 3036.37
+        }
+      ]
+    },
+    "2014": {
+      "Personen insgesamt": [
+        {
+          "value": 1206.59
+        }
+      ],
+      "Männer": [
+        {
+          "value": 1332.93
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 1117.11
+        }
+      ],
+      "18 bis 34 Jahre": [
+        {
+          "value": 1070.51
+        }
+      ],
+      "35 bis 49 Jahre": [
+        {
+          "value": 1599.77
+        }
+      ],
+      "50 bis 64 Jahre": [
+        {
+          "value": 1227.89
+        }
+      ],
+      "65 bis 85 Jahre": [
+        {
+          "value": 1076.48
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 1661.62
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 1181.2
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 2158.04
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 2857.26
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 3153.21
+        }
+      ]
+    },
+    "2015": {
+      "Personen insgesamt": [
+        {
+          "value": 1254.31
+        }
+      ],
+      "Männer": [
+        {
+          "value": 1385.73
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 1137.82
+        }
+      ],
+      "18 bis 34 Jahre": [
+        {
+          "value": 1145.41
+        }
+      ],
+      "35 bis 49 Jahre": [
+        {
+          "value": 1550.98
+        }
+      ],
+      "50 bis 64 Jahre": [
+        {
+          "value": 1333.44
+        }
+      ],
+      "65 bis 85 Jahre": [
+        {
+          "value": 1063.74
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 1665.48
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 1231.05
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 2219.68
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 2757.87
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 3457.63
+        }
+      ]
+    },
+    "2016": {
+      "Personen insgesamt": [
+        {
+          "value": 1280
+        }
+      ],
+      "Männer": [
+        {
+          "value": 1398
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 1163
+        }
+      ],
+      "18 bis 34 Jahre": [
+        {
+          "value": 1156
+        }
+      ],
+      "35 bis 49 Jahre": [
+        {
+          "value": 1615
+        }
+      ],
+      "50 bis 64 Jahre": [
+        {
+          "value": 1427
+        }
+      ],
+      "65 bis 85 Jahre": [
+        {
+          "value": 1134
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 1701
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 1223
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 2301
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 2934
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 3299
+        }
+      ]
+    },
+    "2017": {
+      "Personen insgesamt": [
+        {
+          "value": 1328
+        }
+      ],
+      "Männer": [
+        {
+          "value": 1444
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 1236
+        }
+      ],
+      "18 bis 34 Jahre": [
+        {
+          "value": 1158
+        }
+      ],
+      "50 bis 64 Jahre": [
+        {
+          "value": 1429
+        }
+      ],
+      "65 bis 85 Jahre": [
+        {
+          "value": 1192
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 1767
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 1320
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 2370
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 2985
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 3355
+        }
+      ],
+      "35 bis 49 Jahre": [
+        {
+          "value": 1663
+        }
+      ]
+    },
+    "2018": {
+      "Personen insgesamt": [
+        {
+          "value": 1384.02
+        }
+      ],
+      "Männer": [
+        {
+          "value": 1543.73
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 1262.07
+        }
+      ],
+      "18 bis 34 Jahre": [
+        {
+          "value": 1257.11
+        }
+      ],
+      "35 bis 49 Jahre": [
+        {
+          "value": 1722.61
+        }
+      ],
+      "50 bis 64 Jahre": [
+        {
+          "value": 1542.8
+        }
+      ],
+      "65 bis 85 Jahre": [
+        {
+          "value": 1178.83
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 1832.17
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 1371.32
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 2445.26
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 3010.81
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 3676.99
+        }
+      ]
+    },
+    "2019": {
+      "Personen insgesamt": [
+        {
+          "value": 1438.05
+        }
+      ],
+      "Männer": [
+        {
+          "value": 1584.9
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 1306.8
+        }
+      ],
+      "18 bis 34 Jahre": [
+        {
+          "value": 1249.98
+        }
+      ],
+      "35 bis 49 Jahre": [
+        {
+          "value": 1829.07
+        }
+      ],
+      "50 bis 64 Jahre": [
+        {
+          "value": 1599.95
+        }
+      ],
+      "65 bis 85 Jahre": [
+        {
+          "value": 1201.38
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 1891.23
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 1390.55
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 2525.61
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 3285.37
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 3723.9
+        }
+      ]
+    },
+    "2020": {
+      "Personen insgesamt": [
+        {
+          "value": 1482.83
+        }
+      ],
+      "Männer": [
+        {
+          "value": 1615.24
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 1370.13
+        }
+      ],
+      "18 bis 34 Jahre": [
+        {
+          "value": 1249.34
+        }
+      ],
+      "35 bis 49 Jahre": [
+        {
+          "value": 1854.1
+        }
+      ],
+      "50 bis 64 Jahre": [
+        {
+          "value": 1612.09
+        }
+      ],
+      "65 bis 85 Jahre": [
+        {
+          "value": 1326.96
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 1974.03
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 1462.43
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 2662.01
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 3344.65
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 3910.98
+        }
+      ]
+    },
+    "2021": {
+      "Personen insgesamt": [
+        {
+          "value": 1592.13
+        }
+      ],
+      "Männer": [
+        {
+          "value": 1792.57
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 1457.7
+        }
+      ],
+      "18 bis 34 Jahre": [
+        {
+          "value": 1461.11
+        }
+      ],
+      "35 bis 49 Jahre": [
+        {
+          "value": 2009.67
+        }
+      ],
+      "50 bis 64 Jahre": [
+        {
+          "value": 1791.09
+        }
+      ],
+      "65 bis 85 Jahre": [
+        {
+          "value": 1334
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 2064.67
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 1553.78
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 2955.32
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 3520.71
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 4320.44
+        }
+      ]
+    },
+    "2022": {
+      "Personen insgesamt": [
+        {
+          "value": 1622.11
+        }
+      ],
+      "Männer": [
+        {
+          "value": 1802.09
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 1498.19
+        }
+      ],
+      "18 bis 34 Jahre": [
+        {
+          "value": 1411.78
+        }
+      ],
+      "35 bis 49 Jahre": [
+        {
+          "value": 2000
+        }
+      ],
+      "50 bis 64 Jahre": [
+        {
+          "value": 1732.67
+        }
+      ],
+      "65 bis 85 Jahre": [
+        {
+          "value": 1353.42
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 2109.58
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 1642.38
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 2902.44
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 3678.41
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 4177.58
+        }
+      ]
+    },
+    "2023": {
+      "Personen insgesamt": [
+        {
+          "value": 1731.34
+        }
+      ],
+      "Männer": [
+        {
+          "value": 1847.45
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 1595.95
+        }
+      ],
+      "18 bis 34 Jahre": [
+        {
+          "value": 1462.38
+        }
+      ],
+      "35 bis 49 Jahre": [
+        {
+          "value": 2044.16
+        }
+      ],
+      "50 bis 64 Jahre": [
+        {
+          "value": 1867.03
+        }
+      ],
+      "65 bis 85 Jahre": [
+        {
+          "value": 1382.79
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 2212.12
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 1769.41
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 2944.95
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 3799.09
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 4503.36
+        }
+      ]
+    }
+  }
+}

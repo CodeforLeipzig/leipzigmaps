@@ -1,0 +1,932 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=6&rubrik_nr=3&periode=y",
+    "title": "Monatliche Grundmiete__Haushalte__insgesamt"
+  },
+  "data": {
+    "2000": {
+      "Haushalte insgesamt": [
+        {
+          "value": 4.76
+        },
+        {
+          "value": 6.39
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 4.72
+        },
+        {
+          "value": 6.33
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 4.79
+        },
+        {
+          "value": 6.44
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 4.88
+        },
+        {
+          "value": 6.39
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 4.58
+        },
+        {
+          "value": 6.29
+        }
+      ]
+    },
+    "2001": {
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 6.08
+        },
+        {
+          "value": 4.3
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 6.57
+        },
+        {
+          "value": 4.81
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 6.48
+        },
+        {
+          "value": 4.66
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 6.39
+        },
+        {
+          "value": 4.81
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 6.39
+        },
+        {
+          "value": 4.73
+        }
+      ]
+    },
+    "2003": {
+      "Haushalte insgesamt": [
+        {
+          "value": 4.82
+        },
+        {
+          "value": 6.53
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 4.83
+        },
+        {
+          "value": 6.53
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 4.91
+        },
+        {
+          "value": 6.58
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 4.72
+        },
+        {
+          "value": 6.55
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 4.65
+        },
+        {
+          "value": 6.28
+        }
+      ]
+    },
+    "2005": {
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 6.46
+        },
+        {
+          "value": 4.51
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 6.43
+        },
+        {
+          "value": 4.4
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 6.65
+        },
+        {
+          "value": 4.81
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 6.51
+        },
+        {
+          "value": 4.69
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 6.53
+        },
+        {
+          "value": 4.67
+        }
+      ]
+    },
+    "2006": {
+      "Haushalte insgesamt": [
+        {
+          "value": 4.86
+        },
+        {
+          "value": 6.76
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 4.87
+        },
+        {
+          "value": 6.78
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 4.84
+        },
+        {
+          "value": 6.78
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 4.98
+        },
+        {
+          "value": 6.75
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 4.76
+        },
+        {
+          "value": 6.5
+        }
+      ]
+    },
+    "2007": {
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 6.74
+        },
+        {
+          "value": 4.67
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 6.93
+        },
+        {
+          "value": 4.99
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 6.94
+        },
+        {
+          "value": 5
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 6.91
+        },
+        {
+          "value": 4.8
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 6.9
+        },
+        {
+          "value": 4.83
+        }
+      ]
+    },
+    "2008": {
+      "Haushalte insgesamt": [
+        {
+          "value": 4.98
+        },
+        {
+          "value": 6.92
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 5
+        },
+        {
+          "value": 6.93
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 4.93
+        },
+        {
+          "value": 6.89
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 4.98
+        },
+        {
+          "value": 6.94
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 4.67
+        },
+        {
+          "value": 6.67
+        }
+      ]
+    },
+    "2009": {
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 6.7
+        },
+        {
+          "value": 5
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 6.77
+        },
+        {
+          "value": 4.82
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 7.03
+        },
+        {
+          "value": 4.86
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 6.92
+        },
+        {
+          "value": 5
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 6.95
+        },
+        {
+          "value": 4.98
+        }
+      ]
+    },
+    "2010": {
+      "Haushalte insgesamt": [
+        {
+          "value": 5.12
+        },
+        {
+          "value": 7.12
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 5.19
+        },
+        {
+          "value": 7.15
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 5
+        },
+        {
+          "value": 7.13
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 4.79
+        },
+        {
+          "value": 7.05
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 5.05
+        },
+        {
+          "value": 6.95
+        }
+      ]
+    },
+    "2011": {
+      "Haushalte insgesamt": [
+        {
+          "value": 5
+        },
+        {
+          "value": 7.08
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 4.97
+        },
+        {
+          "value": 7.1
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 5
+        },
+        {
+          "value": 7.08
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 5
+        },
+        {
+          "value": 7.03
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 4.87
+        },
+        {
+          "value": 6.85
+        }
+      ]
+    },
+    "2012": {
+      "Haushalte insgesamt": [
+        {
+          "value": 5.14516
+        },
+        {
+          "value": 7.2
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 5.14516
+        },
+        {
+          "value": 7.2
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 5.17241
+        },
+        {
+          "value": 7.22619
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 5
+        },
+        {
+          "value": 7.23684
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 4.6875
+        },
+        {
+          "value": 6.97674
+        }
+      ]
+    },
+    "2013": {
+      "Haushalte insgesamt": [
+        {
+          "value": 5.075
+        },
+        {
+          "value": 7.22892
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 5.03448
+        },
+        {
+          "value": 7.21277
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 5.14706
+        },
+        {
+          "value": 7.24638
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 5.07246
+        },
+        {
+          "value": 7.30159
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 5.15
+        },
+        {
+          "value": 7.21519
+        }
+      ]
+    },
+    "2014": {
+      "Haushalte insgesamt": [
+        {
+          "value": 5.38462
+        },
+        {
+          "value": 7.44681
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 5.45424
+        },
+        {
+          "value": 7.51681
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 5.23883
+        },
+        {
+          "value": 7.30159
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 5.31352
+        },
+        {
+          "value": 7.5508
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 5.34484
+        },
+        {
+          "value": 7.36299
+        }
+      ]
+    },
+    "2015": {
+      "Haushalte insgesamt": [
+        {
+          "value": 5.29412
+        },
+        {
+          "value": 7.5
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 5.24482
+        },
+        {
+          "value": 7.46399
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 5.33333
+        },
+        {
+          "value": 7.44776
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 5.48881
+        },
+        {
+          "value": 7.66857
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 5.32642
+        },
+        {
+          "value": 7.51844
+        }
+      ]
+    },
+    "2016": {
+      "Haushalte insgesamt": [
+        {
+          "value": 5.39
+        },
+        {
+          "value": 7.59
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 5.33333
+        },
+        {
+          "value": 7.5
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 5.4076
+        },
+        {
+          "value": 7.60666
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 5.601
+        },
+        {
+          "value": 7.88912
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 5.39933
+        },
+        {
+          "value": 7.65853
+        }
+      ]
+    },
+    "2017": {
+      "Haushalte insgesamt": [
+        {
+          "value": 5.62
+        },
+        {
+          "value": 7.77
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 5.56327
+        },
+        {
+          "value": 7.75968
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 5.62283
+        },
+        {
+          "value": 7.77778
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 5.63181
+        },
+        {
+          "value": 7.88383
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 5.89121
+        },
+        {
+          "value": 7.82974
+        }
+      ]
+    },
+    "2018": {
+      "Haushalte insgesamt": [
+        {
+          "value": 5.875
+        },
+        {
+          "value": 8.20855
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 5.83333
+        },
+        {
+          "value": 8.231
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 5.93892
+        },
+        {
+          "value": 8.20896
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 5.96162
+        },
+        {
+          "value": 8.1579
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 6.18785
+        },
+        {
+          "value": 8.31697
+        }
+      ]
+    },
+    "2019": {
+      "Haushalte insgesamt": [
+        {
+          "value": 6.02936
+        },
+        {
+          "value": 8.18182
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 6
+        },
+        {
+          "value": 8.03844
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 6.03448
+        },
+        {
+          "value": 8.18984
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 6.64119
+        },
+        {
+          "value": 8.75
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 6.2601
+        },
+        {
+          "value": 8.33333
+        }
+      ]
+    },
+    "2020": {
+      "Haushalte insgesamt": [
+        {
+          "value": 6.2
+        },
+        {
+          "value": 8.33333
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 6.12903
+        },
+        {
+          "value": 8.26563
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 6.15385
+        },
+        {
+          "value": 8.37681
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 6.43836
+        },
+        {
+          "value": 8.25758
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 7.02128
+        },
+        {
+          "value": 9.1875
+        }
+      ]
+    },
+    "2021": {
+      "Haushalte insgesamt": [
+        {
+          "value": 6.46667
+        },
+        {
+          "value": 8.66667
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 6.31579
+        },
+        {
+          "value": 8.54545
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 6.52174
+        },
+        {
+          "value": 8.82353
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 6.89041
+        },
+        {
+          "value": 8.95082
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 6.72269
+        },
+        {
+          "value": 8.8
+        }
+      ]
+    },
+    "2022": {
+      "Haushalte insgesamt": [
+        {
+          "value": 6.60494
+        },
+        {
+          "value": 9.17722
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 6.41026
+        },
+        {
+          "value": 8.91892
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 6.875
+        },
+        {
+          "value": 9.61538
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 7
+        },
+        {
+          "value": 9.4875
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 6.66667
+        },
+        {
+          "value": 9.14103
+        }
+      ]
+    },
+    "2023": {
+      "Haushalte insgesamt": [
+        {
+          "value": 6.875
+        },
+        {
+          "value": 9.6
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 6.78571
+        },
+        {
+          "value": 9.42308
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 6.95122
+        },
+        {
+          "value": 9.8
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 7.14286
+        },
+        {
+          "value": 9.98333
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 7.08
+        },
+        {
+          "value": 9.94318
+        }
+      ]
+    }
+  }
+}

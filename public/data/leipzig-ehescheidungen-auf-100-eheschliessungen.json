@@ -1,0 +1,583 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=3&rubrik_nr=3&periode=y",
+    "title": "Ehescheidungen__auf 100 Eheschließungen"
+  },
+  "data": {
+    "2001": {
+      "auf 100 Eheschließungen": [
+        {
+          "value": 67.7
+        }
+      ],
+      "Eheschließungen insgesamt": [
+        {
+          "value": 1333
+        }
+      ],
+      "je 10 000 Einwohner": [
+        {
+          "value": 27
+        },
+        {
+          "value": 18.3
+        }
+      ],
+      "Ehescheidungen insgesamt": [
+        {
+          "value": 902
+        }
+      ]
+    },
+    "2002": {
+      "Eheschließungen insgesamt": [
+        {
+          "value": 1296
+        }
+      ],
+      "je 10 000 Einwohner": [
+        {
+          "value": 26.3
+        },
+        {
+          "value": 18.5
+        }
+      ],
+      "Ehescheidungen insgesamt": [
+        {
+          "value": 913
+        }
+      ],
+      "auf 100 Eheschließungen": [
+        {
+          "value": 70.4
+        }
+      ]
+    },
+    "2003": {
+      "auf 100 Eheschließungen": [
+        {
+          "value": 86.4
+        }
+      ],
+      "je 10 000 Einwohner": [
+        {
+          "value": 20.8
+        },
+        {
+          "value": 24
+        }
+      ],
+      "Ehescheidungen insgesamt": [
+        {
+          "value": 1030
+        }
+      ],
+      "Eheschließungen insgesamt": [
+        {
+          "value": 1192
+        }
+      ]
+    },
+    "2004": {
+      "Eheschließungen insgesamt": [
+        {
+          "value": 1348
+        }
+      ],
+      "je 10 000 Einwohner": [
+        {
+          "value": 27.1
+        },
+        {
+          "value": 20.3
+        }
+      ],
+      "Ehescheidungen insgesamt": [
+        {
+          "value": 1011
+        }
+      ],
+      "auf 100 Eheschließungen": [
+        {
+          "value": 75
+        }
+      ]
+    },
+    "2005": {
+      "auf 100 Eheschließungen": [
+        {
+          "value": 73.3
+        }
+      ],
+      "Eheschließungen insgesamt": [
+        {
+          "value": 1322
+        }
+      ],
+      "je 10 000 Einwohner": [
+        {
+          "value": 26.5
+        },
+        {
+          "value": 19.4
+        }
+      ],
+      "Ehescheidungen insgesamt": [
+        {
+          "value": 969
+        }
+      ]
+    },
+    "2006": {
+      "Eheschließungen insgesamt": [
+        {
+          "value": 1282
+        }
+      ],
+      "je 10 000 Einwohner": [
+        {
+          "value": 25.4
+        },
+        {
+          "value": 17.8
+        }
+      ],
+      "Ehescheidungen insgesamt": [
+        {
+          "value": 897
+        }
+      ],
+      "auf 100 Eheschließungen": [
+        {
+          "value": 70
+        }
+      ]
+    },
+    "2007": {
+      "auf 100 Eheschließungen": [
+        {
+          "value": 65.6
+        }
+      ],
+      "Eheschließungen insgesamt": [
+        {
+          "value": 1369
+        }
+      ],
+      "je 10 000 Einwohner": [
+        {
+          "value": 27
+        },
+        {
+          "value": 17.7
+        }
+      ],
+      "Ehescheidungen insgesamt": [
+        {
+          "value": 898
+        }
+      ]
+    },
+    "2008": {
+      "je 10 000 Einwohner": [
+        {
+          "value": 26.1
+        },
+        {
+          "value": 18
+        }
+      ],
+      "Ehescheidungen insgesamt": [
+        {
+          "value": 920
+        }
+      ],
+      "auf 100 Eheschließungen": [
+        {
+          "value": 68.9
+        }
+      ],
+      "Eheschließungen insgesamt": [
+        {
+          "value": 1335
+        }
+      ]
+    },
+    "2009": {
+      "auf 100 Eheschließungen": [
+        {
+          "value": 74.9
+        }
+      ],
+      "Eheschließungen insgesamt": [
+        {
+          "value": 1452
+        }
+      ],
+      "je 10 000 Einwohner": [
+        {
+          "value": 28.1
+        },
+        {
+          "value": 21.1
+        }
+      ],
+      "Ehescheidungen insgesamt": [
+        {
+          "value": 1088
+        }
+      ]
+    },
+    "2010": {
+      "Eheschließungen insgesamt": [
+        {
+          "value": 1461
+        }
+      ],
+      "je 10 000 Einwohner": [
+        {
+          "value": 28.2
+        },
+        {
+          "value": 16.9
+        }
+      ],
+      "Ehescheidungen insgesamt": [
+        {
+          "value": 876
+        }
+      ],
+      "auf 100 Eheschließungen": [
+        {
+          "value": 60
+        }
+      ]
+    },
+    "2011": {
+      "Eheschließungen insgesamt": [
+        {
+          "value": 1421
+        }
+      ],
+      "je 10 000 Einwohner": [
+        {
+          "value": 27
+        },
+        {
+          "value": 17.8
+        }
+      ],
+      "Ehescheidungen insgesamt": [
+        {
+          "value": 935
+        }
+      ],
+      "auf 100 Eheschließungen": [
+        {
+          "value": 65.8
+        }
+      ]
+    },
+    "2012": {
+      "Eheschließungen insgesamt": [
+        {
+          "value": 1477
+        }
+      ],
+      "je 10 000 Einwohner": [
+        {
+          "value": 28.8
+        },
+        {
+          "value": 16.5
+        }
+      ],
+      "Ehescheidungen insgesamt": [
+        {
+          "value": 847
+        }
+      ],
+      "auf 100 Eheschließungen": [
+        {
+          "value": 57.3
+        }
+      ]
+    },
+    "2013": {
+      "Eheschließungen insgesamt": [
+        {
+          "value": 1547
+        }
+      ],
+      "je 10 000 Einwohner": [
+        {
+          "value": 29.5
+        },
+        {
+          "value": 18.1
+        }
+      ],
+      "Ehescheidungen insgesamt": [
+        {
+          "value": 949
+        }
+      ],
+      "auf 100 Eheschließungen": [
+        {
+          "value": 61.3
+        }
+      ]
+    },
+    "2014": {
+      "Eheschließungen insgesamt": [
+        {
+          "value": 1548
+        }
+      ],
+      "je 10 000 Einwohner": [
+        {
+          "value": 28.7721
+        },
+        {
+          "value": 16.0403
+        }
+      ],
+      "Ehescheidungen insgesamt": [
+        {
+          "value": 863
+        }
+      ],
+      "auf 100 Eheschließungen": [
+        {
+          "value": 55.7494
+        }
+      ]
+    },
+    "2015": {
+      "Eheschließungen insgesamt": [
+        {
+          "value": 1899
+        }
+      ],
+      "je 10 000 Einwohner": [
+        {
+          "value": 34.3725
+        },
+        {
+          "value": 17.4487
+        }
+      ],
+      "Ehescheidungen insgesamt": [
+        {
+          "value": 964
+        }
+      ],
+      "auf 100 Eheschließungen": [
+        {
+          "value": 50.7636
+        }
+      ]
+    },
+    "2016": {
+      "Eheschließungen insgesamt": [
+        {
+          "value": 1868
+        }
+      ],
+      "je 10 000 Einwohner": [
+        {
+          "value": 33.0164
+        },
+        {
+          "value": 16.1724
+        }
+      ],
+      "Ehescheidungen insgesamt": [
+        {
+          "value": 915
+        }
+      ],
+      "auf 100 Eheschließungen": [
+        {
+          "value": 48.9829
+        }
+      ]
+    },
+    "2017": {
+      "Eheschließungen insgesamt": [
+        {
+          "value": 2005
+        }
+      ],
+      "je 10 000 Einwohner": [
+        {
+          "value": 34.7768
+        },
+        {
+          "value": 13.824
+        }
+      ],
+      "Ehescheidungen insgesamt": [
+        {
+          "value": 797
+        }
+      ],
+      "auf 100 Eheschließungen": [
+        {
+          "value": 39.7506
+        }
+      ]
+    },
+    "2018": {
+      "Eheschließungen insgesamt": [
+        {
+          "value": 2304
+        }
+      ],
+      "je 10 000 Einwohner": [
+        {
+          "value": 39.4
+        },
+        {
+          "value": 14.6
+        }
+      ],
+      "Ehescheidungen insgesamt": [
+        {
+          "value": 855
+        }
+      ],
+      "auf 100 Eheschließungen": [
+        {
+          "value": 37.1
+        }
+      ]
+    },
+    "2019": {
+      "Eheschließungen insgesamt": [
+        {
+          "value": 2177
+        }
+      ],
+      "je 10 000 Einwohner": [
+        {
+          "value": 36.9741
+        },
+        {
+          "value": 14.1
+        }
+      ],
+      "Ehescheidungen insgesamt": [
+        {
+          "value": 834
+        }
+      ],
+      "auf 100 Eheschließungen": [
+        {
+          "value": 38.3096
+        }
+      ]
+    },
+    "2020": {
+      "Eheschließungen insgesamt": [
+        {
+          "value": 1750
+        }
+      ],
+      "je 10 000 Einwohner": [
+        {
+          "value": 29.3
+        },
+        {
+          "value": 14.3
+        }
+      ],
+      "Ehescheidungen insgesamt": [
+        {
+          "value": 851
+        }
+      ],
+      "auf 100 Eheschließungen": [
+        {
+          "value": 48.6286
+        }
+      ]
+    },
+    "2021": {
+      "Eheschließungen insgesamt": [
+        {
+          "value": 1831
+        }
+      ],
+      "je 10 000 Einwohner": [
+        {
+          "value": 30.533
+        },
+        {
+          "value": 14.1075
+        }
+      ],
+      "Ehescheidungen insgesamt": [
+        {
+          "value": 846
+        }
+      ],
+      "auf 100 Eheschließungen": [
+        {
+          "value": 46.2043
+        }
+      ]
+    },
+    "2022": {
+      "Eheschließungen insgesamt": [
+        {
+          "value": 1808
+        }
+      ],
+      "je 10 000 Einwohner": [
+        {
+          "value": 29.7
+        },
+        {
+          "value": 14.6967
+        }
+      ],
+      "Ehescheidungen insgesamt": [
+        {
+          "value": 895
+        }
+      ],
+      "auf 100 Eheschließungen": [
+        {
+          "value": 49.5022
+        }
+      ]
+    },
+    "2023": {
+      "Eheschließungen insgesamt": [
+        {
+          "value": 1855
+        }
+      ],
+      "je 10 000 Einwohner": [
+        {
+          "value": 30
+        },
+        {
+          "value": 11.9744
+        }
+      ],
+      "Ehescheidungen insgesamt": [
+        {
+          "value": 740
+        }
+      ],
+      "auf 100 Eheschließungen": [
+        {
+          "value": 39.8922
+        }
+      ]
+    }
+  }
+}

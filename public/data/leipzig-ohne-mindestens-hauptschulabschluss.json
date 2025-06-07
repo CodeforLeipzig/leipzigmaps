@@ -1,0 +1,338 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=5&rubrik_nr=8&periode=y",
+    "title": "ohne mindestens Hauptschulabschluss"
+  },
+  "data": {
+    "2005": {
+      "ohne mindestens Hauptschulabschluss": [
+        {
+          "value": 11.5
+        }
+      ],
+      "Hauptschulabschluss": [
+        {
+          "value": 13.1
+        }
+      ],
+      "Allgemeine Hochschulreife": [
+        {
+          "value": 31.3
+        }
+      ],
+      "Realschulabschluss": [
+        {
+          "value": 44
+        }
+      ]
+    },
+    "2010": {
+      "Realschulabschluss": [
+        {
+          "value": 42.8
+        }
+      ],
+      "Allgemeine Hochschulreife": [
+        {
+          "value": 33.5
+        }
+      ],
+      "Hauptschulabschluss": [
+        {
+          "value": 9.6
+        }
+      ],
+      "ohne mindestens Hauptschulabschluss": [
+        {
+          "value": 14
+        }
+      ]
+    },
+    "2011": {
+      "ohne mindestens Hauptschulabschluss": [
+        {
+          "value": 15.2
+        }
+      ],
+      "Hauptschulabschluss": [
+        {
+          "value": 10.5
+        }
+      ],
+      "Allgemeine Hochschulreife": [
+        {
+          "value": 32.5
+        }
+      ],
+      "Realschulabschluss": [
+        {
+          "value": 41.8
+        }
+      ]
+    },
+    "2011/12": {
+      "Realschulabschluss": [
+        {
+          "value": 41.7
+        }
+      ],
+      "Allgemeine Hochschulreife": [
+        {
+          "value": 32.9
+        }
+      ],
+      "Hauptschulabschluss": [
+        {
+          "value": 11.4
+        }
+      ],
+      "ohne mindestens Hauptschulabschluss": [
+        {
+          "value": 14
+        }
+      ]
+    },
+    "2012/13": {
+      "ohne mindestens Hauptschulabschluss": [
+        {
+          "value": 15.3
+        }
+      ],
+      "Hauptschulabschluss": [
+        {
+          "value": 11.5
+        }
+      ],
+      "Allgemeine Hochschulreife": [
+        {
+          "value": 33
+        }
+      ],
+      "Realschulabschluss": [
+        {
+          "value": 40.2
+        }
+      ]
+    },
+    "2013/14": {
+      "Realschulabschluss": [
+        {
+          "value": 42.9
+        }
+      ],
+      "Allgemeine Hochschulreife": [
+        {
+          "value": 34.6
+        }
+      ],
+      "Hauptschulabschluss": [
+        {
+          "value": 10.1
+        }
+      ],
+      "ohne mindestens Hauptschulabschluss": [
+        {
+          "value": 12.4
+        }
+      ]
+    },
+    "2014/15": {
+      "ohne mindestens Hauptschulabschluss": [
+        {
+          "value": 11.4
+        }
+      ],
+      "Hauptschulabschluss": [
+        {
+          "value": 9.7
+        }
+      ],
+      "Allgemeine Hochschulreife": [
+        {
+          "value": 38.3
+        }
+      ],
+      "Realschulabschluss": [
+        {
+          "value": 40.7
+        }
+      ]
+    },
+    "2015/16": {
+      "Realschulabschluss": [
+        {
+          "value": 42.3
+        }
+      ],
+      "Allgemeine Hochschulreife": [
+        {
+          "value": 37.5
+        }
+      ],
+      "Hauptschulabschluss": [
+        {
+          "value": 8.9
+        }
+      ],
+      "ohne mindestens Hauptschulabschluss": [
+        {
+          "value": 11.3
+        }
+      ]
+    },
+    "2016/17": {
+      "ohne mindestens Hauptschulabschluss": [
+        {
+          "value": 10.2
+        }
+      ],
+      "Hauptschulabschluss": [
+        {
+          "value": 8.4
+        }
+      ],
+      "Allgemeine Hochschulreife": [
+        {
+          "value": 39.4
+        }
+      ],
+      "Realschulabschluss": [
+        {
+          "value": 42
+        }
+      ]
+    },
+    "2017/18": {
+      "Realschulabschluss": [
+        {
+          "value": 40.3
+        }
+      ],
+      "Allgemeine Hochschulreife": [
+        {
+          "value": 39.7
+        }
+      ],
+      "Hauptschulabschluss": [
+        {
+          "value": 8.3
+        }
+      ],
+      "ohne mindestens Hauptschulabschluss": [
+        {
+          "value": 11.7
+        }
+      ]
+    },
+    "2018/19": {
+      "ohne mindestens Hauptschulabschluss": [
+        {
+          "value": 11.2
+        }
+      ],
+      "Hauptschulabschluss": [
+        {
+          "value": 9.2
+        }
+      ],
+      "Allgemeine Hochschulreife": [
+        {
+          "value": 38.8
+        }
+      ],
+      "Realschulabschluss": [
+        {
+          "value": 40.9
+        }
+      ]
+    },
+    "2019/20": {
+      "Realschulabschluss": [
+        {
+          "value": 42.6
+        }
+      ],
+      "Allgemeine Hochschulreife": [
+        {
+          "value": 40.4
+        }
+      ],
+      "Hauptschulabschluss": [
+        {
+          "value": 7.7
+        }
+      ],
+      "ohne mindestens Hauptschulabschluss": [
+        {
+          "value": 9.4
+        }
+      ]
+    },
+    "2020/21": {
+      "ohne mindestens Hauptschulabschluss": [
+        {
+          "value": 10.2
+        }
+      ],
+      "Hauptschulabschluss": [
+        {
+          "value": 7.5
+        }
+      ],
+      "Allgemeine Hochschulreife": [
+        {
+          "value": 39.3
+        }
+      ],
+      "Realschulabschluss": [
+        {
+          "value": 43
+        }
+      ]
+    },
+    "2021/22": {
+      "Realschulabschluss": [
+        {
+          "value": 40.1
+        }
+      ],
+      "Allgemeine Hochschulreife": [
+        {
+          "value": 40.9
+        }
+      ],
+      "Hauptschulabschluss": [
+        {
+          "value": 9.8
+        }
+      ],
+      "ohne mindestens Hauptschulabschluss": [
+        {
+          "value": 9.2
+        }
+      ]
+    },
+    "2022/23": {
+      "ohne mindestens Hauptschulabschluss": [
+        {
+          "value": 8.2
+        }
+      ],
+      "Hauptschulabschluss": [
+        {
+          "value": 8.3
+        }
+      ],
+      "Realschulabschluss": [
+        {
+          "value": 45.4
+        }
+      ],
+      "Allgemeine Hochschulreife": [
+        {
+          "value": 38.1
+        }
+      ]
+    }
+  }
+}

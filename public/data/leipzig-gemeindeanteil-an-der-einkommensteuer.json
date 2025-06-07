@@ -1,0 +1,1204 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=14&rubrik_nr=6&periode=y",
+    "title": "Gemeindeanteil an der Einkommensteuer"
+  },
+  "data": {
+    "2000": {
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 52988
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 26339
+        }
+      ],
+      "Grundsteuer A": [
+        {
+          "value": 257
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 51376
+        }
+      ],
+      "Gewerbesteuer (brutto)": [
+        {
+          "value": 122383
+        }
+      ],
+      "Hundesteuer": [
+        {
+          "value": 1025
+        }
+      ],
+      "Vergnügungssteuer": [
+        {
+          "value": 1320
+        }
+      ],
+      "Zweitwohnungssteuer": [
+        {
+          "value": null
+        }
+      ],
+      "Gewerbesteuerumlage": [
+        {
+          "value": 13617
+        }
+      ],
+      "Steuereinnahmen insgesamt (netto)": [
+        {
+          "value": 242071
+        }
+      ]
+    },
+    "2001": {
+      "Steuereinnahmen insgesamt (netto)": [
+        {
+          "value": 188285
+        }
+      ],
+      "Gewerbesteuerumlage": [
+        {
+          "value": 7587
+        }
+      ],
+      "Zweitwohnungssteuer": [
+        {
+          "value": null
+        }
+      ],
+      "Vergnügungssteuer": [
+        {
+          "value": 1396
+        }
+      ],
+      "Hundesteuer": [
+        {
+          "value": 1084
+        }
+      ],
+      "Gewerbesteuer (brutto)": [
+        {
+          "value": 62976
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 25371
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 55586
+        }
+      ],
+      "Grundsteuer A": [
+        {
+          "value": 247
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 49211
+        }
+      ]
+    },
+    "2002": {
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 45477
+        }
+      ],
+      "Grundsteuer A": [
+        {
+          "value": 236
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 56873
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 25118
+        }
+      ],
+      "Gewerbesteuer (brutto)": [
+        {
+          "value": 127049
+        }
+      ],
+      "Hundesteuer": [
+        {
+          "value": 1026
+        }
+      ],
+      "Vergnügungssteuer": [
+        {
+          "value": 1200
+        }
+      ],
+      "Zweitwohnungssteuer": [
+        {
+          "value": null
+        }
+      ],
+      "Gewerbesteuerumlage": [
+        {
+          "value": 15413
+        }
+      ],
+      "Steuereinnahmen insgesamt (netto)": [
+        {
+          "value": 241567
+        }
+      ]
+    },
+    "2003": {
+      "Steuereinnahmen insgesamt (netto)": [
+        {
+          "value": 227928
+        }
+      ],
+      "Gewerbesteuerumlage": [
+        {
+          "value": 23560
+        }
+      ],
+      "Zweitwohnungssteuer": [
+        {
+          "value": null
+        }
+      ],
+      "Vergnügungssteuer": [
+        {
+          "value": 1696
+        }
+      ],
+      "Hundesteuer": [
+        {
+          "value": 1059
+        }
+      ],
+      "Gewerbesteuer (brutto)": [
+        {
+          "value": 113607
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 24943
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 65015
+        }
+      ],
+      "Grundsteuer A": [
+        {
+          "value": 232
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 44936
+        }
+      ]
+    },
+    "2004": {
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 47134
+        }
+      ],
+      "Grundsteuer A": [
+        {
+          "value": 247
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 63945
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 25055
+        }
+      ],
+      "Gewerbesteuer (brutto)": [
+        {
+          "value": 119951
+        }
+      ],
+      "Hundesteuer": [
+        {
+          "value": 1071
+        }
+      ],
+      "Vergnügungssteuer": [
+        {
+          "value": 1098
+        }
+      ],
+      "Zweitwohnungssteuer": [
+        {
+          "value": null
+        }
+      ],
+      "Gewerbesteuerumlage": [
+        {
+          "value": 11312
+        }
+      ],
+      "Steuereinnahmen insgesamt (netto)": [
+        {
+          "value": 247189
+        }
+      ]
+    },
+    "2005": {
+      "Steuereinnahmen insgesamt (netto)": [
+        {
+          "value": 275486
+        }
+      ],
+      "Gewerbesteuerumlage": [
+        {
+          "value": 15657
+        }
+      ],
+      "Zweitwohnungssteuer": [
+        {
+          "value": null
+        }
+      ],
+      "Vergnügungssteuer": [
+        {
+          "value": 1109
+        }
+      ],
+      "Hundesteuer": [
+        {
+          "value": 1079
+        }
+      ],
+      "Gewerbesteuer (brutto)": [
+        {
+          "value": 148450
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 25418
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 65316
+        }
+      ],
+      "Grundsteuer A": [
+        {
+          "value": 228
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 49543
+        }
+      ]
+    },
+    "2006": {
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 53609
+        }
+      ],
+      "Grundsteuer A": [
+        {
+          "value": 237
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 64802
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 26392
+        }
+      ],
+      "Gewerbesteuer (brutto)": [
+        {
+          "value": 189422
+        }
+      ],
+      "Hundesteuer": [
+        {
+          "value": 1469
+        }
+      ],
+      "Vergnügungssteuer": [
+        {
+          "value": 509
+        }
+      ],
+      "Zweitwohnungssteuer": [
+        {
+          "value": 199
+        }
+      ],
+      "Gewerbesteuerumlage": [
+        {
+          "value": 18771
+        }
+      ],
+      "Steuereinnahmen insgesamt (netto)": [
+        {
+          "value": 317868
+        }
+      ]
+    },
+    "2007": {
+      "Grundsteuer A": [
+        {
+          "value": 251
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 66307
+        }
+      ],
+      "Gewerbesteuer (brutto)": [
+        {
+          "value": 169136
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 60865
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 29320
+        }
+      ],
+      "Hundesteuer": [
+        {
+          "value": 1448
+        }
+      ],
+      "Vergnügungssteuer": [
+        {
+          "value": 2033
+        }
+      ],
+      "Zweitwohnungssteuer": [
+        {
+          "value": 434
+        }
+      ],
+      "Gewerbesteuerumlage": [
+        {
+          "value": 8812
+        }
+      ],
+      "Steuereinnahmen insgesamt (netto)": [
+        {
+          "value": 320982
+        }
+      ]
+    },
+    "2008": {
+      "Grundsteuer A": [
+        {
+          "value": 238
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 65074
+        }
+      ],
+      "Gewerbesteuer (brutto)": [
+        {
+          "value": 198494
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 89255
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 30688
+        }
+      ],
+      "Hundesteuer": [
+        {
+          "value": 1358
+        }
+      ],
+      "Vergnügungssteuer": [
+        {
+          "value": 2441
+        }
+      ],
+      "Zweitwohnungssteuer": [
+        {
+          "value": 445
+        }
+      ],
+      "Gewerbesteuerumlage": [
+        {
+          "value": 14759
+        }
+      ],
+      "Steuereinnahmen insgesamt (netto)": [
+        {
+          "value": 373234
+        }
+      ]
+    },
+    "2009": {
+      "Grundsteuer A": [
+        {
+          "value": 251
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 68222
+        }
+      ],
+      "Gewerbesteuer (brutto)": [
+        {
+          "value": 187415
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 80341
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 29515
+        }
+      ],
+      "Vergnügungssteuer": [
+        {
+          "value": -64
+        }
+      ],
+      "Hundesteuer": [
+        {
+          "value": 1398
+        }
+      ],
+      "Zweitwohnungssteuer": [
+        {
+          "value": 472
+        }
+      ],
+      "Gewerbesteuerumlage": [
+        {
+          "value": 12397
+        }
+      ],
+      "Steuereinnahmen insgesamt (netto)": [
+        {
+          "value": 355152
+        }
+      ]
+    },
+    "2010": {
+      "Grundsteuer A": [
+        {
+          "value": 239
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 66775
+        }
+      ],
+      "Gewerbesteuer (brutto)": [
+        {
+          "value": 176217
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 80476
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 29599
+        }
+      ],
+      "Vergnügungssteuer": [
+        {
+          "value": 1603
+        }
+      ],
+      "Hundesteuer": [
+        {
+          "value": 1392
+        }
+      ],
+      "Zweitwohnungssteuer": [
+        {
+          "value": 492
+        }
+      ],
+      "Gewerbesteuerumlage": [
+        {
+          "value": 14696
+        }
+      ],
+      "Steuereinnahmen insgesamt (netto)": [
+        {
+          "value": 342095
+        }
+      ]
+    },
+    "2011": {
+      "Grundsteuer A": [
+        {
+          "value": 247
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 88818
+        }
+      ],
+      "Gewerbesteuer (brutto)": [
+        {
+          "value": 189551
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 91455
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 31270
+        }
+      ],
+      "Hundesteuer": [
+        {
+          "value": 1423
+        }
+      ],
+      "Vergnügungssteuer": [
+        {
+          "value": 810
+        }
+      ],
+      "Zweitwohnungssteuer": [
+        {
+          "value": 352
+        }
+      ],
+      "Gewerbesteuerumlage": [
+        {
+          "value": 8270
+        }
+      ],
+      "Steuereinnahmen insgesamt (netto)": [
+        {
+          "value": 395655
+        }
+      ]
+    },
+    "2012": {
+      "Grundsteuer A": [
+        {
+          "value": 235
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 87967
+        }
+      ],
+      "Gewerbesteuer (brutto)": [
+        {
+          "value": 196823
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 97557
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 30966
+        }
+      ],
+      "Hundesteuer": [
+        {
+          "value": 1441
+        }
+      ],
+      "Vergnügungssteuer": [
+        {
+          "value": 1502
+        }
+      ],
+      "Zweitwohnungssteuer": [
+        {
+          "value": 418
+        }
+      ],
+      "Gewerbesteuerumlage": [
+        {
+          "value": 17061
+        }
+      ],
+      "Steuereinnahmen insgesamt (netto)": [
+        {
+          "value": 399848
+        }
+      ]
+    },
+    "2013": {
+      "Grundsteuer A": [
+        {
+          "value": 240
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 90453
+        }
+      ],
+      "Gewerbesteuer (brutto)": [
+        {
+          "value": 216556
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 110380
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 31304
+        }
+      ],
+      "Hundesteuer": [
+        {
+          "value": 1539
+        }
+      ],
+      "Vergnügungssteuer": [
+        {
+          "value": 1540
+        }
+      ],
+      "Zweitwohnungssteuer": [
+        {
+          "value": 409
+        }
+      ],
+      "Gewerbesteuerumlage": [
+        {
+          "value": 15091
+        }
+      ],
+      "Steuereinnahmen insgesamt (netto)": [
+        {
+          "value": 437330
+        }
+      ]
+    },
+    "2014": {
+      "Grundsteuer A": [
+        {
+          "value": 241
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 92057
+        }
+      ],
+      "Gewerbesteuer (brutto)": [
+        {
+          "value": 273505
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 120883
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 31996
+        }
+      ],
+      "Hundesteuer": [
+        {
+          "value": 1583
+        }
+      ],
+      "Vergnügungssteuer": [
+        {
+          "value": 2419
+        }
+      ],
+      "Zweitwohnungssteuer": [
+        {
+          "value": 472
+        }
+      ],
+      "Gewerbesteuerumlage": [
+        {
+          "value": 22978
+        }
+      ],
+      "Steuereinnahmen insgesamt (netto)": [
+        {
+          "value": 500178
+        }
+      ]
+    },
+    "2015": {
+      "Grundsteuer A": [
+        {
+          "value": 240
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 94596
+        }
+      ],
+      "Gewerbesteuer (brutto)": [
+        {
+          "value": 242680
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 139987
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 35631
+        }
+      ],
+      "Hundesteuer": [
+        {
+          "value": 1668
+        }
+      ],
+      "Vergnügungssteuer": [
+        {
+          "value": 3711
+        }
+      ],
+      "Zweitwohnungssteuer": [
+        {
+          "value": 629
+        }
+      ],
+      "Gewerbesteuerumlage": [
+        {
+          "value": 19648
+        }
+      ],
+      "Steuereinnahmen insgesamt (netto)": [
+        {
+          "value": 499494
+        }
+      ]
+    },
+    "2016": {
+      "Grundsteuer A": [
+        {
+          "value": 237
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 94184
+        }
+      ],
+      "Gewerbesteuer (brutto)": [
+        {
+          "value": 294695
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 148459
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 37239
+        }
+      ],
+      "Hundesteuer": [
+        {
+          "value": 1722
+        }
+      ],
+      "Vergnügungssteuer": [
+        {
+          "value": 3804
+        }
+      ],
+      "Zweitwohnungssteuer": [
+        {
+          "value": 634
+        }
+      ],
+      "Gewerbesteuerumlage": [
+        {
+          "value": 18638
+        }
+      ],
+      "Steuereinnahmen insgesamt (netto)": [
+        {
+          "value": 562336
+        }
+      ]
+    },
+    "2017": {
+      "Grundsteuer A": [
+        {
+          "value": 236
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 94558
+        }
+      ],
+      "Gewerbesteuer (brutto)": [
+        {
+          "value": 289966
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 157983
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 45138
+        }
+      ],
+      "Hundesteuer": [
+        {
+          "value": 1819
+        }
+      ],
+      "Vergnügungssteuer": [
+        {
+          "value": 3698
+        }
+      ],
+      "Zweitwohnungssteuer": [
+        {
+          "value": 959
+        }
+      ],
+      "Gewerbesteuerumlage": [
+        {
+          "value": 23980
+        }
+      ],
+      "Steuereinnahmen insgesamt (netto)": [
+        {
+          "value": 570377
+        }
+      ]
+    },
+    "2018": {
+      "Grundsteuer A": [
+        {
+          "value": 230
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 95826
+        }
+      ],
+      "Gewerbesteuer (brutto)": [
+        {
+          "value": 309495
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 175562
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 55021
+        }
+      ],
+      "Hundesteuer": [
+        {
+          "value": 1885
+        }
+      ],
+      "Vergnügungssteuer": [
+        {
+          "value": 3228
+        }
+      ],
+      "Zweitwohnungssteuer": [
+        {
+          "value": 1701
+        }
+      ],
+      "Gewerbesteuerumlage": [
+        {
+          "value": 25697
+        }
+      ],
+      "Steuereinnahmen insgesamt (netto)": [
+        {
+          "value": 617251
+        }
+      ]
+    },
+    "2019": {
+      "Grundsteuer A": [
+        {
+          "value": 247
+        }
+      ],
+      "Gewerbesteuer (brutto)": [
+        {
+          "value": 355834
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 187807
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 61848
+        }
+      ],
+      "Hundesteuer": [
+        {
+          "value": 2031
+        }
+      ],
+      "Vergnügungssteuer": [
+        {
+          "value": 3075
+        }
+      ],
+      "Zweitwohnungssteuer": [
+        {
+          "value": 1525
+        }
+      ],
+      "Gewerbesteuerumlage": [
+        {
+          "value": 26707
+        }
+      ],
+      "Steuereinnahmen insgesamt (netto)": [
+        {
+          "value": 682691
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 97031
+        }
+      ]
+    },
+    "2020": {
+      "Grundsteuer A": [
+        {
+          "value": 237
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 96514
+        }
+      ],
+      "Gewerbesteuer (brutto)": [
+        {
+          "value": 244646
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 176552
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 66233
+        }
+      ],
+      "Hundesteuer": [
+        {
+          "value": 2145
+        }
+      ],
+      "Vergnügungssteuer": [
+        {
+          "value": 2087
+        }
+      ],
+      "Zweitwohnungssteuer": [
+        {
+          "value": 1452
+        }
+      ],
+      "Gewerbesteuerumlage": [
+        {
+          "value": 18140
+        }
+      ],
+      "Steuereinnahmen insgesamt (netto)": [
+        {
+          "value": 571727
+        }
+      ]
+    },
+    "2021": {
+      "Grundsteuer A": [
+        {
+          "value": 238
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 98107
+        }
+      ],
+      "Gewerbesteuer (brutto)": [
+        {
+          "value": 392440
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 205605
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 71010
+        }
+      ],
+      "Hundesteuer": [
+        {
+          "value": 2276
+        }
+      ],
+      "Vergnügungssteuer": [
+        {
+          "value": 1957
+        }
+      ],
+      "Zweitwohnungssteuer": [
+        {
+          "value": 1586
+        }
+      ],
+      "Gewerbesteuerumlage": [
+        {
+          "value": 25700
+        }
+      ],
+      "Steuereinnahmen insgesamt (netto)": [
+        {
+          "value": 747461
+        }
+      ]
+    },
+    "2022": {
+      "Grundsteuer A": [
+        {
+          "value": 245
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 98507
+        }
+      ],
+      "Gewerbesteuer (brutto)": [
+        {
+          "value": 412334
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 201562
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 66419
+        }
+      ],
+      "Hundesteuer": [
+        {
+          "value": 2314
+        }
+      ],
+      "Vergnügungssteuer": [
+        {
+          "value": 2900
+        }
+      ],
+      "Zweitwohnungssteuer": [
+        {
+          "value": 1624
+        }
+      ],
+      "Gewerbesteuerumlage": [
+        {
+          "value": 34906
+        }
+      ],
+      "Steuereinnahmen insgesamt (netto)": [
+        {
+          "value": 750999
+        }
+      ]
+    }
+  }
+}

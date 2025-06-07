@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=4&rubrik_nr=30&periode=y",
+    "title": "Kontaktabbruch bzw. Kontakt konnte nicht hergestellt werden"
+  },
+  "data": {
+    "2017": {
+      "Kontaktabbruch bzw. Kontakt konnte nicht hergestellt werden": [
+        {
+          "value": 569
+        }
+      ],
+      "ordnungsrechtliche Unterbringung": [
+        {
+          "value": 99
+        }
+      ],
+      "neue Mietwohnung / Wohnraumvermittlung / betreute Wohnform": [
+        {
+          "value": 882
+        }
+      ],
+      "Erhalt der Ursprungswohnung": [
+        {
+          "value": 624
+        }
+      ]
+    },
+    "2018": {
+      "Erhalt der Ursprungswohnung": [
+        {
+          "value": 647
+        }
+      ],
+      "neue Mietwohnung / Wohnraumvermittlung / betreute Wohnform": [
+        {
+          "value": 789
+        }
+      ],
+      "ordnungsrechtliche Unterbringung": [
+        {
+          "value": 91
+        }
+      ],
+      "Kontaktabbruch bzw. Kontakt konnte nicht hergestellt werden": [
+        {
+          "value": 495
+        }
+      ]
+    },
+    "2019": {
+      "Kontaktabbruch bzw. Kontakt konnte nicht hergestellt werden": [
+        {
+          "value": 441
+        }
+      ],
+      "ordnungsrechtliche Unterbringung": [
+        {
+          "value": 64
+        }
+      ],
+      "neue Mietwohnung / Wohnraumvermittlung / betreute Wohnform": [
+        {
+          "value": 750
+        }
+      ],
+      "Erhalt der Ursprungswohnung": [
+        {
+          "value": 724
+        }
+      ]
+    },
+    "2020": {
+      "Erhalt der Ursprungswohnung": [
+        {
+          "value": 845
+        }
+      ],
+      "neue Mietwohnung / Wohnraumvermittlung / betreute Wohnform": [
+        {
+          "value": 756
+        }
+      ],
+      "ordnungsrechtliche Unterbringung": [
+        {
+          "value": 70
+        }
+      ],
+      "Kontaktabbruch bzw. Kontakt konnte nicht hergestellt werden": [
+        {
+          "value": 529
+        }
+      ]
+    },
+    "2021": {
+      "Kontaktabbruch bzw. Kontakt konnte nicht hergestellt werden": [
+        {
+          "value": 605
+        }
+      ],
+      "ordnungsrechtliche Unterbringung": [
+        {
+          "value": 232
+        }
+      ],
+      "neue Mietwohnung / Wohnraumvermittlung / betreute Wohnform": [
+        {
+          "value": 595
+        }
+      ],
+      "Erhalt der Ursprungswohnung": [
+        {
+          "value": 693
+        }
+      ]
+    },
+    "2022": {
+      "Erhalt der Ursprungswohnung": [
+        {
+          "value": 460
+        }
+      ],
+      "neue Mietwohnung / Wohnraumvermittlung / betreute Wohnform": [
+        {
+          "value": 262
+        }
+      ],
+      "ordnungsrechtliche Unterbringung": [
+        {
+          "value": 117
+        }
+      ],
+      "Kontaktabbruch bzw. Kontakt konnte nicht hergestellt werden": [
+        {
+          "value": 373
+        }
+      ]
+    }
+  }
+}

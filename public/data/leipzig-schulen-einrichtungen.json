@@ -1,0 +1,3389 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=5&rubrik_nr=1&periode=y",
+    "title": "Schulen__Einrichtungen"
+  },
+  "data": {
+    "2001/02": {
+      "Einrichtungen": [
+        {
+          "value": 175
+        },
+        {
+          "value": 76
+        },
+        {
+          "value": 50
+        },
+        {
+          "value": 26
+        },
+        {
+          "value": 20
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Klassen": [
+        {
+          "value": 2015
+        },
+        {
+          "value": 543
+        },
+        {
+          "value": 671
+        },
+        {
+          "value": 489
+        },
+        {
+          "value": 290
+        },
+        {
+          "value": 13
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Schüler": [
+        {
+          "value": 46708
+        },
+        {
+          "value": 10529
+        },
+        {
+          "value": 16136
+        },
+        {
+          "value": 16265
+        },
+        {
+          "value": 2908
+        },
+        {
+          "value": 336
+        },
+        {
+          "value": 534
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Lehrer": [
+        {
+          "value": 3774
+        },
+        {
+          "value": 1071
+        },
+        {
+          "value": 1079
+        },
+        {
+          "value": 1109
+        },
+        {
+          "value": 451
+        },
+        {
+          "value": 30
+        },
+        {
+          "value": 34
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "darunter mit Migrationshintergrund": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2002/03": {
+      "darunter mit Migrationshintergrund": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Einrichtungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 164
+        },
+        {
+          "value": 73
+        },
+        {
+          "value": 44
+        },
+        {
+          "value": 26
+        },
+        {
+          "value": 18
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 3
+        }
+      ],
+      "Klassen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 1926
+        },
+        {
+          "value": 534
+        },
+        {
+          "value": 624
+        },
+        {
+          "value": 460
+        },
+        {
+          "value": 284
+        },
+        {
+          "value": 13
+        },
+        {
+          "value": null
+        }
+      ],
+      "Schüler": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 43836
+        },
+        {
+          "value": 10113
+        },
+        {
+          "value": 14930
+        },
+        {
+          "value": 14959
+        },
+        {
+          "value": 2847
+        },
+        {
+          "value": 337
+        },
+        {
+          "value": 650
+        }
+      ],
+      "Lehrer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 3742
+        },
+        {
+          "value": 1050
+        },
+        {
+          "value": 1068
+        },
+        {
+          "value": 1102
+        },
+        {
+          "value": 457
+        },
+        {
+          "value": 28
+        },
+        {
+          "value": 37
+        }
+      ]
+    },
+    "2003/04": {
+      "Einrichtungen": [
+        {
+          "value": 155
+        },
+        {
+          "value": 73
+        },
+        {
+          "value": 38
+        },
+        {
+          "value": 23
+        },
+        {
+          "value": 18
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Klassen": [
+        {
+          "value": 1860
+        },
+        {
+          "value": 550
+        },
+        {
+          "value": 572
+        },
+        {
+          "value": 425
+        },
+        {
+          "value": 287
+        },
+        {
+          "value": 14
+        },
+        {
+          "value": 16
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Schüler": [
+        {
+          "value": 41637
+        },
+        {
+          "value": 10354
+        },
+        {
+          "value": 13514
+        },
+        {
+          "value": 13825
+        },
+        {
+          "value": 2878
+        },
+        {
+          "value": 343
+        },
+        {
+          "value": 723
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Lehrer": [
+        {
+          "value": 3720
+        },
+        {
+          "value": 1060
+        },
+        {
+          "value": 1041
+        },
+        {
+          "value": 1065
+        },
+        {
+          "value": 476
+        },
+        {
+          "value": 33
+        },
+        {
+          "value": 45
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "darunter mit Migrationshintergrund": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2004/05": {
+      "darunter mit Migrationshintergrund": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Einrichtungen": [
+        {
+          "value": 154
+        },
+        {
+          "value": 73
+        },
+        {
+          "value": 38
+        },
+        {
+          "value": 22
+        },
+        {
+          "value": 18
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Klassen": [
+        {
+          "value": 1796
+        },
+        {
+          "value": 577
+        },
+        {
+          "value": 513
+        },
+        {
+          "value": 391
+        },
+        {
+          "value": 287
+        },
+        {
+          "value": 13
+        },
+        {
+          "value": 18
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Schüler": [
+        {
+          "value": 40152
+        },
+        {
+          "value": 11057
+        },
+        {
+          "value": 11988
+        },
+        {
+          "value": 13088
+        },
+        {
+          "value": 2878
+        },
+        {
+          "value": 342
+        },
+        {
+          "value": 799
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Lehrer": [
+        {
+          "value": 3679
+        },
+        {
+          "value": 1033
+        },
+        {
+          "value": 1028
+        },
+        {
+          "value": 1074
+        },
+        {
+          "value": 469
+        },
+        {
+          "value": 30
+        },
+        {
+          "value": 45
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2005/06": {
+      "Einrichtungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 148
+        },
+        {
+          "value": 74
+        },
+        {
+          "value": 33
+        },
+        {
+          "value": 19
+        },
+        {
+          "value": 18
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 3
+        }
+      ],
+      "Klassen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 1733
+        },
+        {
+          "value": 611
+        },
+        {
+          "value": 459
+        },
+        {
+          "value": 355
+        },
+        {
+          "value": 280
+        },
+        {
+          "value": 10
+        },
+        {
+          "value": 18
+        }
+      ],
+      "Schüler": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 38581
+        },
+        {
+          "value": 11965
+        },
+        {
+          "value": 10378
+        },
+        {
+          "value": 12282
+        },
+        {
+          "value": 2797
+        },
+        {
+          "value": 336
+        },
+        {
+          "value": 823
+        }
+      ],
+      "darunter mit Migrationshintergrund": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 2472
+        },
+        {
+          "value": 913
+        },
+        {
+          "value": 725
+        },
+        {
+          "value": 760
+        },
+        {
+          "value": 74
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Lehrer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 3603
+        },
+        {
+          "value": 1023
+        },
+        {
+          "value": 973
+        },
+        {
+          "value": 1026
+        },
+        {
+          "value": 499
+        },
+        {
+          "value": 31
+        },
+        {
+          "value": 51
+        }
+      ]
+    },
+    "2006/07": {
+      "darunter mit Migrationshintergrund": [
+        {
+          "value": 2526
+        },
+        {
+          "value": 875
+        },
+        {
+          "value": 703
+        },
+        {
+          "value": 875
+        },
+        {
+          "value": 73
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Klassen": [
+        {
+          "value": 18
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 1677
+        },
+        {
+          "value": 643
+        },
+        {
+          "value": 399
+        },
+        {
+          "value": 318
+        },
+        {
+          "value": 289
+        },
+        {
+          "value": 10
+        }
+      ],
+      "Schüler": [
+        {
+          "value": 811
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 37292
+        },
+        {
+          "value": 12805
+        },
+        {
+          "value": 9012
+        },
+        {
+          "value": 11543
+        },
+        {
+          "value": 2785
+        },
+        {
+          "value": 336
+        }
+      ],
+      "Lehrer": [
+        {
+          "value": 61
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 3605
+        },
+        {
+          "value": 1025
+        },
+        {
+          "value": 927
+        },
+        {
+          "value": 1067
+        },
+        {
+          "value": 497
+        },
+        {
+          "value": 28
+        }
+      ],
+      "Einrichtungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 145
+        },
+        {
+          "value": 74
+        },
+        {
+          "value": 32
+        },
+        {
+          "value": 18
+        },
+        {
+          "value": 18
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 3
+        }
+      ]
+    },
+    "2007/08": {
+      "Einrichtungen": [
+        {
+          "value": 142
+        },
+        {
+          "value": 74
+        },
+        {
+          "value": 29
+        },
+        {
+          "value": 19
+        },
+        {
+          "value": 18
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Klassen": [
+        {
+          "value": 1638
+        },
+        {
+          "value": 659
+        },
+        {
+          "value": 366
+        },
+        {
+          "value": 311
+        },
+        {
+          "value": 273
+        },
+        {
+          "value": 11
+        },
+        {
+          "value": 18
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Schüler": [
+        {
+          "value": 36183
+        },
+        {
+          "value": 13408
+        },
+        {
+          "value": 7945
+        },
+        {
+          "value": 10997
+        },
+        {
+          "value": 2707
+        },
+        {
+          "value": 345
+        },
+        {
+          "value": 781
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Lehrer": [
+        {
+          "value": 3568
+        },
+        {
+          "value": 1016
+        },
+        {
+          "value": 902
+        },
+        {
+          "value": 1067
+        },
+        {
+          "value": 492
+        },
+        {
+          "value": 30
+        },
+        {
+          "value": 61
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "darunter mit Migrationshintergrund": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 2712
+        },
+        {
+          "value": 960
+        },
+        {
+          "value": 809
+        },
+        {
+          "value": 873
+        },
+        {
+          "value": 70
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2008/09": {
+      "darunter mit Migrationshintergrund": [
+        {
+          "value": 3305
+        },
+        {
+          "value": 1329
+        },
+        {
+          "value": 907
+        },
+        {
+          "value": 895
+        },
+        {
+          "value": 92
+        },
+        {
+          "value": 9
+        },
+        {
+          "value": 73
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Einrichtungen": [
+        {
+          "value": 145
+        },
+        {
+          "value": 74
+        },
+        {
+          "value": 30
+        },
+        {
+          "value": 20
+        },
+        {
+          "value": 18
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Klassen": [
+        {
+          "value": 1672
+        },
+        {
+          "value": 673
+        },
+        {
+          "value": 356
+        },
+        {
+          "value": 333
+        },
+        {
+          "value": 279
+        },
+        {
+          "value": 12
+        },
+        {
+          "value": 19
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Schüler": [
+        {
+          "value": 35804
+        },
+        {
+          "value": 13775
+        },
+        {
+          "value": 7589
+        },
+        {
+          "value": 10691
+        },
+        {
+          "value": 2606
+        },
+        {
+          "value": 367
+        },
+        {
+          "value": 776
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Lehrer": [
+        {
+          "value": 3552
+        },
+        {
+          "value": 1006
+        },
+        {
+          "value": 895
+        },
+        {
+          "value": 1075
+        },
+        {
+          "value": 483
+        },
+        {
+          "value": 31
+        },
+        {
+          "value": 62
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2009/10": {
+      "Einrichtungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 74
+        },
+        {
+          "value": 28
+        },
+        {
+          "value": 20
+        },
+        {
+          "value": 18
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 143
+        }
+      ],
+      "Klassen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 687
+        },
+        {
+          "value": 351
+        },
+        {
+          "value": 358
+        },
+        {
+          "value": 274
+        },
+        {
+          "value": 11
+        },
+        {
+          "value": 19
+        },
+        {
+          "value": 1700
+        }
+      ],
+      "Schüler": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 14029
+        },
+        {
+          "value": 7626
+        },
+        {
+          "value": 10663
+        },
+        {
+          "value": 2580
+        },
+        {
+          "value": 344
+        },
+        {
+          "value": 802
+        },
+        {
+          "value": 36044
+        }
+      ],
+      "darunter mit Migrationshintergrund": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 3535
+        },
+        {
+          "value": 1532
+        },
+        {
+          "value": 932
+        },
+        {
+          "value": 894
+        },
+        {
+          "value": 121
+        },
+        {
+          "value": 9
+        },
+        {
+          "value": 57
+        }
+      ],
+      "Lehrer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 3546
+        },
+        {
+          "value": 1002
+        },
+        {
+          "value": 889
+        },
+        {
+          "value": 1073
+        },
+        {
+          "value": 482
+        },
+        {
+          "value": 30
+        },
+        {
+          "value": 70
+        }
+      ]
+    },
+    "2010/11": {
+      "darunter mit Migrationshintergrund": [
+        {
+          "value": 3957
+        },
+        {
+          "value": 1723
+        },
+        {
+          "value": 1085
+        },
+        {
+          "value": 938
+        },
+        {
+          "value": 160
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 51
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Einrichtungen": [
+        {
+          "value": 145
+        },
+        {
+          "value": 76
+        },
+        {
+          "value": 28
+        },
+        {
+          "value": 20
+        },
+        {
+          "value": 18
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Klassen": [
+        {
+          "value": 1767
+        },
+        {
+          "value": 713
+        },
+        {
+          "value": 359
+        },
+        {
+          "value": 389
+        },
+        {
+          "value": 271
+        },
+        {
+          "value": 16
+        },
+        {
+          "value": 19
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Schüler": [
+        {
+          "value": 37476
+        },
+        {
+          "value": 14574
+        },
+        {
+          "value": 7902
+        },
+        {
+          "value": 11196
+        },
+        {
+          "value": 2612
+        },
+        {
+          "value": 371
+        },
+        {
+          "value": 821
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Lehrer": [
+        {
+          "value": 3503
+        },
+        {
+          "value": 994
+        },
+        {
+          "value": 845
+        },
+        {
+          "value": 1085
+        },
+        {
+          "value": 474
+        },
+        {
+          "value": 35
+        },
+        {
+          "value": 70
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2011/12": {
+      "Einrichtungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 145
+        },
+        {
+          "value": 75
+        },
+        {
+          "value": 28
+        },
+        {
+          "value": 20
+        },
+        {
+          "value": 18
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 2
+        }
+      ],
+      "Klassen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 1813
+        },
+        {
+          "value": 727
+        },
+        {
+          "value": 377
+        },
+        {
+          "value": 405
+        },
+        {
+          "value": 272
+        },
+        {
+          "value": 13
+        },
+        {
+          "value": 19
+        }
+      ],
+      "Schüler": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 38986
+        },
+        {
+          "value": 15069
+        },
+        {
+          "value": 8528
+        },
+        {
+          "value": 11579
+        },
+        {
+          "value": 2608
+        },
+        {
+          "value": 395
+        },
+        {
+          "value": 807
+        }
+      ],
+      "darunter mit Migrationshintergrund": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 4443
+        },
+        {
+          "value": 1954
+        },
+        {
+          "value": 1114
+        },
+        {
+          "value": 1049
+        },
+        {
+          "value": 205
+        },
+        {
+          "value": 19
+        },
+        {
+          "value": 102
+        }
+      ],
+      "Lehrer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 3466
+        },
+        {
+          "value": 1018
+        },
+        {
+          "value": 828
+        },
+        {
+          "value": 1038
+        },
+        {
+          "value": 478
+        },
+        {
+          "value": 37
+        },
+        {
+          "value": 67
+        }
+      ]
+    },
+    "2012/13": {
+      "Einrichtungen": [
+        {
+          "value": 147
+        },
+        {
+          "value": 76
+        },
+        {
+          "value": 28
+        },
+        {
+          "value": 21
+        },
+        {
+          "value": 18
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Klassen": [
+        {
+          "value": 1857
+        },
+        {
+          "value": 735
+        },
+        {
+          "value": 400
+        },
+        {
+          "value": 414
+        },
+        {
+          "value": 272
+        },
+        {
+          "value": 17
+        },
+        {
+          "value": 19
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Schüler": [
+        {
+          "value": 40797
+        },
+        {
+          "value": 15579
+        },
+        {
+          "value": 9189
+        },
+        {
+          "value": 12153
+        },
+        {
+          "value": 2646
+        },
+        {
+          "value": 427
+        },
+        {
+          "value": 803
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "darunter mit Migrationshintergrund": [
+        {
+          "value": 5121
+        },
+        {
+          "value": 2277
+        },
+        {
+          "value": 1259
+        },
+        {
+          "value": 1190
+        },
+        {
+          "value": 262
+        },
+        {
+          "value": 21
+        },
+        {
+          "value": 112
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Lehrer": [
+        {
+          "value": 3514
+        },
+        {
+          "value": 1067
+        },
+        {
+          "value": 828
+        },
+        {
+          "value": 1041
+        },
+        {
+          "value": 479
+        },
+        {
+          "value": 37
+        },
+        {
+          "value": 62
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2013/14": {
+      "Einrichtungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 21
+        },
+        {
+          "value": 18
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 147
+        },
+        {
+          "value": 76
+        },
+        {
+          "value": 28
+        }
+      ],
+      "Klassen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 422
+        },
+        {
+          "value": 274
+        },
+        {
+          "value": 18
+        },
+        {
+          "value": 19
+        },
+        {
+          "value": 1911
+        },
+        {
+          "value": 759
+        },
+        {
+          "value": 419
+        }
+      ],
+      "Schüler": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 12788
+        },
+        {
+          "value": 2578
+        },
+        {
+          "value": 454
+        },
+        {
+          "value": 782
+        },
+        {
+          "value": 42562
+        },
+        {
+          "value": 16324
+        },
+        {
+          "value": 9636
+        }
+      ],
+      "darunter mit Migrationshintergrund": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 1417
+        },
+        {
+          "value": 266
+        },
+        {
+          "value": 25
+        },
+        {
+          "value": 84
+        },
+        {
+          "value": 5627
+        },
+        {
+          "value": 2437
+        },
+        {
+          "value": 1398
+        }
+      ],
+      "Lehrer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 1072
+        },
+        {
+          "value": 510
+        },
+        {
+          "value": 38
+        },
+        {
+          "value": 64
+        },
+        {
+          "value": 3593
+        },
+        {
+          "value": 1051
+        },
+        {
+          "value": 858
+        }
+      ]
+    },
+    "2014/15": {
+      "Einrichtungen": [
+        {
+          "value": 148
+        },
+        {
+          "value": 76
+        },
+        {
+          "value": 29
+        },
+        {
+          "value": 21
+        },
+        {
+          "value": 18
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Klassen": [
+        {
+          "value": 1974
+        },
+        {
+          "value": 800
+        },
+        {
+          "value": 441
+        },
+        {
+          "value": 427
+        },
+        {
+          "value": 270
+        },
+        {
+          "value": 16
+        },
+        {
+          "value": 20
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Schüler": [
+        {
+          "value": 44774
+        },
+        {
+          "value": 17155
+        },
+        {
+          "value": 10174
+        },
+        {
+          "value": 13553
+        },
+        {
+          "value": 2590
+        },
+        {
+          "value": 490
+        },
+        {
+          "value": 812
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "darunter mit Migrationshintergrund": [
+        {
+          "value": 6433
+        },
+        {
+          "value": 2753
+        },
+        {
+          "value": 1689
+        },
+        {
+          "value": 1545
+        },
+        {
+          "value": 286
+        },
+        {
+          "value": 55
+        },
+        {
+          "value": 105
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Lehrer": [
+        {
+          "value": 3696
+        },
+        {
+          "value": 1067
+        },
+        {
+          "value": 888
+        },
+        {
+          "value": 1124
+        },
+        {
+          "value": 513
+        },
+        {
+          "value": 42
+        },
+        {
+          "value": 62
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2015/16": {
+      "Einrichtungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 152
+        },
+        {
+          "value": 77
+        },
+        {
+          "value": 30
+        },
+        {
+          "value": 21
+        },
+        {
+          "value": 19
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 3
+        }
+      ],
+      "Klassen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 2044
+        },
+        {
+          "value": 834
+        },
+        {
+          "value": 470
+        },
+        {
+          "value": 432
+        },
+        {
+          "value": 270
+        },
+        {
+          "value": 18
+        },
+        {
+          "value": 20
+        }
+      ],
+      "Schüler": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 46487
+        },
+        {
+          "value": 17943
+        },
+        {
+          "value": 10724
+        },
+        {
+          "value": 13983
+        },
+        {
+          "value": 2550
+        },
+        {
+          "value": 529
+        },
+        {
+          "value": 758
+        }
+      ],
+      "darunter mit Migrationshintergrund": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 7374
+        },
+        {
+          "value": 3145
+        },
+        {
+          "value": 1999
+        },
+        {
+          "value": 1701
+        },
+        {
+          "value": 324
+        },
+        {
+          "value": 55
+        },
+        {
+          "value": 150
+        }
+      ],
+      "Lehrer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 3857
+        },
+        {
+          "value": 1117
+        },
+        {
+          "value": 958
+        },
+        {
+          "value": 1169
+        },
+        {
+          "value": 507
+        },
+        {
+          "value": 47
+        },
+        {
+          "value": 59
+        }
+      ]
+    },
+    "2016/17": {
+      "Einrichtungen": [
+        {
+          "value": 153
+        },
+        {
+          "value": 77
+        },
+        {
+          "value": 30
+        },
+        {
+          "value": 22
+        },
+        {
+          "value": 19
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Klassen": [
+        {
+          "value": 2065
+        },
+        {
+          "value": 838
+        },
+        {
+          "value": 479
+        },
+        {
+          "value": 441
+        },
+        {
+          "value": 266
+        },
+        {
+          "value": 20
+        },
+        {
+          "value": 21
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Schüler": [
+        {
+          "value": 49000
+        },
+        {
+          "value": 19249
+        },
+        {
+          "value": 11428
+        },
+        {
+          "value": 14437
+        },
+        {
+          "value": 2539
+        },
+        {
+          "value": 577
+        },
+        {
+          "value": 770
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "darunter mit Migrationshintergrund": [
+        {
+          "value": 9019
+        },
+        {
+          "value": 3917
+        },
+        {
+          "value": 2516
+        },
+        {
+          "value": 1993
+        },
+        {
+          "value": 344
+        },
+        {
+          "value": 65
+        },
+        {
+          "value": 184
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Lehrer": [
+        {
+          "value": 4123
+        },
+        {
+          "value": 1233
+        },
+        {
+          "value": 966
+        },
+        {
+          "value": 1248
+        },
+        {
+          "value": 512
+        },
+        {
+          "value": 52
+        },
+        {
+          "value": 56
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2017/18": {
+      "Einrichtungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 154
+        },
+        {
+          "value": 77
+        },
+        {
+          "value": 30
+        },
+        {
+          "value": 23
+        },
+        {
+          "value": 19
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 3
+        }
+      ],
+      "Klassen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 2144
+        },
+        {
+          "value": 869
+        },
+        {
+          "value": 492
+        },
+        {
+          "value": 464
+        },
+        {
+          "value": 270
+        },
+        {
+          "value": 26
+        },
+        {
+          "value": 23
+        }
+      ],
+      "Schüler": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 50853
+        },
+        {
+          "value": 20063
+        },
+        {
+          "value": 11799
+        },
+        {
+          "value": 14909
+        },
+        {
+          "value": 2559
+        },
+        {
+          "value": 646
+        },
+        {
+          "value": 877
+        }
+      ],
+      "darunter mit Migrationshintergrund": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 9993
+        },
+        {
+          "value": 4217
+        },
+        {
+          "value": 2852
+        },
+        {
+          "value": 2184
+        },
+        {
+          "value": 386
+        },
+        {
+          "value": 82
+        },
+        {
+          "value": 272
+        }
+      ],
+      "Lehrer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 4238
+        },
+        {
+          "value": 1319
+        },
+        {
+          "value": 1007
+        },
+        {
+          "value": 1279
+        },
+        {
+          "value": 518
+        },
+        {
+          "value": 59
+        },
+        {
+          "value": 56
+        }
+      ]
+    },
+    "2018/19": {
+      "Einrichtungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 159
+        },
+        {
+          "value": 79
+        },
+        {
+          "value": 33
+        },
+        {
+          "value": 23
+        },
+        {
+          "value": 19
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 3
+        }
+      ],
+      "Klassen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 2244
+        },
+        {
+          "value": 907
+        },
+        {
+          "value": 514
+        },
+        {
+          "value": 499
+        },
+        {
+          "value": 273
+        },
+        {
+          "value": 28
+        },
+        {
+          "value": 23
+        }
+      ],
+      "Schüler": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 52439
+        },
+        {
+          "value": 20720
+        },
+        {
+          "value": 12047
+        },
+        {
+          "value": 15664
+        },
+        {
+          "value": 2563
+        },
+        {
+          "value": 690
+        },
+        {
+          "value": 755
+        }
+      ],
+      "darunter mit Migrationshintergrund": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 11164
+        },
+        {
+          "value": 4581
+        },
+        {
+          "value": 3028
+        },
+        {
+          "value": 2425
+        },
+        {
+          "value": 466
+        },
+        {
+          "value": 86
+        },
+        {
+          "value": 289
+        }
+      ],
+      "Lehrer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 4535
+        },
+        {
+          "value": 1435
+        },
+        {
+          "value": 1051
+        },
+        {
+          "value": 1387
+        },
+        {
+          "value": 538
+        },
+        {
+          "value": 68
+        },
+        {
+          "value": 56
+        }
+      ]
+    },
+    "2019/20": {
+      "Einrichtungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 161
+        },
+        {
+          "value": 79
+        },
+        {
+          "value": 34
+        },
+        {
+          "value": 24
+        },
+        {
+          "value": 19
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 3
+        }
+      ],
+      "Klassen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 2367
+        },
+        {
+          "value": 946
+        },
+        {
+          "value": 535
+        },
+        {
+          "value": 529
+        },
+        {
+          "value": 281
+        },
+        {
+          "value": 30
+        },
+        {
+          "value": 23
+        }
+      ],
+      "Schüler": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 54036
+        },
+        {
+          "value": 21054
+        },
+        {
+          "value": 12474
+        },
+        {
+          "value": 16316
+        },
+        {
+          "value": 2631
+        },
+        {
+          "value": 743
+        },
+        {
+          "value": 818
+        }
+      ],
+      "darunter mit Migrationshintergrund": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 11400
+        },
+        {
+          "value": 4691
+        },
+        {
+          "value": 3172
+        },
+        {
+          "value": 2616
+        },
+        {
+          "value": 423
+        },
+        {
+          "value": 88
+        },
+        {
+          "value": 269
+        }
+      ],
+      "Lehrer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 4723
+        },
+        {
+          "value": 1499
+        },
+        {
+          "value": 1074
+        },
+        {
+          "value": 1415
+        },
+        {
+          "value": 563
+        },
+        {
+          "value": 66
+        },
+        {
+          "value": 53
+        }
+      ]
+    },
+    "2020/21": {
+      "Einrichtungen": [
+        {
+          "value": 167
+        },
+        {
+          "value": 82
+        },
+        {
+          "value": 35
+        },
+        {
+          "value": 25
+        },
+        {
+          "value": 20
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Klassen": [
+        {
+          "value": 2415
+        },
+        {
+          "value": 975
+        },
+        {
+          "value": 551
+        },
+        {
+          "value": 554
+        },
+        {
+          "value": 286
+        },
+        {
+          "value": 27
+        },
+        {
+          "value": 22
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Schüler": [
+        {
+          "value": 55610
+        },
+        {
+          "value": 21450
+        },
+        {
+          "value": 12781
+        },
+        {
+          "value": 17075
+        },
+        {
+          "value": 2706
+        },
+        {
+          "value": 803
+        },
+        {
+          "value": 795
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "darunter mit Migrationshintergrund": [
+        {
+          "value": 12007
+        },
+        {
+          "value": 4867
+        },
+        {
+          "value": 3559
+        },
+        {
+          "value": 2904
+        },
+        {
+          "value": 549
+        },
+        {
+          "value": 88
+        },
+        {
+          "value": 340
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Lehrer": [
+        {
+          "value": 4738
+        },
+        {
+          "value": 1501
+        },
+        {
+          "value": 1098
+        },
+        {
+          "value": 1402
+        },
+        {
+          "value": 558
+        },
+        {
+          "value": 71
+        },
+        {
+          "value": 54
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2021/22": {
+      "Einrichtungen": [
+        {
+          "value": 1
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 170
+        },
+        {
+          "value": 82
+        },
+        {
+          "value": 36
+        },
+        {
+          "value": 26
+        },
+        {
+          "value": 20
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 3
+        }
+      ],
+      "Klassen": [
+        {
+          "value": 6
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 2491
+        },
+        {
+          "value": 983
+        },
+        {
+          "value": 574
+        },
+        {
+          "value": 586
+        },
+        {
+          "value": 293
+        },
+        {
+          "value": 28
+        },
+        {
+          "value": 21
+        }
+      ],
+      "Schüler": [
+        {
+          "value": 51
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 57158
+        },
+        {
+          "value": 21664
+        },
+        {
+          "value": 13130
+        },
+        {
+          "value": 17982
+        },
+        {
+          "value": 2721
+        },
+        {
+          "value": 853
+        },
+        {
+          "value": 757
+        }
+      ],
+      "darunter mit Migrationshintergrund": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 12469
+        },
+        {
+          "value": 4966
+        },
+        {
+          "value": 3387
+        },
+        {
+          "value": 3134
+        },
+        {
+          "value": 563
+        },
+        {
+          "value": 94
+        },
+        {
+          "value": 325
+        }
+      ],
+      "Lehrer": [
+        {
+          "value": 5
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 4894
+        },
+        {
+          "value": 1532
+        },
+        {
+          "value": 1150
+        },
+        {
+          "value": 1489
+        },
+        {
+          "value": 577
+        },
+        {
+          "value": 83
+        },
+        {
+          "value": 58
+        }
+      ]
+    },
+    "2022/23": {
+      "Einrichtungen": [
+        {
+          "value": 1
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 172
+        },
+        {
+          "value": 83
+        },
+        {
+          "value": 35
+        },
+        {
+          "value": 27
+        },
+        {
+          "value": 20
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 3
+        }
+      ],
+      "Klassen": [
+        {
+          "value": 9
+        },
+        {
+          "value": 20
+        },
+        {
+          "value": 8
+        },
+        {
+          "value": 20
+        },
+        {
+          "value": 2586
+        },
+        {
+          "value": 1016
+        },
+        {
+          "value": 564
+        },
+        {
+          "value": 621
+        },
+        {
+          "value": 301
+        },
+        {
+          "value": 36
+        },
+        {
+          "value": 20
+        }
+      ],
+      "Schüler": [
+        {
+          "value": 64
+        },
+        {
+          "value": 517
+        },
+        {
+          "value": 59
+        },
+        {
+          "value": 532
+        },
+        {
+          "value": 60661
+        },
+        {
+          "value": 22944
+        },
+        {
+          "value": 13417
+        },
+        {
+          "value": 19249
+        },
+        {
+          "value": 2789
+        },
+        {
+          "value": 922
+        },
+        {
+          "value": 749
+        }
+      ],
+      "darunter mit Migrationshintergrund": [
+        {
+          "value": null
+        },
+        {
+          "value": 57
+        },
+        {
+          "value": 0
+        },
+        {
+          "value": 79
+        },
+        {
+          "value": 14811
+        },
+        {
+          "value": 5877
+        },
+        {
+          "value": 3965
+        },
+        {
+          "value": 3827
+        },
+        {
+          "value": 606
+        },
+        {
+          "value": 101
+        },
+        {
+          "value": 356
+        }
+      ],
+      "Lehrer": [
+        {
+          "value": 6
+        },
+        {
+          "value": 40
+        },
+        {
+          "value": 6
+        },
+        {
+          "value": 38
+        },
+        {
+          "value": 5082
+        },
+        {
+          "value": 1598
+        },
+        {
+          "value": 1138
+        },
+        {
+          "value": 1585
+        },
+        {
+          "value": 582
+        },
+        {
+          "value": 80
+        },
+        {
+          "value": 55
+        }
+      ]
+    },
+    "2023/24": {
+      "Einrichtungen": [
+        {
+          "value": 173
+        },
+        {
+          "value": 83
+        },
+        {
+          "value": 35
+        },
+        {
+          "value": 28
+        },
+        {
+          "value": 20
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 3
+        }
+      ],
+      "Klassen": [
+        {
+          "value": 2681
+        },
+        {
+          "value": 1048
+        },
+        {
+          "value": 580
+        },
+        {
+          "value": 657
+        },
+        {
+          "value": 311
+        },
+        {
+          "value": 36
+        },
+        {
+          "value": 20
+        }
+      ],
+      "Schüler": [
+        {
+          "value": 62273
+        },
+        {
+          "value": 23415
+        },
+        {
+          "value": 13842
+        },
+        {
+          "value": 19918
+        },
+        {
+          "value": 2884
+        },
+        {
+          "value": 933
+        },
+        {
+          "value": 700
+        }
+      ],
+      "darunter mit Migrationshintergrund": [
+        {
+          "value": 15719
+        },
+        {
+          "value": 6274
+        },
+        {
+          "value": 4172
+        },
+        {
+          "value": 4060
+        },
+        {
+          "value": 676
+        },
+        {
+          "value": 126
+        },
+        {
+          "value": 354
+        }
+      ],
+      "Lehrer": [
+        {
+          "value": 5379
+        },
+        {
+          "value": 1679
+        },
+        {
+          "value": 1175
+        },
+        {
+          "value": 1710
+        },
+        {
+          "value": 618
+        },
+        {
+          "value": 96
+        },
+        {
+          "value": 55
+        }
+      ]
+    }
+  }
+}

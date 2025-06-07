@@ -1,0 +1,602 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=5&rubrik_nr=2&periode=y",
+    "title": "Einschulung an eine Grundschule"
+  },
+  "data": {
+    "2001/02": {
+      "Einschulung an eine Grundschule": [
+        {
+          "value": 2344
+        }
+      ],
+      "fristgemäß": [
+        {
+          "value": 2054
+        }
+      ],
+      "vorzeitig": [
+        {
+          "value": 51
+        }
+      ],
+      "nach Rückstellung": [
+        {
+          "value": 239
+        }
+      ],
+      "Einschulung an eine Förderschule": [
+        {
+          "value": 144
+        }
+      ]
+    },
+    "2002/03": {
+      "Einschulung an eine Förderschule": [
+        {
+          "value": 128
+        }
+      ],
+      "nach Rückstellung": [
+        {
+          "value": 244
+        }
+      ],
+      "vorzeitig": [
+        {
+          "value": 79
+        }
+      ],
+      "fristgemäß": [
+        {
+          "value": 2227
+        }
+      ],
+      "Einschulung an eine Grundschule": [
+        {
+          "value": 2550
+        }
+      ]
+    },
+    "2003/04": {
+      "Einschulung an eine Grundschule": [
+        {
+          "value": 2789
+        }
+      ],
+      "fristgemäß": [
+        {
+          "value": 2468
+        }
+      ],
+      "vorzeitig": [
+        {
+          "value": 119
+        }
+      ],
+      "nach Rückstellung": [
+        {
+          "value": 202
+        }
+      ],
+      "Einschulung an eine Förderschule": [
+        {
+          "value": 168
+        }
+      ]
+    },
+    "2004/05": {
+      "Einschulung an eine Förderschule": [
+        {
+          "value": 212
+        }
+      ],
+      "nach Rückstellung": [
+        {
+          "value": 186
+        }
+      ],
+      "vorzeitig": [
+        {
+          "value": 57
+        }
+      ],
+      "fristgemäß": [
+        {
+          "value": 2977
+        }
+      ],
+      "Einschulung an eine Grundschule": [
+        {
+          "value": 3220
+        }
+      ]
+    },
+    "2005/06": {
+      "Einschulung an eine Grundschule": [
+        {
+          "value": 3284
+        }
+      ],
+      "fristgemäß": [
+        {
+          "value": 3176
+        }
+      ],
+      "vorzeitig": [
+        {
+          "value": 45
+        }
+      ],
+      "nach Rückstellung": [
+        {
+          "value": 63
+        }
+      ],
+      "Einschulung an eine Förderschule": [
+        {
+          "value": 190
+        }
+      ]
+    },
+    "2006/07": {
+      "Einschulung an eine Förderschule": [
+        {
+          "value": 219
+        }
+      ],
+      "nach Rückstellung": [
+        {
+          "value": 77
+        }
+      ],
+      "vorzeitig": [
+        {
+          "value": 54
+        }
+      ],
+      "fristgemäß": [
+        {
+          "value": 3275
+        }
+      ],
+      "Einschulung an eine Grundschule": [
+        {
+          "value": 3406
+        }
+      ]
+    },
+    "2007/08": {
+      "Einschulung an eine Grundschule": [
+        {
+          "value": 3444
+        }
+      ],
+      "fristgemäß": [
+        {
+          "value": 3333
+        }
+      ],
+      "vorzeitig": [
+        {
+          "value": 45
+        }
+      ],
+      "nach Rückstellung": [
+        {
+          "value": 66
+        }
+      ],
+      "Einschulung an eine Förderschule": [
+        {
+          "value": 205
+        }
+      ]
+    },
+    "2008/09": {
+      "Einschulung an eine Förderschule": [
+        {
+          "value": 194
+        }
+      ],
+      "nach Rückstellung": [
+        {
+          "value": 90
+        }
+      ],
+      "vorzeitig": [
+        {
+          "value": 32
+        }
+      ],
+      "fristgemäß": [
+        {
+          "value": 3350
+        }
+      ],
+      "Einschulung an eine Grundschule": [
+        {
+          "value": 3472
+        }
+      ]
+    },
+    "2009/10": {
+      "Einschulung an eine Grundschule": [
+        {
+          "value": 3441
+        }
+      ],
+      "fristgemäß": [
+        {
+          "value": 3308
+        }
+      ],
+      "vorzeitig": [
+        {
+          "value": 35
+        }
+      ],
+      "nach Rückstellung": [
+        {
+          "value": 98
+        }
+      ],
+      "Einschulung an eine Förderschule": [
+        {
+          "value": 164
+        }
+      ]
+    },
+    "2010/11": {
+      "Einschulung an eine Förderschule": [
+        {
+          "value": 189
+        }
+      ],
+      "nach Rückstellung": [
+        {
+          "value": 154
+        }
+      ],
+      "vorzeitig": [
+        {
+          "value": 20
+        }
+      ],
+      "fristgemäß": [
+        {
+          "value": 3713
+        }
+      ],
+      "Einschulung an eine Grundschule": [
+        {
+          "value": 3887
+        }
+      ]
+    },
+    "2011/12": {
+      "Einschulung an eine Grundschule": [
+        {
+          "value": 3889
+        }
+      ],
+      "fristgemäß": [
+        {
+          "value": 3706
+        }
+      ],
+      "vorzeitig": [
+        {
+          "value": 16
+        }
+      ],
+      "nach Rückstellung": [
+        {
+          "value": 167
+        }
+      ],
+      "Einschulung an eine Förderschule": [
+        {
+          "value": 185
+        }
+      ]
+    },
+    "2012/13": {
+      "Einschulung an eine Grundschule": [
+        {
+          "value": 3952
+        }
+      ],
+      "fristgemäß": [
+        {
+          "value": 3785
+        }
+      ],
+      "vorzeitig": [
+        {
+          "value": 11
+        }
+      ],
+      "nach Rückstellung": [
+        {
+          "value": 156
+        }
+      ],
+      "Einschulung an eine Förderschule": [
+        {
+          "value": 196
+        }
+      ]
+    },
+    "2013/14": {
+      "Einschulung an eine Grundschule": [
+        {
+          "value": 4189
+        }
+      ],
+      "fristgemäß": [
+        {
+          "value": 3968
+        }
+      ],
+      "vorzeitig": [
+        {
+          "value": 10
+        }
+      ],
+      "nach Rückstellung": [
+        {
+          "value": 211
+        }
+      ],
+      "Einschulung an eine Förderschule": [
+        {
+          "value": 208
+        }
+      ]
+    },
+    "2014/15": {
+      "Einschulung an eine Grundschule": [
+        {
+          "value": 4606
+        }
+      ],
+      "fristgemäß": [
+        {
+          "value": 4326
+        }
+      ],
+      "vorzeitig": [
+        {
+          "value": 11
+        }
+      ],
+      "nach Rückstellung": [
+        {
+          "value": 269
+        }
+      ],
+      "Einschulung an eine Förderschule": [
+        {
+          "value": 189
+        }
+      ]
+    },
+    "2015/16": {
+      "Einschulung an eine Grundschule": [
+        {
+          "value": 4683
+        }
+      ],
+      "fristgemäß": [
+        {
+          "value": 4338
+        }
+      ],
+      "vorzeitig": [
+        {
+          "value": 15
+        }
+      ],
+      "nach Rückstellung": [
+        {
+          "value": 330
+        }
+      ],
+      "Einschulung an eine Förderschule": [
+        {
+          "value": 202
+        }
+      ]
+    },
+    "2016/17": {
+      "Einschulung an eine Grundschule": [
+        {
+          "value": 5215
+        }
+      ],
+      "fristgemäß": [
+        {
+          "value": 4810
+        }
+      ],
+      "vorzeitig": [
+        {
+          "value": 9
+        }
+      ],
+      "nach Rückstellung": [
+        {
+          "value": 396
+        }
+      ],
+      "Einschulung an eine Förderschule": [
+        {
+          "value": 177
+        }
+      ]
+    },
+    "2017/18": {
+      "Einschulung an eine Grundschule": [
+        {
+          "value": 5059
+        }
+      ],
+      "fristgemäß": [
+        {
+          "value": 4696
+        }
+      ],
+      "vorzeitig": [
+        {
+          "value": 12
+        }
+      ],
+      "nach Rückstellung": [
+        {
+          "value": 351
+        }
+      ],
+      "Einschulung an eine Förderschule": [
+        {
+          "value": 198
+        }
+      ]
+    },
+    "2018/19": {
+      "Einschulung an eine Grundschule": [
+        {
+          "value": 5190
+        }
+      ],
+      "fristgemäß": [
+        {
+          "value": 4824
+        }
+      ],
+      "vorzeitig": [
+        {
+          "value": 15
+        }
+      ],
+      "nach Rückstellung": [
+        {
+          "value": 351
+        }
+      ],
+      "Einschulung an eine Förderschule": [
+        {
+          "value": 183
+        }
+      ]
+    },
+    "2019/20": {
+      "Einschulung an eine Grundschule": [
+        {
+          "value": 5197
+        }
+      ],
+      "fristgemäß": [
+        {
+          "value": 4837
+        }
+      ],
+      "vorzeitig": [
+        {
+          "value": 12
+        }
+      ],
+      "nach Rückstellung": [
+        {
+          "value": 348
+        }
+      ],
+      "Einschulung an eine Förderschule": [
+        {
+          "value": 194
+        }
+      ]
+    },
+    "2020/21": {
+      "Einschulung an eine Grundschule": [
+        {
+          "value": 5441
+        }
+      ],
+      "fristgemäß": [
+        {
+          "value": 5089
+        }
+      ],
+      "vorzeitig": [
+        {
+          "value": 13
+        }
+      ],
+      "nach Rückstellung": [
+        {
+          "value": 339
+        }
+      ],
+      "Einschulung an eine Förderschule": [
+        {
+          "value": 200
+        }
+      ]
+    },
+    "2021/22": {
+      "Einschulung an eine Grundschule": [
+        {
+          "value": 5519
+        }
+      ],
+      "fristgemäß": [
+        {
+          "value": 5154
+        }
+      ],
+      "vorzeitig": [
+        {
+          "value": 9
+        }
+      ],
+      "nach Rückstellung": [
+        {
+          "value": 356
+        }
+      ],
+      "Einschulung an eine Förderschule": [
+        {
+          "value": 201
+        }
+      ]
+    },
+    "2022/23": {
+      "Einschulung an eine Grundschule": [
+        {
+          "value": 5657
+        }
+      ],
+      "fristgemäß": [
+        {
+          "value": 5215
+        }
+      ],
+      "vorzeitig": [
+        {
+          "value": 20
+        }
+      ],
+      "nach Rückstellung": [
+        {
+          "value": 422
+        }
+      ],
+      "Einschulung an eine Förderschule": [
+        {
+          "value": 210
+        }
+      ]
+    }
+  }
+}

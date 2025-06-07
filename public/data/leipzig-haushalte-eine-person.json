@@ -1,0 +1,328 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=6&rubrik_nr=23&periode=y",
+    "title": "Haushalte__eine Person"
+  },
+  "data": {
+    "2010": {
+      "eine Person": [
+        {
+          "value": 145369
+        }
+      ],
+      "zwei Personen": [
+        {
+          "value": 89969
+        }
+      ],
+      "drei Personen": [
+        {
+          "value": 33740
+        }
+      ],
+      "vier Personen und mehr": [
+        {
+          "value": 20792
+        }
+      ],
+      "Durchschnittliche Haushaltsgröße": [
+        {
+          "value": 1.78
+        }
+      ],
+      "Haushalte": [
+        {
+          "value": 289870
+        }
+      ]
+    },
+    "2015": {
+      "Haushalte": [
+        {
+          "value": 325444
+        }
+      ],
+      "Durchschnittliche Haushaltsgröße": [
+        {
+          "value": 1.75
+        }
+      ],
+      "vier Personen und mehr": [
+        {
+          "value": 24716
+        }
+      ],
+      "drei Personen": [
+        {
+          "value": 33082
+        }
+      ],
+      "zwei Personen": [
+        {
+          "value": 95022
+        }
+      ],
+      "eine Person": [
+        {
+          "value": 172624
+        }
+      ]
+    },
+    "2016": {
+      "eine Person": [
+        {
+          "value": 177305
+        }
+      ],
+      "zwei Personen": [
+        {
+          "value": 94767
+        }
+      ],
+      "drei Personen": [
+        {
+          "value": 33406
+        }
+      ],
+      "vier Personen und mehr": [
+        {
+          "value": 25470
+        }
+      ],
+      "Durchschnittliche Haushaltsgröße": [
+        {
+          "value": 1.75
+        }
+      ],
+      "Haushalte": [
+        {
+          "value": 330948
+        }
+      ]
+    },
+    "2017": {
+      "Haushalte": [
+        {
+          "value": 335466
+        }
+      ],
+      "vier Personen und mehr": [
+        {
+          "value": 26386
+        }
+      ],
+      "drei Personen": [
+        {
+          "value": 33326
+        }
+      ],
+      "zwei Personen": [
+        {
+          "value": 94981
+        }
+      ],
+      "eine Person": [
+        {
+          "value": 180773
+        }
+      ],
+      "Durchschnittliche Haushaltsgröße": [
+        {
+          "value": 1.75
+        }
+      ]
+    },
+    "2018": {
+      "Durchschnittliche Haushaltsgröße": [
+        {
+          "value": 1.75
+        }
+      ],
+      "eine Person": [
+        {
+          "value": 184121
+        }
+      ],
+      "zwei Personen": [
+        {
+          "value": 94423
+        }
+      ],
+      "drei Personen": [
+        {
+          "value": 33266
+        }
+      ],
+      "vier Personen und mehr": [
+        {
+          "value": 27194
+        }
+      ],
+      "Haushalte": [
+        {
+          "value": 339004
+        }
+      ]
+    },
+    "2019": {
+      "Haushalte": [
+        {
+          "value": 342903
+        }
+      ],
+      "vier Personen und mehr": [
+        {
+          "value": 27746
+        }
+      ],
+      "drei Personen": [
+        {
+          "value": 33122
+        }
+      ],
+      "zwei Personen": [
+        {
+          "value": 94054
+        }
+      ],
+      "eine Person": [
+        {
+          "value": 187981
+        }
+      ],
+      "Durchschnittliche Haushaltsgröße": [
+        {
+          "value": 1.74
+        }
+      ]
+    },
+    "2020": {
+      "Durchschnittliche Haushaltsgröße": [
+        {
+          "value": 1.74
+        }
+      ],
+      "eine Person": [
+        {
+          "value": 187825
+        }
+      ],
+      "zwei Personen": [
+        {
+          "value": 93108
+        }
+      ],
+      "drei Personen": [
+        {
+          "value": 33039
+        }
+      ],
+      "vier Personen und mehr": [
+        {
+          "value": 28358
+        }
+      ],
+      "Haushalte": [
+        {
+          "value": 342330
+        }
+      ]
+    },
+    "2021": {
+      "vier Personen und mehr": [
+        {
+          "value": 28793
+        }
+      ],
+      "Haushalte": [
+        {
+          "value": 346122
+        }
+      ],
+      "drei Personen": [
+        {
+          "value": 32843
+        }
+      ],
+      "zwei Personen": [
+        {
+          "value": 92658
+        }
+      ],
+      "eine Person": [
+        {
+          "value": 191828
+        }
+      ],
+      "Durchschnittliche Haushaltsgröße": [
+        {
+          "value": 1.73
+        }
+      ]
+    },
+    "2022": {
+      "Haushalte": [
+        {
+          "value": 356903
+        }
+      ],
+      "eine Person": [
+        {
+          "value": 200263
+        }
+      ],
+      "zwei Personen": [
+        {
+          "value": 93240
+        }
+      ],
+      "drei Personen": [
+        {
+          "value": 33519
+        }
+      ],
+      "vier Personen und mehr": [
+        {
+          "value": 29881
+        }
+      ],
+      "Durchschnittliche Haushaltsgröße": [
+        {
+          "value": 1.73369
+        }
+      ]
+    },
+    "2023": {
+      "Haushalte": [
+        {
+          "value": 360092
+        }
+      ],
+      "eine Person": [
+        {
+          "value": 204258
+        }
+      ],
+      "zwei Personen": [
+        {
+          "value": 92527
+        }
+      ],
+      "drei Personen": [
+        {
+          "value": 33565
+        }
+      ],
+      "vier Personen und mehr": [
+        {
+          "value": 29742
+        }
+      ],
+      "Durchschnittliche Haushaltsgröße": [
+        {
+          "value": 1.72
+        }
+      ]
+    }
+  }
+}

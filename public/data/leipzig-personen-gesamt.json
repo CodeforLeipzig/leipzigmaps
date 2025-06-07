@@ -1,0 +1,270 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=4&rubrik_nr=18&periode=y",
+    "title": "Personen__gesamt"
+  },
+  "data": {
+    "2018": {
+      "Personen gesamt": [
+        {
+          "value": 62
+        }
+      ],
+      "darunter Frauen": [
+        {
+          "value": 14
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 5
+        }
+      ],
+      "wohnungslos bei Freunden/Bekannten übernachtend": [
+        {
+          "value": 18
+        }
+      ],
+      "obdachlos in Notübernachtungsstellen": [
+        {
+          "value": 7
+        }
+      ],
+      "obdachlos auf der Straße / in Behelfsunterkünften": [
+        {
+          "value": 27
+        }
+      ],
+      "keine Auskunft": [
+        {
+          "value": 10
+        }
+      ]
+    },
+    "2019": {
+      "keine Auskunft": [
+        {
+          "value": 7
+        }
+      ],
+      "darunter Frauen": [
+        {
+          "value": 5
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 12
+        }
+      ],
+      "obdachlos auf der Straße / in Behelfsunterkünften": [
+        {
+          "value": 28
+        }
+      ],
+      "obdachlos in Notübernachtungsstellen": [
+        {
+          "value": 4
+        }
+      ],
+      "wohnungslos bei Freunden/Bekannten übernachtend": [
+        {
+          "value": 16
+        }
+      ],
+      "Personen gesamt": [
+        {
+          "value": 54
+        }
+      ]
+    },
+    "2020": {
+      "Personen gesamt": [
+        {
+          "value": 64
+        }
+      ],
+      "darunter Frauen": [
+        {
+          "value": 13
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 5
+        }
+      ],
+      "wohnungslos bei Freunden/Bekannten übernachtend": [
+        {
+          "value": 19
+        }
+      ],
+      "obdachlos in Notübernachtungsstellen": [
+        {
+          "value": 6
+        }
+      ],
+      "obdachlos auf der Straße / in Behelfsunterkünften": [
+        {
+          "value": 32
+        }
+      ],
+      "keine Auskunft": [
+        {
+          "value": 8
+        }
+      ]
+    },
+    "2021": {
+      "Personen gesamt": [
+        {
+          "value": 80
+        }
+      ],
+      "darunter Frauen": [
+        {
+          "value": 17
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 7
+        },
+        {
+          "value": 1
+        }
+      ],
+      "wohnungslos bei Freunden/Bekannten übernachtend": [
+        {
+          "value": 13
+        }
+      ],
+      "obdachlos in Notübernachtungsstellen": [
+        {
+          "value": 14
+        }
+      ],
+      "obdachlos auf der Straße / in Behelfsunterkünften": [
+        {
+          "value": 27
+        }
+      ],
+      "keine Auskunft": [
+        {
+          "value": 8
+        }
+      ]
+    },
+    "2022": {
+      "Personen gesamt": [
+        {
+          "value": 144
+        }
+      ],
+      "darunter Frauen": [
+        {
+          "value": 32
+        },
+        {
+          "value": 32
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 10
+        },
+        {
+          "value": 2
+        }
+      ],
+      "obdachlos in Notübernachtungsstellen": [
+        {
+          "value": 30
+        }
+      ],
+      "obdachlos auf der Straße / in Behelfsunterkünften": [
+        {
+          "value": 46
+        }
+      ],
+      "keine Auskunft": [
+        {
+          "value": 10
+        }
+      ]
+    },
+    "2023": {
+      "Personen gesamt": [
+        {
+          "value": 132
+        }
+      ],
+      "darunter Frauen": [
+        {
+          "value": 32
+        },
+        {
+          "value": 7
+        },
+        {
+          "value": 7
+        },
+        {
+          "value": 11
+        },
+        {
+          "value": 2
+        }
+      ],
+      "wohnungslos bei Freunden/Bekannten übernachtend": [
+        {
+          "value": 26
+        }
+      ],
+      "obdachlos in Notübernachtungsstellen": [
+        {
+          "value": 46
+        }
+      ],
+      "obdachlos auf der Straße / in Behelfsunterkünften": [
+        {
+          "value": 49
+        }
+      ],
+      "keine Auskunft": [
+        {
+          "value": 12
+        }
+      ]
+    }
+  }
+}

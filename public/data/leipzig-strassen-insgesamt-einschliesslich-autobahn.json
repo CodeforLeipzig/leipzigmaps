@@ -1,0 +1,744 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=10&rubrik_nr=1&periode=y",
+    "title": "Straßen__insgesamt (einschließlich Autobahn)"
+  },
+  "data": {
+    "2001": {
+      "Straßen insgesamt <br>(einschließlich Autobahn)": [
+        {
+          "value": 1575.8
+        }
+      ],
+      "Autobahn (A14, A38)": [
+        {
+          "value": 24
+        }
+      ],
+      "Bundesstraßen": [
+        {
+          "value": 91.3
+        }
+      ],
+      "Staatsstraßen": [
+        {
+          "value": 47.7
+        }
+      ],
+      "Kreisstraßen": [
+        {
+          "value": 65.6
+        }
+      ],
+      "Gemeindestraßen": [
+        {
+          "value": 1200.6
+        }
+      ]
+    },
+    "2002": {
+      "Straßen insgesamt <br>(einschließlich Autobahn)": [
+        {
+          "value": 1609.7
+        }
+      ],
+      "Autobahn (A14, A38)": [
+        {
+          "value": 24
+        }
+      ],
+      "Bundesstraßen": [
+        {
+          "value": 87
+        }
+      ],
+      "Staatsstraßen": [
+        {
+          "value": 46.5
+        }
+      ],
+      "Kreisstraßen": [
+        {
+          "value": 68.9
+        }
+      ],
+      "Gemeindestraßen": [
+        {
+          "value": 1197.7
+        }
+      ]
+    },
+    "2003": {
+      "Gemeindestraßen": [
+        {
+          "value": 1226.8
+        }
+      ],
+      "Kreisstraßen": [
+        {
+          "value": 65.6
+        }
+      ],
+      "Staatsstraßen": [
+        {
+          "value": 52.2
+        }
+      ],
+      "Bundesstraßen": [
+        {
+          "value": 89.4
+        }
+      ],
+      "Autobahn (A14, A38)": [
+        {
+          "value": 24
+        }
+      ],
+      "Straßen insgesamt <br>(einschließlich Autobahn)": [
+        {
+          "value": 1643.2
+        }
+      ]
+    },
+    "2004": {
+      "Straßen insgesamt <br>(einschließlich Autobahn)": [
+        {
+          "value": 1657.6
+        }
+      ],
+      "Autobahn (A14, A38)": [
+        {
+          "value": 24
+        }
+      ],
+      "Bundesstraßen": [
+        {
+          "value": 90.9
+        }
+      ],
+      "Staatsstraßen": [
+        {
+          "value": 52.2
+        }
+      ],
+      "Kreisstraßen": [
+        {
+          "value": 65.6
+        }
+      ],
+      "Gemeindestraßen": [
+        {
+          "value": 1215.9
+        }
+      ]
+    },
+    "2005": {
+      "Straßen insgesamt <br>(einschließlich Autobahn)": [
+        {
+          "value": 1673.5
+        }
+      ],
+      "Autobahn (A14, A38)": [
+        {
+          "value": 24
+        }
+      ],
+      "Bundesstraßen": [
+        {
+          "value": 90.7
+        }
+      ],
+      "Staatsstraßen": [
+        {
+          "value": 54.9
+        }
+      ],
+      "Kreisstraßen": [
+        {
+          "value": 65.6
+        }
+      ],
+      "Gemeindestraßen": [
+        {
+          "value": 1213.5
+        }
+      ]
+    },
+    "2006": {
+      "Straßen insgesamt <br>(einschließlich Autobahn)": [
+        {
+          "value": 1693.7
+        }
+      ],
+      "Autobahn (A14, A38)": [
+        {
+          "value": 30.9
+        }
+      ],
+      "Bundesstraßen": [
+        {
+          "value": 91.2
+        }
+      ],
+      "Staatsstraßen": [
+        {
+          "value": 56.7
+        }
+      ],
+      "Kreisstraßen": [
+        {
+          "value": 63.4
+        }
+      ],
+      "Gemeindestraßen": [
+        {
+          "value": 1221
+        }
+      ]
+    },
+    "2007": {
+      "Straßen insgesamt <br>(einschließlich Autobahn)": [
+        {
+          "value": 1669.1
+        }
+      ],
+      "Autobahn (A14, A38)": [
+        {
+          "value": 30.9
+        }
+      ],
+      "Bundesstraßen": [
+        {
+          "value": 91.2
+        }
+      ],
+      "Staatsstraßen": [
+        {
+          "value": 56.6
+        }
+      ],
+      "Kreisstraßen": [
+        {
+          "value": 63.4
+        }
+      ],
+      "Gemeindestraßen": [
+        {
+          "value": 1220.9
+        }
+      ]
+    },
+    "2008": {
+      "Straßen insgesamt <br>(einschließlich Autobahn)": [
+        {
+          "value": 1714.8
+        }
+      ],
+      "Autobahn (A14, A38)": [
+        {
+          "value": 30.9
+        }
+      ],
+      "Bundesstraßen": [
+        {
+          "value": 91.2
+        }
+      ],
+      "Staatsstraßen": [
+        {
+          "value": 56.6
+        }
+      ],
+      "Kreisstraßen": [
+        {
+          "value": 63.4
+        }
+      ],
+      "Gemeindestraßen": [
+        {
+          "value": 1235.6
+        }
+      ]
+    },
+    "2009": {
+      "Straßen insgesamt <br>(einschließlich Autobahn)": [
+        {
+          "value": 1738.2
+        }
+      ],
+      "Autobahn (A14, A38)": [
+        {
+          "value": 30.9
+        }
+      ],
+      "Bundesstraßen": [
+        {
+          "value": 94.8
+        }
+      ],
+      "Staatsstraßen": [
+        {
+          "value": 55.8
+        }
+      ],
+      "Kreisstraßen": [
+        {
+          "value": 63.8
+        }
+      ],
+      "Gemeindestraßen": [
+        {
+          "value": 1251
+        }
+      ]
+    },
+    "2010": {
+      "Straßen insgesamt <br>(einschließlich Autobahn)": [
+        {
+          "value": 1749
+        }
+      ],
+      "Autobahn (A14, A38)": [
+        {
+          "value": 30.9
+        }
+      ],
+      "Bundesstraßen": [
+        {
+          "value": 82.1
+        }
+      ],
+      "Staatsstraßen": [
+        {
+          "value": 58.4
+        }
+      ],
+      "Kreisstraßen": [
+        {
+          "value": 66.5
+        }
+      ],
+      "Gemeindestraßen": [
+        {
+          "value": 1262.8
+        }
+      ]
+    },
+    "2011": {
+      "Straßen insgesamt <br>(einschließlich Autobahn)": [
+        {
+          "value": 1760.8
+        }
+      ],
+      "Autobahn (A14, A38)": [
+        {
+          "value": 30.9
+        }
+      ],
+      "Bundesstraßen": [
+        {
+          "value": 82.1
+        }
+      ],
+      "Staatsstraßen": [
+        {
+          "value": 59
+        }
+      ],
+      "Kreisstraßen": [
+        {
+          "value": 66.5
+        }
+      ],
+      "Gemeindestraßen": [
+        {
+          "value": 1261.2
+        }
+      ]
+    },
+    "2012": {
+      "Straßen insgesamt <br>(einschließlich Autobahn)": [
+        {
+          "value": 1764.5
+        }
+      ],
+      "Autobahn (A14, A38)": [
+        {
+          "value": 30.9
+        }
+      ],
+      "Bundesstraßen": [
+        {
+          "value": 81.1
+        }
+      ],
+      "Staatsstraßen": [
+        {
+          "value": 59
+        }
+      ],
+      "Kreisstraßen": [
+        {
+          "value": 67.1
+        }
+      ],
+      "Gemeindestraßen": [
+        {
+          "value": 1262.3
+        }
+      ]
+    },
+    "2013": {
+      "Straßen insgesamt <br>(einschließlich Autobahn)": [
+        {
+          "value": 1766.9
+        }
+      ],
+      "Autobahn (A14, A38)": [
+        {
+          "value": 30.9
+        }
+      ],
+      "Bundesstraßen": [
+        {
+          "value": 81.1
+        }
+      ],
+      "Staatsstraßen": [
+        {
+          "value": 59
+        }
+      ],
+      "Kreisstraßen": [
+        {
+          "value": 67.1
+        }
+      ],
+      "Gemeindestraßen": [
+        {
+          "value": 1262
+        }
+      ]
+    },
+    "2014": {
+      "Straßen insgesamt <br>(einschließlich Autobahn)": [
+        {
+          "value": 1777.6
+        }
+      ],
+      "Autobahn (A14, A38)": [
+        {
+          "value": 30.9
+        }
+      ],
+      "Bundesstraßen": [
+        {
+          "value": 81.1
+        }
+      ],
+      "Staatsstraßen": [
+        {
+          "value": 59
+        }
+      ],
+      "Kreisstraßen": [
+        {
+          "value": 67
+        }
+      ],
+      "Gemeindestraßen": [
+        {
+          "value": 1269.7
+        }
+      ]
+    },
+    "2015": {
+      "Straßen insgesamt <br>(einschließlich Autobahn)": [
+        {
+          "value": 1780.2
+        }
+      ],
+      "Autobahn (A14, A38)": [
+        {
+          "value": 30.9
+        }
+      ],
+      "Bundesstraßen": [
+        {
+          "value": 80.3
+        }
+      ],
+      "Staatsstraßen": [
+        {
+          "value": 59.1
+        }
+      ],
+      "Kreisstraßen": [
+        {
+          "value": 67.1
+        }
+      ],
+      "Gemeindestraßen": [
+        {
+          "value": 1269.5
+        }
+      ]
+    },
+    "2016": {
+      "Straßen insgesamt <br>(einschließlich Autobahn)": [
+        {
+          "value": 1783.3
+        }
+      ],
+      "Autobahn (A14, A38)": [
+        {
+          "value": 30.9
+        }
+      ],
+      "Bundesstraßen": [
+        {
+          "value": 80.3
+        }
+      ],
+      "Staatsstraßen": [
+        {
+          "value": 59.1
+        }
+      ],
+      "Kreisstraßen": [
+        {
+          "value": 67.3
+        }
+      ],
+      "Gemeindestraßen": [
+        {
+          "value": 1271.5
+        }
+      ]
+    },
+    "2017": {
+      "Straßen insgesamt <br>(einschließlich Autobahn)": [
+        {
+          "value": 1791.1
+        }
+      ],
+      "Autobahn (A14, A38)": [
+        {
+          "value": 30.9
+        }
+      ],
+      "Bundesstraßen": [
+        {
+          "value": 80.3
+        }
+      ],
+      "Staatsstraßen": [
+        {
+          "value": 59.1
+        }
+      ],
+      "Kreisstraßen": [
+        {
+          "value": 67.3
+        }
+      ],
+      "Gemeindestraßen": [
+        {
+          "value": 1272.9
+        }
+      ]
+    },
+    "2018": {
+      "Straßen insgesamt <br>(einschließlich Autobahn)": [
+        {
+          "value": 1797.71
+        }
+      ],
+      "Autobahn (A14, A38)": [
+        {
+          "value": 30.9
+        }
+      ],
+      "Bundesstraßen": [
+        {
+          "value": 80.3
+        }
+      ],
+      "Staatsstraßen": [
+        {
+          "value": 53
+        }
+      ],
+      "Kreisstraßen": [
+        {
+          "value": 51.2
+        }
+      ],
+      "Gemeindestraßen": [
+        {
+          "value": 1281.7
+        }
+      ]
+    },
+    "2019": {
+      "Straßen insgesamt <br>(einschließlich Autobahn)": [
+        {
+          "value": 1798.4
+        }
+      ],
+      "Autobahn (A14, A38)": [
+        {
+          "value": 30.9
+        }
+      ],
+      "Bundesstraßen": [
+        {
+          "value": 80.3
+        }
+      ],
+      "Staatsstraßen": [
+        {
+          "value": 53
+        }
+      ],
+      "Kreisstraßen": [
+        {
+          "value": 51.2
+        }
+      ],
+      "Gemeindestraßen": [
+        {
+          "value": 1280.8
+        }
+      ]
+    },
+    "2020": {
+      "Straßen insgesamt <br>(einschließlich Autobahn)": [
+        {
+          "value": 1799
+        }
+      ],
+      "Autobahn (A14, A38)": [
+        {
+          "value": 30.9
+        }
+      ],
+      "Bundesstraßen": [
+        {
+          "value": 80.3
+        }
+      ],
+      "Staatsstraßen": [
+        {
+          "value": 45.9
+        }
+      ],
+      "Kreisstraßen": [
+        {
+          "value": 55.9
+        }
+      ],
+      "Gemeindestraßen": [
+        {
+          "value": 1283
+        }
+      ]
+    },
+    "2021": {
+      "Straßen insgesamt <br>(einschließlich Autobahn)": [
+        {
+          "value": 1808.7
+        }
+      ],
+      "Autobahn (A14, A38)": [
+        {
+          "value": 30.9
+        }
+      ],
+      "Bundesstraßen": [
+        {
+          "value": 80.3
+        }
+      ],
+      "Staatsstraßen": [
+        {
+          "value": 45.9
+        }
+      ],
+      "Kreisstraßen": [
+        {
+          "value": 55.8
+        }
+      ],
+      "Gemeindestraßen": [
+        {
+          "value": 1304
+        }
+      ]
+    },
+    "2022": {
+      "Straßen insgesamt <br>(einschließlich Autobahn)": [
+        {
+          "value": 1809.9
+        }
+      ],
+      "Autobahn (A14, A38)": [
+        {
+          "value": 30.9
+        }
+      ],
+      "Bundesstraßen": [
+        {
+          "value": 80.3
+        }
+      ],
+      "Staatsstraßen": [
+        {
+          "value": 45.9
+        }
+      ],
+      "Kreisstraßen": [
+        {
+          "value": 55.8
+        }
+      ],
+      "Gemeindestraßen": [
+        {
+          "value": 1303.7
+        }
+      ]
+    },
+    "2023": {
+      "Straßen insgesamt <br>(einschließlich Autobahn)": [
+        {
+          "value": 1811.6
+        }
+      ],
+      "Autobahn (A14, A38)": [
+        {
+          "value": 30.9
+        }
+      ],
+      "Bundesstraßen": [
+        {
+          "value": 80.3
+        }
+      ],
+      "Staatsstraßen": [
+        {
+          "value": 45.9
+        }
+      ],
+      "Kreisstraßen": [
+        {
+          "value": 55.8
+        }
+      ],
+      "Gemeindestraßen": [
+        {
+          "value": 1303.9
+        }
+      ]
+    }
+  }
+}

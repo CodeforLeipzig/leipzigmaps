@@ -1,0 +1,1352 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=8&rubrik_nr=3&periode=y",
+    "title": "Betriebe"
+  },
+  "data": {
+    "2001": {
+      "Betriebe": [
+        {
+          "value": 161
+        }
+      ],
+      "Geleistete Arbeitsstunden": [
+        {
+          "value": null
+        }
+      ],
+      "Bruttoentgeltsumme": [
+        {
+          "value": 394388
+        }
+      ],
+      "Gesamtumsatz": [
+        {
+          "value": 1576180
+        }
+      ],
+      "Exportquote": [
+        {
+          "value": 21.3
+        },
+        {
+          "value": 22.1
+        }
+      ],
+      "darunter Umsatz aus eigener Erzeugung": [
+        {
+          "value": 1512620
+        }
+      ],
+      "Tätige Personen": [
+        {
+          "value": 12904
+        }
+      ],
+      "Durchschnitt je tätiger Person": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Auftragseingang": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2002": {
+      "Betriebe": [
+        {
+          "value": 158
+        }
+      ],
+      "Tätige Personen": [
+        {
+          "value": 12532
+        }
+      ],
+      "Geleistete Arbeitsstunden": [
+        {
+          "value": null
+        }
+      ],
+      "Bruttoentgeltsumme": [
+        {
+          "value": 387288
+        }
+      ],
+      "Gesamtumsatz": [
+        {
+          "value": 1583120
+        }
+      ],
+      "Exportquote": [
+        {
+          "value": 20.8
+        },
+        {
+          "value": 21.7
+        }
+      ],
+      "darunter Umsatz aus eigener Erzeugung": [
+        {
+          "value": 1511580
+        }
+      ],
+      "Durchschnitt je tätiger Person": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Auftragseingang": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2003": {
+      "Auftragseingang": [
+        {
+          "value": null
+        }
+      ],
+      "Durchschnitt je tätiger Person": [
+        {
+          "value": 32405
+        },
+        {
+          "value": 133807
+        },
+        {
+          "value": 126342
+        }
+      ],
+      "Betriebe": [
+        {
+          "value": 64
+        }
+      ],
+      "Tätige Personen": [
+        {
+          "value": 10239
+        }
+      ],
+      "Geleistete Arbeitsstunden": [
+        {
+          "value": 16593
+        }
+      ],
+      "Bruttoentgeltsumme": [
+        {
+          "value": 331795
+        }
+      ],
+      "Gesamtumsatz": [
+        {
+          "value": 1370050
+        }
+      ],
+      "Exportquote": [
+        {
+          "value": 25.7
+        },
+        {
+          "value": 27
+        }
+      ],
+      "darunter Umsatz aus eigener Erzeugung": [
+        {
+          "value": 1293610
+        }
+      ]
+    },
+    "2004": {
+      "Betriebe": [
+        {
+          "value": 66
+        }
+      ],
+      "Tätige Personen": [
+        {
+          "value": 10926
+        }
+      ],
+      "Geleistete Arbeitsstunden": [
+        {
+          "value": 17866
+        }
+      ],
+      "Bruttoentgeltsumme": [
+        {
+          "value": 371657
+        }
+      ],
+      "Gesamtumsatz": [
+        {
+          "value": 1497060
+        }
+      ],
+      "Exportquote": [
+        {
+          "value": 26.5
+        },
+        {
+          "value": 28
+        }
+      ],
+      "darunter Umsatz aus eigener Erzeugung": [
+        {
+          "value": 1410690
+        }
+      ],
+      "Durchschnitt je tätiger Person": [
+        {
+          "value": 34016
+        },
+        {
+          "value": 129113
+        },
+        {
+          "value": 137018
+        }
+      ],
+      "Auftragseingang": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2005": {
+      "Durchschnitt je tätiger Person": [
+        {
+          "value": 218646
+        },
+        {
+          "value": 34435
+        },
+        {
+          "value": 208420
+        }
+      ],
+      "Betriebe": [
+        {
+          "value": 70
+        }
+      ],
+      "Tätige Personen": [
+        {
+          "value": 13104
+        }
+      ],
+      "Geleistete Arbeitsstunden": [
+        {
+          "value": 21039
+        }
+      ],
+      "Bruttoentgeltsumme": [
+        {
+          "value": 451242
+        }
+      ],
+      "Gesamtumsatz": [
+        {
+          "value": 2865140
+        }
+      ],
+      "Exportquote": [
+        {
+          "value": 37.7
+        },
+        {
+          "value": 39.4
+        }
+      ],
+      "darunter Umsatz aus eigener Erzeugung": [
+        {
+          "value": 2731130
+        }
+      ],
+      "Auftragseingang": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2006": {
+      "Auftragseingang": [
+        {
+          "value": 4450440
+        }
+      ],
+      "Betriebe": [
+        {
+          "value": 70
+        }
+      ],
+      "Tätige Personen": [
+        {
+          "value": 13366
+        }
+      ],
+      "Geleistete Arbeitsstunden": [
+        {
+          "value": 21713
+        }
+      ],
+      "Bruttoentgeltsumme": [
+        {
+          "value": 467063
+        }
+      ],
+      "Gesamtumsatz": [
+        {
+          "value": 4937200
+        }
+      ],
+      "Exportquote": [
+        {
+          "value": 47.1
+        },
+        {
+          "value": 48.5
+        }
+      ],
+      "darunter Umsatz aus eigener Erzeugung": [
+        {
+          "value": 4746320
+        }
+      ],
+      "Durchschnitt je tätiger Person": [
+        {
+          "value": 355104
+        },
+        {
+          "value": 34944
+        },
+        {
+          "value": 369385
+        }
+      ]
+    },
+    "2007": {
+      "Durchschnitt je tätiger Person": [
+        {
+          "value": 461289
+        },
+        {
+          "value": 37117
+        },
+        {
+          "value": 438941
+        }
+      ],
+      "Betriebe": [
+        {
+          "value": 68
+        }
+      ],
+      "Tätige Personen": [
+        {
+          "value": 13206
+        }
+      ],
+      "Geleistete Arbeitsstunden": [
+        {
+          "value": 21488
+        }
+      ],
+      "Bruttoentgeltsumme": [
+        {
+          "value": 490171
+        }
+      ],
+      "Gesamtumsatz": [
+        {
+          "value": 6091780
+        }
+      ],
+      "Exportquote": [
+        {
+          "value": 51.6
+        },
+        {
+          "value": 53.2
+        }
+      ],
+      "darunter Umsatz aus eigener Erzeugung": [
+        {
+          "value": 5796660
+        }
+      ],
+      "Auftragseingang": [
+        {
+          "value": 5640020
+        }
+      ]
+    },
+    "2008": {
+      "Betriebe": [
+        {
+          "value": 70
+        }
+      ],
+      "Tätige Personen": [
+        {
+          "value": 13685
+        }
+      ],
+      "Geleistete Arbeitsstunden": [
+        {
+          "value": 21928
+        }
+      ],
+      "Bruttoentgeltsumme": [
+        {
+          "value": 523061
+        }
+      ],
+      "Durchschnitt je tätiger Person": [
+        {
+          "value": 38221
+        },
+        {
+          "value": 440661
+        },
+        {
+          "value": 424952
+        }
+      ],
+      "Gesamtumsatz": [
+        {
+          "value": 6030450
+        }
+      ],
+      "Exportquote": [
+        {
+          "value": 50.5
+        },
+        {
+          "value": 51.5
+        }
+      ],
+      "darunter Umsatz aus eigener Erzeugung": [
+        {
+          "value": 5815470
+        }
+      ],
+      "Auftragseingang": [
+        {
+          "value": 5516630
+        }
+      ]
+    },
+    "2009": {
+      "Betriebe": [
+        {
+          "value": 65
+        }
+      ],
+      "Tätige Personen": [
+        {
+          "value": 12756
+        }
+      ],
+      "Geleistete Arbeitsstunden": [
+        {
+          "value": 19570
+        }
+      ],
+      "Bruttoentgeltsumme": [
+        {
+          "value": 453949
+        }
+      ],
+      "Durchschnitt je tätiger Person": [
+        {
+          "value": 35587
+        },
+        {
+          "value": 375591
+        },
+        {
+          "value": 363427
+        }
+      ],
+      "Gesamtumsatz": [
+        {
+          "value": 4791040
+        }
+      ],
+      "Exportquote": [
+        {
+          "value": 52.2
+        },
+        {
+          "value": 53.6
+        }
+      ],
+      "darunter Umsatz aus eigener Erzeugung": [
+        {
+          "value": 4635880
+        }
+      ],
+      "Auftragseingang": [
+        {
+          "value": 4016490
+        }
+      ]
+    },
+    "2010": {
+      "Betriebe": [
+        {
+          "value": 65
+        }
+      ],
+      "Tätige Personen": [
+        {
+          "value": 12578
+        }
+      ],
+      "Geleistete Arbeitsstunden": [
+        {
+          "value": 20187
+        }
+      ],
+      "Bruttoentgeltsumme": [
+        {
+          "value": 464642
+        }
+      ],
+      "Durchschnitt je tätiger Person": [
+        {
+          "value": 36941
+        },
+        {
+          "value": 484725
+        },
+        {
+          "value": 477851
+        }
+      ],
+      "Gesamtumsatz": [
+        {
+          "value": 6096870
+        }
+      ],
+      "Exportquote": [
+        {
+          "value": 56.4
+        },
+        {
+          "value": 57.1
+        }
+      ],
+      "darunter Umsatz aus eigener Erzeugung": [
+        {
+          "value": 6010410
+        }
+      ],
+      "Auftragseingang": [
+        {
+          "value": 5634420
+        }
+      ]
+    },
+    "2011": {
+      "Betriebe": [
+        {
+          "value": 66
+        }
+      ],
+      "Tätige Personen": [
+        {
+          "value": 13353
+        }
+      ],
+      "Geleistete Arbeitsstunden": [
+        {
+          "value": 21375
+        }
+      ],
+      "Bruttoentgeltsumme": [
+        {
+          "value": 525665
+        }
+      ],
+      "Durchschnitt je tätiger Person": [
+        {
+          "value": 39367
+        },
+        {
+          "value": 496124
+        },
+        {
+          "value": 488999
+        }
+      ],
+      "Gesamtumsatz": [
+        {
+          "value": 6624740
+        }
+      ],
+      "Exportquote": [
+        {
+          "value": 57.1
+        },
+        {
+          "value": 57.9
+        }
+      ],
+      "darunter Umsatz aus eigener Erzeugung": [
+        {
+          "value": 6529600
+        }
+      ],
+      "Auftragseingang": [
+        {
+          "value": 6182070
+        }
+      ]
+    },
+    "2012": {
+      "Betriebe": [
+        {
+          "value": 70
+        }
+      ],
+      "Tätige Personen": [
+        {
+          "value": 14401
+        }
+      ],
+      "Geleistete Arbeitsstunden": [
+        {
+          "value": 22964
+        }
+      ],
+      "Bruttoentgeltsumme": [
+        {
+          "value": 592761
+        }
+      ],
+      "Durchschnitt je tätiger Person": [
+        {
+          "value": 41161
+        },
+        {
+          "value": 431297
+        },
+        {
+          "value": 424398
+        }
+      ],
+      "Gesamtumsatz": [
+        {
+          "value": 6211100
+        }
+      ],
+      "Exportquote": [
+        {
+          "value": 56.9
+        },
+        {
+          "value": 57.8
+        }
+      ],
+      "darunter Umsatz aus eigener Erzeugung": [
+        {
+          "value": 6111760
+        }
+      ],
+      "Auftragseingang": [
+        {
+          "value": 5814880
+        }
+      ]
+    },
+    "2013": {
+      "Betriebe": [
+        {
+          "value": 68
+        }
+      ],
+      "Tätige Personen": [
+        {
+          "value": 15086
+        }
+      ],
+      "Geleistete Arbeitsstunden": [
+        {
+          "value": 23842
+        }
+      ],
+      "Bruttoentgeltsumme": [
+        {
+          "value": 652925
+        }
+      ],
+      "Durchschnitt je tätiger Person": [
+        {
+          "value": 43280
+        },
+        {
+          "value": 421975
+        },
+        {
+          "value": 414896
+        }
+      ],
+      "Gesamtumsatz": [
+        {
+          "value": 6365910
+        }
+      ],
+      "Exportquote": [
+        {
+          "value": 60.3
+        },
+        {
+          "value": 61.1
+        }
+      ],
+      "darunter Umsatz aus eigener Erzeugung": [
+        {
+          "value": 6259120
+        }
+      ],
+      "Auftragseingang": [
+        {
+          "value": 5727470
+        }
+      ]
+    },
+    "2014": {
+      "Betriebe": [
+        {
+          "value": 67
+        }
+      ],
+      "Tätige Personen": [
+        {
+          "value": 17148
+        }
+      ],
+      "Geleistete Arbeitsstunden": [
+        {
+          "value": 27302
+        }
+      ],
+      "Bruttoentgeltsumme": [
+        {
+          "value": 769711
+        }
+      ],
+      "Durchschnitt je tätiger Person": [
+        {
+          "value": 44886
+        },
+        {
+          "value": 439655
+        },
+        {
+          "value": 433531
+        }
+      ],
+      "Gesamtumsatz": [
+        {
+          "value": 7539210
+        }
+      ],
+      "Exportquote": [
+        {
+          "value": 60.1
+        },
+        {
+          "value": 60.8
+        }
+      ],
+      "darunter Umsatz aus eigener Erzeugung": [
+        {
+          "value": 7434180
+        }
+      ],
+      "Auftragseingang": [
+        {
+          "value": 6799240
+        }
+      ]
+    },
+    "2015": {
+      "Betriebe": [
+        {
+          "value": 66
+        }
+      ],
+      "Tätige Personen": [
+        {
+          "value": 18415
+        }
+      ],
+      "Geleistete Arbeitsstunden": [
+        {
+          "value": 29181
+        }
+      ],
+      "Bruttoentgeltsumme": [
+        {
+          "value": 876974
+        }
+      ],
+      "Durchschnitt je tätiger Person": [
+        {
+          "value": 47623
+        },
+        {
+          "value": 516763
+        },
+        {
+          "value": 511626
+        }
+      ],
+      "Gesamtumsatz": [
+        {
+          "value": 9516190
+        }
+      ],
+      "Exportquote": [
+        {
+          "value": 58.1
+        },
+        {
+          "value": 58.6
+        }
+      ],
+      "darunter Umsatz aus eigener Erzeugung": [
+        {
+          "value": 9421590
+        }
+      ],
+      "Auftragseingang": [
+        {
+          "value": 8899760
+        }
+      ]
+    },
+    "2016": {
+      "Betriebe": [
+        {
+          "value": 71
+        }
+      ],
+      "Tätige Personen": [
+        {
+          "value": 19300
+        }
+      ],
+      "Geleistete Arbeitsstunden": [
+        {
+          "value": 30729
+        }
+      ],
+      "Bruttoentgeltsumme": [
+        {
+          "value": 950557
+        }
+      ],
+      "Durchschnitt je tätiger Person": [
+        {
+          "value": 49252
+        },
+        {
+          "value": 494375
+        },
+        {
+          "value": 489742
+        }
+      ],
+      "Gesamtumsatz": [
+        {
+          "value": 9541450
+        }
+      ],
+      "Exportquote": [
+        {
+          "value": 52.17
+        },
+        {
+          "value": 52.57
+        }
+      ],
+      "darunter Umsatz aus eigener Erzeugung": [
+        {
+          "value": 9452030
+        }
+      ],
+      "Auftragseingang": [
+        {
+          "value": 8706680
+        }
+      ]
+    },
+    "2017": {
+      "Betriebe": [
+        {
+          "value": 70
+        }
+      ],
+      "Tätige Personen": [
+        {
+          "value": 19868
+        }
+      ],
+      "Geleistete Arbeitsstunden": [
+        {
+          "value": 30662
+        }
+      ],
+      "Bruttoentgeltsumme": [
+        {
+          "value": 1011270
+        }
+      ],
+      "Durchschnitt je tätiger Person": [
+        {
+          "value": 50899
+        },
+        {
+          "value": 479730
+        },
+        {
+          "value": 475462
+        }
+      ],
+      "Gesamtumsatz": [
+        {
+          "value": 9531280
+        }
+      ],
+      "Exportquote": [
+        {
+          "value": 51.7
+        },
+        {
+          "value": 52
+        }
+      ],
+      "darunter Umsatz aus eigener Erzeugung": [
+        {
+          "value": 9446
+        }
+      ],
+      "Auftragseingang": [
+        {
+          "value": 9232430
+        }
+      ]
+    },
+    "2018": {
+      "Betriebe": [
+        {
+          "value": 68
+        }
+      ],
+      "Tätige Personen": [
+        {
+          "value": 19924
+        }
+      ],
+      "Geleistete Arbeitsstunden": [
+        {
+          "value": 30491
+        }
+      ],
+      "Bruttoentgeltsumme": [
+        {
+          "value": 1135890
+        }
+      ],
+      "Durchschnitt je tätiger Person": [
+        {
+          "value": 50581
+        },
+        {
+          "value": 443512
+        },
+        {
+          "value": 435910
+        }
+      ],
+      "Gesamtumsatz": [
+        {
+          "value": 9959940
+        }
+      ],
+      "Exportquote": [
+        {
+          "value": 49.3
+        },
+        {
+          "value": 51.3
+        }
+      ],
+      "darunter Umsatz aus eigener Erzeugung": [
+        {
+          "value": 9789230
+        }
+      ],
+      "Auftragseingang": [
+        {
+          "value": 9128290
+        }
+      ]
+    },
+    "2019": {
+      "Betriebe": [
+        {
+          "value": 68
+        }
+      ],
+      "Tätige Personen": [
+        {
+          "value": 20196
+        }
+      ],
+      "Geleistete Arbeitsstunden": [
+        {
+          "value": 30520
+        }
+      ],
+      "Bruttoentgeltsumme": [
+        {
+          "value": 1088920
+        }
+      ],
+      "Durchschnitt je tätiger Person": [
+        {
+          "value": 53918
+        },
+        {
+          "value": 452767
+        },
+        {
+          "value": 447505
+        }
+      ],
+      "Gesamtumsatz": [
+        {
+          "value": 9144090
+        }
+      ],
+      "Exportquote": [
+        {
+          "value": 53.3
+        },
+        {
+          "value": 53.7
+        }
+      ],
+      "darunter Umsatz aus eigener Erzeugung": [
+        {
+          "value": 9037810
+        }
+      ],
+      "Auftragseingang": [
+        {
+          "value": 8299760
+        }
+      ]
+    },
+    "2020": {
+      "Betriebe": [
+        {
+          "value": 68
+        }
+      ],
+      "Tätige Personen": [
+        {
+          "value": 19795
+        }
+      ],
+      "Geleistete Arbeitsstunden": [
+        {
+          "value": 28124
+        }
+      ],
+      "Bruttoentgeltsumme": [
+        {
+          "value": 1029930
+        }
+      ],
+      "Durchschnitt je tätiger Person": [
+        {
+          "value": 52030
+        },
+        {
+          "value": 421353
+        },
+        {
+          "value": 416005
+        }
+      ],
+      "Gesamtumsatz": [
+        {
+          "value": 8340690
+        }
+      ],
+      "Exportquote": [
+        {
+          "value": 50.4
+        },
+        {
+          "value": 50.9
+        }
+      ],
+      "darunter Umsatz aus eigener Erzeugung": [
+        {
+          "value": 8234820
+        }
+      ],
+      "Auftragseingang": [
+        {
+          "value": 7652000
+        }
+      ]
+    },
+    "2021": {
+      "Betriebe": [
+        {
+          "value": 66
+        }
+      ],
+      "Tätige Personen": [
+        {
+          "value": 19248
+        }
+      ],
+      "Geleistete Arbeitsstunden": [
+        {
+          "value": 28137
+        }
+      ],
+      "Bruttoentgeltsumme": [
+        {
+          "value": 1024670
+        }
+      ],
+      "Durchschnitt je tätiger Person": [
+        {
+          "value": 53235
+        },
+        {
+          "value": 436966
+        },
+        {
+          "value": 431003
+        }
+      ],
+      "Gesamtumsatz": [
+        {
+          "value": 8410720
+        }
+      ],
+      "Exportquote": [
+        {
+          "value": 47.6
+        },
+        {
+          "value": 48.1
+        }
+      ],
+      "darunter Umsatz aus eigener Erzeugung": [
+        {
+          "value": 8295950
+        }
+      ],
+      "Auftragseingang": [
+        {
+          "value": 8019680
+        }
+      ]
+    },
+    "2022": {
+      "Betriebe": [
+        {
+          "value": 67
+        }
+      ],
+      "Tätige Personen": [
+        {
+          "value": 19866
+        }
+      ],
+      "Geleistete Arbeitsstunden": [
+        {
+          "value": 28707
+        }
+      ],
+      "Bruttoentgeltsumme": [
+        {
+          "value": 1122440
+        }
+      ],
+      "Durchschnitt je tätiger Person": [
+        {
+          "value": 56500
+        },
+        {
+          "value": 417560
+        },
+        {
+          "value": 407529
+        }
+      ],
+      "Gesamtumsatz": [
+        {
+          "value": 8295250
+        }
+      ],
+      "Exportquote": [
+        {
+          "value": 43.9429
+        },
+        {
+          "value": 44.9005
+        }
+      ],
+      "darunter Umsatz aus eigener Erzeugung": [
+        {
+          "value": 8095970
+        }
+      ],
+      "Auftragseingang": [
+        {
+          "value": 7673050
+        }
+      ]
+    },
+    "2023": {
+      "Betriebe": [
+        {
+          "value": 69
+        }
+      ],
+      "Tätige Personen": [
+        {
+          "value": 20821
+        }
+      ],
+      "Geleistete Arbeitsstunden": [
+        {
+          "value": 31356
+        }
+      ],
+      "Bruttoentgeltsumme": [
+        {
+          "value": 1262380
+        }
+      ],
+      "Durchschnitt je tätiger Person": [
+        {
+          "value": 60630.3
+        },
+        {
+          "value": 448083
+        },
+        {
+          "value": 437763
+        }
+      ],
+      "Gesamtumsatz": [
+        {
+          "value": 9329540
+        }
+      ],
+      "Exportquote": [
+        {
+          "value": 47.4992
+        },
+        {
+          "value": 48.4811
+        }
+      ],
+      "darunter Umsatz aus eigener Erzeugung": [
+        {
+          "value": 9114670
+        }
+      ],
+      "Auftragseingang": [
+        {
+          "value": 8665770
+        }
+      ]
+    },
+    "2024": {
+      "Betriebe": [
+        {
+          "value": 64
+        }
+      ],
+      "Tätige Personen": [
+        {
+          "value": 21798
+        }
+      ],
+      "Geleistete Arbeitsstunden": [
+        {
+          "value": 32117
+        }
+      ],
+      "Bruttoentgeltsumme": [
+        {
+          "value": 1339020
+        }
+      ],
+      "Durchschnitt je tätiger Person": [
+        {
+          "value": 61428
+        },
+        {
+          "value": 502896
+        },
+        {
+          "value": 493722
+        }
+      ],
+      "Gesamtumsatz": [
+        {
+          "value": 10962100
+        }
+      ],
+      "Exportquote": [
+        {
+          "value": 56.7831
+        },
+        {
+          "value": 57.7225
+        }
+      ],
+      "darunter Umsatz aus eigener Erzeugung": [
+        {
+          "value": 10762200
+        }
+      ],
+      "Auftragseingang": [
+        {
+          "value": 10184800
+        }
+      ]
+    }
+  }
+}

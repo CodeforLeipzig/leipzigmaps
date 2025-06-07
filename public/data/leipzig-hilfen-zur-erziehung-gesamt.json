@@ -1,0 +1,547 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=4&rubrik_nr=41&periode=y",
+    "title": "Hilfen zur Erziehung__gesamt"
+  },
+  "data": {
+    "2005": {
+      "Hilfen zur Erziehung gesamt": [
+        {
+          "value": 1500
+        }
+      ],
+      "Hilfen für Minderjährige": [
+        {
+          "value": 1405
+        }
+      ],
+      "ambulant": [
+        {
+          "value": 533
+        },
+        {
+          "value": 49
+        }
+      ],
+      "teilstationär": [
+        {
+          "value": 75
+        },
+        {
+          "value": null
+        }
+      ],
+      "stationär": [
+        {
+          "value": 418
+        },
+        {
+          "value": 37
+        }
+      ],
+      "Pflegestellen": [
+        {
+          "value": 379
+        },
+        {
+          "value": 9
+        }
+      ],
+      "Hilfen für junge Volljährige": [
+        {
+          "value": 95
+        }
+      ]
+    },
+    "2010": {
+      "Pflegestellen": [
+        {
+          "value": 16
+        },
+        {
+          "value": 434
+        }
+      ],
+      "stationär": [
+        {
+          "value": 38
+        },
+        {
+          "value": 501
+        }
+      ],
+      "teilstationär": [
+        {
+          "value": null
+        },
+        {
+          "value": 74
+        }
+      ],
+      "ambulant": [
+        {
+          "value": 50
+        },
+        {
+          "value": 695
+        }
+      ],
+      "Hilfen für junge Volljährige": [
+        {
+          "value": 104
+        }
+      ],
+      "Hilfen für Minderjährige": [
+        {
+          "value": 1704
+        }
+      ],
+      "Hilfen zur Erziehung gesamt": [
+        {
+          "value": 1808
+        }
+      ]
+    },
+    "2015": {
+      "Hilfen zur Erziehung gesamt": [
+        {
+          "value": 2657
+        }
+      ],
+      "Hilfen für Minderjährige": [
+        {
+          "value": 2534
+        }
+      ],
+      "ambulant": [
+        {
+          "value": 1059
+        },
+        {
+          "value": 66
+        }
+      ],
+      "teilstationär": [
+        {
+          "value": 111
+        },
+        {
+          "value": null
+        }
+      ],
+      "stationär": [
+        {
+          "value": 865
+        },
+        {
+          "value": 42
+        }
+      ],
+      "Pflegestellen": [
+        {
+          "value": 499
+        },
+        {
+          "value": 13
+        }
+      ],
+      "Hilfen für junge Volljährige": [
+        {
+          "value": 123
+        }
+      ]
+    },
+    "2016": {
+      "Pflegestellen": [
+        {
+          "value": 13
+        },
+        {
+          "value": 528
+        }
+      ],
+      "stationär": [
+        {
+          "value": 67
+        },
+        {
+          "value": 1036
+        }
+      ],
+      "teilstationär": [
+        {
+          "value": null
+        },
+        {
+          "value": 115
+        }
+      ],
+      "ambulant": [
+        {
+          "value": 69
+        },
+        {
+          "value": 1154
+        }
+      ],
+      "Hilfen für junge Volljährige": [
+        {
+          "value": 150
+        }
+      ],
+      "Hilfen für Minderjährige": [
+        {
+          "value": 2833
+        }
+      ],
+      "Hilfen zur Erziehung gesamt": [
+        {
+          "value": 2983
+        }
+      ]
+    },
+    "2017": {
+      "Hilfen zur Erziehung gesamt": [
+        {
+          "value": 3206
+        }
+      ],
+      "Hilfen für Minderjährige": [
+        {
+          "value": 3004
+        }
+      ],
+      "ambulant": [
+        {
+          "value": 1179
+        },
+        {
+          "value": 77
+        }
+      ],
+      "teilstationär": [
+        {
+          "value": 119
+        },
+        {
+          "value": null
+        }
+      ],
+      "stationär": [
+        {
+          "value": 1120
+        },
+        {
+          "value": 108
+        }
+      ],
+      "Pflegestellen": [
+        {
+          "value": 586
+        },
+        {
+          "value": 16
+        }
+      ],
+      "Hilfen für junge Volljährige": [
+        {
+          "value": 202
+        }
+      ]
+    },
+    "2018": {
+      "Pflegestellen": [
+        {
+          "value": 20
+        },
+        {
+          "value": 631
+        }
+      ],
+      "stationär": [
+        {
+          "value": 120
+        },
+        {
+          "value": 1199
+        }
+      ],
+      "teilstationär": [
+        {
+          "value": null
+        },
+        {
+          "value": 118
+        }
+      ],
+      "ambulant": [
+        {
+          "value": 97
+        },
+        {
+          "value": 1227
+        }
+      ],
+      "Hilfen für junge Volljährige": [
+        {
+          "value": 237
+        }
+      ],
+      "Hilfen für Minderjährige": [
+        {
+          "value": 3175
+        }
+      ],
+      "Hilfen zur Erziehung gesamt": [
+        {
+          "value": 3412
+        }
+      ]
+    },
+    "2019": {
+      "Hilfen zur Erziehung gesamt": [
+        {
+          "value": 3655
+        }
+      ],
+      "Hilfen für Minderjährige": [
+        {
+          "value": 3406
+        }
+      ],
+      "ambulant": [
+        {
+          "value": 1382
+        },
+        {
+          "value": 111
+        }
+      ],
+      "teilstationär": [
+        {
+          "value": 102
+        },
+        {
+          "value": null
+        }
+      ],
+      "stationär": [
+        {
+          "value": 1279
+        },
+        {
+          "value": 113
+        }
+      ],
+      "Pflegestellen": [
+        {
+          "value": 643
+        },
+        {
+          "value": 24
+        }
+      ],
+      "Hilfen für junge Volljährige": [
+        {
+          "value": 249
+        }
+      ]
+    },
+    "2020": {
+      "Pflegestellen": [
+        {
+          "value": 26
+        },
+        {
+          "value": 659
+        }
+      ],
+      "stationär": [
+        {
+          "value": 137
+        },
+        {
+          "value": 1305
+        }
+      ],
+      "teilstationär": [
+        {
+          "value": null
+        },
+        {
+          "value": 96
+        }
+      ],
+      "ambulant": [
+        {
+          "value": 121
+        },
+        {
+          "value": 1514
+        }
+      ],
+      "Hilfen für junge Volljährige": [
+        {
+          "value": 285
+        }
+      ],
+      "Hilfen für Minderjährige": [
+        {
+          "value": 3574
+        }
+      ],
+      "Hilfen zur Erziehung gesamt": [
+        {
+          "value": 3859
+        }
+      ]
+    },
+    "2021": {
+      "Hilfen zur Erziehung gesamt": [
+        {
+          "value": 4041
+        }
+      ],
+      "Hilfen für Minderjährige": [
+        {
+          "value": 3728
+        }
+      ],
+      "ambulant": [
+        {
+          "value": 1648
+        },
+        {
+          "value": 131
+        }
+      ],
+      "teilstationär": [
+        {
+          "value": 89
+        },
+        {
+          "value": null
+        }
+      ],
+      "stationär": [
+        {
+          "value": 1315
+        },
+        {
+          "value": 150
+        }
+      ],
+      "Pflegestellen": [
+        {
+          "value": 676
+        },
+        {
+          "value": 31
+        }
+      ],
+      "Hilfen für junge Volljährige": [
+        {
+          "value": 313
+        }
+      ]
+    },
+    "2022": {
+      "Pflegestellen": [
+        {
+          "value": 41
+        },
+        {
+          "value": 680
+        }
+      ],
+      "stationär": [
+        {
+          "value": 157
+        },
+        {
+          "value": 1334
+        }
+      ],
+      "teilstationär": [
+        {
+          "value": null
+        },
+        {
+          "value": 77
+        }
+      ],
+      "ambulant": [
+        {
+          "value": 152
+        },
+        {
+          "value": 1697
+        }
+      ],
+      "Hilfen für junge Volljährige": [
+        {
+          "value": 352
+        }
+      ],
+      "Hilfen für Minderjährige": [
+        {
+          "value": 3788
+        }
+      ],
+      "Hilfen zur Erziehung gesamt": [
+        {
+          "value": 4140
+        }
+      ]
+    },
+    "2023": {
+      "Hilfen zur Erziehung gesamt": [
+        {
+          "value": 4395
+        }
+      ],
+      "Hilfen für Minderjährige": [
+        {
+          "value": 3987
+        }
+      ],
+      "ambulant": [
+        {
+          "value": 1874
+        },
+        {
+          "value": 181
+        }
+      ],
+      "teilstationär": [
+        {
+          "value": 94
+        },
+        {
+          "value": null
+        }
+      ],
+      "stationär": [
+        {
+          "value": 1347
+        },
+        {
+          "value": 177
+        }
+      ],
+      "Pflegestellen": [
+        {
+          "value": 672
+        },
+        {
+          "value": 49
+        }
+      ],
+      "Hilfen für junge Volljährige": [
+        {
+          "value": 408
+        }
+      ]
+    }
+  }
+}

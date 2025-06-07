@@ -1,0 +1,1880 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=10&rubrik_nr=5&periode=y",
+    "title": "Flugzeugbewegungen"
+  },
+  "data": {
+    "2001": {
+      "Flugzeugbewegungen": [
+        {
+          "value": 42408
+        }
+      ],
+      "Fluggäste": [
+        {
+          "value": 2185130
+        }
+      ],
+      "Anreisende": [
+        {
+          "value": 1055700
+        }
+      ],
+      "Abreisende": [
+        {
+          "value": 1056080
+        }
+      ],
+      "Transitreisende": [
+        {
+          "value": 73350
+        }
+      ],
+      "Luftfrachtaufkommen (ohne Trucking)": [
+        {
+          "value": 9252
+        }
+      ],
+      "Ausladung": [
+        {
+          "value": 3869
+        }
+      ],
+      "Einladung": [
+        {
+          "value": 4946
+        }
+      ],
+      "Transit": [
+        {
+          "value": 437
+        }
+      ],
+      "Gewerblicher Verkehr": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Nichtgewerblicher Verkehr": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Aufkommen Inland": [
+        {
+          "value": null
+        }
+      ],
+      "Verkehrseinheiten": [
+        {
+          "value": null
+        }
+      ],
+      "Aufkommen Ausland": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2002": {
+      "Aufkommen Ausland": [
+        {
+          "value": null
+        }
+      ],
+      "Flugzeugbewegungen": [
+        {
+          "value": 41209
+        }
+      ],
+      "Fluggäste": [
+        {
+          "value": 1988850
+        }
+      ],
+      "Anreisende": [
+        {
+          "value": 945369
+        }
+      ],
+      "Abreisende": [
+        {
+          "value": 940511
+        }
+      ],
+      "Transitreisende": [
+        {
+          "value": 102974
+        }
+      ],
+      "Luftfrachtaufkommen (ohne Trucking)": [
+        {
+          "value": 9675
+        }
+      ],
+      "Ausladung": [
+        {
+          "value": 4144
+        }
+      ],
+      "Einladung": [
+        {
+          "value": 5507
+        }
+      ],
+      "Transit": [
+        {
+          "value": 24
+        }
+      ],
+      "Gewerblicher Verkehr": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Nichtgewerblicher Verkehr": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Aufkommen Inland": [
+        {
+          "value": null
+        }
+      ],
+      "Verkehrseinheiten": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2003": {
+      "Verkehrseinheiten": [
+        {
+          "value": null
+        }
+      ],
+      "Gewerblicher Verkehr": [
+        {
+          "value": 1951120
+        },
+        {
+          "value": 31833
+        }
+      ],
+      "Aufkommen Inland": [
+        {
+          "value": 744270
+        }
+      ],
+      "Nichtgewerblicher Verkehr": [
+        {
+          "value": 3949
+        },
+        {
+          "value": 8470
+        }
+      ],
+      "Transit": [
+        {
+          "value": 35
+        }
+      ],
+      "Einladung": [
+        {
+          "value": 5880
+        }
+      ],
+      "Ausladung": [
+        {
+          "value": 3427
+        }
+      ],
+      "Luftfrachtaufkommen (ohne Trucking)": [
+        {
+          "value": 9342
+        }
+      ],
+      "Transitreisende": [
+        {
+          "value": 85626
+        }
+      ],
+      "Abreisende": [
+        {
+          "value": 930611
+        }
+      ],
+      "Anreisende": [
+        {
+          "value": 934884
+        }
+      ],
+      "Fluggäste": [
+        {
+          "value": 1955070
+        }
+      ],
+      "Flugzeugbewegungen": [
+        {
+          "value": 40303
+        }
+      ],
+      "Aufkommen Ausland": [
+        {
+          "value": 1206850
+        }
+      ]
+    },
+    "2004": {
+      "Aufkommen Ausland": [
+        {
+          "value": 1279090
+        }
+      ],
+      "Flugzeugbewegungen": [
+        {
+          "value": 39316
+        }
+      ],
+      "Fluggäste": [
+        {
+          "value": 2041050
+        }
+      ],
+      "Anreisende": [
+        {
+          "value": 977397
+        }
+      ],
+      "Abreisende": [
+        {
+          "value": 972162
+        }
+      ],
+      "Transitreisende": [
+        {
+          "value": 76991
+        }
+      ],
+      "Luftfrachtaufkommen (ohne Trucking)": [
+        {
+          "value": 5700
+        }
+      ],
+      "Ausladung": [
+        {
+          "value": 2012
+        }
+      ],
+      "Einladung": [
+        {
+          "value": 3537
+        }
+      ],
+      "Transit": [
+        {
+          "value": 150
+        }
+      ],
+      "Gewerblicher Verkehr": [
+        {
+          "value": 31207
+        },
+        {
+          "value": 2026550
+        }
+      ],
+      "Nichtgewerblicher Verkehr": [
+        {
+          "value": 8109
+        },
+        {
+          "value": 14496
+        }
+      ],
+      "Aufkommen Inland": [
+        {
+          "value": 747459
+        }
+      ],
+      "Verkehrseinheiten": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2005": {
+      "Verkehrseinheiten": [
+        {
+          "value": 2180830
+        }
+      ],
+      "Gewerblicher Verkehr": [
+        {
+          "value": 2122230
+        },
+        {
+          "value": 30287
+        }
+      ],
+      "Aufkommen Inland": [
+        {
+          "value": 654761
+        }
+      ],
+      "Flugzeugbewegungen": [
+        {
+          "value": 37905
+        }
+      ],
+      "Fluggäste": [
+        {
+          "value": 2127900
+        }
+      ],
+      "Anreisende": [
+        {
+          "value": 1034050
+        }
+      ],
+      "Abreisende": [
+        {
+          "value": 1028350
+        }
+      ],
+      "Transitreisende": [
+        {
+          "value": 59836
+        }
+      ],
+      "Luftfrachtaufkommen (ohne Trucking)": [
+        {
+          "value": 12054
+        }
+      ],
+      "Ausladung": [
+        {
+          "value": 4572
+        }
+      ],
+      "Einladung": [
+        {
+          "value": 6433
+        }
+      ],
+      "Transit": [
+        {
+          "value": 1048
+        }
+      ],
+      "Nichtgewerblicher Verkehr": [
+        {
+          "value": 7618
+        },
+        {
+          "value": 5662
+        }
+      ],
+      "Aufkommen Ausland": [
+        {
+          "value": 1407640
+        }
+      ]
+    },
+    "2006": {
+      "Aufkommen Ausland": [
+        {
+          "value": 1420030
+        }
+      ],
+      "Nichtgewerblicher Verkehr": [
+        {
+          "value": 8022
+        },
+        {
+          "value": 8807
+        }
+      ],
+      "Aufkommen Inland": [
+        {
+          "value": 736532
+        }
+      ],
+      "Gewerblicher Verkehr": [
+        {
+          "value": 2339990
+        },
+        {
+          "value": 33610
+        }
+      ],
+      "Flugzeugbewegungen": [
+        {
+          "value": 42417
+        }
+      ],
+      "Fluggäste": [
+        {
+          "value": 2348010
+        }
+      ],
+      "Anreisende": [
+        {
+          "value": 1082200
+        }
+      ],
+      "Abreisende": [
+        {
+          "value": 1074360
+        }
+      ],
+      "Transitreisende": [
+        {
+          "value": 183426
+        }
+      ],
+      "Luftfrachtaufkommen (ohne Trucking)": [
+        {
+          "value": 29330
+        }
+      ],
+      "Ausladung": [
+        {
+          "value": 12108
+        }
+      ],
+      "Einladung": [
+        {
+          "value": 14410
+        }
+      ],
+      "Transit": [
+        {
+          "value": 2811
+        }
+      ],
+      "Verkehrseinheiten": [
+        {
+          "value": 2421750
+        }
+      ]
+    },
+    "2007": {
+      "Verkehrseinheiten": [
+        {
+          "value": 3239390
+        }
+      ],
+      "Gewerblicher Verkehr": [
+        {
+          "value": 41648
+        },
+        {
+          "value": 2719260
+        }
+      ],
+      "Nichtgewerblicher Verkehr": [
+        {
+          "value": 9324
+        },
+        {
+          "value": 4492
+        }
+      ],
+      "Aufkommen Inland": [
+        {
+          "value": 874296
+        }
+      ],
+      "Aufkommen Ausland": [
+        {
+          "value": 1511190
+        }
+      ],
+      "Flugzeugbewegungen": [
+        {
+          "value": 50972
+        }
+      ],
+      "Fluggäste": [
+        {
+          "value": 2723750
+        }
+      ],
+      "Anreisende": [
+        {
+          "value": 1198460
+        }
+      ],
+      "Abreisende": [
+        {
+          "value": 1187020
+        }
+      ],
+      "Transitreisende": [
+        {
+          "value": 333774
+        }
+      ],
+      "Luftfrachtaufkommen (ohne Trucking)": [
+        {
+          "value": 101283
+        }
+      ],
+      "Ausladung": [
+        {
+          "value": 42241
+        }
+      ],
+      "Einladung": [
+        {
+          "value": 43124
+        }
+      ],
+      "Transit": [
+        {
+          "value": 15918
+        }
+      ]
+    },
+    "2008": {
+      "Verkehrseinheiten": [
+        {
+          "value": 6305270
+        }
+      ],
+      "Flugzeugbewegungen": [
+        {
+          "value": 59924
+        }
+      ],
+      "Gewerblicher Verkehr": [
+        {
+          "value": 54934
+        },
+        {
+          "value": 2457080
+        }
+      ],
+      "Nichtgewerblicher Verkehr": [
+        {
+          "value": 4990
+        },
+        {
+          "value": 5179
+        }
+      ],
+      "Fluggäste": [
+        {
+          "value": 2462260
+        }
+      ],
+      "Anreisende": [
+        {
+          "value": 1004850
+        }
+      ],
+      "Abreisende": [
+        {
+          "value": 1001270
+        }
+      ],
+      "Transitreisende": [
+        {
+          "value": 450959
+        }
+      ],
+      "Aufkommen Inland": [
+        {
+          "value": 748435
+        }
+      ],
+      "Aufkommen Ausland": [
+        {
+          "value": 1257680
+        }
+      ],
+      "Luftfrachtaufkommen (ohne Trucking)": [
+        {
+          "value": 442406
+        }
+      ],
+      "Ausladung": [
+        {
+          "value": 216309
+        }
+      ],
+      "Einladung": [
+        {
+          "value": 213582
+        }
+      ],
+      "Transit": [
+        {
+          "value": 12515
+        }
+      ]
+    },
+    "2009": {
+      "Flugzeugbewegungen": [
+        {
+          "value": 60150
+        }
+      ],
+      "Gewerblicher Verkehr": [
+        {
+          "value": 55762
+        },
+        {
+          "value": 2410810
+        }
+      ],
+      "Nichtgewerblicher Verkehr": [
+        {
+          "value": 4388
+        },
+        {
+          "value": 10570
+        }
+      ],
+      "Fluggäste": [
+        {
+          "value": 2421380
+        }
+      ],
+      "Anreisende": [
+        {
+          "value": 933990
+        }
+      ],
+      "Abreisende": [
+        {
+          "value": 931257
+        }
+      ],
+      "Transitreisende": [
+        {
+          "value": 545565
+        }
+      ],
+      "Aufkommen Inland": [
+        {
+          "value": 700517
+        }
+      ],
+      "Aufkommen Ausland": [
+        {
+          "value": 1164730
+        }
+      ],
+      "Luftfrachtaufkommen (ohne Trucking)": [
+        {
+          "value": 524083
+        }
+      ],
+      "Ausladung": [
+        {
+          "value": 254374
+        }
+      ],
+      "Einladung": [
+        {
+          "value": 252821
+        }
+      ],
+      "Transit": [
+        {
+          "value": 16888
+        }
+      ],
+      "Verkehrseinheiten": [
+        {
+          "value": 6937200
+        }
+      ]
+    },
+    "2010": {
+      "Luftfrachtaufkommen (ohne Trucking)": [
+        {
+          "value": 663024
+        }
+      ],
+      "Einladung": [
+        {
+          "value": 317623
+        }
+      ],
+      "Transit": [
+        {
+          "value": 24535.4
+        }
+      ],
+      "Verkehrseinheiten": [
+        {
+          "value": 8232100
+        }
+      ],
+      "Flugzeugbewegungen": [
+        {
+          "value": 62247
+        }
+      ],
+      "Gewerblicher Verkehr": [
+        {
+          "value": 57727
+        },
+        {
+          "value": 2348600
+        }
+      ],
+      "Nichtgewerblicher Verkehr": [
+        {
+          "value": 4520
+        },
+        {
+          "value": 4230
+        }
+      ],
+      "Fluggäste": [
+        {
+          "value": 2352830
+        }
+      ],
+      "Anreisende": [
+        {
+          "value": 923110
+        }
+      ],
+      "Abreisende": [
+        {
+          "value": 924083
+        }
+      ],
+      "Transitreisende": [
+        {
+          "value": 501404
+        }
+      ],
+      "Aufkommen Inland": [
+        {
+          "value": 683782
+        }
+      ],
+      "Aufkommen Ausland": [
+        {
+          "value": 1163410
+        }
+      ],
+      "Ausladung": [
+        {
+          "value": 320865
+        }
+      ]
+    },
+    "2011": {
+      "Flugzeugbewegungen": [
+        {
+          "value": 64097
+        }
+      ],
+      "Gewerblicher Verkehr": [
+        {
+          "value": 58982
+        },
+        {
+          "value": 2263670
+        }
+      ],
+      "Nichtgewerblicher Verkehr": [
+        {
+          "value": 5115
+        },
+        {
+          "value": 3075
+        }
+      ],
+      "Fluggäste": [
+        {
+          "value": 2266740
+        }
+      ],
+      "Anreisende": [
+        {
+          "value": 918778
+        }
+      ],
+      "Abreisende": [
+        {
+          "value": 916126
+        }
+      ],
+      "Transitreisende": [
+        {
+          "value": 428764
+        }
+      ],
+      "Aufkommen Inland": [
+        {
+          "value": 692096
+        }
+      ],
+      "Aufkommen Ausland": [
+        {
+          "value": 1142810
+        }
+      ],
+      "Luftfrachtaufkommen (ohne Trucking)": [
+        {
+          "value": 760345
+        }
+      ],
+      "Ausladung": [
+        {
+          "value": 370748
+        }
+      ],
+      "Einladung": [
+        {
+          "value": 373233
+        }
+      ],
+      "Transit": [
+        {
+          "value": 16363.7
+        }
+      ],
+      "Verkehrseinheiten": [
+        {
+          "value": 9274740
+        }
+      ]
+    },
+    "2012": {
+      "Flugzeugbewegungen": [
+        {
+          "value": 62688
+        }
+      ],
+      "Gewerblicher Verkehr": [
+        {
+          "value": 58640
+        },
+        {
+          "value": 2279220
+        }
+      ],
+      "Nichtgewerblicher Verkehr": [
+        {
+          "value": 4048
+        },
+        {
+          "value": 6930
+        }
+      ],
+      "Fluggäste": [
+        {
+          "value": 2286150
+        }
+      ],
+      "Anreisende": [
+        {
+          "value": 1047820
+        }
+      ],
+      "Abreisende": [
+        {
+          "value": 1041710
+        }
+      ],
+      "Transitreisende": [
+        {
+          "value": 189691
+        }
+      ],
+      "Aufkommen Inland": [
+        {
+          "value": 683988
+        }
+      ],
+      "Aufkommen Ausland": [
+        {
+          "value": 1405540
+        }
+      ],
+      "Luftfrachtaufkommen (ohne Trucking)": [
+        {
+          "value": 863665
+        }
+      ],
+      "Ausladung": [
+        {
+          "value": 421647
+        }
+      ],
+      "Einladung": [
+        {
+          "value": 424439
+        }
+      ],
+      "Transit": [
+        {
+          "value": 17579.1
+        }
+      ],
+      "Verkehrseinheiten": [
+        {
+          "value": 10550500
+        }
+      ]
+    },
+    "2013": {
+      "Flugzeugbewegungen": [
+        {
+          "value": 61668
+        }
+      ],
+      "Gewerblicher Verkehr": [
+        {
+          "value": 57588
+        },
+        {
+          "value": 2234230
+        }
+      ],
+      "Nichtgewerblicher Verkehr": [
+        {
+          "value": 4080
+        },
+        {
+          "value": 6629
+        }
+      ],
+      "Fluggäste": [
+        {
+          "value": 2240860
+        }
+      ],
+      "Anreisende": [
+        {
+          "value": 1065410
+        }
+      ],
+      "Abreisende": [
+        {
+          "value": 1064300
+        }
+      ],
+      "Transitreisende": [
+        {
+          "value": 104520
+        }
+      ],
+      "Aufkommen Inland": [
+        {
+          "value": 674190
+        }
+      ],
+      "Aufkommen Ausland": [
+        {
+          "value": 1455520
+        }
+      ],
+      "Luftfrachtaufkommen (ohne Trucking)": [
+        {
+          "value": 887101
+        }
+      ],
+      "Ausladung": [
+        {
+          "value": 431403
+        }
+      ],
+      "Einladung": [
+        {
+          "value": 446593
+        }
+      ],
+      "Transit": [
+        {
+          "value": 9105.7
+        }
+      ],
+      "Verkehrseinheiten": [
+        {
+          "value": 10909900
+        }
+      ]
+    },
+    "2014": {
+      "Flugzeugbewegungen": [
+        {
+          "value": 63569
+        }
+      ],
+      "Gewerblicher Verkehr": [
+        {
+          "value": 58887
+        },
+        {
+          "value": 2328340
+        }
+      ],
+      "Nichtgewerblicher Verkehr": [
+        {
+          "value": 4682
+        },
+        {
+          "value": 3058
+        }
+      ],
+      "Fluggäste": [
+        {
+          "value": 2331400
+        }
+      ],
+      "Anreisende": [
+        {
+          "value": 1149590
+        }
+      ],
+      "Abreisende": [
+        {
+          "value": 1148740
+        }
+      ],
+      "Transitreisende": [
+        {
+          "value": 30012
+        }
+      ],
+      "Aufkommen Inland": [
+        {
+          "value": 662503
+        }
+      ],
+      "Aufkommen Ausland": [
+        {
+          "value": 1635830
+        }
+      ],
+      "Luftfrachtaufkommen (ohne Trucking)": [
+        {
+          "value": 910708
+        }
+      ],
+      "Ausladung": [
+        {
+          "value": 445946
+        }
+      ],
+      "Einladung": [
+        {
+          "value": 460469
+        }
+      ],
+      "Transit": [
+        {
+          "value": 4292.3
+        }
+      ],
+      "Verkehrseinheiten": [
+        {
+          "value": 11363300
+        }
+      ]
+    },
+    "2015": {
+      "Flugzeugbewegungen": [
+        {
+          "value": 65061
+        }
+      ],
+      "Gewerblicher Verkehr": [
+        {
+          "value": 60153
+        },
+        {
+          "value": 2317260
+        }
+      ],
+      "Nichtgewerblicher Verkehr": [
+        {
+          "value": 4908
+        },
+        {
+          "value": 4720
+        }
+      ],
+      "Fluggäste": [
+        {
+          "value": 2321980
+        }
+      ],
+      "Anreisende": [
+        {
+          "value": 1152010
+        }
+      ],
+      "Abreisende": [
+        {
+          "value": 1153540
+        }
+      ],
+      "Transitreisende": [
+        {
+          "value": 11704
+        }
+      ],
+      "Aufkommen Inland": [
+        {
+          "value": 674926
+        }
+      ],
+      "Aufkommen Ausland": [
+        {
+          "value": 1630630
+        }
+      ],
+      "Luftfrachtaufkommen (ohne Trucking)": [
+        {
+          "value": 988240
+        }
+      ],
+      "Ausladung": [
+        {
+          "value": 483254
+        }
+      ],
+      "Einladung": [
+        {
+          "value": 501058
+        }
+      ],
+      "Transit": [
+        {
+          "value": 3928.1
+        }
+      ],
+      "Verkehrseinheiten": [
+        {
+          "value": 12149400
+        }
+      ]
+    },
+    "2016": {
+      "Flugzeugbewegungen": [
+        {
+          "value": 64492
+        }
+      ],
+      "Gewerblicher Verkehr": [
+        {
+          "value": 59213
+        },
+        {
+          "value": 2189800
+        }
+      ],
+      "Nichtgewerblicher Verkehr": [
+        {
+          "value": 5279
+        },
+        {
+          "value": 2341
+        }
+      ],
+      "Fluggäste": [
+        {
+          "value": 2192150
+        }
+      ],
+      "Anreisende": [
+        {
+          "value": 1088060
+        }
+      ],
+      "Abreisende": [
+        {
+          "value": 1089320
+        }
+      ],
+      "Transitreisende": [
+        {
+          "value": 12422
+        }
+      ],
+      "Aufkommen Inland": [
+        {
+          "value": 687316
+        }
+      ],
+      "Aufkommen Ausland": [
+        {
+          "value": 1490070
+        }
+      ],
+      "Luftfrachtaufkommen (ohne Trucking)": [
+        {
+          "value": 1052370
+        }
+      ],
+      "Ausladung": [
+        {
+          "value": 507863
+        }
+      ],
+      "Einladung": [
+        {
+          "value": 539900
+        }
+      ],
+      "Transit": [
+        {
+          "value": 4485.8
+        }
+      ],
+      "Verkehrseinheiten": [
+        {
+          "value": 12656200
+        }
+      ]
+    },
+    "2017": {
+      "Flugzeugbewegungen": [
+        {
+          "value": 69815
+        }
+      ],
+      "Gewerblicher Verkehr": [
+        {
+          "value": 63596
+        },
+        {
+          "value": 2361530
+        }
+      ],
+      "Nichtgewerblicher Verkehr": [
+        {
+          "value": 6219
+        },
+        {
+          "value": 3607
+        }
+      ],
+      "Fluggäste": [
+        {
+          "value": 2365140
+        }
+      ],
+      "Anreisende": [
+        {
+          "value": 1178200
+        }
+      ],
+      "Abreisende": [
+        {
+          "value": 1171420
+        }
+      ],
+      "Transitreisende": [
+        {
+          "value": 11922
+        }
+      ],
+      "Aufkommen Inland": [
+        {
+          "value": 764724
+        }
+      ],
+      "Aufkommen Ausland": [
+        {
+          "value": 1584890
+        }
+      ],
+      "Luftfrachtaufkommen (ohne Trucking)": [
+        {
+          "value": 1138370
+        }
+      ],
+      "Ausladung": [
+        {
+          "value": 546257
+        }
+      ],
+      "Einladung": [
+        {
+          "value": 585018
+        }
+      ],
+      "Transit": [
+        {
+          "value": 7093.84
+        }
+      ],
+      "Verkehrseinheiten": [
+        {
+          "value": 13663400
+        }
+      ]
+    },
+    "2018": {
+      "Flugzeugbewegungen": [
+        {
+          "value": 79218
+        }
+      ],
+      "Gewerblicher Verkehr": [
+        {
+          "value": 71330
+        },
+        {
+          "value": 2567780
+        }
+      ],
+      "Nichtgewerblicher Verkehr": [
+        {
+          "value": 7888
+        },
+        {
+          "value": 3341
+        }
+      ],
+      "Fluggäste": [
+        {
+          "value": 2571120
+        }
+      ],
+      "Anreisende": [
+        {
+          "value": 1276100
+        }
+      ],
+      "Abreisende": [
+        {
+          "value": 1280600
+        }
+      ],
+      "Transitreisende": [
+        {
+          "value": 11081
+        }
+      ],
+      "Aufkommen Inland": [
+        {
+          "value": 708527
+        }
+      ],
+      "Aufkommen Ausland": [
+        {
+          "value": 1848170
+        }
+      ],
+      "Luftfrachtaufkommen (ohne Trucking)": [
+        {
+          "value": 1221420
+        }
+      ],
+      "Ausladung": [
+        {
+          "value": 575757
+        }
+      ],
+      "Einladung": [
+        {
+          "value": 634478
+        }
+      ],
+      "Transit": [
+        {
+          "value": 11187.9
+        }
+      ],
+      "Verkehrseinheiten": [
+        {
+          "value": 14659100
+        }
+      ]
+    },
+    "2019": {
+      "Flugzeugbewegungen": [
+        {
+          "value": 78979
+        }
+      ],
+      "Gewerblicher Verkehr": [
+        {
+          "value": 71927
+        },
+        {
+          "value": 2615800
+        }
+      ],
+      "Nichtgewerblicher Verkehr": [
+        {
+          "value": 7053
+        },
+        {
+          "value": 2971
+        }
+      ],
+      "Fluggäste": [
+        {
+          "value": 2618770
+        }
+      ],
+      "Anreisende": [
+        {
+          "value": 1302970
+        }
+      ],
+      "Abreisende": [
+        {
+          "value": 1303400
+        }
+      ],
+      "Transitreisende": [
+        {
+          "value": 9429
+        }
+      ],
+      "Aufkommen Inland": [
+        {
+          "value": 665018
+        }
+      ],
+      "Aufkommen Ausland": [
+        {
+          "value": 1941350
+        }
+      ],
+      "Luftfrachtaufkommen (ohne Trucking)": [
+        {
+          "value": 1238340
+        }
+      ],
+      "Ausladung": [
+        {
+          "value": 587305
+        }
+      ],
+      "Einladung": [
+        {
+          "value": 589500
+        }
+      ],
+      "Transit": [
+        {
+          "value": 10638
+        }
+      ],
+      "Verkehrseinheiten": [
+        {
+          "value": 14883400
+        }
+      ]
+    },
+    "2020": {
+      "Flugzeugbewegungen": [
+        {
+          "value": 64483
+        }
+      ],
+      "Gewerblicher Verkehr": [
+        {
+          "value": 57739
+        },
+        {
+          "value": 530221
+        }
+      ],
+      "Nichtgewerblicher Verkehr": [
+        {
+          "value": 6744
+        },
+        {
+          "value": 2469
+        }
+      ],
+      "Fluggäste": [
+        {
+          "value": 532690
+        }
+      ],
+      "Anreisende": [
+        {
+          "value": 270057
+        }
+      ],
+      "Abreisende": [
+        {
+          "value": 256381
+        }
+      ],
+      "Transitreisende": [
+        {
+          "value": 3783
+        }
+      ],
+      "Aufkommen Inland": [
+        {
+          "value": 106743
+        }
+      ],
+      "Aufkommen Ausland": [
+        {
+          "value": 419695
+        }
+      ],
+      "Luftfrachtaufkommen (ohne Trucking)": [
+        {
+          "value": 1383470
+        }
+      ],
+      "Ausladung": [
+        {
+          "value": 662170
+        }
+      ],
+      "Einladung": [
+        {
+          "value": 715987
+        }
+      ],
+      "Transit": [
+        {
+          "value": 5310.3
+        }
+      ],
+      "Verkehrseinheiten": [
+        {
+          "value": 14308000
+        }
+      ]
+    },
+    "2021": {
+      "Verkehrseinheiten": [
+        {
+          "value": 16551400
+        }
+      ],
+      "Flugzeugbewegungen": [
+        {
+          "value": 76104
+        }
+      ],
+      "Gewerblicher Verkehr": [
+        {
+          "value": 69101
+        },
+        {
+          "value": 667784
+        }
+      ],
+      "Nichtgewerblicher Verkehr": [
+        {
+          "value": 7003
+        },
+        {
+          "value": 2102
+        }
+      ],
+      "Fluggäste": [
+        {
+          "value": 669886
+        }
+      ],
+      "Anreisende": [
+        {
+          "value": 330355
+        }
+      ],
+      "Abreisende": [
+        {
+          "value": 332905
+        }
+      ],
+      "Transitreisende": [
+        {
+          "value": 4524
+        }
+      ],
+      "Aufkommen Inland": [
+        {
+          "value": 62584
+        }
+      ],
+      "Aufkommen Ausland": [
+        {
+          "value": 600676
+        }
+      ],
+      "Luftfrachtaufkommen (ohne Trucking)": [
+        {
+          "value": 1591610
+        }
+      ],
+      "Ausladung": [
+        {
+          "value": 760596
+        }
+      ],
+      "Einladung": [
+        {
+          "value": 828219
+        }
+      ],
+      "Transit": [
+        {
+          "value": 2798.74
+        }
+      ]
+    },
+    "2022": {
+      "Flugzeugbewegungen": [
+        {
+          "value": 80903
+        }
+      ],
+      "Gewerblicher Verkehr": [
+        {
+          "value": 74078
+        },
+        {
+          "value": 1558600
+        }
+      ],
+      "Nichtgewerblicher Verkehr": [
+        {
+          "value": 6825
+        },
+        {
+          "value": 3648
+        }
+      ],
+      "Fluggäste": [
+        {
+          "value": 1562250
+        }
+      ],
+      "Anreisende": [
+        {
+          "value": 775695
+        }
+      ],
+      "Abreisende": [
+        {
+          "value": 774414
+        }
+      ],
+      "Transitreisende": [
+        {
+          "value": 8493
+        }
+      ],
+      "Aufkommen Inland": [
+        {
+          "value": 206325
+        }
+      ],
+      "Aufkommen Ausland": [
+        {
+          "value": 1343780
+        }
+      ],
+      "Luftfrachtaufkommen (ohne Trucking)": [
+        {
+          "value": 1510580
+        }
+      ],
+      "Ausladung": [
+        {
+          "value": 731623
+        }
+      ],
+      "Einladung": [
+        {
+          "value": 777474
+        }
+      ],
+      "Transit": [
+        {
+          "value": 1477.48
+        }
+      ],
+      "Verkehrseinheiten": [
+        {
+          "value": 16641100
+        }
+      ]
+    },
+    "2023": {
+      "Flugzeugbewegungen": [
+        {
+          "value": 80536
+        }
+      ],
+      "Gewerblicher Verkehr": [
+        {
+          "value": 73706
+        },
+        {
+          "value": 2101430
+        }
+      ],
+      "Nichtgewerblicher Verkehr": [
+        {
+          "value": 6830
+        },
+        {
+          "value": 4448
+        }
+      ],
+      "Fluggäste": [
+        {
+          "value": 2105870
+        }
+      ],
+      "Anreisende": [
+        {
+          "value": 1044900
+        }
+      ],
+      "Abreisende": [
+        {
+          "value": 1049170
+        }
+      ],
+      "Transitreisende": [
+        {
+          "value": 7349
+        }
+      ],
+      "Aufkommen Inland": [
+        {
+          "value": 289239
+        }
+      ],
+      "Aufkommen Ausland": [
+        {
+          "value": 1804840
+        }
+      ],
+      "Luftfrachtaufkommen (ohne Trucking)": [
+        {
+          "value": 1393750
+        }
+      ],
+      "Ausladung": [
+        {
+          "value": 674798
+        }
+      ],
+      "Einladung": [
+        {
+          "value": 717753
+        }
+      ],
+      "Transit": [
+        {
+          "value": 1196.61
+        }
+      ],
+      "Verkehrseinheiten": [
+        {
+          "value": 16019600
+        }
+      ]
+    },
+    "2024": {
+      "Flugzeugbewegungen": [
+        {
+          "value": 76827
+        }
+      ],
+      "Gewerblicher Verkehr": [
+        {
+          "value": 68584
+        },
+        {
+          "value": 2200980
+        }
+      ],
+      "Nichtgewerblicher Verkehr": [
+        {
+          "value": 8243
+        },
+        {
+          "value": 3379
+        }
+      ],
+      "Fluggäste": [
+        {
+          "value": 2204360
+        }
+      ],
+      "Anreisende": [
+        {
+          "value": 1097570
+        }
+      ],
+      "Abreisende": [
+        {
+          "value": 1098310
+        }
+      ],
+      "Transitreisende": [
+        {
+          "value": 5101
+        }
+      ],
+      "Aufkommen Inland": [
+        {
+          "value": 300012
+        }
+      ],
+      "Aufkommen Ausland": [
+        {
+          "value": 1895870
+        }
+      ],
+      "Luftfrachtaufkommen (ohne Trucking)": [
+        {
+          "value": 1386350
+        }
+      ],
+      "Ausladung": [
+        {
+          "value": 669622
+        }
+      ],
+      "Einladung": [
+        {
+          "value": 715318
+        }
+      ],
+      "Transit": [
+        {
+          "value": 1407.8
+        }
+      ],
+      "Verkehrseinheiten": [
+        {
+          "value": 16045300
+        }
+      ]
+    }
+  }
+}

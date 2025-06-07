@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=5&rubrik_nr=7&periode=y",
+    "title": "Eigenmittel"
+  },
+  "data": {
+    "2005": {
+      "Eigenmittel": [
+        {
+          "value": 3.8
+        }
+      ],
+      "bewilligte Fördermittel": [
+        {
+          "value": 2.1
+        }
+      ],
+      "Investitionen": [
+        {
+          "value": 5.9
+        }
+      ]
+    },
+    "2010": {
+      "Investitionen": [
+        {
+          "value": 34.2
+        }
+      ],
+      "bewilligte Fördermittel": [
+        {
+          "value": 21.6
+        }
+      ],
+      "Eigenmittel": [
+        {
+          "value": 12.6
+        }
+      ]
+    },
+    "2015": {
+      "Eigenmittel": [
+        {
+          "value": 30.8
+        }
+      ],
+      "bewilligte Fördermittel": [
+        {
+          "value": 2.5
+        }
+      ],
+      "Investitionen": [
+        {
+          "value": 33.3
+        }
+      ]
+    },
+    "2016": {
+      "Investitionen": [
+        {
+          "value": 49.1
+        }
+      ],
+      "bewilligte Fördermittel": [
+        {
+          "value": 6.2
+        }
+      ],
+      "Eigenmittel": [
+        {
+          "value": 42.9
+        }
+      ]
+    },
+    "2017": {
+      "Eigenmittel": [
+        {
+          "value": -38.7
+        }
+      ],
+      "bewilligte Fördermittel": [
+        {
+          "value": 89.7
+        }
+      ],
+      "Investitionen": [
+        {
+          "value": 51
+        }
+      ]
+    },
+    "2018": {
+      "Investitionen": [
+        {
+          "value": 69.4
+        }
+      ],
+      "bewilligte Fördermittel": [
+        {
+          "value": 16.1
+        }
+      ],
+      "Eigenmittel": [
+        {
+          "value": 53.3
+        }
+      ]
+    },
+    "2019": {
+      "Eigenmittel": [
+        {
+          "value": 78.9
+        }
+      ],
+      "bewilligte Fördermittel": [
+        {
+          "value": 41.9
+        }
+      ],
+      "Investitionen": [
+        {
+          "value": 120.8
+        }
+      ]
+    },
+    "2020": {
+      "Investitionen": [
+        {
+          "value": 169.5
+        }
+      ],
+      "bewilligte Fördermittel": [
+        {
+          "value": 94.1
+        }
+      ],
+      "Eigenmittel": [
+        {
+          "value": 75.4
+        }
+      ]
+    },
+    "2021": {
+      "Eigenmittel": [
+        {
+          "value": 65.8
+        }
+      ],
+      "bewilligte Fördermittel": [
+        {
+          "value": 46.8
+        }
+      ],
+      "Investitionen": [
+        {
+          "value": 112.6
+        }
+      ]
+    },
+    "2022": {
+      "Investitionen": [
+        {
+          "value": 131
+        }
+      ],
+      "bewilligte Fördermittel": [
+        {
+          "value": 18.8
+        }
+      ],
+      "Eigenmittel": [
+        {
+          "value": 112.2
+        }
+      ]
+    },
+    "2023": {
+      "Eigenmittel": [
+        {
+          "value": 165.748
+        }
+      ],
+      "bewilligte Fördermittel": [
+        {
+          "value": 34.6391
+        }
+      ],
+      "Investitionen": [
+        {
+          "value": 200.387
+        }
+      ]
+    }
+  }
+}

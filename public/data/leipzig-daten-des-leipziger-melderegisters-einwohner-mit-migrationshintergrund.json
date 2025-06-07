@@ -1,0 +1,2108 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=2&rubrik_nr=1&periode=y",
+    "title": "Daten des Leipziger Melderegisters__Einwohner mit Migrationshintergrund"
+  },
+  "data": {
+    "2000": {
+      "Einwohner mit Migrationshintergrund": [
+        {
+          "value": null
+        }
+      ],
+      "Männer": [
+        {
+          "value": null
+        },
+        {
+          "value": 229893
+        },
+        {
+          "value": 214911
+        },
+        {
+          "value": 14982
+        },
+        {
+          "value": 237986
+        },
+        {
+          "value": 219912
+        },
+        {
+          "value": 18074
+        }
+      ],
+      "Frauen": [
+        {
+          "value": null
+        },
+        {
+          "value": 250103
+        },
+        {
+          "value": 242988
+        },
+        {
+          "value": 7115
+        },
+        {
+          "value": 255222
+        },
+        {
+          "value": 246157
+        },
+        {
+          "value": 9065
+        }
+      ],
+      "Einwohner mit Nebenwohnsitz": [
+        {
+          "value": 38186
+        }
+      ],
+      "Einwohner mit Hauptwohnsitz": [
+        {
+          "value": 479996
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 457899
+        },
+        {
+          "value": 466069
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 22097
+        },
+        {
+          "value": 27139
+        }
+      ],
+      "Bevölkerung insgesamt": [
+        {
+          "value": 493208
+        }
+      ]
+    },
+    "2001": {
+      "Bevölkerung insgesamt": [
+        {
+          "value": 493052
+        }
+      ],
+      "Männer": [
+        {
+          "value": 238175
+        },
+        {
+          "value": 219207
+        },
+        {
+          "value": 18968
+        },
+        {
+          "value": 229775
+        },
+        {
+          "value": 214257
+        },
+        {
+          "value": 15518
+        },
+        {
+          "value": null
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 254877
+        },
+        {
+          "value": 244752
+        },
+        {
+          "value": 10125
+        },
+        {
+          "value": 249682
+        },
+        {
+          "value": 241654
+        },
+        {
+          "value": 8028
+        },
+        {
+          "value": null
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 463959
+        },
+        {
+          "value": 455911
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 29093
+        },
+        {
+          "value": 23546
+        }
+      ],
+      "Einwohner mit Hauptwohnsitz": [
+        {
+          "value": 479457
+        }
+      ],
+      "Einwohner mit Nebenwohnsitz": [
+        {
+          "value": 39963
+        }
+      ],
+      "Einwohner mit Migrationshintergrund": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2002": {
+      "Einwohner mit Migrationshintergrund": [
+        {
+          "value": null
+        }
+      ],
+      "Männer": [
+        {
+          "value": null
+        },
+        {
+          "value": 230863
+        },
+        {
+          "value": 214529
+        },
+        {
+          "value": 16334
+        },
+        {
+          "value": 239154
+        },
+        {
+          "value": 219377
+        },
+        {
+          "value": 19777
+        }
+      ],
+      "Frauen": [
+        {
+          "value": null
+        },
+        {
+          "value": 250527
+        },
+        {
+          "value": 241334
+        },
+        {
+          "value": 9193
+        },
+        {
+          "value": 255641
+        },
+        {
+          "value": 244340
+        },
+        {
+          "value": 11301
+        }
+      ],
+      "Einwohner mit Nebenwohnsitz": [
+        {
+          "value": 40683
+        }
+      ],
+      "Einwohner mit Hauptwohnsitz": [
+        {
+          "value": 481390
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 455863
+        },
+        {
+          "value": 463717
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 25527
+        },
+        {
+          "value": 31078
+        }
+      ],
+      "Bevölkerung insgesamt": [
+        {
+          "value": 494795
+        }
+      ]
+    },
+    "2003": {
+      "Bevölkerung insgesamt": [
+        {
+          "value": 497531
+        }
+      ],
+      "Männer": [
+        {
+          "value": 240878
+        },
+        {
+          "value": 220637
+        },
+        {
+          "value": 20241
+        },
+        {
+          "value": 232492
+        },
+        {
+          "value": 215729
+        },
+        {
+          "value": 16763
+        },
+        {
+          "value": null
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 256653
+        },
+        {
+          "value": 244593
+        },
+        {
+          "value": 12060
+        },
+        {
+          "value": 251629
+        },
+        {
+          "value": 241667
+        },
+        {
+          "value": 9962
+        },
+        {
+          "value": null
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 465230
+        },
+        {
+          "value": 457396
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 32301
+        },
+        {
+          "value": 26725
+        }
+      ],
+      "Einwohner mit Hauptwohnsitz": [
+        {
+          "value": 484121
+        }
+      ],
+      "Einwohner mit Nebenwohnsitz": [
+        {
+          "value": 41040
+        }
+      ],
+      "Einwohner mit Migrationshintergrund": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2004": {
+      "Einwohner mit Migrationshintergrund": [
+        {
+          "value": null
+        }
+      ],
+      "Männer": [
+        {
+          "value": null
+        },
+        {
+          "value": 232778
+        },
+        {
+          "value": 217547
+        },
+        {
+          "value": 15231
+        },
+        {
+          "value": 18620
+        },
+        {
+          "value": 222198
+        },
+        {
+          "value": 240818
+        }
+      ],
+      "Frauen": [
+        {
+          "value": null
+        },
+        {
+          "value": 252865
+        },
+        {
+          "value": 242693
+        },
+        {
+          "value": 10172
+        },
+        {
+          "value": 12227
+        },
+        {
+          "value": 245446
+        },
+        {
+          "value": 257673
+        }
+      ],
+      "Einwohner mit Nebenwohnsitz": [
+        {
+          "value": 41818
+        }
+      ],
+      "Einwohner mit Hauptwohnsitz": [
+        {
+          "value": 485643
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 460240
+        },
+        {
+          "value": 467644
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 25403
+        },
+        {
+          "value": 30847
+        }
+      ],
+      "Bevölkerung insgesamt": [
+        {
+          "value": 498491
+        }
+      ]
+    },
+    "2005": {
+      "Bevölkerung insgesamt": [
+        {
+          "value": 502651
+        }
+      ],
+      "Männer": [
+        {
+          "value": 243125
+        },
+        {
+          "value": 224174
+        },
+        {
+          "value": 18951
+        },
+        {
+          "value": 234727
+        },
+        {
+          "value": 219114
+        },
+        {
+          "value": 15613
+        },
+        {
+          "value": null
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 259526
+        },
+        {
+          "value": 246729
+        },
+        {
+          "value": 12797
+        },
+        {
+          "value": 254608
+        },
+        {
+          "value": 243795
+        },
+        {
+          "value": 10813
+        },
+        {
+          "value": null
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 470903
+        },
+        {
+          "value": 462909
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 31748
+        },
+        {
+          "value": 26426
+        }
+      ],
+      "Einwohner mit Hauptwohnsitz": [
+        {
+          "value": 489335
+        }
+      ],
+      "Einwohner mit Nebenwohnsitz": [
+        {
+          "value": 38821
+        }
+      ],
+      "Einwohner mit Migrationshintergrund": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2006": {
+      "Einwohner mit Migrationshintergrund": [
+        {
+          "value": null
+        }
+      ],
+      "Männer": [
+        {
+          "value": null
+        },
+        {
+          "value": 237490
+        },
+        {
+          "value": 222032
+        },
+        {
+          "value": 15458
+        },
+        {
+          "value": 18649
+        },
+        {
+          "value": 226368
+        },
+        {
+          "value": 245017
+        }
+      ],
+      "Frauen": [
+        {
+          "value": null
+        },
+        {
+          "value": 257281
+        },
+        {
+          "value": 245856
+        },
+        {
+          "value": 11425
+        },
+        {
+          "value": 13332
+        },
+        {
+          "value": 248229
+        },
+        {
+          "value": 261561
+        }
+      ],
+      "Einwohner mit Nebenwohnsitz": [
+        {
+          "value": 25742
+        }
+      ],
+      "Einwohner mit Hauptwohnsitz": [
+        {
+          "value": 494771
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 467888
+        },
+        {
+          "value": 474597
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 26883
+        },
+        {
+          "value": 31981
+        }
+      ],
+      "Bevölkerung insgesamt": [
+        {
+          "value": 506578
+        }
+      ]
+    },
+    "2007": {
+      "Bevölkerung insgesamt": [
+        {
+          "value": 510512
+        }
+      ],
+      "Männer": [
+        {
+          "value": 247282
+        },
+        {
+          "value": 228329
+        },
+        {
+          "value": 18953
+        },
+        {
+          "value": 239241
+        },
+        {
+          "value": 223525
+        },
+        {
+          "value": 15716
+        },
+        {
+          "value": null
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 263230
+        },
+        {
+          "value": 249395
+        },
+        {
+          "value": 13835
+        },
+        {
+          "value": 258550
+        },
+        {
+          "value": 246616
+        },
+        {
+          "value": 11934
+        },
+        {
+          "value": null
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 477724
+        },
+        {
+          "value": 470141
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 32788
+        },
+        {
+          "value": 27650
+        }
+      ],
+      "Einwohner mit Hauptwohnsitz": [
+        {
+          "value": 497791
+        }
+      ],
+      "Einwohner mit Nebenwohnsitz": [
+        {
+          "value": 17670
+        }
+      ],
+      "Einwohner mit Migrationshintergrund": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2008": {
+      "Einwohner mit Migrationshintergrund": [
+        {
+          "value": null
+        }
+      ],
+      "Männer": [
+        {
+          "value": null
+        },
+        {
+          "value": 241824
+        },
+        {
+          "value": 225909
+        },
+        {
+          "value": 15915
+        },
+        {
+          "value": 250018
+        },
+        {
+          "value": 230729
+        },
+        {
+          "value": 19289
+        }
+      ],
+      "Frauen": [
+        {
+          "value": null
+        },
+        {
+          "value": 260577
+        },
+        {
+          "value": 248315
+        },
+        {
+          "value": 12262
+        },
+        {
+          "value": 265451
+        },
+        {
+          "value": 251212
+        },
+        {
+          "value": 14239
+        }
+      ],
+      "Einwohner mit Nebenwohnsitz": [
+        {
+          "value": 17258
+        }
+      ],
+      "Einwohner mit Hauptwohnsitz": [
+        {
+          "value": 502401
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 474224
+        },
+        {
+          "value": 481941
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 28177
+        },
+        {
+          "value": 33528
+        }
+      ],
+      "Bevölkerung insgesamt": [
+        {
+          "value": 515469
+        }
+      ]
+    },
+    "2009": {
+      "Bevölkerung insgesamt": [
+        {
+          "value": 518862
+        }
+      ],
+      "Männer": [
+        {
+          "value": 251748
+        },
+        {
+          "value": 233397
+        },
+        {
+          "value": 18351
+        },
+        {
+          "value": 243484
+        },
+        {
+          "value": 228490
+        },
+        {
+          "value": 14994
+        },
+        {
+          "value": null
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 267114
+        },
+        {
+          "value": 253167
+        },
+        {
+          "value": 13947
+        },
+        {
+          "value": 262075
+        },
+        {
+          "value": 250101
+        },
+        {
+          "value": 11974
+        },
+        {
+          "value": null
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 486564
+        },
+        {
+          "value": 478591
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 32298
+        },
+        {
+          "value": 26968
+        }
+      ],
+      "Einwohner mit Hauptwohnsitz": [
+        {
+          "value": 505559
+        }
+      ],
+      "Einwohner mit Nebenwohnsitz": [
+        {
+          "value": 16358
+        }
+      ],
+      "Einwohner mit Migrationshintergrund": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2010": {
+      "Einwohner mit Migrationshintergrund": [
+        {
+          "value": 42094
+        }
+      ],
+      "Männer": [
+        {
+          "value": 21817
+        },
+        {
+          "value": 244883
+        },
+        {
+          "value": 231490
+        },
+        {
+          "value": 13393
+        },
+        {
+          "value": 253533
+        },
+        {
+          "value": 236809
+        },
+        {
+          "value": 16724
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 20277
+        },
+        {
+          "value": 263892
+        },
+        {
+          "value": 252404
+        },
+        {
+          "value": 11488
+        },
+        {
+          "value": 269350
+        },
+        {
+          "value": 255877
+        },
+        {
+          "value": 13473
+        }
+      ],
+      "Einwohner mit Nebenwohnsitz": [
+        {
+          "value": 15385
+        }
+      ],
+      "Einwohner mit Hauptwohnsitz": [
+        {
+          "value": 508775
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 483894
+        },
+        {
+          "value": 492686
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 24881
+        },
+        {
+          "value": 30197
+        }
+      ],
+      "Bevölkerung insgesamt": [
+        {
+          "value": 522883
+        }
+      ]
+    },
+    "2011": {
+      "Bevölkerung insgesamt": [
+        {
+          "value": 510043
+        }
+      ],
+      "Männer": [
+        {
+          "value": 245137
+        },
+        {
+          "value": 232954
+        },
+        {
+          "value": 12183
+        },
+        {
+          "value": 250013
+        },
+        {
+          "value": 235546
+        },
+        {
+          "value": 14467
+        },
+        {
+          "value": 23527
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 264906
+        },
+        {
+          "value": 254290
+        },
+        {
+          "value": 10616
+        },
+        {
+          "value": 267825
+        },
+        {
+          "value": 255620
+        },
+        {
+          "value": 12205
+        },
+        {
+          "value": 21590
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 487244
+        },
+        {
+          "value": 491166
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 22799
+        },
+        {
+          "value": 26672
+        }
+      ],
+      "Einwohner mit Hauptwohnsitz": [
+        {
+          "value": 517838
+        }
+      ],
+      "Einwohner mit Nebenwohnsitz": [
+        {
+          "value": 11705
+        }
+      ],
+      "Einwohner mit Migrationshintergrund": [
+        {
+          "value": 45117
+        }
+      ]
+    },
+    "2012": {
+      "Einwohner mit Migrationshintergrund": [
+        {
+          "value": 49323
+        }
+      ],
+      "Männer": [
+        {
+          "value": 26156
+        },
+        {
+          "value": 256272
+        },
+        {
+          "value": 239899
+        },
+        {
+          "value": 16373
+        },
+        {
+          "value": 251491
+        },
+        {
+          "value": 237401
+        },
+        {
+          "value": 14090
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 23167
+        },
+        {
+          "value": 272268
+        },
+        {
+          "value": 258982
+        },
+        {
+          "value": 13286
+        },
+        {
+          "value": 269347
+        },
+        {
+          "value": 257661
+        },
+        {
+          "value": 11686
+        }
+      ],
+      "Einwohner mit Nebenwohnsitz": [
+        {
+          "value": 10838
+        }
+      ],
+      "Einwohner mit Hauptwohnsitz": [
+        {
+          "value": 528540
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 498881
+        },
+        {
+          "value": 495062
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 29659
+        },
+        {
+          "value": 25776
+        }
+      ],
+      "Bevölkerung insgesamt": [
+        {
+          "value": 520838
+        }
+      ]
+    },
+    "2013": {
+      "Einwohner mit Hauptwohnsitz": [
+        {
+          "value": 539348
+        }
+      ],
+      "Männer": [
+        {
+          "value": 262336
+        },
+        {
+          "value": 244127
+        },
+        {
+          "value": 18209
+        },
+        {
+          "value": 257445
+        },
+        {
+          "value": 241647
+        },
+        {
+          "value": 15798
+        },
+        {
+          "value": 28630
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 277012
+        },
+        {
+          "value": 262367
+        },
+        {
+          "value": 14645
+        },
+        {
+          "value": 25146
+        },
+        {
+          "value": 274117
+        },
+        {
+          "value": 261072
+        },
+        {
+          "value": 13045
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 506494
+        },
+        {
+          "value": 502719
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 32854
+        },
+        {
+          "value": 28843
+        }
+      ],
+      "Einwohner mit Nebenwohnsitz": [
+        {
+          "value": 10051
+        }
+      ],
+      "Bevölkerung insgesamt": [
+        {
+          "value": 531562
+        }
+      ],
+      "Einwohner mit Migrationshintergrund": [
+        {
+          "value": 53776
+        }
+      ]
+    },
+    "2014": {
+      "Einwohner mit Migrationshintergrund": [
+        {
+          "value": 59738
+        }
+      ],
+      "Männer": [
+        {
+          "value": 32037
+        },
+        {
+          "value": 269544
+        },
+        {
+          "value": 248645
+        },
+        {
+          "value": 20899
+        },
+        {
+          "value": 264914
+        },
+        {
+          "value": 246416
+        },
+        {
+          "value": 18498
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 27701
+        },
+        {
+          "value": 282327
+        },
+        {
+          "value": 265835
+        },
+        {
+          "value": 16492
+        },
+        {
+          "value": 279565
+        },
+        {
+          "value": 264653
+        },
+        {
+          "value": 14912
+        }
+      ],
+      "Einwohner mit Nebenwohnsitz": [
+        {
+          "value": 9144
+        }
+      ],
+      "Einwohner mit Hauptwohnsitz": [
+        {
+          "value": 551871
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 514480
+        },
+        {
+          "value": 511069
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 37391
+        },
+        {
+          "value": 33410
+        }
+      ],
+      "Bevölkerung insgesamt": [
+        {
+          "value": 544479
+        }
+      ]
+    },
+    "2015": {
+      "Bevölkerung insgesamt": [
+        {
+          "value": 560472
+        }
+      ],
+      "Männer": [
+        {
+          "value": 274414
+        },
+        {
+          "value": 250522
+        },
+        {
+          "value": 23892
+        },
+        {
+          "value": 279052
+        },
+        {
+          "value": 252723
+        },
+        {
+          "value": 26329
+        },
+        {
+          "value": 38263
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 286058
+        },
+        {
+          "value": 267951
+        },
+        {
+          "value": 18107
+        },
+        {
+          "value": 288794
+        },
+        {
+          "value": 269094
+        },
+        {
+          "value": 19700
+        },
+        {
+          "value": 31725
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 518473
+        },
+        {
+          "value": 521817
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 41999
+        },
+        {
+          "value": 46029
+        }
+      ],
+      "Einwohner mit Hauptwohnsitz": [
+        {
+          "value": 567846
+        }
+      ],
+      "Einwohner mit Nebenwohnsitz": [
+        {
+          "value": 9091
+        }
+      ],
+      "Einwohner mit Migrationshintergrund": [
+        {
+          "value": 69988
+        }
+      ]
+    },
+    "2016": {
+      "Einwohner mit Migrationshintergrund": [
+        {
+          "value": 77559
+        }
+      ],
+      "Männer": [
+        {
+          "value": 42635
+        },
+        {
+          "value": 285870
+        },
+        {
+          "value": 256072
+        },
+        {
+          "value": 29798
+        },
+        {
+          "value": 280292
+        },
+        {
+          "value": 253236
+        },
+        {
+          "value": 27056
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 34924
+        },
+        {
+          "value": 293660
+        },
+        {
+          "value": 271597
+        },
+        {
+          "value": 22063
+        },
+        {
+          "value": 290796
+        },
+        {
+          "value": 270329
+        },
+        {
+          "value": 20467
+        }
+      ],
+      "Einwohner mit Nebenwohnsitz": [
+        {
+          "value": 9091
+        }
+      ],
+      "Einwohner mit Hauptwohnsitz": [
+        {
+          "value": 579530
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 527669
+        },
+        {
+          "value": 523565
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 51861
+        },
+        {
+          "value": 47523
+        }
+      ],
+      "Bevölkerung insgesamt": [
+        {
+          "value": 571088
+        }
+      ]
+    },
+    "2017": {
+      "Einwohner mit Nebenwohnsitz": [
+        {
+          "value": 5615
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 37833
+        },
+        {
+          "value": 299157
+        },
+        {
+          "value": 275023
+        },
+        {
+          "value": 24134
+        },
+        {
+          "value": 296203
+        },
+        {
+          "value": 273559
+        },
+        {
+          "value": 22644
+        }
+      ],
+      "Einwohner mit Hauptwohnsitz": [
+        {
+          "value": 590337
+        }
+      ],
+      "Männer": [
+        {
+          "value": 291180
+        },
+        {
+          "value": 259303
+        },
+        {
+          "value": 31877
+        },
+        {
+          "value": 45573
+        },
+        {
+          "value": 285777
+        },
+        {
+          "value": 256245
+        },
+        {
+          "value": 29532
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 534326
+        },
+        {
+          "value": 529804
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 56011
+        },
+        {
+          "value": 52176
+        }
+      ],
+      "Einwohner mit Migrationshintergrund": [
+        {
+          "value": 83406
+        }
+      ],
+      "Bevölkerung insgesamt": [
+        {
+          "value": 581980
+        }
+      ]
+    },
+    "2018": {
+      "Einwohner mit Migrationshintergrund": [
+        {
+          "value": 87889
+        }
+      ],
+      "Männer": [
+        {
+          "value": 47685
+        },
+        {
+          "value": 288553
+        },
+        {
+          "value": 257964
+        },
+        {
+          "value": 30589
+        },
+        {
+          "value": 294231
+        },
+        {
+          "value": 261154
+        },
+        {
+          "value": 33077
+        }
+      ],
+      "Bevölkerung insgesamt": [
+        {
+          "value": 587857
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 299304
+        },
+        {
+          "value": 275254
+        },
+        {
+          "value": 24050
+        },
+        {
+          "value": 302286
+        },
+        {
+          "value": 276742
+        },
+        {
+          "value": 25544
+        },
+        {
+          "value": 40204
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 533218
+        },
+        {
+          "value": 537896
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 54639
+        },
+        {
+          "value": 58621
+        }
+      ],
+      "Einwohner mit Hauptwohnsitz": [
+        {
+          "value": 596517
+        }
+      ],
+      "Einwohner mit Nebenwohnsitz": [
+        {
+          "value": 5220
+        }
+      ]
+    },
+    "2019": {
+      "Einwohner mit Nebenwohnsitz": [
+        {
+          "value": 5291
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 42628
+        },
+        {
+          "value": 304604
+        },
+        {
+          "value": 277880
+        },
+        {
+          "value": 26724
+        },
+        {
+          "value": 301695
+        },
+        {
+          "value": 276445
+        },
+        {
+          "value": 25250
+        }
+      ],
+      "Männer": [
+        {
+          "value": 50293
+        },
+        {
+          "value": 297064
+        },
+        {
+          "value": 262618
+        },
+        {
+          "value": 34446
+        },
+        {
+          "value": 291450
+        },
+        {
+          "value": 259368
+        },
+        {
+          "value": 32082
+        }
+      ],
+      "Einwohner mit Migrationshintergrund": [
+        {
+          "value": 92921
+        }
+      ],
+      "Einwohner mit Hauptwohnsitz": [
+        {
+          "value": 601668
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 540498
+        },
+        {
+          "value": 535813
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 61170
+        },
+        {
+          "value": 57332
+        }
+      ],
+      "Bevölkerung insgesamt": [
+        {
+          "value": 593145
+        }
+      ]
+    },
+    "2020": {
+      "Einwohner mit Migrationshintergrund": [
+        {
+          "value": 96719
+        }
+      ],
+      "Männer": [
+        {
+          "value": 52200
+        },
+        {
+          "value": 293522
+        },
+        {
+          "value": 260198
+        },
+        {
+          "value": 33324
+        },
+        {
+          "value": 298822
+        },
+        {
+          "value": 263304
+        },
+        {
+          "value": 35518
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 44519
+        },
+        {
+          "value": 303971
+        },
+        {
+          "value": 277575
+        },
+        {
+          "value": 26396
+        },
+        {
+          "value": 306585
+        },
+        {
+          "value": 278814
+        },
+        {
+          "value": 27771
+        }
+      ],
+      "Einwohner mit Nebenwohnsitz": [
+        {
+          "value": 5503
+        }
+      ],
+      "Bevölkerung insgesamt": [
+        {
+          "value": 597493
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 537773
+        },
+        {
+          "value": 542118
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 59720
+        },
+        {
+          "value": 63289
+        }
+      ],
+      "Einwohner mit Hauptwohnsitz": [
+        {
+          "value": 605407
+        }
+      ]
+    },
+    "2021": {
+      "Frauen": [
+        {
+          "value": 47139
+        },
+        {
+          "value": 305756
+        },
+        {
+          "value": 277580
+        },
+        {
+          "value": 28176
+        },
+        {
+          "value": 308452
+        },
+        {
+          "value": 278831
+        },
+        {
+          "value": 29621
+        }
+      ],
+      "Männer": [
+        {
+          "value": 55532
+        },
+        {
+          "value": 296110
+        },
+        {
+          "value": 260402
+        },
+        {
+          "value": 35708
+        },
+        {
+          "value": 301417
+        },
+        {
+          "value": 263453
+        },
+        {
+          "value": 37964
+        }
+      ],
+      "Einwohner mit Migrationshintergrund": [
+        {
+          "value": 102671
+        }
+      ],
+      "Bevölkerung insgesamt": [
+        {
+          "value": 601866
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 537982
+        },
+        {
+          "value": 542284
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 63884
+        },
+        {
+          "value": 67585
+        }
+      ],
+      "Einwohner mit Hauptwohnsitz": [
+        {
+          "value": 609869
+        }
+      ],
+      "Einwohner mit Nebenwohnsitz": [
+        {
+          "value": 5670
+        }
+      ]
+    },
+    "2022": {
+      "Einwohner mit Nebenwohnsitz": [
+        {
+          "value": 5507
+        }
+      ],
+      "Einwohner mit Migrationshintergrund": [
+        {
+          "value": 120203
+        }
+      ],
+      "Männer": [
+        {
+          "value": 63654
+        },
+        {
+          "value": 296604
+        },
+        {
+          "value": 255853
+        },
+        {
+          "value": 40751
+        },
+        {
+          "value": 308433
+        },
+        {
+          "value": 263153
+        },
+        {
+          "value": 45280
+        }
+      ],
+      "Bevölkerung insgesamt": [
+        {
+          "value": 603578
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 306974
+        },
+        {
+          "value": 272727
+        },
+        {
+          "value": 34247
+        },
+        {
+          "value": 316256
+        },
+        {
+          "value": 277968
+        },
+        {
+          "value": 38288
+        },
+        {
+          "value": 56549
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 528580
+        },
+        {
+          "value": 541121
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 74998
+        },
+        {
+          "value": 83568
+        }
+      ],
+      "Einwohner mit Hauptwohnsitz": [
+        {
+          "value": 624689
+        }
+      ]
+    },
+    "2023": {
+      "Einwohner mit Hauptwohnsitz": [
+        {
+          "value": 628718
+        }
+      ],
+      "Männer": [
+        {
+          "value": 311242
+        },
+        {
+          "value": 299731
+        },
+        {
+          "value": 254764
+        },
+        {
+          "value": 44967
+        },
+        {
+          "value": 262076
+        },
+        {
+          "value": 49166
+        },
+        {
+          "value": 67683
+        }
+      ],
+      "Bevölkerung insgesamt": [
+        {
+          "value": 608013
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 308282
+        },
+        {
+          "value": 271474
+        },
+        {
+          "value": 36808
+        },
+        {
+          "value": 317476
+        },
+        {
+          "value": 276809
+        },
+        {
+          "value": 40667
+        },
+        {
+          "value": 58956
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 526238
+        },
+        {
+          "value": 538885
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 81775
+        },
+        {
+          "value": 89833
+        }
+      ],
+      "Einwohner mit Migrationshintergrund": [
+        {
+          "value": 126639
+        }
+      ],
+      "Einwohner mit Nebenwohnsitz": [
+        {
+          "value": 5380
+        }
+      ]
+    },
+    "2024": {
+      "Bevölkerung insgesamt": [
+        {
+          "value": null
+        }
+      ],
+      "Männer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 313188
+        },
+        {
+          "value": 262818
+        },
+        {
+          "value": 50370
+        },
+        {
+          "value": 70455
+        }
+      ],
+      "Frauen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 319374
+        },
+        {
+          "value": 277696
+        },
+        {
+          "value": 41678
+        },
+        {
+          "value": 61183
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": null
+        },
+        {
+          "value": 540514
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": null
+        },
+        {
+          "value": 92048
+        }
+      ],
+      "Einwohner mit Hauptwohnsitz": [
+        {
+          "value": 632562
+        }
+      ],
+      "Einwohner mit Migrationshintergrund": [
+        {
+          "value": 131638
+        }
+      ],
+      "Einwohner mit Nebenwohnsitz": [
+        {
+          "value": 5273
+        }
+      ]
+    }
+  }
+}

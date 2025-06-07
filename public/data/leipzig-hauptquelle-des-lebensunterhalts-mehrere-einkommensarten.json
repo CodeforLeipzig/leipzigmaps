@@ -1,0 +1,629 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=9&rubrik_nr=1&periode=y",
+    "title": "Hauptquelle des Lebensunterhalts__Mehrere Einkommensarten"
+  },
+  "data": {
+    "2000": {
+      "Mehrere Einkommensarten": [
+        {
+          "value": null
+        }
+      ],
+      "Erwerbseinkommen": [
+        {
+          "value": 58
+        }
+      ],
+      "Arbeitslosenbezüge": [
+        {
+          "value": 9
+        }
+      ],
+      "Renten/Pensionen": [
+        {
+          "value": 30
+        }
+      ],
+      "Übrige Einkommen": [
+        {
+          "value": 4
+        }
+      ]
+    },
+    "2001": {
+      "Übrige Einkommen": [
+        {
+          "value": 6
+        }
+      ],
+      "Renten/Pensionen": [
+        {
+          "value": 26
+        }
+      ],
+      "Arbeitslosenbezüge": [
+        {
+          "value": 10
+        }
+      ],
+      "Erwerbseinkommen": [
+        {
+          "value": 58
+        }
+      ],
+      "Mehrere Einkommensarten": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2002": {
+      "Mehrere Einkommensarten": [
+        {
+          "value": null
+        }
+      ],
+      "Erwerbseinkommen": [
+        {
+          "value": 50
+        }
+      ],
+      "Arbeitslosenbezüge": [
+        {
+          "value": 10
+        }
+      ],
+      "Renten/Pensionen": [
+        {
+          "value": 35
+        }
+      ],
+      "Übrige Einkommen": [
+        {
+          "value": 5
+        }
+      ]
+    },
+    "2003": {
+      "Übrige Einkommen": [
+        {
+          "value": 7
+        }
+      ],
+      "Renten/Pensionen": [
+        {
+          "value": 34
+        }
+      ],
+      "Arbeitslosenbezüge": [
+        {
+          "value": 10
+        }
+      ],
+      "Erwerbseinkommen": [
+        {
+          "value": 49
+        }
+      ],
+      "Mehrere Einkommensarten": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2005": {
+      "Mehrere Einkommensarten": [
+        {
+          "value": null
+        }
+      ],
+      "Erwerbseinkommen": [
+        {
+          "value": 47
+        }
+      ],
+      "Arbeitslosenbezüge": [
+        {
+          "value": 15
+        }
+      ],
+      "Renten/Pensionen": [
+        {
+          "value": 32
+        }
+      ],
+      "Übrige Einkommen": [
+        {
+          "value": 7
+        }
+      ]
+    },
+    "2006": {
+      "Übrige Einkommen": [
+        {
+          "value": 8
+        }
+      ],
+      "Renten/Pensionen": [
+        {
+          "value": 32
+        }
+      ],
+      "Arbeitslosenbezüge": [
+        {
+          "value": 11
+        }
+      ],
+      "Erwerbseinkommen": [
+        {
+          "value": 50
+        }
+      ],
+      "Mehrere Einkommensarten": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2007": {
+      "Mehrere Einkommensarten": [
+        {
+          "value": null
+        }
+      ],
+      "Erwerbseinkommen": [
+        {
+          "value": 49
+        }
+      ],
+      "Arbeitslosenbezüge": [
+        {
+          "value": 11
+        }
+      ],
+      "Renten/Pensionen": [
+        {
+          "value": 34
+        }
+      ],
+      "Übrige Einkommen": [
+        {
+          "value": 6
+        }
+      ]
+    },
+    "2008": {
+      "Übrige Einkommen": [
+        {
+          "value": 4
+        }
+      ],
+      "Renten/Pensionen": [
+        {
+          "value": 31
+        }
+      ],
+      "Arbeitslosenbezüge": [
+        {
+          "value": 12
+        }
+      ],
+      "Erwerbseinkommen": [
+        {
+          "value": 53
+        }
+      ],
+      "Mehrere Einkommensarten": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2009": {
+      "Mehrere Einkommensarten": [
+        {
+          "value": null
+        }
+      ],
+      "Erwerbseinkommen": [
+        {
+          "value": 51
+        }
+      ],
+      "Arbeitslosenbezüge": [
+        {
+          "value": 12
+        }
+      ],
+      "Renten/Pensionen": [
+        {
+          "value": 32
+        }
+      ],
+      "Übrige Einkommen": [
+        {
+          "value": 4
+        }
+      ]
+    },
+    "2010": {
+      "Mehrere Einkommensarten": [
+        {
+          "value": null
+        }
+      ],
+      "Erwerbseinkommen": [
+        {
+          "value": 54
+        }
+      ],
+      "Arbeitslosenbezüge": [
+        {
+          "value": 9
+        }
+      ],
+      "Renten/Pensionen": [
+        {
+          "value": 30
+        }
+      ],
+      "Übrige Einkommen": [
+        {
+          "value": 7
+        }
+      ]
+    },
+    "2011": {
+      "Erwerbseinkommen": [
+        {
+          "value": 56
+        }
+      ],
+      "Arbeitslosenbezüge": [
+        {
+          "value": 11
+        }
+      ],
+      "Renten/Pensionen": [
+        {
+          "value": 29
+        }
+      ],
+      "Übrige Einkommen": [
+        {
+          "value": 4
+        }
+      ],
+      "Mehrere Einkommensarten": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2012": {
+      "Mehrere Einkommensarten": [
+        {
+          "value": null
+        }
+      ],
+      "Erwerbseinkommen": [
+        {
+          "value": 56.254
+        }
+      ],
+      "Arbeitslosenbezüge": [
+        {
+          "value": 9.58369
+        }
+      ],
+      "Renten/Pensionen": [
+        {
+          "value": 30.4369
+        }
+      ],
+      "Übrige Einkommen": [
+        {
+          "value": 3.72543
+        }
+      ]
+    },
+    "2013": {
+      "Erwerbseinkommen": [
+        {
+          "value": 58.2619
+        }
+      ],
+      "Arbeitslosenbezüge": [
+        {
+          "value": 9.24615
+        }
+      ],
+      "Renten/Pensionen": [
+        {
+          "value": 27.2079
+        }
+      ],
+      "Übrige Einkommen": [
+        {
+          "value": 5.28408
+        }
+      ],
+      "Mehrere Einkommensarten": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2014": {
+      "Mehrere Einkommensarten": [
+        {
+          "value": null
+        }
+      ],
+      "Erwerbseinkommen": [
+        {
+          "value": 58.6066
+        }
+      ],
+      "Arbeitslosenbezüge": [
+        {
+          "value": 8.7245
+        }
+      ],
+      "Renten/Pensionen": [
+        {
+          "value": 27.7397
+        }
+      ],
+      "Übrige Einkommen": [
+        {
+          "value": 4.9292
+        }
+      ]
+    },
+    "2015": {
+      "Mehrere Einkommensarten": [
+        {
+          "value": null
+        }
+      ],
+      "Erwerbseinkommen": [
+        {
+          "value": 57.5114
+        }
+      ],
+      "Arbeitslosenbezüge": [
+        {
+          "value": 8.12945
+        }
+      ],
+      "Renten/Pensionen": [
+        {
+          "value": 28.5083
+        }
+      ],
+      "Übrige Einkommen": [
+        {
+          "value": 5.85084
+        }
+      ]
+    },
+    "2016": {
+      "Mehrere Einkommensarten": [
+        {
+          "value": null
+        }
+      ],
+      "Erwerbseinkommen": [
+        {
+          "value": 56
+        }
+      ],
+      "Arbeitslosenbezüge": [
+        {
+          "value": 10
+        }
+      ],
+      "Renten/Pensionen": [
+        {
+          "value": 28
+        }
+      ],
+      "Übrige Einkommen": [
+        {
+          "value": 6
+        }
+      ]
+    },
+    "2017": {
+      "Erwerbseinkommen": [
+        {
+          "value": 58
+        }
+      ],
+      "Arbeitslosenbezüge": [
+        {
+          "value": 7
+        }
+      ],
+      "Renten/Pensionen": [
+        {
+          "value": 28
+        }
+      ],
+      "Übrige Einkommen": [
+        {
+          "value": 6
+        }
+      ],
+      "Mehrere Einkommensarten": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2018": {
+      "Mehrere Einkommensarten": [
+        {
+          "value": null
+        }
+      ],
+      "Erwerbseinkommen": [
+        {
+          "value": 58.8416
+        }
+      ],
+      "Arbeitslosenbezüge": [
+        {
+          "value": 8.23983
+        }
+      ],
+      "Renten/Pensionen": [
+        {
+          "value": 28.3644
+        }
+      ],
+      "Übrige Einkommen": [
+        {
+          "value": 4.5541
+        }
+      ]
+    },
+    "2019": {
+      "Mehrere Einkommensarten": [
+        {
+          "value": null
+        }
+      ],
+      "Erwerbseinkommen": [
+        {
+          "value": 60.7595
+        }
+      ],
+      "Arbeitslosenbezüge": [
+        {
+          "value": 5.75175
+        }
+      ],
+      "Renten/Pensionen": [
+        {
+          "value": 28.2325
+        }
+      ],
+      "Übrige Einkommen": [
+        {
+          "value": 5.2563
+        }
+      ]
+    },
+    "2020": {
+      "Erwerbseinkommen": [
+        {
+          "value": 55.6275
+        }
+      ],
+      "Arbeitslosenbezüge": [
+        {
+          "value": 5.59354
+        }
+      ],
+      "Renten/Pensionen": [
+        {
+          "value": 28.245
+        }
+      ],
+      "Übrige Einkommen": [
+        {
+          "value": 4.20426
+        }
+      ],
+      "Mehrere Einkommensarten": [
+        {
+          "value": 6.32976
+        }
+      ]
+    },
+    "2021": {
+      "Erwerbseinkommen": [
+        {
+          "value": 61.9911
+        }
+      ],
+      "Arbeitslosenbezüge": [
+        {
+          "value": 5.08263
+        }
+      ],
+      "Renten/Pensionen": [
+        {
+          "value": 27.655
+        }
+      ],
+      "Übrige Einkommen": [
+        {
+          "value": 5.27128
+        }
+      ],
+      "Mehrere Einkommensarten": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2022": {
+      "Renten/Pensionen": [
+        {
+          "value": 28.6191
+        }
+      ],
+      "Übrige Einkommen": [
+        {
+          "value": 4.6596
+        }
+      ],
+      "Mehrere Einkommensarten": [
+        {
+          "value": null
+        }
+      ],
+      "Erwerbseinkommen": [
+        {
+          "value": 60.1344
+        }
+      ],
+      "Arbeitslosenbezüge": [
+        {
+          "value": 6.58689
+        }
+      ]
+    },
+    "2023": {
+      "Erwerbseinkommen": [
+        {
+          "value": 62.7798
+        }
+      ],
+      "Arbeitslosenbezüge": [
+        {
+          "value": 5.01443
+        }
+      ],
+      "Renten/Pensionen": [
+        {
+          "value": 25.7914
+        }
+      ],
+      "Übrige Einkommen": [
+        {
+          "value": 6.41435
+        }
+      ],
+      "Mehrere Einkommensarten": [
+        {
+          "value": null
+        }
+      ]
+    }
+  }
+}

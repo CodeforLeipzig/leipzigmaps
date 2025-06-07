@@ -1,0 +1,1288 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=14&rubrik_nr=3&periode=y",
+    "title": "Personal__insgesamt"
+  },
+  "data": {
+    "2002": {
+      "Personal insgesamt": [
+        {
+          "value": 7980
+        }
+      ],
+      "darunter Frauen": [
+        {
+          "value": 5321
+        },
+        {
+          "value": 2931
+        },
+        {
+          "value": 146
+        },
+        {
+          "value": 11
+        },
+        {
+          "value": 2390
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Vollzeitbeschäftigte insgesamt": [
+        {
+          "value": 5041
+        }
+      ],
+      "davon Beamte": [
+        {
+          "value": 551
+        },
+        {
+          "value": 15
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": 2939
+        }
+      ],
+      "darunter Auszubildende": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "davon Arbeitnehmer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2003": {
+      "darunter Frauen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 2272
+        },
+        {
+          "value": 14
+        },
+        {
+          "value": 141
+        },
+        {
+          "value": 2810
+        },
+        {
+          "value": 5082
+        }
+      ],
+      "davon Arbeitnehmer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "darunter Auszubildende": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "davon Beamte": [
+        {
+          "value": 18
+        },
+        {
+          "value": 550
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": 2815
+        }
+      ],
+      "Vollzeitbeschäftigte insgesamt": [
+        {
+          "value": 4827
+        }
+      ],
+      "Personal insgesamt": [
+        {
+          "value": 7642
+        }
+      ]
+    },
+    "2004": {
+      "Personal insgesamt": [
+        {
+          "value": 7240
+        }
+      ],
+      "darunter Frauen": [
+        {
+          "value": 4857
+        },
+        {
+          "value": 2653
+        },
+        {
+          "value": 137
+        },
+        {
+          "value": 18
+        },
+        {
+          "value": 2204
+        },
+        {
+          "value": 2516
+        },
+        {
+          "value": 2186
+        }
+      ],
+      "Vollzeitbeschäftigte insgesamt": [
+        {
+          "value": 4517
+        }
+      ],
+      "davon Beamte": [
+        {
+          "value": 549
+        },
+        {
+          "value": 24
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": 2723
+        }
+      ],
+      "darunter Auszubildende": [
+        {
+          "value": null
+        },
+        {
+          "value": 330
+        }
+      ],
+      "davon Arbeitnehmer": [
+        {
+          "value": 3968
+        },
+        {
+          "value": 2699
+        }
+      ]
+    },
+    "2005": {
+      "darunter Frauen": [
+        {
+          "value": 1945
+        },
+        {
+          "value": 2473
+        },
+        {
+          "value": 1963
+        },
+        {
+          "value": 18
+        },
+        {
+          "value": 140
+        },
+        {
+          "value": 2613
+        },
+        {
+          "value": 4576
+        }
+      ],
+      "davon Arbeitnehmer": [
+        {
+          "value": 2222
+        },
+        {
+          "value": 3816
+        }
+      ],
+      "darunter Auszubildende": [
+        {
+          "value": 312
+        },
+        {
+          "value": 17
+        }
+      ],
+      "davon Beamte": [
+        {
+          "value": 29
+        },
+        {
+          "value": 574
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": 2251
+        }
+      ],
+      "Vollzeitbeschäftigte insgesamt": [
+        {
+          "value": 4390
+        }
+      ],
+      "Personal insgesamt": [
+        {
+          "value": 6641
+        }
+      ]
+    },
+    "2006": {
+      "Personal insgesamt": [
+        {
+          "value": 6529
+        }
+      ],
+      "darunter Frauen": [
+        {
+          "value": 4521
+        },
+        {
+          "value": 2526
+        },
+        {
+          "value": 139
+        },
+        {
+          "value": 21
+        },
+        {
+          "value": 1995
+        },
+        {
+          "value": 2387
+        },
+        {
+          "value": 1974
+        }
+      ],
+      "Vollzeitbeschäftigte insgesamt": [
+        {
+          "value": 4232
+        }
+      ],
+      "davon Beamte": [
+        {
+          "value": 579
+        },
+        {
+          "value": 35
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": 2297
+        }
+      ],
+      "darunter Auszubildende": [
+        {
+          "value": 22
+        },
+        {
+          "value": 333
+        }
+      ],
+      "davon Arbeitnehmer": [
+        {
+          "value": 3653
+        },
+        {
+          "value": 2262
+        }
+      ]
+    },
+    "2007": {
+      "darunter Frauen": [
+        {
+          "value": 2002
+        },
+        {
+          "value": 2289
+        },
+        {
+          "value": 4449
+        },
+        {
+          "value": 2425
+        },
+        {
+          "value": 136
+        },
+        {
+          "value": 2024
+        },
+        {
+          "value": 22
+        }
+      ],
+      "davon Arbeitnehmer": [
+        {
+          "value": 2312
+        },
+        {
+          "value": 3485
+        }
+      ],
+      "darunter Auszubildende": [
+        {
+          "value": 266
+        },
+        {
+          "value": 24
+        }
+      ],
+      "Personal insgesamt": [
+        {
+          "value": 6422
+        }
+      ],
+      "Vollzeitbeschäftigte insgesamt": [
+        {
+          "value": 4071
+        }
+      ],
+      "davon Beamte": [
+        {
+          "value": 586
+        },
+        {
+          "value": 39
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": 2351
+        }
+      ]
+    },
+    "2008": {
+      "Personal insgesamt": [
+        {
+          "value": 6408
+        }
+      ],
+      "darunter Frauen": [
+        {
+          "value": 4438
+        },
+        {
+          "value": 2238
+        },
+        {
+          "value": 129
+        },
+        {
+          "value": 2109
+        },
+        {
+          "value": 2200
+        },
+        {
+          "value": 25
+        },
+        {
+          "value": 2175
+        }
+      ],
+      "Vollzeitbeschäftigte insgesamt": [
+        {
+          "value": 3880
+        }
+      ],
+      "davon Beamte": [
+        {
+          "value": 574
+        },
+        {
+          "value": 44
+        }
+      ],
+      "darunter Auszubildende": [
+        {
+          "value": 18
+        },
+        {
+          "value": 241
+        }
+      ],
+      "davon Arbeitnehmer": [
+        {
+          "value": 3306
+        },
+        {
+          "value": 2484
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": 2528
+        }
+      ]
+    },
+    "2009": {
+      "Personal insgesamt": [
+        {
+          "value": 6509
+        }
+      ],
+      "darunter Frauen": [
+        {
+          "value": 4513
+        },
+        {
+          "value": 2328
+        },
+        {
+          "value": 125
+        },
+        {
+          "value": 2203
+        },
+        {
+          "value": 2185
+        },
+        {
+          "value": 35
+        },
+        {
+          "value": 2150
+        }
+      ],
+      "Vollzeitbeschäftigte insgesamt": [
+        {
+          "value": 4024
+        }
+      ],
+      "davon Beamte": [
+        {
+          "value": 577
+        },
+        {
+          "value": 61
+        }
+      ],
+      "darunter Auszubildende": [
+        {
+          "value": 15
+        },
+        {
+          "value": 240
+        }
+      ],
+      "davon Arbeitnehmer": [
+        {
+          "value": 3447
+        },
+        {
+          "value": 2424
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": 2485
+        }
+      ]
+    },
+    "2010": {
+      "Personal insgesamt": [
+        {
+          "value": 6551
+        }
+      ],
+      "darunter Frauen": [
+        {
+          "value": 4525
+        },
+        {
+          "value": 2137
+        },
+        {
+          "value": 118
+        },
+        {
+          "value": 2019
+        },
+        {
+          "value": 2388
+        },
+        {
+          "value": 35
+        },
+        {
+          "value": 2353
+        }
+      ],
+      "Vollzeitbeschäftigte insgesamt": [
+        {
+          "value": 3778
+        }
+      ],
+      "davon Beamte": [
+        {
+          "value": 591
+        },
+        {
+          "value": 62
+        }
+      ],
+      "darunter Auszubildende": [
+        {
+          "value": 27
+        },
+        {
+          "value": 245
+        }
+      ],
+      "davon Arbeitnehmer": [
+        {
+          "value": 3187
+        },
+        {
+          "value": 2711
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": 2773
+        }
+      ]
+    },
+    "2011": {
+      "Personal insgesamt": [
+        {
+          "value": 6588
+        }
+      ],
+      "darunter Frauen": [
+        {
+          "value": 4551
+        },
+        {
+          "value": 2200
+        },
+        {
+          "value": 117
+        },
+        {
+          "value": 2083
+        },
+        {
+          "value": 2351
+        },
+        {
+          "value": 42
+        },
+        {
+          "value": 2309
+        }
+      ],
+      "Vollzeitbeschäftigte insgesamt": [
+        {
+          "value": 3876
+        }
+      ],
+      "davon Beamte": [
+        {
+          "value": 599
+        },
+        {
+          "value": 66
+        }
+      ],
+      "darunter Auszubildende": [
+        {
+          "value": 23
+        },
+        {
+          "value": 220
+        }
+      ],
+      "davon Arbeitnehmer": [
+        {
+          "value": 3277
+        },
+        {
+          "value": 2646
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": 2712
+        }
+      ]
+    },
+    "2012": {
+      "Personal insgesamt": [
+        {
+          "value": 6717
+        }
+      ],
+      "darunter Frauen": [
+        {
+          "value": 4618
+        },
+        {
+          "value": 2220
+        },
+        {
+          "value": 114
+        },
+        {
+          "value": 2106
+        },
+        {
+          "value": 2398
+        },
+        {
+          "value": 44
+        },
+        {
+          "value": 2354
+        }
+      ],
+      "Vollzeitbeschäftigte insgesamt": [
+        {
+          "value": 3947
+        }
+      ],
+      "davon Beamte": [
+        {
+          "value": 604
+        },
+        {
+          "value": 63
+        }
+      ],
+      "darunter Auszubildende": [
+        {
+          "value": 8
+        },
+        {
+          "value": 180
+        }
+      ],
+      "davon Arbeitnehmer": [
+        {
+          "value": 3343
+        },
+        {
+          "value": 2707
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": 2770
+        }
+      ]
+    },
+    "2013": {
+      "Personal insgesamt": [
+        {
+          "value": 6969
+        }
+      ],
+      "darunter Frauen": [
+        {
+          "value": 4764
+        },
+        {
+          "value": 2297
+        },
+        {
+          "value": 111
+        },
+        {
+          "value": 2186
+        },
+        {
+          "value": 2467
+        },
+        {
+          "value": 48
+        },
+        {
+          "value": 2419
+        }
+      ],
+      "Vollzeitbeschäftigte insgesamt": [
+        {
+          "value": 4128
+        }
+      ],
+      "davon Beamte": [
+        {
+          "value": 607
+        },
+        {
+          "value": 64
+        }
+      ],
+      "darunter Auszubildende": [
+        {
+          "value": 13
+        },
+        {
+          "value": 138
+        }
+      ],
+      "davon Arbeitnehmer": [
+        {
+          "value": 3521
+        },
+        {
+          "value": 2777
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": 2841
+        }
+      ]
+    },
+    "2014": {
+      "Personal insgesamt": [
+        {
+          "value": 7045
+        }
+      ],
+      "darunter Frauen": [
+        {
+          "value": 4826
+        },
+        {
+          "value": 2311
+        },
+        {
+          "value": 107
+        },
+        {
+          "value": 2204
+        },
+        {
+          "value": 2515
+        },
+        {
+          "value": 49
+        },
+        {
+          "value": 2466
+        }
+      ],
+      "Vollzeitbeschäftigte insgesamt": [
+        {
+          "value": 4175
+        }
+      ],
+      "davon Beamte": [
+        {
+          "value": 606
+        },
+        {
+          "value": 62
+        }
+      ],
+      "darunter Auszubildende": [
+        {
+          "value": 16
+        },
+        {
+          "value": 148
+        }
+      ],
+      "davon Arbeitnehmer": [
+        {
+          "value": 3569
+        },
+        {
+          "value": 2808
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": 2870
+        }
+      ]
+    },
+    "2015": {
+      "Personal insgesamt": [
+        {
+          "value": 6907
+        }
+      ],
+      "darunter Frauen": [
+        {
+          "value": 4657
+        },
+        {
+          "value": 2258
+        },
+        {
+          "value": 104
+        },
+        {
+          "value": 2154
+        },
+        {
+          "value": 2399
+        },
+        {
+          "value": 46
+        },
+        {
+          "value": 2353
+        }
+      ],
+      "Vollzeitbeschäftigte insgesamt": [
+        {
+          "value": 4184
+        }
+      ],
+      "davon Beamte": [
+        {
+          "value": 621
+        },
+        {
+          "value": 55
+        }
+      ],
+      "darunter Auszubildende": [
+        {
+          "value": 23
+        },
+        {
+          "value": 143
+        }
+      ],
+      "davon Arbeitnehmer": [
+        {
+          "value": 3563
+        },
+        {
+          "value": 2668
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": 2723
+        }
+      ]
+    },
+    "2016": {
+      "Personal insgesamt": [
+        {
+          "value": 7126
+        }
+      ],
+      "darunter Frauen": [
+        {
+          "value": 4782
+        },
+        {
+          "value": 2309
+        },
+        {
+          "value": 100
+        },
+        {
+          "value": 2209
+        },
+        {
+          "value": 2473
+        },
+        {
+          "value": 40
+        },
+        {
+          "value": 2433
+        }
+      ],
+      "Vollzeitbeschäftigte insgesamt": [
+        {
+          "value": 4307
+        }
+      ],
+      "davon Beamte": [
+        {
+          "value": 627
+        },
+        {
+          "value": 48
+        }
+      ],
+      "darunter Auszubildende": [
+        {
+          "value": 22
+        },
+        {
+          "value": 142
+        }
+      ],
+      "davon Arbeitnehmer": [
+        {
+          "value": 3680
+        },
+        {
+          "value": 2771
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": 2819
+        }
+      ]
+    },
+    "2017": {
+      "Personal insgesamt": [
+        {
+          "value": 7289
+        }
+      ],
+      "darunter Frauen": [
+        {
+          "value": 4847
+        },
+        {
+          "value": 2210
+        },
+        {
+          "value": 95
+        },
+        {
+          "value": 2115
+        },
+        {
+          "value": 2637
+        },
+        {
+          "value": 34
+        },
+        {
+          "value": 2603
+        }
+      ],
+      "Vollzeitbeschäftigte insgesamt": [
+        {
+          "value": 4247
+        }
+      ],
+      "davon Beamte": [
+        {
+          "value": 630
+        },
+        {
+          "value": 44
+        }
+      ],
+      "darunter Auszubildende": [
+        {
+          "value": 19
+        },
+        {
+          "value": 192
+        }
+      ],
+      "davon Arbeitnehmer": [
+        {
+          "value": 3617
+        },
+        {
+          "value": 2998
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": 3042
+        }
+      ]
+    },
+    "2018": {
+      "Personal insgesamt": [
+        {
+          "value": 7556
+        }
+      ],
+      "darunter Frauen": [
+        {
+          "value": 4983
+        },
+        {
+          "value": 2237
+        },
+        {
+          "value": 91
+        },
+        {
+          "value": 2146
+        },
+        {
+          "value": 2746
+        },
+        {
+          "value": 34
+        },
+        {
+          "value": 2712
+        }
+      ],
+      "Vollzeitbeschäftigte insgesamt": [
+        {
+          "value": 4332
+        }
+      ],
+      "davon Beamte": [
+        {
+          "value": 619
+        },
+        {
+          "value": 48
+        }
+      ],
+      "darunter Auszubildende": [
+        {
+          "value": 21
+        },
+        {
+          "value": 260
+        }
+      ],
+      "davon Arbeitnehmer": [
+        {
+          "value": 3713
+        },
+        {
+          "value": 3176
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": 3224
+        }
+      ]
+    },
+    "2019": {
+      "Personal insgesamt": [
+        {
+          "value": 7935
+        }
+      ],
+      "darunter Frauen": [
+        {
+          "value": 5199
+        },
+        {
+          "value": 2291
+        },
+        {
+          "value": 84
+        },
+        {
+          "value": 2207
+        },
+        {
+          "value": 2908
+        },
+        {
+          "value": 38
+        },
+        {
+          "value": 2870
+        }
+      ],
+      "Vollzeitbeschäftigte insgesamt": [
+        {
+          "value": 4495
+        }
+      ],
+      "davon Beamte": [
+        {
+          "value": 634
+        },
+        {
+          "value": 48
+        }
+      ],
+      "darunter Auszubildende": [
+        {
+          "value": 21
+        },
+        {
+          "value": 318
+        }
+      ],
+      "davon Arbeitnehmer": [
+        {
+          "value": 3861
+        },
+        {
+          "value": 3392
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": 3440
+        }
+      ]
+    },
+    "2020": {
+      "Personal insgesamt": [
+        {
+          "value": 8294
+        }
+      ],
+      "darunter Frauen": [
+        {
+          "value": 5386
+        },
+        {
+          "value": 2381
+        },
+        {
+          "value": 74
+        },
+        {
+          "value": 2307
+        },
+        {
+          "value": 3005
+        },
+        {
+          "value": 39
+        },
+        {
+          "value": 2966
+        }
+      ],
+      "Vollzeitbeschäftigte insgesamt": [
+        {
+          "value": 4687
+        }
+      ],
+      "davon Beamte": [
+        {
+          "value": 638
+        },
+        {
+          "value": 48
+        }
+      ],
+      "darunter Auszubildende": [
+        {
+          "value": 30
+        },
+        {
+          "value": 349
+        }
+      ],
+      "davon Arbeitnehmer": [
+        {
+          "value": 4049
+        },
+        {
+          "value": 3559
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": 3607
+        }
+      ]
+    },
+    "2021": {
+      "Personal insgesamt": [
+        {
+          "value": 8465
+        }
+      ],
+      "darunter Frauen": [
+        {
+          "value": 5445
+        },
+        {
+          "value": 2340
+        },
+        {
+          "value": 70
+        },
+        {
+          "value": 2270
+        },
+        {
+          "value": 3105
+        },
+        {
+          "value": 40
+        },
+        {
+          "value": 3065
+        }
+      ],
+      "Vollzeitbeschäftigte insgesamt": [
+        {
+          "value": 4730
+        }
+      ],
+      "davon Beamte": [
+        {
+          "value": 650
+        },
+        {
+          "value": 50
+        }
+      ],
+      "darunter Auszubildende": [
+        {
+          "value": 40
+        },
+        {
+          "value": 365
+        }
+      ],
+      "davon Arbeitnehmer": [
+        {
+          "value": 4080
+        },
+        {
+          "value": 3690
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": 3735
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,478 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=15&rubrik_nr=2&periode=d",
+    "title": "Anteil an den gültigen Zweitstimmen ...__Wahlbeteiligung__Sonstige"
+  },
+  "data": {
+    "02.12.1990": {
+      "Sonstige": [
+        {
+          "value": 3.44014
+        }
+      ],
+      "BSW": [
+        {
+          "value": null
+        }
+      ],
+      "GRÜNE": [
+        {
+          "value": 9.14388
+        }
+      ],
+      "AfD": [
+        {
+          "value": null
+        }
+      ],
+      "FDP": [
+        {
+          "value": 14.8532
+        }
+      ],
+      "Wahlbeteiligung": [
+        {
+          "value": 71.3935
+        }
+      ],
+      "CDU": [
+        {
+          "value": 37.1326
+        }
+      ],
+      "Die Linke": [
+        {
+          "value": 11.8615
+        }
+      ],
+      "SPD": [
+        {
+          "value": 23.5687
+        }
+      ]
+    },
+    "16.10.1994": {
+      "AfD": [
+        {
+          "value": null
+        }
+      ],
+      "BSW": [
+        {
+          "value": null
+        }
+      ],
+      "Wahlbeteiligung": [
+        {
+          "value": 67.5697
+        }
+      ],
+      "CDU": [
+        {
+          "value": 35.2223
+        }
+      ],
+      "Die Linke": [
+        {
+          "value": 21.3731
+        }
+      ],
+      "SPD": [
+        {
+          "value": 31.0032
+        }
+      ],
+      "FDP": [
+        {
+          "value": 3.73898
+        }
+      ],
+      "GRÜNE": [
+        {
+          "value": 6.65314
+        }
+      ],
+      "Sonstige": [
+        {
+          "value": 2.00925
+        }
+      ]
+    },
+    "27.09.1998": {
+      "Wahlbeteiligung": [
+        {
+          "value": 76.9341
+        }
+      ],
+      "CDU": [
+        {
+          "value": 23.9228
+        }
+      ],
+      "Die Linke": [
+        {
+          "value": 22.5153
+        }
+      ],
+      "SPD": [
+        {
+          "value": 36.7781
+        }
+      ],
+      "FDP": [
+        {
+          "value": 3.25317
+        }
+      ],
+      "GRÜNE": [
+        {
+          "value": 6.55246
+        }
+      ],
+      "Sonstige": [
+        {
+          "value": 6.97816
+        }
+      ],
+      "BSW": [
+        {
+          "value": null
+        }
+      ],
+      "AfD": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "22.09.2002": {
+      "AfD": [
+        {
+          "value": null
+        }
+      ],
+      "BSW": [
+        {
+          "value": null
+        }
+      ],
+      "Wahlbeteiligung": [
+        {
+          "value": 73.8484
+        }
+      ],
+      "CDU": [
+        {
+          "value": 23.9258
+        }
+      ],
+      "Die Linke": [
+        {
+          "value": 17.6955
+        }
+      ],
+      "SPD": [
+        {
+          "value": 40.2098
+        }
+      ],
+      "FDP": [
+        {
+          "value": 6.75185
+        }
+      ],
+      "GRÜNE": [
+        {
+          "value": 7.82373
+        }
+      ],
+      "Sonstige": [
+        {
+          "value": 3.59339
+        }
+      ]
+    },
+    "18.09.2005": {
+      "Wahlbeteiligung": [
+        {
+          "value": 74.5803
+        }
+      ],
+      "CDU": [
+        {
+          "value": 24.4964
+        }
+      ],
+      "Die Linke": [
+        {
+          "value": 22.5146
+        }
+      ],
+      "SPD": [
+        {
+          "value": 32.2649
+        }
+      ],
+      "FDP": [
+        {
+          "value": 7.85278
+        }
+      ],
+      "GRÜNE": [
+        {
+          "value": 8.31417
+        }
+      ],
+      "Sonstige": [
+        {
+          "value": 4.55715
+        }
+      ],
+      "BSW": [
+        {
+          "value": null
+        }
+      ],
+      "AfD": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "27.09.2009": {
+      "AfD": [
+        {
+          "value": null
+        }
+      ],
+      "BSW": [
+        {
+          "value": null
+        }
+      ],
+      "Wahlbeteiligung": [
+        {
+          "value": 66.0829
+        }
+      ],
+      "CDU": [
+        {
+          "value": 27.9503
+        }
+      ],
+      "Die Linke": [
+        {
+          "value": 25.5225
+        }
+      ],
+      "SPD": [
+        {
+          "value": 18.149
+        }
+      ],
+      "FDP": [
+        {
+          "value": 12.3424
+        }
+      ],
+      "GRÜNE": [
+        {
+          "value": 11.9776
+        }
+      ],
+      "Sonstige": [
+        {
+          "value": 4.05819
+        }
+      ]
+    },
+    "22.09.2013": {
+      "Wahlbeteiligung": [
+        {
+          "value": 67.9404
+        }
+      ],
+      "CDU": [
+        {
+          "value": 34.6161
+        }
+      ],
+      "Die Linke": [
+        {
+          "value": 21.9475
+        }
+      ],
+      "SPD": [
+        {
+          "value": 18.7085
+        }
+      ],
+      "FDP": [
+        {
+          "value": 2.97978
+        }
+      ],
+      "GRÜNE": [
+        {
+          "value": 9.18434
+        }
+      ],
+      "Sonstige": [
+        {
+          "value": 6.99388
+        }
+      ],
+      "AfD": [
+        {
+          "value": 5.56992
+        }
+      ],
+      "BSW": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "24.09.2017": {
+      "BSW": [
+        {
+          "value": null
+        }
+      ],
+      "Wahlbeteiligung": [
+        {
+          "value": 75.0727
+        }
+      ],
+      "CDU": [
+        {
+          "value": 22.694
+        }
+      ],
+      "Die Linke": [
+        {
+          "value": 21.0345
+        }
+      ],
+      "SPD": [
+        {
+          "value": 13.0048
+        }
+      ],
+      "FDP": [
+        {
+          "value": 8.51957
+        }
+      ],
+      "GRÜNE": [
+        {
+          "value": 8.82612
+        }
+      ],
+      "Sonstige": [
+        {
+          "value": 7.6224
+        }
+      ],
+      "AfD": [
+        {
+          "value": 18.2986
+        }
+      ]
+    },
+    "26.09.2021": {
+      "Wahlbeteiligung": [
+        {
+          "value": 76.5633
+        }
+      ],
+      "CDU": [
+        {
+          "value": 14.011
+        }
+      ],
+      "Die Linke": [
+        {
+          "value": 13.6766
+        }
+      ],
+      "SPD": [
+        {
+          "value": 20.9042
+        }
+      ],
+      "FDP": [
+        {
+          "value": 10.1367
+        }
+      ],
+      "GRÜNE": [
+        {
+          "value": 18.5158
+        }
+      ],
+      "Sonstige": [
+        {
+          "value": 9.4407
+        }
+      ],
+      "AfD": [
+        {
+          "value": 13.315
+        }
+      ],
+      "BSW": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "23.02.2025": {
+      "Wahlbeteiligung": [
+        {
+          "value": 82.9919
+        }
+      ],
+      "CDU": [
+        {
+          "value": 16.5645
+        }
+      ],
+      "Die Linke": [
+        {
+          "value": 22.5271
+        }
+      ],
+      "SPD": [
+        {
+          "value": 10.6781
+        }
+      ],
+      "FDP": [
+        {
+          "value": 3.16093
+        }
+      ],
+      "GRÜNE": [
+        {
+          "value": 13.6061
+        }
+      ],
+      "Sonstige": [
+        {
+          "value": 4.18514
+        }
+      ],
+      "AfD": [
+        {
+          "value": 21.8677
+        }
+      ],
+      "BSW": [
+        {
+          "value": 7.41058
+        }
+      ]
+    }
+  }
+}

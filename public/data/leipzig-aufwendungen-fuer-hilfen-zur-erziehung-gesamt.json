@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=4&rubrik_nr=42&periode=y",
+    "title": "Aufwendungen für Hilfen zur Erziehung__gesamt"
+  },
+  "data": {
+    "2017": {
+      "Gesamt": [
+        {
+          "value": 112
+        }
+      ],
+      "Hilfen für unbegleitete minderjährige Ausländer/-innen (umA)": [
+        {
+          "value": 16.2
+        }
+      ],
+      "Hilfen ohne umA und ohne Erziehungsberatung": [
+        {
+          "value": 95.7
+        }
+      ]
+    },
+    "2018": {
+      "Hilfen ohne umA und ohne Erziehungsberatung": [
+        {
+          "value": 114.1
+        }
+      ],
+      "Hilfen für unbegleitete minderjährige Ausländer/-innen (umA)": [
+        {
+          "value": 12.9
+        }
+      ],
+      "Gesamt": [
+        {
+          "value": 127
+        }
+      ]
+    },
+    "2019": {
+      "Gesamt": [
+        {
+          "value": 143.4
+        }
+      ],
+      "Hilfen für unbegleitete minderjährige Ausländer/-innen (umA)": [
+        {
+          "value": 10.1
+        }
+      ],
+      "Hilfen ohne umA und ohne Erziehungsberatung": [
+        {
+          "value": 133.3
+        }
+      ]
+    },
+    "2020": {
+      "Hilfen ohne umA und ohne Erziehungsberatung": [
+        {
+          "value": 147.809
+        }
+      ],
+      "Hilfen für unbegleitete minderjährige Ausländer/-innen (umA)": [
+        {
+          "value": 7.87832
+        }
+      ],
+      "Gesamt": [
+        {
+          "value": 155.687
+        }
+      ]
+    },
+    "2021": {
+      "Gesamt": [
+        {
+          "value": 171.248
+        }
+      ],
+      "Hilfen für unbegleitete minderjährige Ausländer/-innen (umA)": [
+        {
+          "value": 7.56605
+        }
+      ],
+      "Hilfen ohne umA und ohne Erziehungsberatung": [
+        {
+          "value": 163.682
+        }
+      ]
+    },
+    "2022": {
+      "Hilfen ohne umA und ohne Erziehungsberatung": [
+        {
+          "value": 171.366
+        }
+      ],
+      "Hilfen für unbegleitete minderjährige Ausländer/-innen (umA)": [
+        {
+          "value": 12.0655
+        }
+      ],
+      "Gesamt": [
+        {
+          "value": 183.432
+        }
+      ]
+    },
+    "2023": {
+      "Gesamt": [
+        {
+          "value": 202.564
+        }
+      ],
+      "Hilfen für unbegleitete minderjährige Ausländer/-innen (umA)": [
+        {
+          "value": 12.0258
+        }
+      ],
+      "Hilfen ohne umA und ohne Erziehungsberatung": [
+        {
+          "value": 190.538
+        }
+      ]
+    }
+  }
+}

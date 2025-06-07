@@ -1,0 +1,399 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=11&rubrik_nr=4&periode=y",
+    "title": "Besucher"
+  },
+  "data": {
+    "2001": {
+      "Besucher": [
+        {
+          "value": 1173180
+        }
+      ],
+      "Tierbestand nach Arten": [
+        {
+          "value": 886
+        }
+      ],
+      "Tierbestand nach Individuen": [
+        {
+          "value": 1529
+        }
+      ]
+    },
+    "2002": {
+      "Tierbestand nach Individuen": [
+        {
+          "value": 1410
+        }
+      ],
+      "Besucher": [
+        {
+          "value": 1164390
+        }
+      ],
+      "Tierbestand nach Arten": [
+        {
+          "value": 867
+        }
+      ]
+    },
+    "2003": {
+      "Tierbestand nach Arten": [
+        {
+          "value": 824
+        }
+      ],
+      "Besucher": [
+        {
+          "value": 1181540
+        }
+      ],
+      "Tierbestand nach Individuen": [
+        {
+          "value": 1645
+        }
+      ]
+    },
+    "2004": {
+      "Tierbestand nach Individuen": [
+        {
+          "value": 1536
+        }
+      ],
+      "Besucher": [
+        {
+          "value": 1319770
+        }
+      ],
+      "Tierbestand nach Arten": [
+        {
+          "value": 882
+        }
+      ]
+    },
+    "2005": {
+      "Besucher": [
+        {
+          "value": 1457940
+        }
+      ],
+      "Tierbestand nach Arten": [
+        {
+          "value": 835
+        }
+      ],
+      "Tierbestand nach Individuen": [
+        {
+          "value": 1605
+        }
+      ]
+    },
+    "2006": {
+      "Besucher": [
+        {
+          "value": 1759960
+        }
+      ],
+      "Tierbestand nach Arten": [
+        {
+          "value": 814
+        }
+      ],
+      "Tierbestand nach Individuen": [
+        {
+          "value": 1701
+        }
+      ]
+    },
+    "2007": {
+      "Besucher": [
+        {
+          "value": 1774590
+        }
+      ],
+      "Tierbestand nach Arten": [
+        {
+          "value": 830
+        }
+      ],
+      "Tierbestand nach Individuen": [
+        {
+          "value": 1768
+        }
+      ]
+    },
+    "2008": {
+      "Besucher": [
+        {
+          "value": 1673610
+        }
+      ],
+      "Tierbestand nach Arten": [
+        {
+          "value": 871
+        }
+      ],
+      "Tierbestand nach Individuen": [
+        {
+          "value": 1810
+        }
+      ]
+    },
+    "2009": {
+      "Besucher": [
+        {
+          "value": 1723350
+        }
+      ],
+      "Tierbestand nach Arten": [
+        {
+          "value": 825
+        }
+      ],
+      "Tierbestand nach Individuen": [
+        {
+          "value": 1840
+        }
+      ]
+    },
+    "2010": {
+      "Besucher": [
+        {
+          "value": 1560790
+        }
+      ],
+      "Tierbestand nach Arten": [
+        {
+          "value": null
+        }
+      ],
+      "Tierbestand nach Individuen": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2011": {
+      "Besucher": [
+        {
+          "value": 2098080
+        }
+      ],
+      "Tierbestand nach Arten": [
+        {
+          "value": null
+        }
+      ],
+      "Tierbestand nach Individuen": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2012": {
+      "Besucher": [
+        {
+          "value": 2123350
+        }
+      ],
+      "Tierbestand nach Arten": [
+        {
+          "value": 888
+        }
+      ],
+      "Tierbestand nach Individuen": [
+        {
+          "value": 1623
+        }
+      ]
+    },
+    "2013": {
+      "Besucher": [
+        {
+          "value": 1842640
+        }
+      ],
+      "Tierbestand nach Arten": [
+        {
+          "value": null
+        }
+      ],
+      "Tierbestand nach Individuen": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2014": {
+      "Besucher": [
+        {
+          "value": 1866810
+        }
+      ],
+      "Tierbestand nach Arten": [
+        {
+          "value": 868
+        }
+      ],
+      "Tierbestand nach Individuen": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2015": {
+      "Besucher": [
+        {
+          "value": 1660290
+        }
+      ],
+      "Tierbestand nach Arten": [
+        {
+          "value": null
+        }
+      ],
+      "Tierbestand nach Individuen": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2016": {
+      "Besucher": [
+        {
+          "value": 1709490
+        }
+      ],
+      "Tierbestand nach Arten": [
+        {
+          "value": 804
+        }
+      ],
+      "Tierbestand nach Individuen": [
+        {
+          "value": 4387
+        }
+      ]
+    },
+    "2017": {
+      "Besucher": [
+        {
+          "value": 1652890
+        }
+      ],
+      "Tierbestand nach Arten": [
+        {
+          "value": 809
+        }
+      ],
+      "Tierbestand nach Individuen": [
+        {
+          "value": 4793
+        }
+      ]
+    },
+    "2018": {
+      "Besucher": [
+        {
+          "value": 1723180
+        }
+      ],
+      "Tierbestand nach Arten": [
+        {
+          "value": null
+        }
+      ],
+      "Tierbestand nach Individuen": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2019": {
+      "Besucher": [
+        {
+          "value": 1802630
+        }
+      ],
+      "Tierbestand nach Arten": [
+        {
+          "value": null
+        }
+      ],
+      "Tierbestand nach Individuen": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2020": {
+      "Besucher": [
+        {
+          "value": 1354870
+        }
+      ],
+      "Tierbestand nach Arten": [
+        {
+          "value": null
+        }
+      ],
+      "Tierbestand nach Individuen": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2021": {
+      "Besucher": [
+        {
+          "value": 1255910
+        }
+      ],
+      "Tierbestand nach Arten": [
+        {
+          "value": 628
+        }
+      ],
+      "Tierbestand nach Individuen": [
+        {
+          "value": 4733
+        }
+      ]
+    },
+    "2022": {
+      "Besucher": [
+        {
+          "value": 1872440
+        }
+      ],
+      "Tierbestand nach Arten": [
+        {
+          "value": 665
+        }
+      ],
+      "Tierbestand nach Individuen": [
+        {
+          "value": 5573
+        }
+      ]
+    },
+    "2023": {
+      "Besucher": [
+        {
+          "value": 1903080
+        }
+      ],
+      "Tierbestand nach Arten": [
+        {
+          "value": null
+        }
+      ],
+      "Tierbestand nach Individuen": [
+        {
+          "value": null
+        }
+      ]
+    }
+  }
+}

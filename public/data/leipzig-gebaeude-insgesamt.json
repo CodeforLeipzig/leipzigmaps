@@ -1,0 +1,1136 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=6&rubrik_nr=5&periode=y",
+    "title": "Gebäude__insgesamt"
+  },
+  "data": {
+    "2000": {
+      "Gebäude insgesamt": [
+        {
+          "value": 1884
+        }
+      ],
+      "darunter Neubauten": [
+        {
+          "value": 1059
+        }
+      ],
+      "Wohngebäude": [
+        {
+          "value": 954
+        }
+      ],
+      "Nichtwohngebäude": [
+        {
+          "value": 105
+        }
+      ],
+      "Wohnungen insgesamt": [
+        {
+          "value": 2726
+        }
+      ],
+      "darunter Neubau": [
+        {
+          "value": 1590
+        }
+      ],
+      "Wohnfläche": [
+        {
+          "value": 232
+        }
+      ],
+      "Nutzfläche": [
+        {
+          "value": 192
+        }
+      ],
+      "Veranschlagte Baukosten": [
+        {
+          "value": 556
+        }
+      ]
+    },
+    "2001": {
+      "Veranschlagte Baukosten": [
+        {
+          "value": 306
+        }
+      ],
+      "Nutzfläche": [
+        {
+          "value": 125
+        }
+      ],
+      "Wohnfläche": [
+        {
+          "value": 127
+        }
+      ],
+      "darunter Neubau": [
+        {
+          "value": 947
+        }
+      ],
+      "Wohnungen insgesamt": [
+        {
+          "value": 1257
+        }
+      ],
+      "Nichtwohngebäude": [
+        {
+          "value": 67
+        }
+      ],
+      "Wohngebäude": [
+        {
+          "value": 647
+        }
+      ],
+      "darunter Neubauten": [
+        {
+          "value": 714
+        }
+      ],
+      "Gebäude insgesamt": [
+        {
+          "value": 1312
+        }
+      ]
+    },
+    "2002": {
+      "Gebäude insgesamt": [
+        {
+          "value": 985
+        }
+      ],
+      "darunter Neubauten": [
+        {
+          "value": 533
+        }
+      ],
+      "Wohngebäude": [
+        {
+          "value": 471
+        }
+      ],
+      "Nichtwohngebäude": [
+        {
+          "value": 62
+        }
+      ],
+      "Wohnungen insgesamt": [
+        {
+          "value": 1126
+        }
+      ],
+      "darunter Neubau": [
+        {
+          "value": 646
+        }
+      ],
+      "Wohnfläche": [
+        {
+          "value": 114
+        }
+      ],
+      "Nutzfläche": [
+        {
+          "value": 101
+        }
+      ],
+      "Veranschlagte Baukosten": [
+        {
+          "value": 273
+        }
+      ]
+    },
+    "2003": {
+      "Veranschlagte Baukosten": [
+        {
+          "value": 519
+        }
+      ],
+      "Nutzfläche": [
+        {
+          "value": 354
+        }
+      ],
+      "Wohnfläche": [
+        {
+          "value": 154
+        }
+      ],
+      "darunter Neubau": [
+        {
+          "value": 1090
+        }
+      ],
+      "Wohnungen insgesamt": [
+        {
+          "value": 1533
+        }
+      ],
+      "Nichtwohngebäude": [
+        {
+          "value": 71
+        }
+      ],
+      "Wohngebäude": [
+        {
+          "value": 752
+        }
+      ],
+      "darunter Neubauten": [
+        {
+          "value": 823
+        }
+      ],
+      "Gebäude insgesamt": [
+        {
+          "value": 1281
+        }
+      ]
+    },
+    "2004": {
+      "Gebäude insgesamt": [
+        {
+          "value": 1256
+        }
+      ],
+      "darunter Neubauten": [
+        {
+          "value": 768
+        }
+      ],
+      "Wohngebäude": [
+        {
+          "value": 725
+        }
+      ],
+      "Nichtwohngebäude": [
+        {
+          "value": 43
+        }
+      ],
+      "Wohnungen insgesamt": [
+        {
+          "value": 1146
+        }
+      ],
+      "darunter Neubau": [
+        {
+          "value": 878
+        }
+      ],
+      "Wohnfläche": [
+        {
+          "value": 142
+        }
+      ],
+      "Nutzfläche": [
+        {
+          "value": 90
+        }
+      ],
+      "Veranschlagte Baukosten": [
+        {
+          "value": 295
+        }
+      ]
+    },
+    "2005": {
+      "Veranschlagte Baukosten": [
+        {
+          "value": 179
+        }
+      ],
+      "Nutzfläche": [
+        {
+          "value": 44
+        }
+      ],
+      "Wohnfläche": [
+        {
+          "value": 101
+        }
+      ],
+      "darunter Neubau": [
+        {
+          "value": 534
+        }
+      ],
+      "Wohnungen insgesamt": [
+        {
+          "value": 749
+        }
+      ],
+      "Nichtwohngebäude": [
+        {
+          "value": 54
+        }
+      ],
+      "Wohngebäude": [
+        {
+          "value": 489
+        }
+      ],
+      "darunter Neubauten": [
+        {
+          "value": 543
+        }
+      ],
+      "Gebäude insgesamt": [
+        {
+          "value": 920
+        }
+      ]
+    },
+    "2006": {
+      "Gebäude insgesamt": [
+        {
+          "value": 1044
+        }
+      ],
+      "darunter Neubauten": [
+        {
+          "value": 571
+        }
+      ],
+      "Wohngebäude": [
+        {
+          "value": 500
+        }
+      ],
+      "Nichtwohngebäude": [
+        {
+          "value": 71
+        }
+      ],
+      "Wohnungen insgesamt": [
+        {
+          "value": 1288
+        }
+      ],
+      "darunter Neubau": [
+        {
+          "value": 741
+        }
+      ],
+      "Wohnfläche": [
+        {
+          "value": 137
+        }
+      ],
+      "Nutzfläche": [
+        {
+          "value": 109
+        }
+      ],
+      "Veranschlagte Baukosten": [
+        {
+          "value": 268
+        }
+      ]
+    },
+    "2007": {
+      "Gebäude insgesamt": [
+        {
+          "value": 732
+        }
+      ],
+      "darunter Neubauten": [
+        {
+          "value": 375
+        }
+      ],
+      "Wohngebäude": [
+        {
+          "value": 321
+        }
+      ],
+      "Nichtwohngebäude": [
+        {
+          "value": 54
+        }
+      ],
+      "Wohnungen insgesamt": [
+        {
+          "value": 765
+        }
+      ],
+      "darunter Neubau": [
+        {
+          "value": 429
+        }
+      ],
+      "Wohnfläche": [
+        {
+          "value": 85
+        }
+      ],
+      "Nutzfläche": [
+        {
+          "value": 73
+        }
+      ],
+      "Veranschlagte Baukosten": [
+        {
+          "value": 202
+        }
+      ]
+    },
+    "2008": {
+      "Gebäude insgesamt": [
+        {
+          "value": 1065
+        }
+      ],
+      "darunter Neubauten": [
+        {
+          "value": 474
+        }
+      ],
+      "Wohngebäude": [
+        {
+          "value": 378
+        }
+      ],
+      "Nichtwohngebäude": [
+        {
+          "value": 96
+        }
+      ],
+      "Wohnungen insgesamt": [
+        {
+          "value": 1637
+        }
+      ],
+      "darunter Neubau": [
+        {
+          "value": 625
+        }
+      ],
+      "Wohnfläche": [
+        {
+          "value": 127
+        }
+      ],
+      "Nutzfläche": [
+        {
+          "value": 254
+        }
+      ],
+      "Veranschlagte Baukosten": [
+        {
+          "value": 338
+        }
+      ]
+    },
+    "2009": {
+      "Gebäude insgesamt": [
+        {
+          "value": 934
+        }
+      ],
+      "darunter Neubauten": [
+        {
+          "value": 469
+        }
+      ],
+      "Wohngebäude": [
+        {
+          "value": 388
+        }
+      ],
+      "Nichtwohngebäude": [
+        {
+          "value": 81
+        }
+      ],
+      "Wohnungen insgesamt": [
+        {
+          "value": 1285
+        }
+      ],
+      "darunter Neubau": [
+        {
+          "value": 567
+        }
+      ],
+      "Wohnfläche": [
+        {
+          "value": 128
+        }
+      ],
+      "Nutzfläche": [
+        {
+          "value": 74
+        }
+      ],
+      "Veranschlagte Baukosten": [
+        {
+          "value": 281
+        }
+      ]
+    },
+    "2010": {
+      "Gebäude insgesamt": [
+        {
+          "value": 864
+        }
+      ],
+      "darunter Neubauten": [
+        {
+          "value": 392
+        }
+      ],
+      "Wohngebäude": [
+        {
+          "value": 330
+        }
+      ],
+      "Nichtwohngebäude": [
+        {
+          "value": 62
+        }
+      ],
+      "Wohnungen insgesamt": [
+        {
+          "value": 927
+        }
+      ],
+      "darunter Neubau": [
+        {
+          "value": 477
+        }
+      ],
+      "Wohnfläche": [
+        {
+          "value": 114
+        }
+      ],
+      "Nutzfläche": [
+        {
+          "value": 32
+        }
+      ],
+      "Veranschlagte Baukosten": [
+        {
+          "value": 230
+        }
+      ]
+    },
+    "2011": {
+      "Gebäude insgesamt": [
+        {
+          "value": 1030
+        }
+      ],
+      "darunter Neubauten": [
+        {
+          "value": 560
+        }
+      ],
+      "Wohngebäude": [
+        {
+          "value": 470
+        }
+      ],
+      "Nichtwohngebäude": [
+        {
+          "value": 90
+        }
+      ],
+      "Wohnungen insgesamt": [
+        {
+          "value": 1442
+        }
+      ],
+      "darunter Neubau": [
+        {
+          "value": 967
+        }
+      ],
+      "Wohnfläche": [
+        {
+          "value": 161
+        }
+      ],
+      "Nutzfläche": [
+        {
+          "value": 252
+        }
+      ],
+      "Veranschlagte Baukosten": [
+        {
+          "value": 412
+        }
+      ]
+    },
+    "2012": {
+      "Gebäude insgesamt": [
+        {
+          "value": 920
+        }
+      ],
+      "darunter Neubauten": [
+        {
+          "value": 478
+        }
+      ],
+      "Wohngebäude": [
+        {
+          "value": 393
+        }
+      ],
+      "Nichtwohngebäude": [
+        {
+          "value": 85
+        }
+      ],
+      "Wohnungen insgesamt": [
+        {
+          "value": 848
+        }
+      ],
+      "darunter Neubau": [
+        {
+          "value": 781
+        }
+      ],
+      "Wohnfläche": [
+        {
+          "value": 146
+        }
+      ],
+      "Nutzfläche": [
+        {
+          "value": 284
+        }
+      ],
+      "Veranschlagte Baukosten": [
+        {
+          "value": 409
+        }
+      ]
+    },
+    "2013": {
+      "Gebäude insgesamt": [
+        {
+          "value": 901
+        }
+      ],
+      "darunter Neubauten": [
+        {
+          "value": 489
+        }
+      ],
+      "Wohngebäude": [
+        {
+          "value": 426
+        }
+      ],
+      "Nichtwohngebäude": [
+        {
+          "value": 63
+        }
+      ],
+      "Wohnungen insgesamt": [
+        {
+          "value": 1689
+        }
+      ],
+      "darunter Neubau": [
+        {
+          "value": 910
+        }
+      ],
+      "Wohnfläche": [
+        {
+          "value": 167
+        }
+      ],
+      "Nutzfläche": [
+        {
+          "value": 144
+        }
+      ],
+      "Veranschlagte Baukosten": [
+        {
+          "value": 410
+        }
+      ]
+    },
+    "2014": {
+      "Gebäude insgesamt": [
+        {
+          "value": 1080
+        }
+      ],
+      "darunter Neubauten": [
+        {
+          "value": 539
+        }
+      ],
+      "Wohngebäude": [
+        {
+          "value": 476
+        }
+      ],
+      "Nichtwohngebäude": [
+        {
+          "value": 63
+        }
+      ],
+      "Wohnungen insgesamt": [
+        {
+          "value": 1465
+        }
+      ],
+      "darunter Neubau": [
+        {
+          "value": 945
+        }
+      ],
+      "Wohnfläche": [
+        {
+          "value": 181
+        }
+      ],
+      "Nutzfläche": [
+        {
+          "value": 118
+        }
+      ],
+      "Veranschlagte Baukosten": [
+        {
+          "value": 470
+        }
+      ]
+    },
+    "2015": {
+      "Gebäude insgesamt": [
+        {
+          "value": 902
+        }
+      ],
+      "darunter Neubauten": [
+        {
+          "value": 452
+        }
+      ],
+      "Wohngebäude": [
+        {
+          "value": 394
+        }
+      ],
+      "Nichtwohngebäude": [
+        {
+          "value": 58
+        }
+      ],
+      "Wohnungen insgesamt": [
+        {
+          "value": 2286
+        }
+      ],
+      "darunter Neubau": [
+        {
+          "value": 1407
+        }
+      ],
+      "Wohnfläche": [
+        {
+          "value": 213
+        }
+      ],
+      "Nutzfläche": [
+        {
+          "value": 111
+        }
+      ],
+      "Veranschlagte Baukosten": [
+        {
+          "value": 437
+        }
+      ]
+    },
+    "2016": {
+      "Gebäude insgesamt": [
+        {
+          "value": 1096
+        }
+      ],
+      "darunter Neubauten": [
+        {
+          "value": 531
+        }
+      ],
+      "Wohngebäude": [
+        {
+          "value": 443
+        }
+      ],
+      "Nichtwohngebäude": [
+        {
+          "value": 88
+        }
+      ],
+      "Wohnungen insgesamt": [
+        {
+          "value": 3206
+        }
+      ],
+      "darunter Neubau": [
+        {
+          "value": 2200
+        }
+      ],
+      "Wohnfläche": [
+        {
+          "value": 282.5
+        }
+      ],
+      "Nutzfläche": [
+        {
+          "value": 129.8
+        }
+      ],
+      "Veranschlagte Baukosten": [
+        {
+          "value": 621.07
+        }
+      ]
+    },
+    "2017": {
+      "Gebäude insgesamt": [
+        {
+          "value": 1052
+        }
+      ],
+      "darunter Neubauten": [
+        {
+          "value": 508
+        }
+      ],
+      "Wohngebäude": [
+        {
+          "value": 408
+        }
+      ],
+      "Nichtwohngebäude": [
+        {
+          "value": 100
+        }
+      ],
+      "Wohnungen insgesamt": [
+        {
+          "value": 3679
+        }
+      ],
+      "darunter Neubau": [
+        {
+          "value": 2958
+        }
+      ],
+      "Wohnfläche": [
+        {
+          "value": 292
+        }
+      ],
+      "Nutzfläche": [
+        {
+          "value": 188
+        }
+      ],
+      "Veranschlagte Baukosten": [
+        {
+          "value": 743
+        }
+      ]
+    },
+    "2018": {
+      "Gebäude insgesamt": [
+        {
+          "value": 1081
+        }
+      ],
+      "darunter Neubauten": [
+        {
+          "value": 573
+        }
+      ],
+      "Wohngebäude": [
+        {
+          "value": 347
+        }
+      ],
+      "Nichtwohngebäude": [
+        {
+          "value": 226
+        }
+      ],
+      "Wohnungen insgesamt": [
+        {
+          "value": 3850
+        }
+      ],
+      "darunter Neubau": [
+        {
+          "value": 2863
+        }
+      ],
+      "Wohnfläche": [
+        {
+          "value": 340
+        }
+      ],
+      "Nutzfläche": [
+        {
+          "value": 17.3
+        }
+      ],
+      "Veranschlagte Baukosten": [
+        {
+          "value": 759
+        }
+      ]
+    },
+    "2019": {
+      "Gebäude insgesamt": [
+        {
+          "value": 1107
+        }
+      ],
+      "darunter Neubauten": [
+        {
+          "value": 555
+        }
+      ],
+      "Wohngebäude": [
+        {
+          "value": 458
+        }
+      ],
+      "Nichtwohngebäude": [
+        {
+          "value": 97
+        }
+      ],
+      "Wohnungen insgesamt": [
+        {
+          "value": 4328
+        }
+      ],
+      "darunter Neubau": [
+        {
+          "value": 3760
+        }
+      ],
+      "Wohnfläche": [
+        {
+          "value": 347
+        }
+      ],
+      "Nutzfläche": [
+        {
+          "value": 216
+        }
+      ],
+      "Veranschlagte Baukosten": [
+        {
+          "value": 765
+        }
+      ]
+    },
+    "2020": {
+      "Gebäude insgesamt": [
+        {
+          "value": 1152
+        }
+      ],
+      "darunter Neubauten": [
+        {
+          "value": 549
+        }
+      ],
+      "Wohngebäude": [
+        {
+          "value": 444
+        }
+      ],
+      "Nichtwohngebäude": [
+        {
+          "value": 105
+        }
+      ],
+      "Wohnungen insgesamt": [
+        {
+          "value": 4774
+        }
+      ],
+      "darunter Neubau": [
+        {
+          "value": 3928
+        }
+      ],
+      "Wohnfläche": [
+        {
+          "value": 363.7
+        }
+      ],
+      "Nutzfläche": [
+        {
+          "value": 188.8
+        }
+      ],
+      "Veranschlagte Baukosten": [
+        {
+          "value": 865
+        }
+      ]
+    },
+    "2021": {
+      "Gebäude insgesamt": [
+        {
+          "value": 991
+        }
+      ],
+      "darunter Neubauten": [
+        {
+          "value": 408
+        }
+      ],
+      "Wohngebäude": [
+        {
+          "value": 299
+        }
+      ],
+      "Nichtwohngebäude": [
+        {
+          "value": 109
+        }
+      ],
+      "Wohnungen insgesamt": [
+        {
+          "value": 3179
+        }
+      ],
+      "darunter Neubau": [
+        {
+          "value": 2831
+        }
+      ],
+      "Wohnfläche": [
+        {
+          "value": 244
+        }
+      ],
+      "Nutzfläche": [
+        {
+          "value": 317
+        }
+      ],
+      "Veranschlagte Baukosten": [
+        {
+          "value": 929
+        }
+      ]
+    },
+    "2022": {
+      "Gebäude insgesamt": [
+        {
+          "value": 796
+        }
+      ],
+      "darunter Neubauten": [
+        {
+          "value": 380
+        }
+      ],
+      "Wohngebäude": [
+        {
+          "value": 307
+        }
+      ],
+      "Nichtwohngebäude": [
+        {
+          "value": 73
+        }
+      ],
+      "Wohnungen insgesamt": [
+        {
+          "value": 3134
+        }
+      ],
+      "darunter Neubau": [
+        {
+          "value": 2920
+        }
+      ],
+      "Wohnfläche": [
+        {
+          "value": 243
+        }
+      ],
+      "Nutzfläche": [
+        {
+          "value": 314
+        }
+      ],
+      "Veranschlagte Baukosten": [
+        {
+          "value": 1204
+        }
+      ]
+    },
+    "2023": {
+      "Gebäude insgesamt": [
+        {
+          "value": 824
+        }
+      ],
+      "darunter Neubauten": [
+        {
+          "value": 453
+        }
+      ],
+      "Wohngebäude": [
+        {
+          "value": 382
+        }
+      ],
+      "darunter Neubau": [
+        {
+          "value": 1977
+        }
+      ],
+      "Wohnfläche": [
+        {
+          "value": null
+        }
+      ],
+      "Nutzfläche": [
+        {
+          "value": null
+        }
+      ],
+      "Veranschlagte Baukosten": [
+        {
+          "value": null
+        }
+      ],
+      "Nichtwohngebäude": [
+        {
+          "value": 71
+        }
+      ],
+      "Wohnungen insgesamt": [
+        {
+          "value": 2287
+        }
+      ]
+    }
+  }
+}

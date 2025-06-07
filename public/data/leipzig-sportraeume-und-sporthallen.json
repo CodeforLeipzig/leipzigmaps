@@ -1,0 +1,648 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=11&rubrik_nr=7&periode=y",
+    "title": " Sporträume und Sporthallen"
+  },
+  "data": {
+    "2001": {
+      "Sporträume und Sporthallen": [
+        {
+          "value": null
+        }
+      ],
+      "Stadien und Sportplatzanlagen": [
+        {
+          "value": 75
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 6
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 13
+        }
+      ],
+      "Tennisanlagen": [
+        {
+          "value": 26
+        }
+      ],
+      "Weitere ausgewählte Anlagen <br>(Kegelsport-, Motorsport-, Reitsport-, Schießsport-, Wassersportanlagen u.a.)": [
+        {
+          "value": 112
+        }
+      ]
+    },
+    "2002": {
+      "Weitere ausgewählte Anlagen <br>(Kegelsport-, Motorsport-, Reitsport-, Schießsport-, Wassersportanlagen u.a.)": [
+        {
+          "value": 113
+        }
+      ],
+      "Tennisanlagen": [
+        {
+          "value": 27
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 13
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 6
+        }
+      ],
+      "Stadien und Sportplatzanlagen": [
+        {
+          "value": 75
+        }
+      ],
+      "Sporträume und Sporthallen": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2003": {
+      "Sporträume und Sporthallen": [
+        {
+          "value": null
+        }
+      ],
+      "Stadien und Sportplatzanlagen": [
+        {
+          "value": 75
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 6
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 13
+        }
+      ],
+      "Tennisanlagen": [
+        {
+          "value": 27
+        }
+      ],
+      "Weitere ausgewählte Anlagen <br>(Kegelsport-, Motorsport-, Reitsport-, Schießsport-, Wassersportanlagen u.a.)": [
+        {
+          "value": 113
+        }
+      ]
+    },
+    "2004": {
+      "Stadien und Sportplatzanlagen": [
+        {
+          "value": 75
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 6
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 10
+        }
+      ],
+      "Tennisanlagen": [
+        {
+          "value": 27
+        }
+      ],
+      "Weitere ausgewählte Anlagen <br>(Kegelsport-, Motorsport-, Reitsport-, Schießsport-, Wassersportanlagen u.a.)": [
+        {
+          "value": 90
+        }
+      ],
+      "Sporträume und Sporthallen": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2005": {
+      "Sporträume und Sporthallen": [
+        {
+          "value": null
+        }
+      ],
+      "Stadien und Sportplatzanlagen": [
+        {
+          "value": 71
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 6
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 8
+        }
+      ],
+      "Tennisanlagen": [
+        {
+          "value": 27
+        }
+      ],
+      "Weitere ausgewählte Anlagen <br>(Kegelsport-, Motorsport-, Reitsport-, Schießsport-, Wassersportanlagen u.a.)": [
+        {
+          "value": 94
+        }
+      ]
+    },
+    "2007": {
+      "Stadien und Sportplatzanlagen": [
+        {
+          "value": 78
+        }
+      ],
+      "Sporträume und Sporthallen": [
+        {
+          "value": 147
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 6
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 8
+        }
+      ],
+      "Tennisanlagen": [
+        {
+          "value": 21
+        }
+      ],
+      "Weitere ausgewählte Anlagen <br>(Kegelsport-, Motorsport-, Reitsport-, Schießsport-, Wassersportanlagen u.a.)": [
+        {
+          "value": 63
+        }
+      ]
+    },
+    "2008": {
+      "Stadien und Sportplatzanlagen": [
+        {
+          "value": 78
+        }
+      ],
+      "Sporträume und Sporthallen": [
+        {
+          "value": 143
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 6
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 9
+        }
+      ],
+      "Tennisanlagen": [
+        {
+          "value": 21
+        }
+      ],
+      "Weitere ausgewählte Anlagen <br>(Kegelsport-, Motorsport-, Reitsport-, Schießsport-, Wassersportanlagen u.a.)": [
+        {
+          "value": 63
+        }
+      ]
+    },
+    "2009": {
+      "Stadien und Sportplatzanlagen": [
+        {
+          "value": 78
+        }
+      ],
+      "Sporträume und Sporthallen": [
+        {
+          "value": 143
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 6
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 10
+        }
+      ],
+      "Tennisanlagen": [
+        {
+          "value": 21
+        }
+      ],
+      "Weitere ausgewählte Anlagen <br>(Kegelsport-, Motorsport-, Reitsport-, Schießsport-, Wassersportanlagen u.a.)": [
+        {
+          "value": 63
+        }
+      ]
+    },
+    "2010": {
+      "Stadien und Sportplatzanlagen": [
+        {
+          "value": 78
+        }
+      ],
+      "Sporträume und Sporthallen": [
+        {
+          "value": 143
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 5
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 10
+        }
+      ],
+      "Tennisanlagen": [
+        {
+          "value": 21
+        }
+      ],
+      "Weitere ausgewählte Anlagen <br>(Kegelsport-, Motorsport-, Reitsport-, Schießsport-, Wassersportanlagen u.a.)": [
+        {
+          "value": 63
+        }
+      ]
+    },
+    "2011": {
+      "Stadien und Sportplatzanlagen": [
+        {
+          "value": 79
+        }
+      ],
+      "Sporträume und Sporthallen": [
+        {
+          "value": 230
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 5
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 10
+        }
+      ],
+      "Tennisanlagen": [
+        {
+          "value": 22
+        }
+      ],
+      "Weitere ausgewählte Anlagen <br>(Kegelsport-, Motorsport-, Reitsport-, Schießsport-, Wassersportanlagen u.a.)": [
+        {
+          "value": 63
+        }
+      ]
+    },
+    "2012": {
+      "Stadien und Sportplatzanlagen": [
+        {
+          "value": 79
+        }
+      ],
+      "Sporträume und Sporthallen": [
+        {
+          "value": 230
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 5
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 10
+        }
+      ],
+      "Tennisanlagen": [
+        {
+          "value": 22
+        }
+      ],
+      "Weitere ausgewählte Anlagen <br>(Kegelsport-, Motorsport-, Reitsport-, Schießsport-, Wassersportanlagen u.a.)": [
+        {
+          "value": 63
+        }
+      ]
+    },
+    "2013": {
+      "Stadien und Sportplatzanlagen": [
+        {
+          "value": 74
+        }
+      ],
+      "Sporträume und Sporthallen": [
+        {
+          "value": 238
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 5
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 10
+        }
+      ],
+      "Tennisanlagen": [
+        {
+          "value": 22
+        }
+      ],
+      "Weitere ausgewählte Anlagen <br>(Kegelsport-, Motorsport-, Reitsport-, Schießsport-, Wassersportanlagen u.a.)": [
+        {
+          "value": 63
+        }
+      ]
+    },
+    "2014": {
+      "Stadien und Sportplatzanlagen": [
+        {
+          "value": 102
+        }
+      ],
+      "Sporträume und Sporthallen": [
+        {
+          "value": 241
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 6
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 10
+        }
+      ],
+      "Tennisanlagen": [
+        {
+          "value": 22
+        }
+      ],
+      "Weitere ausgewählte Anlagen <br>(Kegelsport-, Motorsport-, Reitsport-, Schießsport-, Wassersportanlagen u.a.)": [
+        {
+          "value": 60
+        }
+      ]
+    },
+    "2015": {
+      "Stadien und Sportplatzanlagen": [
+        {
+          "value": 102
+        }
+      ],
+      "Sporträume und Sporthallen": [
+        {
+          "value": 242
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 6
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 10
+        }
+      ],
+      "Tennisanlagen": [
+        {
+          "value": 22
+        }
+      ],
+      "Weitere ausgewählte Anlagen <br>(Kegelsport-, Motorsport-, Reitsport-, Schießsport-, Wassersportanlagen u.a.)": [
+        {
+          "value": 63
+        }
+      ]
+    },
+    "2016": {
+      "Stadien und Sportplatzanlagen": [
+        {
+          "value": 107
+        }
+      ],
+      "Sporträume und Sporthallen": [
+        {
+          "value": 244
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 6
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 10
+        }
+      ],
+      "Tennisanlagen": [
+        {
+          "value": 22
+        }
+      ],
+      "Weitere ausgewählte Anlagen <br>(Kegelsport-, Motorsport-, Reitsport-, Schießsport-, Wassersportanlagen u.a.)": [
+        {
+          "value": 63
+        }
+      ]
+    },
+    "2017": {
+      "Stadien und Sportplatzanlagen": [
+        {
+          "value": 107
+        }
+      ],
+      "Sporträume und Sporthallen": [
+        {
+          "value": 246
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 6
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 10
+        }
+      ],
+      "Tennisanlagen": [
+        {
+          "value": 22
+        }
+      ],
+      "Weitere ausgewählte Anlagen <br>(Kegelsport-, Motorsport-, Reitsport-, Schießsport-, Wassersportanlagen u.a.)": [
+        {
+          "value": 63
+        }
+      ]
+    },
+    "2019": {
+      "Stadien und Sportplatzanlagen": [
+        {
+          "value": 107
+        }
+      ],
+      "Sporträume und Sporthallen": [
+        {
+          "value": 250
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 6
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 10
+        }
+      ],
+      "Tennisanlagen": [
+        {
+          "value": 22
+        }
+      ],
+      "Weitere ausgewählte Anlagen <br>(Kegelsport-, Motorsport-, Reitsport-, Schießsport-, Wassersportanlagen u.a.)": [
+        {
+          "value": 63
+        }
+      ]
+    },
+    "2020": {
+      "Stadien und Sportplatzanlagen": [
+        {
+          "value": 107
+        }
+      ],
+      "Sporträume und Sporthallen": [
+        {
+          "value": 254
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 6
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 10
+        }
+      ],
+      "Tennisanlagen": [
+        {
+          "value": 22
+        }
+      ],
+      "Weitere ausgewählte Anlagen <br>(Kegelsport-, Motorsport-, Reitsport-, Schießsport-, Wassersportanlagen u.a.)": [
+        {
+          "value": 63
+        }
+      ]
+    },
+    "2021": {
+      "Stadien und Sportplatzanlagen": [
+        {
+          "value": 107
+        }
+      ],
+      "Sporträume und Sporthallen": [
+        {
+          "value": null
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 6
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 10
+        }
+      ],
+      "Tennisanlagen": [
+        {
+          "value": 22
+        }
+      ],
+      "Weitere ausgewählte Anlagen <br>(Kegelsport-, Motorsport-, Reitsport-, Schießsport-, Wassersportanlagen u.a.)": [
+        {
+          "value": 63
+        }
+      ]
+    },
+    "2022": {
+      "Stadien und Sportplatzanlagen": [
+        {
+          "value": 109
+        }
+      ],
+      "Sporträume und Sporthallen": [
+        {
+          "value": 252
+        }
+      ],
+      "Freibäder": [
+        {
+          "value": 5
+        }
+      ],
+      "Hallenbäder": [
+        {
+          "value": 10
+        }
+      ],
+      "Tennisanlagen": [
+        {
+          "value": 22
+        }
+      ],
+      "Weitere ausgewählte Anlagen <br>(Kegelsport-, Motorsport-, Reitsport-, Schießsport-, Wassersportanlagen u.a.)": [
+        {
+          "value": 63
+        }
+      ]
+    }
+  }
+}

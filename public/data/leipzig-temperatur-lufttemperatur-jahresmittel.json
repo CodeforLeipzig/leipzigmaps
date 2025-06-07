@@ -1,0 +1,2216 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=1&rubrik_nr=3&periode=y",
+    "title": "Temperatur__Lufttemperatur (Jahresmittel)"
+  },
+  "data": {
+    "2000": {
+      "Lufttemperatur (Jahresmittel)": [
+        {
+          "value": 10.6
+        }
+      ],
+      "Abweichung der Lufttemperatur vom Normalwert (8,8°C)": [
+        {
+          "value": 1.8
+        }
+      ],
+      "Jahreshöchsttemperatur": [
+        {
+          "value": 34.8
+        }
+      ],
+      "Jahrestiefsttemperatur": [
+        {
+          "value": -12.5
+        }
+      ],
+      "30°C und wärmer (heiße Tage)": [
+        {
+          "value": 9
+        }
+      ],
+      "25°C und wärmer (warme Tage)": [
+        {
+          "value": 36
+        }
+      ],
+      "unter 0°C (Eistage)": [
+        {
+          "value": 7
+        }
+      ],
+      "unter 0°C (Frosttage)": [
+        {
+          "value": 46
+        }
+      ],
+      "Sonnenscheindauer (Jahressumme)": [
+        {
+          "value": 1771
+        }
+      ],
+      "Abweichung der Sonnenscheindauer vom Normalwert (1 494 h)": [
+        {
+          "value": 18.5
+        }
+      ],
+      "Tage mit mindestens einer Stunde Sonnenschein": [
+        {
+          "value": null
+        }
+      ],
+      "Niederschlagshöhe (Jahressumme)": [
+        {
+          "value": 519
+        }
+      ],
+      "Abweichung der Niederschlagshöhe vom Normalwert (511 mm)": [
+        {
+          "value": 1.6
+        }
+      ],
+      "Maximale Tageshöhe der Niederschläge": [
+        {
+          "value": null
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 0,1 mm": [
+        {
+          "value": 163
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 10 mm": [
+        {
+          "value": 12
+        }
+      ],
+      "Jahresmittel der relativen Luftfeuchte": [
+        {
+          "value": 76
+        }
+      ],
+      "Maximale Windspitze": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2001": {
+      "Maximale Windspitze": [
+        {
+          "value": null
+        }
+      ],
+      "Jahresmittel der relativen Luftfeuchte": [
+        {
+          "value": 80
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 10 mm": [
+        {
+          "value": 11
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 0,1 mm": [
+        {
+          "value": 189
+        }
+      ],
+      "Maximale Tageshöhe der Niederschläge": [
+        {
+          "value": null
+        }
+      ],
+      "Abweichung der Niederschlagshöhe vom Normalwert (511 mm)": [
+        {
+          "value": 19.4
+        }
+      ],
+      "Niederschlagshöhe (Jahressumme)": [
+        {
+          "value": 610
+        }
+      ],
+      "Tage mit mindestens einer Stunde Sonnenschein": [
+        {
+          "value": null
+        }
+      ],
+      "Abweichung der Sonnenscheindauer vom Normalwert (1 494 h)": [
+        {
+          "value": 5.5
+        }
+      ],
+      "Sonnenscheindauer (Jahressumme)": [
+        {
+          "value": 1576
+        }
+      ],
+      "unter 0°C (Frosttage)": [
+        {
+          "value": 84
+        }
+      ],
+      "unter 0°C (Eistage)": [
+        {
+          "value": 14
+        }
+      ],
+      "25°C und wärmer (warme Tage)": [
+        {
+          "value": 35
+        }
+      ],
+      "30°C und wärmer (heiße Tage)": [
+        {
+          "value": 6
+        }
+      ],
+      "Jahrestiefsttemperatur": [
+        {
+          "value": -11.5
+        }
+      ],
+      "Jahreshöchsttemperatur": [
+        {
+          "value": 34.7
+        }
+      ],
+      "Abweichung der Lufttemperatur vom Normalwert (8,8°C)": [
+        {
+          "value": 0.7
+        }
+      ],
+      "Lufttemperatur (Jahresmittel)": [
+        {
+          "value": 9.5
+        }
+      ]
+    },
+    "2002": {
+      "Lufttemperatur (Jahresmittel)": [
+        {
+          "value": 9.8
+        }
+      ],
+      "Abweichung der Lufttemperatur vom Normalwert (8,8°C)": [
+        {
+          "value": 0.9
+        }
+      ],
+      "Jahreshöchsttemperatur": [
+        {
+          "value": 34
+        }
+      ],
+      "Jahrestiefsttemperatur": [
+        {
+          "value": -13.3
+        }
+      ],
+      "30°C und wärmer (heiße Tage)": [
+        {
+          "value": 8
+        }
+      ],
+      "25°C und wärmer (warme Tage)": [
+        {
+          "value": 44
+        }
+      ],
+      "unter 0°C (Eistage)": [
+        {
+          "value": 17
+        }
+      ],
+      "unter 0°C (Frosttage)": [
+        {
+          "value": 75
+        }
+      ],
+      "Sonnenscheindauer (Jahressumme)": [
+        {
+          "value": 1579
+        }
+      ],
+      "Abweichung der Sonnenscheindauer vom Normalwert (1 494 h)": [
+        {
+          "value": 5.7
+        }
+      ],
+      "Tage mit mindestens einer Stunde Sonnenschein": [
+        {
+          "value": null
+        }
+      ],
+      "Niederschlagshöhe (Jahressumme)": [
+        {
+          "value": 670
+        }
+      ],
+      "Abweichung der Niederschlagshöhe vom Normalwert (511 mm)": [
+        {
+          "value": 31.1
+        }
+      ],
+      "Maximale Tageshöhe der Niederschläge": [
+        {
+          "value": null
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 0,1 mm": [
+        {
+          "value": 160
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 10 mm": [
+        {
+          "value": 16
+        }
+      ],
+      "Jahresmittel der relativen Luftfeuchte": [
+        {
+          "value": 81
+        }
+      ],
+      "Maximale Windspitze": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2003": {
+      "Maximale Windspitze": [
+        {
+          "value": 29.2
+        }
+      ],
+      "Jahresmittel der relativen Luftfeuchte": [
+        {
+          "value": null
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 10 mm": [
+        {
+          "value": 12
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 0,1 mm": [
+        {
+          "value": 123
+        }
+      ],
+      "Maximale Tageshöhe der Niederschläge": [
+        {
+          "value": 32.9
+        }
+      ],
+      "Abweichung der Niederschlagshöhe vom Normalwert (511 mm)": [
+        {
+          "value": -15.4
+        }
+      ],
+      "Niederschlagshöhe (Jahressumme)": [
+        {
+          "value": 433
+        }
+      ],
+      "Tage mit mindestens einer Stunde Sonnenschein": [
+        {
+          "value": 264
+        }
+      ],
+      "Abweichung der Sonnenscheindauer vom Normalwert (1 494 h)": [
+        {
+          "value": 39.6
+        }
+      ],
+      "Sonnenscheindauer (Jahressumme)": [
+        {
+          "value": 2086
+        }
+      ],
+      "unter 0°C (Frosttage)": [
+        {
+          "value": 107
+        }
+      ],
+      "unter 0°C (Eistage)": [
+        {
+          "value": 25
+        }
+      ],
+      "25°C und wärmer (warme Tage)": [
+        {
+          "value": 65
+        }
+      ],
+      "30°C und wärmer (heiße Tage)": [
+        {
+          "value": 21
+        }
+      ],
+      "Jahrestiefsttemperatur": [
+        {
+          "value": -20.5
+        }
+      ],
+      "Jahreshöchsttemperatur": [
+        {
+          "value": 36
+        }
+      ],
+      "Abweichung der Lufttemperatur vom Normalwert (8,8°C)": [
+        {
+          "value": 0.8
+        }
+      ],
+      "Lufttemperatur (Jahresmittel)": [
+        {
+          "value": 9.7
+        }
+      ]
+    },
+    "2004": {
+      "Lufttemperatur (Jahresmittel)": [
+        {
+          "value": 9.4
+        }
+      ],
+      "Abweichung der Lufttemperatur vom Normalwert (8,8°C)": [
+        {
+          "value": 0.6
+        }
+      ],
+      "Jahreshöchsttemperatur": [
+        {
+          "value": 30.3
+        }
+      ],
+      "Jahrestiefsttemperatur": [
+        {
+          "value": -15.9
+        }
+      ],
+      "30°C und wärmer (heiße Tage)": [
+        {
+          "value": 1
+        }
+      ],
+      "25°C und wärmer (warme Tage)": [
+        {
+          "value": 30
+        }
+      ],
+      "unter 0°C (Eistage)": [
+        {
+          "value": 12
+        }
+      ],
+      "unter 0°C (Frosttage)": [
+        {
+          "value": 93
+        }
+      ],
+      "Sonnenscheindauer (Jahressumme)": [
+        {
+          "value": 1676
+        }
+      ],
+      "Abweichung der Sonnenscheindauer vom Normalwert (1 494 h)": [
+        {
+          "value": 12.2
+        }
+      ],
+      "Tage mit mindestens einer Stunde Sonnenschein": [
+        {
+          "value": 264
+        }
+      ],
+      "Niederschlagshöhe (Jahressumme)": [
+        {
+          "value": 594
+        }
+      ],
+      "Abweichung der Niederschlagshöhe vom Normalwert (511 mm)": [
+        {
+          "value": 16.2
+        }
+      ],
+      "Maximale Tageshöhe der Niederschläge": [
+        {
+          "value": 30.4
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 0,1 mm": [
+        {
+          "value": 167
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 10 mm": [
+        {
+          "value": 17
+        }
+      ],
+      "Jahresmittel der relativen Luftfeuchte": [
+        {
+          "value": 76
+        }
+      ],
+      "Maximale Windspitze": [
+        {
+          "value": 26.3
+        }
+      ]
+    },
+    "2005": {
+      "Maximale Windspitze": [
+        {
+          "value": 30.9
+        }
+      ],
+      "Jahresmittel der relativen Luftfeuchte": [
+        {
+          "value": 76
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 10 mm": [
+        {
+          "value": 12
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 0,1 mm": [
+        {
+          "value": 107
+        }
+      ],
+      "Maximale Tageshöhe der Niederschläge": [
+        {
+          "value": 46.4
+        }
+      ],
+      "Abweichung der Niederschlagshöhe vom Normalwert (511 mm)": [
+        {
+          "value": 3.5
+        }
+      ],
+      "Niederschlagshöhe (Jahressumme)": [
+        {
+          "value": 529
+        }
+      ],
+      "Tage mit mindestens einer Stunde Sonnenschein": [
+        {
+          "value": 262
+        }
+      ],
+      "Abweichung der Sonnenscheindauer vom Normalwert (1 494 h)": [
+        {
+          "value": 22
+        }
+      ],
+      "Sonnenscheindauer (Jahressumme)": [
+        {
+          "value": 1823
+        }
+      ],
+      "unter 0°C (Frosttage)": [
+        {
+          "value": 89
+        }
+      ],
+      "unter 0°C (Eistage)": [
+        {
+          "value": 23
+        }
+      ],
+      "25°C und wärmer (warme Tage)": [
+        {
+          "value": 45
+        }
+      ],
+      "30°C und wärmer (heiße Tage)": [
+        {
+          "value": 6
+        }
+      ],
+      "Jahrestiefsttemperatur": [
+        {
+          "value": -11.7
+        }
+      ],
+      "Jahreshöchsttemperatur": [
+        {
+          "value": 32.4
+        }
+      ],
+      "Abweichung der Lufttemperatur vom Normalwert (8,8°C)": [
+        {
+          "value": 0.8
+        }
+      ],
+      "Lufttemperatur (Jahresmittel)": [
+        {
+          "value": 9.6
+        }
+      ]
+    },
+    "2006": {
+      "Lufttemperatur (Jahresmittel)": [
+        {
+          "value": 10.2
+        }
+      ],
+      "Abweichung der Lufttemperatur vom Normalwert (8,8°C)": [
+        {
+          "value": 1.4
+        }
+      ],
+      "Jahreshöchsttemperatur": [
+        {
+          "value": 36.3
+        }
+      ],
+      "Jahrestiefsttemperatur": [
+        {
+          "value": -15.3
+        }
+      ],
+      "30°C und wärmer (heiße Tage)": [
+        {
+          "value": 18
+        }
+      ],
+      "25°C und wärmer (warme Tage)": [
+        {
+          "value": 60
+        }
+      ],
+      "unter 0°C (Eistage)": [
+        {
+          "value": 26
+        }
+      ],
+      "unter 0°C (Frosttage)": [
+        {
+          "value": 83
+        }
+      ],
+      "Sonnenscheindauer (Jahressumme)": [
+        {
+          "value": 1899
+        }
+      ],
+      "Abweichung der Sonnenscheindauer vom Normalwert (1 494 h)": [
+        {
+          "value": 27.1
+        }
+      ],
+      "Tage mit mindestens einer Stunde Sonnenschein": [
+        {
+          "value": 279
+        }
+      ],
+      "Niederschlagshöhe (Jahressumme)": [
+        {
+          "value": 412
+        }
+      ],
+      "Abweichung der Niederschlagshöhe vom Normalwert (511 mm)": [
+        {
+          "value": -19.4
+        }
+      ],
+      "Maximale Tageshöhe der Niederschläge": [
+        {
+          "value": 17.1
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 0,1 mm": [
+        {
+          "value": 160
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 10 mm": [
+        {
+          "value": 6
+        }
+      ],
+      "Jahresmittel der relativen Luftfeuchte": [
+        {
+          "value": 75
+        }
+      ],
+      "Maximale Windspitze": [
+        {
+          "value": 27.1
+        }
+      ]
+    },
+    "2007": {
+      "Lufttemperatur (Jahresmittel)": [
+        {
+          "value": 10.5
+        }
+      ],
+      "Abweichung der Lufttemperatur vom Normalwert (8,8°C)": [
+        {
+          "value": 1.7
+        }
+      ],
+      "Jahreshöchsttemperatur": [
+        {
+          "value": 36.5
+        }
+      ],
+      "Jahrestiefsttemperatur": [
+        {
+          "value": -9.1
+        }
+      ],
+      "30°C und wärmer (heiße Tage)": [
+        {
+          "value": 6
+        }
+      ],
+      "25°C und wärmer (warme Tage)": [
+        {
+          "value": 44
+        }
+      ],
+      "unter 0°C (Eistage)": [
+        {
+          "value": 10
+        }
+      ],
+      "unter 0°C (Frosttage)": [
+        {
+          "value": 52
+        }
+      ],
+      "Sonnenscheindauer (Jahressumme)": [
+        {
+          "value": 1827
+        }
+      ],
+      "Abweichung der Sonnenscheindauer vom Normalwert (1 494 h)": [
+        {
+          "value": 22.3
+        }
+      ],
+      "Tage mit mindestens einer Stunde Sonnenschein": [
+        {
+          "value": 263
+        }
+      ],
+      "Niederschlagshöhe (Jahressumme)": [
+        {
+          "value": 659
+        }
+      ],
+      "Abweichung der Niederschlagshöhe vom Normalwert (511 mm)": [
+        {
+          "value": 29
+        }
+      ],
+      "Maximale Tageshöhe der Niederschläge": [
+        {
+          "value": 32.4
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 0,1 mm": [
+        {
+          "value": 177
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 10 mm": [
+        {
+          "value": 20
+        }
+      ],
+      "Jahresmittel der relativen Luftfeuchte": [
+        {
+          "value": 77
+        }
+      ],
+      "Maximale Windspitze": [
+        {
+          "value": 31
+        }
+      ]
+    },
+    "2008": {
+      "Lufttemperatur (Jahresmittel)": [
+        {
+          "value": 10.4
+        }
+      ],
+      "Abweichung der Lufttemperatur vom Normalwert (8,8°C)": [
+        {
+          "value": 1.6
+        }
+      ],
+      "Jahreshöchsttemperatur": [
+        {
+          "value": 33.4
+        }
+      ],
+      "Jahrestiefsttemperatur": [
+        {
+          "value": -8.9
+        }
+      ],
+      "30°C und wärmer (heiße Tage)": [
+        {
+          "value": 11
+        }
+      ],
+      "25°C und wärmer (warme Tage)": [
+        {
+          "value": 41
+        }
+      ],
+      "unter 0°C (Eistage)": [
+        {
+          "value": 8
+        }
+      ],
+      "unter 0°C (Frosttage)": [
+        {
+          "value": 63
+        }
+      ],
+      "Sonnenscheindauer (Jahressumme)": [
+        {
+          "value": 1691
+        }
+      ],
+      "Abweichung der Sonnenscheindauer vom Normalwert (1 494 h)": [
+        {
+          "value": 13.2
+        }
+      ],
+      "Tage mit mindestens einer Stunde Sonnenschein": [
+        {
+          "value": 259
+        }
+      ],
+      "Niederschlagshöhe (Jahressumme)": [
+        {
+          "value": 491
+        }
+      ],
+      "Abweichung der Niederschlagshöhe vom Normalwert (511 mm)": [
+        {
+          "value": -3.9
+        }
+      ],
+      "Maximale Tageshöhe der Niederschläge": [
+        {
+          "value": 24
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 0,1 mm": [
+        {
+          "value": 163
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 10 mm": [
+        {
+          "value": 11
+        }
+      ],
+      "Jahresmittel der relativen Luftfeuchte": [
+        {
+          "value": 77.5
+        }
+      ],
+      "Maximale Windspitze": [
+        {
+          "value": 27.9
+        }
+      ]
+    },
+    "2009": {
+      "Lufttemperatur (Jahresmittel)": [
+        {
+          "value": 9.8
+        }
+      ],
+      "Abweichung der Lufttemperatur vom Normalwert (8,8°C)": [
+        {
+          "value": 1
+        }
+      ],
+      "Jahreshöchsttemperatur": [
+        {
+          "value": 33.4
+        }
+      ],
+      "Jahrestiefsttemperatur": [
+        {
+          "value": -21.8
+        }
+      ],
+      "30°C und wärmer (heiße Tage)": [
+        {
+          "value": 5
+        }
+      ],
+      "25°C und wärmer (warme Tage)": [
+        {
+          "value": 45
+        }
+      ],
+      "unter 0°C (Eistage)": [
+        {
+          "value": 25
+        }
+      ],
+      "unter 0°C (Frosttage)": [
+        {
+          "value": 78
+        }
+      ],
+      "Sonnenscheindauer (Jahressumme)": [
+        {
+          "value": 1735
+        }
+      ],
+      "Abweichung der Sonnenscheindauer vom Normalwert (1 494 h)": [
+        {
+          "value": 16.1
+        }
+      ],
+      "Tage mit mindestens einer Stunde Sonnenschein": [
+        {
+          "value": 264
+        }
+      ],
+      "Niederschlagshöhe (Jahressumme)": [
+        {
+          "value": 619
+        }
+      ],
+      "Abweichung der Niederschlagshöhe vom Normalwert (511 mm)": [
+        {
+          "value": 21.1
+        }
+      ],
+      "Maximale Tageshöhe der Niederschläge": [
+        {
+          "value": 42.7
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 0,1 mm": [
+        {
+          "value": 169
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 10 mm": [
+        {
+          "value": 15
+        }
+      ],
+      "Jahresmittel der relativen Luftfeuchte": [
+        {
+          "value": 77.2
+        }
+      ],
+      "Maximale Windspitze": [
+        {
+          "value": 31.8
+        }
+      ]
+    },
+    "2010": {
+      "Lufttemperatur (Jahresmittel)": [
+        {
+          "value": 8.3
+        }
+      ],
+      "Abweichung der Lufttemperatur vom Normalwert (8,8°C)": [
+        {
+          "value": -0.5
+        }
+      ],
+      "Jahreshöchsttemperatur": [
+        {
+          "value": 36.3
+        }
+      ],
+      "Jahrestiefsttemperatur": [
+        {
+          "value": -16.4
+        }
+      ],
+      "30°C und wärmer (heiße Tage)": [
+        {
+          "value": 10
+        }
+      ],
+      "25°C und wärmer (warme Tage)": [
+        {
+          "value": 39
+        }
+      ],
+      "unter 0°C (Eistage)": [
+        {
+          "value": 62
+        }
+      ],
+      "unter 0°C (Frosttage)": [
+        {
+          "value": 106
+        }
+      ],
+      "Sonnenscheindauer (Jahressumme)": [
+        {
+          "value": 1686
+        }
+      ],
+      "Abweichung der Sonnenscheindauer vom Normalwert (1 494 h)": [
+        {
+          "value": 12.8
+        }
+      ],
+      "Tage mit mindestens einer Stunde Sonnenschein": [
+        {
+          "value": 239
+        }
+      ],
+      "Niederschlagshöhe (Jahressumme)": [
+        {
+          "value": 719
+        }
+      ],
+      "Abweichung der Niederschlagshöhe vom Normalwert (511 mm)": [
+        {
+          "value": 40.7
+        }
+      ],
+      "Maximale Tageshöhe der Niederschläge": [
+        {
+          "value": 44.1
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 0,1 mm": [
+        {
+          "value": 171
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 10 mm": [
+        {
+          "value": 21
+        }
+      ],
+      "Jahresmittel der relativen Luftfeuchte": [
+        {
+          "value": 79
+        }
+      ],
+      "Maximale Windspitze": [
+        {
+          "value": 27.4
+        }
+      ]
+    },
+    "2011": {
+      "Lufttemperatur (Jahresmittel)": [
+        {
+          "value": 10.3
+        }
+      ],
+      "Abweichung der Lufttemperatur vom Normalwert (8,8°C)": [
+        {
+          "value": 1.5
+        }
+      ],
+      "Jahreshöchsttemperatur": [
+        {
+          "value": 32.6
+        }
+      ],
+      "Jahrestiefsttemperatur": [
+        {
+          "value": -13.4
+        }
+      ],
+      "30°C und wärmer (heiße Tage)": [
+        {
+          "value": 3
+        }
+      ],
+      "25°C und wärmer (warme Tage)": [
+        {
+          "value": 44
+        }
+      ],
+      "unter 0°C (Eistage)": [
+        {
+          "value": 15
+        }
+      ],
+      "unter 0°C (Frosttage)": [
+        {
+          "value": 73
+        }
+      ],
+      "Sonnenscheindauer (Jahressumme)": [
+        {
+          "value": 2043
+        }
+      ],
+      "Abweichung der Sonnenscheindauer vom Normalwert (1 494 h)": [
+        {
+          "value": 36.7
+        }
+      ],
+      "Tage mit mindestens einer Stunde Sonnenschein": [
+        {
+          "value": 278
+        }
+      ],
+      "Niederschlagshöhe (Jahressumme)": [
+        {
+          "value": 552
+        }
+      ],
+      "Abweichung der Niederschlagshöhe vom Normalwert (511 mm)": [
+        {
+          "value": 8
+        }
+      ],
+      "Maximale Tageshöhe der Niederschläge": [
+        {
+          "value": 29
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 0,1 mm": [
+        {
+          "value": 144
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 10 mm": [
+        {
+          "value": 12
+        }
+      ],
+      "Jahresmittel der relativen Luftfeuchte": [
+        {
+          "value": 76
+        }
+      ],
+      "Maximale Windspitze": [
+        {
+          "value": 28.3
+        }
+      ]
+    },
+    "2012": {
+      "Lufttemperatur (Jahresmittel)": [
+        {
+          "value": 9.9
+        }
+      ],
+      "Abweichung der Lufttemperatur vom Normalwert (8,8°C)": [
+        {
+          "value": 1.1
+        }
+      ],
+      "Jahreshöchsttemperatur": [
+        {
+          "value": 37.2
+        }
+      ],
+      "Jahrestiefsttemperatur": [
+        {
+          "value": -21.5
+        }
+      ],
+      "30°C und wärmer (heiße Tage)": [
+        {
+          "value": 10
+        }
+      ],
+      "25°C und wärmer (warme Tage)": [
+        {
+          "value": 44
+        }
+      ],
+      "unter 0°C (Eistage)": [
+        {
+          "value": 25
+        }
+      ],
+      "unter 0°C (Frosttage)": [
+        {
+          "value": 68
+        }
+      ],
+      "Sonnenscheindauer (Jahressumme)": [
+        {
+          "value": 1784
+        }
+      ],
+      "Abweichung der Sonnenscheindauer vom Normalwert (1 494 h)": [
+        {
+          "value": 19.4
+        }
+      ],
+      "Tage mit mindestens einer Stunde Sonnenschein": [
+        {
+          "value": 261
+        }
+      ],
+      "Niederschlagshöhe (Jahressumme)": [
+        {
+          "value": 468
+        }
+      ],
+      "Abweichung der Niederschlagshöhe vom Normalwert (511 mm)": [
+        {
+          "value": -8.4
+        }
+      ],
+      "Maximale Tageshöhe der Niederschläge": [
+        {
+          "value": 23.5
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 0,1 mm": [
+        {
+          "value": 166
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 10 mm": [
+        {
+          "value": 9
+        }
+      ],
+      "Jahresmittel der relativen Luftfeuchte": [
+        {
+          "value": 75.3
+        }
+      ],
+      "Maximale Windspitze": [
+        {
+          "value": 22.5
+        }
+      ]
+    },
+    "2013": {
+      "Lufttemperatur (Jahresmittel)": [
+        {
+          "value": 9.3
+        }
+      ],
+      "Abweichung der Lufttemperatur vom Normalwert (8,8°C)": [
+        {
+          "value": 0.5
+        }
+      ],
+      "Jahreshöchsttemperatur": [
+        {
+          "value": 35.4
+        }
+      ],
+      "Jahrestiefsttemperatur": [
+        {
+          "value": -15.3
+        }
+      ],
+      "30°C und wärmer (heiße Tage)": [
+        {
+          "value": 11
+        }
+      ],
+      "25°C und wärmer (warme Tage)": [
+        {
+          "value": 41
+        }
+      ],
+      "unter 0°C (Eistage)": [
+        {
+          "value": 31
+        }
+      ],
+      "unter 0°C (Frosttage)": [
+        {
+          "value": 95
+        }
+      ],
+      "Sonnenscheindauer (Jahressumme)": [
+        {
+          "value": 1573
+        }
+      ],
+      "Abweichung der Sonnenscheindauer vom Normalwert (1 494 h)": [
+        {
+          "value": 5.3
+        }
+      ],
+      "Tage mit mindestens einer Stunde Sonnenschein": [
+        {
+          "value": 226
+        }
+      ],
+      "Niederschlagshöhe (Jahressumme)": [
+        {
+          "value": 607
+        }
+      ],
+      "Abweichung der Niederschlagshöhe vom Normalwert (511 mm)": [
+        {
+          "value": 18.7
+        }
+      ],
+      "Maximale Tageshöhe der Niederschläge": [
+        {
+          "value": 29.2
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 0,1 mm": [
+        {
+          "value": 173
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 10 mm": [
+        {
+          "value": 13
+        }
+      ],
+      "Jahresmittel der relativen Luftfeuchte": [
+        {
+          "value": 79.8
+        }
+      ],
+      "Maximale Windspitze": [
+        {
+          "value": 25.5
+        }
+      ]
+    },
+    "2014": {
+      "Lufttemperatur (Jahresmittel)": [
+        {
+          "value": 11
+        }
+      ],
+      "Abweichung der Lufttemperatur vom Normalwert (8,8°C)": [
+        {
+          "value": 2.2
+        }
+      ],
+      "Jahreshöchsttemperatur": [
+        {
+          "value": 34.2
+        }
+      ],
+      "Jahrestiefsttemperatur": [
+        {
+          "value": -12.2
+        }
+      ],
+      "30°C und wärmer (heiße Tage)": [
+        {
+          "value": 8
+        }
+      ],
+      "25°C und wärmer (warme Tage)": [
+        {
+          "value": 37
+        }
+      ],
+      "unter 0°C (Eistage)": [
+        {
+          "value": 13
+        }
+      ],
+      "unter 0°C (Frosttage)": [
+        {
+          "value": 48
+        }
+      ],
+      "Sonnenscheindauer (Jahressumme)": [
+        {
+          "value": 1780
+        }
+      ],
+      "Abweichung der Sonnenscheindauer vom Normalwert (1 494 h)": [
+        {
+          "value": 19.1
+        }
+      ],
+      "Tage mit mindestens einer Stunde Sonnenschein": [
+        {
+          "value": 268
+        }
+      ],
+      "Niederschlagshöhe (Jahressumme)": [
+        {
+          "value": 519
+        }
+      ],
+      "Abweichung der Niederschlagshöhe vom Normalwert (511 mm)": [
+        {
+          "value": 1.6
+        }
+      ],
+      "Maximale Tageshöhe der Niederschläge": [
+        {
+          "value": 58.9
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 0,1 mm": [
+        {
+          "value": 168
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 10 mm": [
+        {
+          "value": 11
+        }
+      ],
+      "Jahresmittel der relativen Luftfeuchte": [
+        {
+          "value": 78.9
+        }
+      ],
+      "Maximale Windspitze": [
+        {
+          "value": 23.5
+        }
+      ]
+    },
+    "2015": {
+      "Lufttemperatur (Jahresmittel)": [
+        {
+          "value": 10.8
+        }
+      ],
+      "Abweichung der Lufttemperatur vom Normalwert (8,8°C)": [
+        {
+          "value": 2
+        }
+      ],
+      "Jahreshöchsttemperatur": [
+        {
+          "value": 37
+        }
+      ],
+      "Jahrestiefsttemperatur": [
+        {
+          "value": -6
+        }
+      ],
+      "30°C und wärmer (heiße Tage)": [
+        {
+          "value": 21
+        }
+      ],
+      "25°C und wärmer (warme Tage)": [
+        {
+          "value": 49
+        }
+      ],
+      "unter 0°C (Eistage)": [
+        {
+          "value": 4
+        }
+      ],
+      "unter 0°C (Frosttage)": [
+        {
+          "value": 65
+        }
+      ],
+      "Sonnenscheindauer (Jahressumme)": [
+        {
+          "value": 1934
+        }
+      ],
+      "Abweichung der Sonnenscheindauer vom Normalwert (1 494 h)": [
+        {
+          "value": 29.5
+        }
+      ],
+      "Tage mit mindestens einer Stunde Sonnenschein": [
+        {
+          "value": 272
+        }
+      ],
+      "Niederschlagshöhe (Jahressumme)": [
+        {
+          "value": 479
+        }
+      ],
+      "Abweichung der Niederschlagshöhe vom Normalwert (511 mm)": [
+        {
+          "value": -6.3
+        }
+      ],
+      "Maximale Tageshöhe der Niederschläge": [
+        {
+          "value": 29.1
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 0,1 mm": [
+        {
+          "value": 167
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 10 mm": [
+        {
+          "value": 8
+        }
+      ],
+      "Jahresmittel der relativen Luftfeuchte": [
+        {
+          "value": 73.9
+        }
+      ],
+      "Maximale Windspitze": [
+        {
+          "value": 32.3
+        }
+      ]
+    },
+    "2016": {
+      "Lufttemperatur (Jahresmittel)": [
+        {
+          "value": 10.4
+        }
+      ],
+      "Abweichung der Lufttemperatur vom Normalwert (8,8°C)": [
+        {
+          "value": 1.6
+        }
+      ],
+      "Jahreshöchsttemperatur": [
+        {
+          "value": 35.4
+        }
+      ],
+      "Jahrestiefsttemperatur": [
+        {
+          "value": -11.8
+        }
+      ],
+      "30°C und wärmer (heiße Tage)": [
+        {
+          "value": 15
+        }
+      ],
+      "25°C und wärmer (warme Tage)": [
+        {
+          "value": 61
+        }
+      ],
+      "unter 0°C (Eistage)": [
+        {
+          "value": 9
+        }
+      ],
+      "unter 0°C (Frosttage)": [
+        {
+          "value": 72
+        }
+      ],
+      "Sonnenscheindauer (Jahressumme)": [
+        {
+          "value": 1828
+        }
+      ],
+      "Abweichung der Sonnenscheindauer vom Normalwert (1 494 h)": [
+        {
+          "value": 22.4
+        }
+      ],
+      "Tage mit mindestens einer Stunde Sonnenschein": [
+        {
+          "value": 258
+        }
+      ],
+      "Niederschlagshöhe (Jahressumme)": [
+        {
+          "value": 469
+        }
+      ],
+      "Abweichung der Niederschlagshöhe vom Normalwert (511 mm)": [
+        {
+          "value": -8.2
+        }
+      ],
+      "Maximale Tageshöhe der Niederschläge": [
+        {
+          "value": 39
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 0,1 mm": [
+        {
+          "value": 167
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 10 mm": [
+        {
+          "value": 9
+        }
+      ],
+      "Jahresmittel der relativen Luftfeuchte": [
+        {
+          "value": 75.6
+        }
+      ],
+      "Maximale Windspitze": [
+        {
+          "value": 25.7
+        }
+      ]
+    },
+    "2017": {
+      "Lufttemperatur (Jahresmittel)": [
+        {
+          "value": 10.3
+        }
+      ],
+      "Abweichung der Lufttemperatur vom Normalwert (8,8°C)": [
+        {
+          "value": 1.5
+        }
+      ],
+      "Jahreshöchsttemperatur": [
+        {
+          "value": 33.3
+        }
+      ],
+      "Jahrestiefsttemperatur": [
+        {
+          "value": -10.8
+        }
+      ],
+      "30°C und wärmer (heiße Tage)": [
+        {
+          "value": 9
+        }
+      ],
+      "25°C und wärmer (warme Tage)": [
+        {
+          "value": 47
+        }
+      ],
+      "unter 0°C (Eistage)": [
+        {
+          "value": 14
+        }
+      ],
+      "unter 0°C (Frosttage)": [
+        {
+          "value": 117
+        }
+      ],
+      "Sonnenscheindauer (Jahressumme)": [
+        {
+          "value": 1722
+        }
+      ],
+      "Abweichung der Sonnenscheindauer vom Normalwert (1 494 h)": [
+        {
+          "value": 15.3
+        }
+      ],
+      "Tage mit mindestens einer Stunde Sonnenschein": [
+        {
+          "value": 268
+        }
+      ],
+      "Niederschlagshöhe (Jahressumme)": [
+        {
+          "value": 542
+        }
+      ],
+      "Abweichung der Niederschlagshöhe vom Normalwert (511 mm)": [
+        {
+          "value": 6.1
+        }
+      ],
+      "Maximale Tageshöhe der Niederschläge": [
+        {
+          "value": 36.8
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 0,1 mm": [
+        {
+          "value": 186
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 10 mm": [
+        {
+          "value": 11
+        }
+      ],
+      "Jahresmittel der relativen Luftfeuchte": [
+        {
+          "value": 77.1
+        }
+      ],
+      "Maximale Windspitze": [
+        {
+          "value": 29.8
+        }
+      ]
+    },
+    "2018": {
+      "Lufttemperatur (Jahresmittel)": [
+        {
+          "value": 11.3
+        }
+      ],
+      "Abweichung der Lufttemperatur vom Normalwert (8,8°C)": [
+        {
+          "value": 2.5
+        }
+      ],
+      "Jahreshöchsttemperatur": [
+        {
+          "value": 36.6
+        }
+      ],
+      "Jahrestiefsttemperatur": [
+        {
+          "value": -13.2
+        }
+      ],
+      "30°C und wärmer (heiße Tage)": [
+        {
+          "value": 29
+        }
+      ],
+      "25°C und wärmer (warme Tage)": [
+        {
+          "value": 56
+        }
+      ],
+      "unter 0°C (Eistage)": [
+        {
+          "value": 14
+        }
+      ],
+      "unter 0°C (Frosttage)": [
+        {
+          "value": 76
+        }
+      ],
+      "Sonnenscheindauer (Jahressumme)": [
+        {
+          "value": 2144
+        }
+      ],
+      "Abweichung der Sonnenscheindauer vom Normalwert (1 494 h)": [
+        {
+          "value": 43.5074
+        }
+      ],
+      "Tage mit mindestens einer Stunde Sonnenschein": [
+        {
+          "value": 263
+        }
+      ],
+      "Niederschlagshöhe (Jahressumme)": [
+        {
+          "value": 338
+        }
+      ],
+      "Abweichung der Niederschlagshöhe vom Normalwert (511 mm)": [
+        {
+          "value": -33.8552
+        }
+      ],
+      "Maximale Tageshöhe der Niederschläge": [
+        {
+          "value": 22
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 0,1 mm": [
+        {
+          "value": 123
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 10 mm": [
+        {
+          "value": 8
+        }
+      ],
+      "Jahresmittel der relativen Luftfeuchte": [
+        {
+          "value": 71.3
+        }
+      ],
+      "Maximale Windspitze": [
+        {
+          "value": 35.7
+        }
+      ]
+    },
+    "2019": {
+      "Lufttemperatur (Jahresmittel)": [
+        {
+          "value": 11.2
+        }
+      ],
+      "Abweichung der Lufttemperatur vom Normalwert (8,8°C)": [
+        {
+          "value": 2.5
+        }
+      ],
+      "Jahreshöchsttemperatur": [
+        {
+          "value": 38.3
+        }
+      ],
+      "Jahrestiefsttemperatur": [
+        {
+          "value": -9.9
+        }
+      ],
+      "30°C und wärmer (heiße Tage)": [
+        {
+          "value": 25
+        }
+      ],
+      "25°C und wärmer (warme Tage)": [
+        {
+          "value": 42
+        }
+      ],
+      "unter 0°C (Eistage)": [
+        {
+          "value": 6
+        }
+      ],
+      "unter 0°C (Frosttage)": [
+        {
+          "value": 59
+        }
+      ],
+      "Sonnenscheindauer (Jahressumme)": [
+        {
+          "value": 1845
+        }
+      ],
+      "Abweichung der Sonnenscheindauer vom Normalwert (1 494 h)": [
+        {
+          "value": 23.5
+        }
+      ],
+      "Tage mit mindestens einer Stunde Sonnenschein": [
+        {
+          "value": 268
+        }
+      ],
+      "Niederschlagshöhe (Jahressumme)": [
+        {
+          "value": 397
+        }
+      ],
+      "Abweichung der Niederschlagshöhe vom Normalwert (511 mm)": [
+        {
+          "value": -22.3092
+        }
+      ],
+      "Maximale Tageshöhe der Niederschläge": [
+        {
+          "value": 25.7
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 0,1 mm": [
+        {
+          "value": 142
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 10 mm": [
+        {
+          "value": 5
+        }
+      ],
+      "Jahresmittel der relativen Luftfeuchte": [
+        {
+          "value": 71.4
+        }
+      ],
+      "Maximale Windspitze": [
+        {
+          "value": 34.3
+        }
+      ]
+    },
+    "2020": {
+      "Lufttemperatur (Jahresmittel)": [
+        {
+          "value": 11.25
+        }
+      ],
+      "Abweichung der Lufttemperatur vom Normalwert (8,8°C)": [
+        {
+          "value": 2.55
+        }
+      ],
+      "Jahreshöchsttemperatur": [
+        {
+          "value": 36.8
+        }
+      ],
+      "Jahrestiefsttemperatur": [
+        {
+          "value": -6.2
+        }
+      ],
+      "30°C und wärmer (heiße Tage)": [
+        {
+          "value": 15
+        }
+      ],
+      "25°C und wärmer (warme Tage)": [
+        {
+          "value": 59
+        }
+      ],
+      "unter 0°C (Eistage)": [
+        {
+          "value": 1
+        }
+      ],
+      "unter 0°C (Frosttage)": [
+        {
+          "value": 54
+        }
+      ],
+      "Sonnenscheindauer (Jahressumme)": [
+        {
+          "value": 1834
+        }
+      ],
+      "Abweichung der Sonnenscheindauer vom Normalwert (1 494 h)": [
+        {
+          "value": 22.8
+        }
+      ],
+      "Tage mit mindestens einer Stunde Sonnenschein": [
+        {
+          "value": 272
+        }
+      ],
+      "Niederschlagshöhe (Jahressumme)": [
+        {
+          "value": 425
+        }
+      ],
+      "Abweichung der Niederschlagshöhe vom Normalwert (511 mm)": [
+        {
+          "value": -16.8297
+        }
+      ],
+      "Maximale Tageshöhe der Niederschläge": [
+        {
+          "value": 26
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 0,1 mm": [
+        {
+          "value": 140
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 10 mm": [
+        {
+          "value": 10
+        }
+      ],
+      "Jahresmittel der relativen Luftfeuchte": [
+        {
+          "value": 70.9
+        }
+      ],
+      "Maximale Windspitze": [
+        {
+          "value": 28.3
+        }
+      ]
+    },
+    "2021": {
+      "Lufttemperatur (Jahresmittel)": [
+        {
+          "value": 9.75
+        }
+      ],
+      "Abweichung der Lufttemperatur vom Normalwert (8,8°C)": [
+        {
+          "value": 1
+        }
+      ],
+      "Jahreshöchsttemperatur": [
+        {
+          "value": 33.3
+        }
+      ],
+      "Jahrestiefsttemperatur": [
+        {
+          "value": -16.3
+        }
+      ],
+      "30°C und wärmer (heiße Tage)": [
+        {
+          "value": 6
+        }
+      ],
+      "25°C und wärmer (warme Tage)": [
+        {
+          "value": 46
+        }
+      ],
+      "unter 0°C (Eistage)": [
+        {
+          "value": 11
+        }
+      ],
+      "unter 0°C (Frosttage)": [
+        {
+          "value": 79
+        }
+      ],
+      "Sonnenscheindauer (Jahressumme)": [
+        {
+          "value": null
+        }
+      ],
+      "Abweichung der Sonnenscheindauer vom Normalwert (1 494 h)": [
+        {
+          "value": null
+        }
+      ],
+      "Tage mit mindestens einer Stunde Sonnenschein": [
+        {
+          "value": null
+        }
+      ],
+      "Niederschlagshöhe (Jahressumme)": [
+        {
+          "value": 649
+        }
+      ],
+      "Abweichung der Niederschlagshöhe vom Normalwert (511 mm)": [
+        {
+          "value": 27.0059
+        }
+      ],
+      "Maximale Tageshöhe der Niederschläge": [
+        {
+          "value": 60.6
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 0,1 mm": [
+        {
+          "value": 178
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 10 mm": [
+        {
+          "value": 14
+        }
+      ],
+      "Jahresmittel der relativen Luftfeuchte": [
+        {
+          "value": 78.4
+        }
+      ],
+      "Maximale Windspitze": [
+        {
+          "value": 30.9
+        }
+      ]
+    },
+    "2022": {
+      "Lufttemperatur (Jahresmittel)": [
+        {
+          "value": 11.1
+        }
+      ],
+      "Abweichung der Lufttemperatur vom Normalwert (8,8°C)": [
+        {
+          "value": 2.3
+        }
+      ],
+      "Jahreshöchsttemperatur": [
+        {
+          "value": 37.7
+        }
+      ],
+      "Jahrestiefsttemperatur": [
+        {
+          "value": -11.7
+        }
+      ],
+      "30°C und wärmer (heiße Tage)": [
+        {
+          "value": 19
+        }
+      ],
+      "25°C und wärmer (warme Tage)": [
+        {
+          "value": 72
+        }
+      ],
+      "unter 0°C (Eistage)": [
+        {
+          "value": 10
+        }
+      ],
+      "unter 0°C (Frosttage)": [
+        {
+          "value": 67
+        }
+      ],
+      "Sonnenscheindauer (Jahressumme)": [
+        {
+          "value": null
+        }
+      ],
+      "Abweichung der Sonnenscheindauer vom Normalwert (1 494 h)": [
+        {
+          "value": null
+        }
+      ],
+      "Tage mit mindestens einer Stunde Sonnenschein": [
+        {
+          "value": null
+        }
+      ],
+      "Niederschlagshöhe (Jahressumme)": [
+        {
+          "value": 372.6
+        }
+      ],
+      "Abweichung der Niederschlagshöhe vom Normalwert (511 mm)": [
+        {
+          "value": -27.0841
+        }
+      ],
+      "Maximale Tageshöhe der Niederschläge": [
+        {
+          "value": 19.2
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 0,1 mm": [
+        {
+          "value": 148
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 10 mm": [
+        {
+          "value": 6
+        }
+      ],
+      "Jahresmittel der relativen Luftfeuchte": [
+        {
+          "value": 72.4
+        }
+      ],
+      "Maximale Windspitze": [
+        {
+          "value": 28.6
+        }
+      ]
+    },
+    "2023": {
+      "Lufttemperatur (Jahresmittel)": [
+        {
+          "value": 11.3
+        }
+      ],
+      "Abweichung der Lufttemperatur vom Normalwert (8,8°C)": [
+        {
+          "value": 2.5
+        }
+      ],
+      "Jahreshöchsttemperatur": [
+        {
+          "value": 36.2
+        }
+      ],
+      "Jahrestiefsttemperatur": [
+        {
+          "value": -9.4
+        }
+      ],
+      "30°C und wärmer (heiße Tage)": [
+        {
+          "value": 11
+        }
+      ],
+      "25°C und wärmer (warme Tage)": [
+        {
+          "value": 72
+        }
+      ],
+      "unter 0°C (Eistage)": [
+        {
+          "value": 7
+        }
+      ],
+      "unter 0°C (Frosttage)": [
+        {
+          "value": 60
+        }
+      ],
+      "Sonnenscheindauer (Jahressumme)": [
+        {
+          "value": 1814
+        }
+      ],
+      "Abweichung der Sonnenscheindauer vom Normalwert (1 494 h)": [
+        {
+          "value": 21.4
+        }
+      ],
+      "Tage mit mindestens einer Stunde Sonnenschein": [
+        {
+          "value": 256
+        }
+      ],
+      "Niederschlagshöhe (Jahressumme)": [
+        {
+          "value": 651
+        }
+      ],
+      "Abweichung der Niederschlagshöhe vom Normalwert (511 mm)": [
+        {
+          "value": 27.3777
+        }
+      ],
+      "Maximale Tageshöhe der Niederschläge": [
+        {
+          "value": 24.9
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 0,1 mm": [
+        {
+          "value": 190
+        }
+      ],
+      "Tage im Jahr mit Niederschlagshöhe von mindestens 10 mm": [
+        {
+          "value": 15
+        }
+      ],
+      "Jahresmittel der relativen Luftfeuchte": [
+        {
+          "value": 74.6
+        }
+      ],
+      "Maximale Windspitze": [
+        {
+          "value": 23.7
+        }
+      ]
+    }
+  }
+}

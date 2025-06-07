@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=4&rubrik_nr=28&periode=y",
+    "title": "mit neuem Wohnraum versorgt"
+  },
+  "data": {
+    "2010": {
+      "mit neuem Wohnraum versorgt": [
+        {
+          "value": 367
+        }
+      ],
+      "offener Status/ auf Wohnungssuche": [
+        {
+          "value": 436
+        }
+      ]
+    },
+    "2011": {
+      "offener Status/ auf Wohnungssuche": [
+        {
+          "value": 382
+        }
+      ],
+      "mit neuem Wohnraum versorgt": [
+        {
+          "value": 231
+        }
+      ]
+    },
+    "2012": {
+      "mit neuem Wohnraum versorgt": [
+        {
+          "value": 111
+        }
+      ],
+      "offener Status/ auf Wohnungssuche": [
+        {
+          "value": 390
+        }
+      ]
+    },
+    "2013": {
+      "offener Status/ auf Wohnungssuche": [
+        {
+          "value": 324
+        }
+      ],
+      "mit neuem Wohnraum versorgt": [
+        {
+          "value": 68
+        }
+      ]
+    },
+    "2014": {
+      "mit neuem Wohnraum versorgt": [
+        {
+          "value": 59
+        }
+      ],
+      "offener Status/ auf Wohnungssuche": [
+        {
+          "value": 321
+        }
+      ]
+    },
+    "2015": {
+      "offener Status/ auf Wohnungssuche": [
+        {
+          "value": 308
+        }
+      ],
+      "mit neuem Wohnraum versorgt": [
+        {
+          "value": 61
+        }
+      ]
+    },
+    "2016": {
+      "mit neuem Wohnraum versorgt": [
+        {
+          "value": 118
+        }
+      ],
+      "offener Status/ auf Wohnungssuche": [
+        {
+          "value": 271
+        }
+      ]
+    },
+    "2017": {
+      "offener Status/ auf Wohnungssuche": [
+        {
+          "value": 242
+        }
+      ],
+      "mit neuem Wohnraum versorgt": [
+        {
+          "value": 288
+        }
+      ]
+    },
+    "2018": {
+      "mit neuem Wohnraum versorgt": [
+        {
+          "value": 334
+        }
+      ],
+      "offener Status/ auf Wohnungssuche": [
+        {
+          "value": 284
+        }
+      ]
+    },
+    "2019": {
+      "offener Status/ auf Wohnungssuche": [
+        {
+          "value": 422
+        }
+      ],
+      "mit neuem Wohnraum versorgt": [
+        {
+          "value": 553
+        }
+      ]
+    },
+    "2020": {
+      "mit neuem Wohnraum versorgt": [
+        {
+          "value": 633
+        }
+      ],
+      "offener Status/ auf Wohnungssuche": [
+        {
+          "value": 596
+        }
+      ]
+    },
+    "2021": {
+      "mit neuem Wohnraum versorgt": [
+        {
+          "value": 868
+        }
+      ],
+      "offener Status/ auf Wohnungssuche": [
+        {
+          "value": 831
+        }
+      ]
+    },
+    "2022": {
+      "mit neuem Wohnraum versorgt": [
+        {
+          "value": 934
+        }
+      ],
+      "offener Status/ auf Wohnungssuche": [
+        {
+          "value": 1763
+        }
+      ]
+    }
+  }
+}

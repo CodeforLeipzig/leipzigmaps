@@ -1,0 +1,328 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=4&rubrik_nr=11&periode=y",
+    "title": "mit Wohnraum versorgte Haushalte __durch Kooperation mit weiteren Anbietern "
+  },
+  "data": {
+    "2010": {
+      "durch Kooperation mit weiteren Anbietern": [
+        {
+          "value": 0
+        }
+      ],
+      "nach außerhalb Leipzigs": [
+        {
+          "value": 0
+        }
+      ],
+      "mit Wohnraum versorgte Haushalte": [
+        {
+          "value": 367
+        }
+      ],
+      "in belegungsgebundenen Wohnraum": [
+        {
+          "value": 322
+        }
+      ],
+      "durch Beratung an private Vermieter/-innen": [
+        {
+          "value": 30
+        }
+      ],
+      "in Kooperation mit der LWB": [
+        {
+          "value": 15
+        }
+      ]
+    },
+    "2014": {
+      "durch Beratung an private Vermieter/-innen": [
+        {
+          "value": 10
+        }
+      ],
+      "mit Wohnraum versorgte Haushalte": [
+        {
+          "value": 59
+        }
+      ],
+      "in belegungsgebundenen Wohnraum": [
+        {
+          "value": 33
+        }
+      ],
+      "in Kooperation mit der LWB": [
+        {
+          "value": 16
+        }
+      ],
+      "nach außerhalb Leipzigs": [
+        {
+          "value": 0
+        }
+      ],
+      "durch Kooperation mit weiteren Anbietern": [
+        {
+          "value": 0
+        }
+      ]
+    },
+    "2015": {
+      "durch Kooperation mit weiteren Anbietern": [
+        {
+          "value": 0
+        }
+      ],
+      "nach außerhalb Leipzigs": [
+        {
+          "value": 0
+        }
+      ],
+      "mit Wohnraum versorgte Haushalte": [
+        {
+          "value": 61
+        }
+      ],
+      "in belegungsgebundenen Wohnraum": [
+        {
+          "value": 26
+        }
+      ],
+      "in Kooperation mit der LWB": [
+        {
+          "value": 19
+        }
+      ],
+      "durch Beratung an private Vermieter/-innen": [
+        {
+          "value": 16
+        }
+      ]
+    },
+    "2016": {
+      "durch Beratung an private Vermieter/-innen": [
+        {
+          "value": 65
+        }
+      ],
+      "in Kooperation mit der LWB": [
+        {
+          "value": 23
+        }
+      ],
+      "in belegungsgebundenen Wohnraum": [
+        {
+          "value": 30
+        }
+      ],
+      "mit Wohnraum versorgte Haushalte": [
+        {
+          "value": 118
+        }
+      ],
+      "nach außerhalb Leipzigs": [
+        {
+          "value": 0
+        }
+      ],
+      "durch Kooperation mit weiteren Anbietern": [
+        {
+          "value": 0
+        }
+      ]
+    },
+    "2017": {
+      "durch Kooperation mit weiteren Anbietern": [
+        {
+          "value": 0
+        }
+      ],
+      "nach außerhalb Leipzigs": [
+        {
+          "value": 0
+        }
+      ],
+      "in belegungsgebundenen Wohnraum": [
+        {
+          "value": 21
+        }
+      ],
+      "mit Wohnraum versorgte Haushalte": [
+        {
+          "value": 288
+        }
+      ],
+      "in Kooperation mit der LWB": [
+        {
+          "value": 46
+        }
+      ],
+      "durch Beratung an private Vermieter/-innen": [
+        {
+          "value": 221
+        }
+      ]
+    },
+    "2018": {
+      "durch Beratung an private Vermieter/-innen": [
+        {
+          "value": 226
+        }
+      ],
+      "in Kooperation mit der LWB": [
+        {
+          "value": 97
+        }
+      ],
+      "mit Wohnraum versorgte Haushalte": [
+        {
+          "value": 334
+        }
+      ],
+      "in belegungsgebundenen Wohnraum": [
+        {
+          "value": 11
+        }
+      ],
+      "nach außerhalb Leipzigs": [
+        {
+          "value": 0
+        }
+      ],
+      "durch Kooperation mit weiteren Anbietern": [
+        {
+          "value": 0
+        }
+      ]
+    },
+    "2019": {
+      "durch Kooperation mit weiteren Anbietern": [
+        {
+          "value": 0
+        }
+      ],
+      "nach außerhalb Leipzigs": [
+        {
+          "value": 7
+        }
+      ],
+      "in belegungsgebundenen Wohnraum": [
+        {
+          "value": 45
+        }
+      ],
+      "mit Wohnraum versorgte Haushalte": [
+        {
+          "value": 553
+        }
+      ],
+      "in Kooperation mit der LWB": [
+        {
+          "value": 192
+        }
+      ],
+      "durch Beratung an private Vermieter/-innen": [
+        {
+          "value": 309
+        }
+      ]
+    },
+    "2020": {
+      "durch Beratung an private Vermieter/-innen": [
+        {
+          "value": 317
+        }
+      ],
+      "in Kooperation mit der LWB": [
+        {
+          "value": 112
+        }
+      ],
+      "mit Wohnraum versorgte Haushalte": [
+        {
+          "value": 633
+        }
+      ],
+      "in belegungsgebundenen Wohnraum": [
+        {
+          "value": 166
+        }
+      ],
+      "nach außerhalb Leipzigs": [
+        {
+          "value": 37
+        }
+      ],
+      "durch Kooperation mit weiteren Anbietern": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2021": {
+      "durch Kooperation mit weiteren Anbietern": [
+        {
+          "value": 8
+        }
+      ],
+      "nach außerhalb Leipzigs": [
+        {
+          "value": 63
+        }
+      ],
+      "mit Wohnraum versorgte Haushalte": [
+        {
+          "value": 868
+        }
+      ],
+      "in Kooperation mit der LWB": [
+        {
+          "value": 94
+        }
+      ],
+      "in belegungsgebundenen Wohnraum": [
+        {
+          "value": 290
+        }
+      ],
+      "durch Beratung an private Vermieter/-innen": [
+        {
+          "value": 413
+        }
+      ]
+    },
+    "2022": {
+      "mit Wohnraum versorgte Haushalte": [
+        {
+          "value": 1423
+        }
+      ],
+      "in belegungsgebundenen Wohnraum": [
+        {
+          "value": 548
+        }
+      ],
+      "in Kooperation mit der LWB": [
+        {
+          "value": 62
+        }
+      ],
+      "durch Kooperation mit weiteren Anbietern": [
+        {
+          "value": 8
+        }
+      ],
+      "durch Beratung an private Vermieter/-innen": [
+        {
+          "value": 709
+        }
+      ],
+      "nach außerhalb Leipzigs": [
+        {
+          "value": 96
+        }
+      ]
+    }
+  }
+}

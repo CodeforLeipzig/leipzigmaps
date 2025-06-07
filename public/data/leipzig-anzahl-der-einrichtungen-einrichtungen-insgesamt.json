@@ -1,0 +1,1590 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=4&rubrik_nr=1&periode=y",
+    "title": "Anzahl der Einrichtungen__Einrichtungen__insgesamt"
+  },
+  "data": {
+    "2011": {
+      "Einrichtungen insgesamt": [
+        {
+          "value": 288
+        }
+      ],
+      "der öffentlichen Jugendhilfe": [
+        {
+          "value": 109
+        },
+        {
+          "value": 16495
+        },
+        {
+          "value": 15199
+        }
+      ],
+      "der freien Jugendhilfe": [
+        {
+          "value": 176
+        },
+        {
+          "value": 18316
+        },
+        {
+          "value": 17641
+        }
+      ],
+      "von Wirtschaftsunternehmen": [
+        {
+          "value": 3
+        },
+        {
+          "value": 161
+        },
+        {
+          "value": 138
+        }
+      ],
+      "darunter Einrichtungen mit integrativer Betreuung": [
+        {
+          "value": 114
+        }
+      ],
+      "Plätze in allen Einrichtungen": [
+        {
+          "value": 34972
+        }
+      ],
+      "Betreute Kinder in allen Einrichtungen": [
+        {
+          "value": 32978
+        }
+      ],
+      "Mädchen": [
+        {
+          "value": 16126
+        },
+        {
+          "value": 2005
+        }
+      ],
+      "Jungen": [
+        {
+          "value": 16852
+        },
+        {
+          "value": 2079
+        }
+      ],
+      "Insgesamt": [
+        {
+          "value": 4084
+        }
+      ],
+      "unter 1": [
+        {
+          "value": 83
+        },
+        {
+          "value": 1.7
+        }
+      ],
+      "1 bis 3": [
+        {
+          "value": 4414
+        },
+        {
+          "value": 43.8
+        }
+      ],
+      "3 bis 6": [
+        {
+          "value": 11948
+        },
+        {
+          "value": 90.5
+        }
+      ],
+      "6 bis 11": [
+        {
+          "value": 16197
+        },
+        {
+          "value": 85.2
+        }
+      ],
+      "11 und älter": [
+        {
+          "value": 336
+        }
+      ]
+    },
+    "2012": {
+      "Einrichtungen insgesamt": [
+        {
+          "value": 299
+        }
+      ],
+      "der öffentlichen Jugendhilfe": [
+        {
+          "value": 110
+        },
+        {
+          "value": 17472
+        },
+        {
+          "value": 16094
+        }
+      ],
+      "der freien Jugendhilfe": [
+        {
+          "value": 186
+        },
+        {
+          "value": 19727
+        },
+        {
+          "value": 19004
+        }
+      ],
+      "von Wirtschaftsunternehmen": [
+        {
+          "value": 3
+        },
+        {
+          "value": 161
+        },
+        {
+          "value": 145
+        }
+      ],
+      "darunter Einrichtungen mit integrativer Betreuung": [
+        {
+          "value": 124
+        }
+      ],
+      "Plätze in allen Einrichtungen": [
+        {
+          "value": 37360
+        }
+      ],
+      "Betreute Kinder in allen Einrichtungen": [
+        {
+          "value": 35243
+        }
+      ],
+      "Mädchen": [
+        {
+          "value": 17232
+        },
+        {
+          "value": 2265
+        }
+      ],
+      "Jungen": [
+        {
+          "value": 18011
+        },
+        {
+          "value": 2240
+        }
+      ],
+      "Insgesamt": [
+        {
+          "value": 4505
+        }
+      ],
+      "unter 1": [
+        {
+          "value": 118
+        },
+        {
+          "value": 2.3
+        }
+      ],
+      "1 bis 3": [
+        {
+          "value": 4710
+        },
+        {
+          "value": 45.5
+        }
+      ],
+      "3 bis 6": [
+        {
+          "value": 12942
+        },
+        {
+          "value": 92.4
+        }
+      ],
+      "6 bis 11": [
+        {
+          "value": 17067
+        },
+        {
+          "value": 87.5
+        }
+      ],
+      "11 und älter": [
+        {
+          "value": 406
+        }
+      ]
+    },
+    "2013": {
+      "Einrichtungen insgesamt": [
+        {
+          "value": 302
+        }
+      ],
+      "der öffentlichen Jugendhilfe": [
+        {
+          "value": 108
+        },
+        {
+          "value": 18235
+        },
+        {
+          "value": 16879
+        }
+      ],
+      "der freien Jugendhilfe": [
+        {
+          "value": 189
+        },
+        {
+          "value": 20319
+        },
+        {
+          "value": 19685
+        }
+      ],
+      "von Wirtschaftsunternehmen": [
+        {
+          "value": 5
+        },
+        {
+          "value": 252
+        },
+        {
+          "value": 218
+        }
+      ],
+      "darunter Einrichtungen mit integrativer Betreuung": [
+        {
+          "value": 126
+        }
+      ],
+      "Plätze in allen Einrichtungen": [
+        {
+          "value": 38806
+        }
+      ],
+      "Betreute Kinder in allen Einrichtungen": [
+        {
+          "value": 36782
+        }
+      ],
+      "Mädchen": [
+        {
+          "value": 17891
+        },
+        {
+          "value": 2303
+        }
+      ],
+      "Jungen": [
+        {
+          "value": 18891
+        },
+        {
+          "value": 2448
+        }
+      ],
+      "Insgesamt": [
+        {
+          "value": 4751
+        }
+      ],
+      "unter 1": [
+        {
+          "value": 66
+        },
+        {
+          "value": 1.2
+        }
+      ],
+      "1 bis 3": [
+        {
+          "value": 4983
+        },
+        {
+          "value": 46.3
+        }
+      ],
+      "3 bis 6": [
+        {
+          "value": 13543
+        },
+        {
+          "value": 92.8
+        }
+      ],
+      "6 bis 11": [
+        {
+          "value": 17727
+        },
+        {
+          "value": 87.3
+        }
+      ],
+      "11 und älter": [
+        {
+          "value": 463
+        }
+      ]
+    },
+    "2014": {
+      "Einrichtungen insgesamt": [
+        {
+          "value": 307
+        }
+      ],
+      "der öffentlichen Jugendhilfe": [
+        {
+          "value": 106
+        },
+        {
+          "value": 19348
+        },
+        {
+          "value": 17493
+        }
+      ],
+      "der freien Jugendhilfe": [
+        {
+          "value": 195
+        },
+        {
+          "value": 21462
+        },
+        {
+          "value": 20601
+        }
+      ],
+      "von Wirtschaftsunternehmen": [
+        {
+          "value": 6
+        },
+        {
+          "value": 351
+        },
+        {
+          "value": 347
+        }
+      ],
+      "darunter Einrichtungen mit integrativer Betreuung": [
+        {
+          "value": 129
+        }
+      ],
+      "Plätze in allen Einrichtungen": [
+        {
+          "value": 41161
+        }
+      ],
+      "Betreute Kinder in allen Einrichtungen": [
+        {
+          "value": 38441
+        }
+      ],
+      "Mädchen": [
+        {
+          "value": 18738
+        },
+        {
+          "value": 2452
+        }
+      ],
+      "Jungen": [
+        {
+          "value": 19703
+        },
+        {
+          "value": 2613
+        }
+      ],
+      "Insgesamt": [
+        {
+          "value": 5065
+        }
+      ],
+      "unter 1": [
+        {
+          "value": 72
+        },
+        {
+          "value": 1.3
+        }
+      ],
+      "1 bis 3": [
+        {
+          "value": 5283
+        },
+        {
+          "value": 47.8
+        }
+      ],
+      "3 bis 6": [
+        {
+          "value": 13948
+        },
+        {
+          "value": 91.4
+        }
+      ],
+      "6 bis 11": [
+        {
+          "value": 18711
+        },
+        {
+          "value": 87.7
+        }
+      ],
+      "11 und älter": [
+        {
+          "value": 427
+        }
+      ]
+    },
+    "2015": {
+      "Einrichtungen insgesamt": [
+        {
+          "value": 316
+        }
+      ],
+      "der öffentlichen Jugendhilfe": [
+        {
+          "value": 111
+        },
+        {
+          "value": 21012
+        },
+        {
+          "value": 18559
+        }
+      ],
+      "der freien Jugendhilfe": [
+        {
+          "value": 200
+        },
+        {
+          "value": 22707
+        },
+        {
+          "value": 21641
+        }
+      ],
+      "von Wirtschaftsunternehmen": [
+        {
+          "value": 5
+        },
+        {
+          "value": 252
+        },
+        {
+          "value": 237
+        }
+      ],
+      "darunter Einrichtungen mit integrativer Betreuung": [
+        {
+          "value": 149
+        }
+      ],
+      "Plätze in allen Einrichtungen": [
+        {
+          "value": 43971
+        }
+      ],
+      "Betreute Kinder in allen Einrichtungen": [
+        {
+          "value": 40437
+        }
+      ],
+      "Mädchen": [
+        {
+          "value": 19753
+        },
+        {
+          "value": 2767
+        }
+      ],
+      "Jungen": [
+        {
+          "value": 20684
+        },
+        {
+          "value": 2879
+        }
+      ],
+      "Insgesamt": [
+        {
+          "value": 5646
+        }
+      ],
+      "unter 1": [
+        {
+          "value": 83
+        },
+        {
+          "value": 1.3
+        }
+      ],
+      "1 bis 3": [
+        {
+          "value": 5762
+        },
+        {
+          "value": 49.9
+        }
+      ],
+      "3 bis 6": [
+        {
+          "value": 14683
+        },
+        {
+          "value": 93.1
+        }
+      ],
+      "6 bis 11": [
+        {
+          "value": 19459
+        },
+        {
+          "value": 86.8
+        }
+      ],
+      "11 und älter": [
+        {
+          "value": 450
+        }
+      ]
+    },
+    "2016": {
+      "Einrichtungen insgesamt": [
+        {
+          "value": 323
+        }
+      ],
+      "der öffentlichen Jugendhilfe": [
+        {
+          "value": 111
+        },
+        {
+          "value": 22167
+        },
+        {
+          "value": 19618
+        }
+      ],
+      "der freien Jugendhilfe": [
+        {
+          "value": 207
+        },
+        {
+          "value": 24050
+        },
+        {
+          "value": 23070
+        }
+      ],
+      "von Wirtschaftsunternehmen": [
+        {
+          "value": 5
+        },
+        {
+          "value": 252
+        },
+        {
+          "value": 221
+        }
+      ],
+      "darunter Einrichtungen mit integrativer Betreuung": [
+        {
+          "value": 153
+        }
+      ],
+      "Plätze in allen Einrichtungen": [
+        {
+          "value": 46469
+        }
+      ],
+      "Betreute Kinder in allen Einrichtungen": [
+        {
+          "value": 42909
+        }
+      ],
+      "Mädchen": [
+        {
+          "value": 20962
+        },
+        {
+          "value": 3011
+        }
+      ],
+      "Jungen": [
+        {
+          "value": 21947
+        },
+        {
+          "value": 3285
+        }
+      ],
+      "Insgesamt": [
+        {
+          "value": 6296
+        }
+      ],
+      "unter 1": [
+        {
+          "value": 75
+        },
+        {
+          "value": 1.2
+        }
+      ],
+      "1 bis 3": [
+        {
+          "value": 6325
+        },
+        {
+          "value": 50.9
+        }
+      ],
+      "3 bis 6": [
+        {
+          "value": 15527
+        },
+        {
+          "value": 92.7
+        }
+      ],
+      "6 bis 11": [
+        {
+          "value": 20490
+        },
+        {
+          "value": 86.1
+        }
+      ],
+      "11 und älter": [
+        {
+          "value": 492
+        }
+      ]
+    },
+    "2017": {
+      "Einrichtungen insgesamt": [
+        {
+          "value": 331
+        }
+      ],
+      "der öffentlichen Jugendhilfe": [
+        {
+          "value": 114
+        },
+        {
+          "value": 23100
+        },
+        {
+          "value": 20777
+        }
+      ],
+      "der freien Jugendhilfe": [
+        {
+          "value": 212
+        },
+        {
+          "value": 25185
+        },
+        {
+          "value": 24151
+        }
+      ],
+      "von Wirtschaftsunternehmen": [
+        {
+          "value": 5
+        },
+        {
+          "value": 252
+        },
+        {
+          "value": 228
+        }
+      ],
+      "darunter Einrichtungen mit integrativer Betreuung": [
+        {
+          "value": 157
+        }
+      ],
+      "Plätze in allen Einrichtungen": [
+        {
+          "value": 48537
+        }
+      ],
+      "Betreute Kinder in allen Einrichtungen": [
+        {
+          "value": 45156
+        }
+      ],
+      "Mädchen": [
+        {
+          "value": 22047
+        },
+        {
+          "value": 3404
+        }
+      ],
+      "Jungen": [
+        {
+          "value": 23109
+        },
+        {
+          "value": 3803
+        }
+      ],
+      "Insgesamt": [
+        {
+          "value": 7207
+        }
+      ],
+      "unter 1": [
+        {
+          "value": 87
+        },
+        {
+          "value": 1.3
+        }
+      ],
+      "1 bis 3": [
+        {
+          "value": 6713
+        },
+        {
+          "value": 51.7
+        }
+      ],
+      "3 bis 6": [
+        {
+          "value": 15969
+        },
+        {
+          "value": 93
+        }
+      ],
+      "6 bis 11": [
+        {
+          "value": 21778
+        },
+        {
+          "value": 87.3
+        }
+      ],
+      "11 und älter": [
+        {
+          "value": 609
+        }
+      ]
+    },
+    "2018": {
+      "Einrichtungen insgesamt": [
+        {
+          "value": 334
+        }
+      ],
+      "der öffentlichen Jugendhilfe": [
+        {
+          "value": 114
+        },
+        {
+          "value": 23843
+        },
+        {
+          "value": 21490
+        }
+      ],
+      "der freien Jugendhilfe": [
+        {
+          "value": 214
+        },
+        {
+          "value": 25590
+        },
+        {
+          "value": 24671
+        }
+      ],
+      "von Wirtschaftsunternehmen": [
+        {
+          "value": 6
+        },
+        {
+          "value": 439
+        },
+        {
+          "value": 433
+        }
+      ],
+      "darunter Einrichtungen mit integrativer Betreuung": [
+        {
+          "value": 151
+        }
+      ],
+      "Plätze in allen Einrichtungen": [
+        {
+          "value": 49872
+        }
+      ],
+      "Betreute Kinder in allen Einrichtungen": [
+        {
+          "value": 46594
+        }
+      ],
+      "Mädchen": [
+        {
+          "value": 23813
+        },
+        {
+          "value": 3689
+        }
+      ],
+      "Jungen": [
+        {
+          "value": 22780
+        },
+        {
+          "value": 3999
+        }
+      ],
+      "Insgesamt": [
+        {
+          "value": 7688
+        }
+      ],
+      "unter 1": [
+        {
+          "value": 58
+        },
+        {
+          "value": 0.903568
+        }
+      ],
+      "1 bis 3": [
+        {
+          "value": 6704
+        },
+        {
+          "value": 50.1684
+        }
+      ],
+      "3 bis 6": [
+        {
+          "value": 16288
+        },
+        {
+          "value": 91.4594
+        }
+      ],
+      "6 bis 11": [
+        {
+          "value": 22990
+        },
+        {
+          "value": 88.5491
+        }
+      ],
+      "11 und älter": [
+        {
+          "value": 554
+        }
+      ]
+    },
+    "2019": {
+      "der öffentlichen Jugendhilfe": [
+        {
+          "value": 117
+        },
+        {
+          "value": 25031
+        },
+        {
+          "value": 22106
+        }
+      ],
+      "der freien Jugendhilfe": [
+        {
+          "value": 217
+        },
+        {
+          "value": 26454
+        },
+        {
+          "value": 25344
+        }
+      ],
+      "von Wirtschaftsunternehmen": [
+        {
+          "value": 6
+        },
+        {
+          "value": 438
+        },
+        {
+          "value": 432
+        }
+      ],
+      "darunter Einrichtungen mit integrativer Betreuung": [
+        {
+          "value": 164
+        }
+      ],
+      "Plätze in allen Einrichtungen": [
+        {
+          "value": 51923
+        }
+      ],
+      "Betreute Kinder in allen Einrichtungen": [
+        {
+          "value": 47882
+        }
+      ],
+      "Mädchen": [
+        {
+          "value": 23362
+        },
+        {
+          "value": 4046
+        }
+      ],
+      "Jungen": [
+        {
+          "value": 24520
+        },
+        {
+          "value": 4308
+        }
+      ],
+      "Insgesamt": [
+        {
+          "value": 8354
+        }
+      ],
+      "unter 1": [
+        {
+          "value": 53
+        },
+        {
+          "value": 0.9
+        }
+      ],
+      "1 bis 3": [
+        {
+          "value": 6923
+        },
+        {
+          "value": 52.7
+        }
+      ],
+      "3 bis 6": [
+        {
+          "value": 16803
+        },
+        {
+          "value": 91.5
+        }
+      ],
+      "6 bis 11": [
+        {
+          "value": 23339
+        },
+        {
+          "value": 87.8
+        }
+      ],
+      "11 und älter": [
+        {
+          "value": 764
+        }
+      ],
+      "Einrichtungen insgesamt": [
+        {
+          "value": 340
+        }
+      ]
+    },
+    "2020": {
+      "Einrichtungen insgesamt": [
+        {
+          "value": 350
+        }
+      ],
+      "der öffentlichen Jugendhilfe": [
+        {
+          "value": 121
+        },
+        {
+          "value": 25638
+        },
+        {
+          "value": 22584
+        }
+      ],
+      "der freien Jugendhilfe": [
+        {
+          "value": 225
+        },
+        {
+          "value": 28003
+        },
+        {
+          "value": 26270
+        }
+      ],
+      "von Wirtschaftsunternehmen": [
+        {
+          "value": 4
+        },
+        {
+          "value": 215
+        },
+        {
+          "value": 206
+        }
+      ],
+      "darunter Einrichtungen mit integrativer Betreuung": [
+        {
+          "value": 174
+        }
+      ],
+      "Plätze in allen Einrichtungen": [
+        {
+          "value": 53856
+        }
+      ],
+      "Betreute Kinder in allen Einrichtungen": [
+        {
+          "value": 49060
+        }
+      ],
+      "Mädchen": [
+        {
+          "value": 23870
+        },
+        {
+          "value": 4296
+        }
+      ],
+      "Jungen": [
+        {
+          "value": 25190
+        },
+        {
+          "value": 4669
+        }
+      ],
+      "Insgesamt": [
+        {
+          "value": 8965
+        }
+      ],
+      "unter 1": [
+        {
+          "value": 51
+        },
+        {
+          "value": 0.8
+        }
+      ],
+      "1 bis 3": [
+        {
+          "value": 7103
+        },
+        {
+          "value": 57.9
+        }
+      ],
+      "3 bis 6": [
+        {
+          "value": 17338
+        },
+        {
+          "value": 93.4
+        }
+      ],
+      "6 bis 11": [
+        {
+          "value": 23866
+        },
+        {
+          "value": 86.4
+        }
+      ],
+      "11 und älter": [
+        {
+          "value": 702
+        }
+      ]
+    },
+    "2021": {
+      "der öffentlichen Jugendhilfe": [
+        {
+          "value": 125
+        },
+        {
+          "value": 26719
+        },
+        {
+          "value": 22627
+        }
+      ],
+      "der freien Jugendhilfe": [
+        {
+          "value": 229
+        },
+        {
+          "value": 29063
+        },
+        {
+          "value": 26484
+        }
+      ],
+      "von Wirtschaftsunternehmen": [
+        {
+          "value": 5
+        },
+        {
+          "value": 252
+        },
+        {
+          "value": 242
+        }
+      ],
+      "darunter Einrichtungen mit integrativer Betreuung": [
+        {
+          "value": 175
+        }
+      ],
+      "Plätze in allen Einrichtungen": [
+        {
+          "value": 56034
+        }
+      ],
+      "Betreute Kinder in allen Einrichtungen": [
+        {
+          "value": 49353
+        }
+      ],
+      "Mädchen": [
+        {
+          "value": 23960
+        },
+        {
+          "value": 4468
+        }
+      ],
+      "Jungen": [
+        {
+          "value": 25393
+        },
+        {
+          "value": 4828
+        }
+      ],
+      "Insgesamt": [
+        {
+          "value": 9296
+        }
+      ],
+      "unter 1": [
+        {
+          "value": 60
+        },
+        {
+          "value": 0.985869
+        }
+      ],
+      "1 bis 3": [
+        {
+          "value": 7153
+        },
+        {
+          "value": 58.3347
+        }
+      ],
+      "3 bis 6": [
+        {
+          "value": 17568
+        },
+        {
+          "value": 94.645
+        }
+      ],
+      "6 bis 11": [
+        {
+          "value": 23924
+        },
+        {
+          "value": 86.5745
+        }
+      ],
+      "11 und älter": [
+        {
+          "value": 648
+        }
+      ],
+      "Einrichtungen insgesamt": [
+        {
+          "value": 359
+        }
+      ]
+    },
+    "2022": {
+      "Einrichtungen insgesamt": [
+        {
+          "value": 361
+        }
+      ],
+      "der öffentlichen Jugendhilfe": [
+        {
+          "value": 125
+        },
+        {
+          "value": 27687
+        },
+        {
+          "value": 23248
+        }
+      ],
+      "der freien Jugendhilfe": [
+        {
+          "value": 231
+        },
+        {
+          "value": 29479
+        },
+        {
+          "value": 26717
+        }
+      ],
+      "von Wirtschaftsunternehmen": [
+        {
+          "value": 5
+        },
+        {
+          "value": 252
+        },
+        {
+          "value": 238
+        }
+      ],
+      "Plätze in allen Einrichtungen": [
+        {
+          "value": 57418
+        }
+      ],
+      "Betreute Kinder in allen Einrichtungen": [
+        {
+          "value": 50203
+        }
+      ],
+      "Mädchen": [
+        {
+          "value": 24278
+        },
+        {
+          "value": 4816
+        }
+      ],
+      "Jungen": [
+        {
+          "value": 25925
+        },
+        {
+          "value": 5213
+        }
+      ],
+      "Insgesamt": [
+        {
+          "value": 10029
+        }
+      ],
+      "unter 1": [
+        {
+          "value": 55
+        },
+        {
+          "value": 0.952711
+        }
+      ],
+      "1 bis 3": [
+        {
+          "value": 7433
+        },
+        {
+          "value": 60.3426
+        }
+      ],
+      "3 bis 6": [
+        {
+          "value": 17258
+        },
+        {
+          "value": 93.5697
+        }
+      ],
+      "6 bis 11": [
+        {
+          "value": 24779
+        },
+        {
+          "value": 85.8504
+        }
+      ],
+      "11 und älter": [
+        {
+          "value": 678
+        }
+      ],
+      "darunter Einrichtungen mit integrativer Betreuung": [
+        {
+          "value": 176
+        }
+      ]
+    },
+    "2023": {
+      "Einrichtungen insgesamt": [
+        {
+          "value": 367
+        }
+      ],
+      "der öffentlichen Jugendhilfe": [
+        {
+          "value": 126
+        },
+        {
+          "value": 28581
+        },
+        {
+          "value": 24275
+        }
+      ],
+      "der freien Jugendhilfe": [
+        {
+          "value": 236
+        },
+        {
+          "value": 30413
+        },
+        {
+          "value": 26707
+        }
+      ],
+      "von Wirtschaftsunternehmen": [
+        {
+          "value": 5
+        },
+        {
+          "value": 252
+        },
+        {
+          "value": 233
+        }
+      ],
+      "darunter Einrichtungen mit integrativer Betreuung": [
+        {
+          "value": 183
+        }
+      ],
+      "Plätze in allen Einrichtungen": [
+        {
+          "value": 59246
+        }
+      ],
+      "Betreute Kinder in allen Einrichtungen": [
+        {
+          "value": 51735
+        }
+      ],
+      "Mädchen": [
+        {
+          "value": 25067
+        },
+        {
+          "value": 5627
+        }
+      ],
+      "Jungen": [
+        {
+          "value": 26668
+        },
+        {
+          "value": 6017
+        }
+      ],
+      "Insgesamt": [
+        {
+          "value": 11644
+        }
+      ],
+      "unter 1": [
+        {
+          "value": 76
+        },
+        {
+          "value": 1.44707
+        }
+      ],
+      "1 bis 3": [
+        {
+          "value": 7688
+        },
+        {
+          "value": 63.9069
+        }
+      ],
+      "3 bis 6": [
+        {
+          "value": 17257
+        },
+        {
+          "value": 95.2373
+        }
+      ],
+      "6 bis 11": [
+        {
+          "value": 26076
+        },
+        {
+          "value": 87.2632
+        }
+      ],
+      "11 und älter": [
+        {
+          "value": 638
+        }
+      ]
+    },
+    "2024": {
+      "Einrichtungen insgesamt": [
+        {
+          "value": 369
+        }
+      ],
+      "der freien Jugendhilfe": [
+        {
+          "value": 241
+        },
+        {
+          "value": 31109
+        },
+        {
+          "value": 27329
+        }
+      ],
+      "darunter Einrichtungen mit integrativer Betreuung": [
+        {
+          "value": 183
+        }
+      ],
+      "Plätze in allen Einrichtungen": [
+        {
+          "value": 60092
+        }
+      ],
+      "der öffentlichen Jugendhilfe": [
+        {
+          "value": 28765
+        },
+        {
+          "value": 24206
+        },
+        {
+          "value": 124
+        }
+      ],
+      "von Wirtschaftsunternehmen": [
+        {
+          "value": 218
+        },
+        {
+          "value": 182
+        },
+        {
+          "value": 4
+        }
+      ],
+      "Betreute Kinder in allen Einrichtungen": [
+        {
+          "value": 51717
+        }
+      ],
+      "Mädchen": [
+        {
+          "value": 25130
+        },
+        {
+          "value": 5911
+        }
+      ],
+      "Jungen": [
+        {
+          "value": 26587
+        },
+        {
+          "value": 6317
+        }
+      ],
+      "Insgesamt": [
+        {
+          "value": 12228
+        }
+      ],
+      "unter 1": [
+        {
+          "value": 57
+        },
+        {
+          "value": 1.2489
+        }
+      ],
+      "1 bis 3": [
+        {
+          "value": 7624
+        },
+        {
+          "value": 68.035
+        }
+      ],
+      "3 bis 6": [
+        {
+          "value": 16865
+        },
+        {
+          "value": 94.8431
+        }
+      ],
+      "6 bis 11": [
+        {
+          "value": 26408
+        },
+        {
+          "value": 87.8247
+        }
+      ],
+      "11 und älter": [
+        {
+          "value": 763
+        }
+      ]
+    }
+  }
+}

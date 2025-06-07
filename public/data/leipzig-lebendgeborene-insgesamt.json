@@ -1,0 +1,883 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=3&rubrik_nr=2&periode=y",
+    "title": "Lebendgeborene__insgesamt"
+  },
+  "data": {
+    "2000": {
+      "Insgesamt": [
+        {
+          "value": 3757
+        },
+        {
+          "value": 5421
+        },
+        {
+          "value": -1664
+        }
+      ],
+      "Männer": [
+        {
+          "value": 1924
+        },
+        {
+          "value": 2419
+        },
+        {
+          "value": -495
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 1833
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 1831
+        }
+      ]
+    },
+    "2001": {
+      "Insgesamt": [
+        {
+          "value": 3781
+        },
+        {
+          "value": 5353
+        },
+        {
+          "value": -1572
+        }
+      ],
+      "Männer": [
+        {
+          "value": 1926
+        },
+        {
+          "value": 2353
+        },
+        {
+          "value": -427
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 1855
+        },
+        {
+          "value": 3000
+        },
+        {
+          "value": -1145
+        }
+      ]
+    },
+    "2002": {
+      "Insgesamt": [
+        {
+          "value": 3749
+        },
+        {
+          "value": 5492
+        },
+        {
+          "value": -1743
+        }
+      ],
+      "Männer": [
+        {
+          "value": 1893
+        },
+        {
+          "value": 2401
+        },
+        {
+          "value": -508
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 1856
+        },
+        {
+          "value": 3091
+        },
+        {
+          "value": -1235
+        }
+      ]
+    },
+    "2003": {
+      "Insgesamt": [
+        {
+          "value": 3976
+        },
+        {
+          "value": 5539
+        },
+        {
+          "value": -1563
+        }
+      ],
+      "Männer": [
+        {
+          "value": 2003
+        },
+        {
+          "value": 2407
+        },
+        {
+          "value": -404
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 1973
+        },
+        {
+          "value": 3132
+        },
+        {
+          "value": -1159
+        }
+      ]
+    },
+    "2004": {
+      "Insgesamt": [
+        {
+          "value": 4251
+        },
+        {
+          "value": 5320
+        },
+        {
+          "value": -1069
+        }
+      ],
+      "Männer": [
+        {
+          "value": 2220
+        },
+        {
+          "value": 2398
+        },
+        {
+          "value": -178
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 2031
+        },
+        {
+          "value": 2922
+        },
+        {
+          "value": -891
+        }
+      ]
+    },
+    "2005": {
+      "Insgesamt": [
+        {
+          "value": 4370
+        },
+        {
+          "value": 5742
+        },
+        {
+          "value": -1372
+        }
+      ],
+      "Männer": [
+        {
+          "value": 2241
+        },
+        {
+          "value": 2581
+        },
+        {
+          "value": -340
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 2129
+        },
+        {
+          "value": 3161
+        },
+        {
+          "value": -1032
+        }
+      ]
+    },
+    "2006": {
+      "Insgesamt": [
+        {
+          "value": 4378
+        },
+        {
+          "value": 5230
+        },
+        {
+          "value": -852
+        }
+      ],
+      "Männer": [
+        {
+          "value": 2261
+        },
+        {
+          "value": 2396
+        },
+        {
+          "value": -135
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 2117
+        },
+        {
+          "value": 2834
+        },
+        {
+          "value": -717
+        }
+      ]
+    },
+    "2007": {
+      "Insgesamt": [
+        {
+          "value": 4690
+        },
+        {
+          "value": 5350
+        },
+        {
+          "value": -660
+        }
+      ],
+      "Männer": [
+        {
+          "value": 2369
+        },
+        {
+          "value": 2378
+        },
+        {
+          "value": -9
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 2321
+        },
+        {
+          "value": 2972
+        },
+        {
+          "value": -651
+        }
+      ]
+    },
+    "2008": {
+      "Insgesamt": [
+        {
+          "value": 5263
+        },
+        {
+          "value": 5585
+        },
+        {
+          "value": -322
+        }
+      ],
+      "Männer": [
+        {
+          "value": 2694
+        },
+        {
+          "value": 2504
+        },
+        {
+          "value": 190
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 2569
+        },
+        {
+          "value": 3081
+        },
+        {
+          "value": -512
+        }
+      ]
+    },
+    "2009": {
+      "Insgesamt": [
+        {
+          "value": 4997
+        },
+        {
+          "value": 5471
+        },
+        {
+          "value": -474
+        }
+      ],
+      "Männer": [
+        {
+          "value": 2581
+        },
+        {
+          "value": 2495
+        },
+        {
+          "value": 86
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 2416
+        },
+        {
+          "value": 2976
+        },
+        {
+          "value": -560
+        }
+      ]
+    },
+    "2010": {
+      "Insgesamt": [
+        {
+          "value": 5303
+        },
+        {
+          "value": 5806
+        },
+        {
+          "value": -503
+        }
+      ],
+      "Männer": [
+        {
+          "value": 2723
+        },
+        {
+          "value": 2630
+        },
+        {
+          "value": 93
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 2580
+        },
+        {
+          "value": 3176
+        },
+        {
+          "value": -596
+        }
+      ]
+    },
+    "2011": {
+      "Insgesamt": [
+        {
+          "value": 5602
+        },
+        {
+          "value": 5782
+        },
+        {
+          "value": -180
+        }
+      ],
+      "Männer": [
+        {
+          "value": 2865
+        },
+        {
+          "value": 2641
+        },
+        {
+          "value": 224
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 2737
+        },
+        {
+          "value": 3141
+        },
+        {
+          "value": -404
+        }
+      ]
+    },
+    "2012": {
+      "Insgesamt": [
+        {
+          "value": 5566
+        },
+        {
+          "value": 5681
+        },
+        {
+          "value": -115
+        }
+      ],
+      "Männer": [
+        {
+          "value": 2849
+        },
+        {
+          "value": 2584
+        },
+        {
+          "value": 265
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 2717
+        },
+        {
+          "value": 3097
+        },
+        {
+          "value": -380
+        }
+      ]
+    },
+    "2013": {
+      "Insgesamt": [
+        {
+          "value": 5834
+        },
+        {
+          "value": 6017
+        },
+        {
+          "value": -183
+        }
+      ],
+      "Männer": [
+        {
+          "value": 3008
+        },
+        {
+          "value": 2826
+        },
+        {
+          "value": 182
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 2826
+        },
+        {
+          "value": 3191
+        },
+        {
+          "value": -365
+        }
+      ]
+    },
+    "2014": {
+      "Insgesamt": [
+        {
+          "value": 6241
+        },
+        {
+          "value": 5889
+        },
+        {
+          "value": 352
+        }
+      ],
+      "Männer": [
+        {
+          "value": 3206
+        },
+        {
+          "value": 2805
+        },
+        {
+          "value": 401
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 3035
+        },
+        {
+          "value": 3084
+        },
+        {
+          "value": -49
+        }
+      ]
+    },
+    "2015": {
+      "Insgesamt": [
+        {
+          "value": 6622
+        },
+        {
+          "value": 6199
+        },
+        {
+          "value": 423
+        }
+      ],
+      "Männer": [
+        {
+          "value": 3496
+        },
+        {
+          "value": 2982
+        },
+        {
+          "value": 514
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 3126
+        },
+        {
+          "value": 3217
+        },
+        {
+          "value": -91
+        }
+      ]
+    },
+    "2016": {
+      "Insgesamt": [
+        {
+          "value": 6873
+        },
+        {
+          "value": 6005
+        },
+        {
+          "value": 868
+        }
+      ],
+      "Männer": [
+        {
+          "value": 3592
+        },
+        {
+          "value": 2962
+        },
+        {
+          "value": 630
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 3281
+        },
+        {
+          "value": 3043
+        },
+        {
+          "value": 238
+        }
+      ]
+    },
+    "2017": {
+      "Insgesamt": [
+        {
+          "value": 6976
+        },
+        {
+          "value": 6287
+        },
+        {
+          "value": 689
+        }
+      ],
+      "Männer": [
+        {
+          "value": 3578
+        },
+        {
+          "value": 3079
+        },
+        {
+          "value": 499
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 3398
+        },
+        {
+          "value": 3208
+        },
+        {
+          "value": 190
+        }
+      ]
+    },
+    "2018": {
+      "Insgesamt": [
+        {
+          "value": 6779
+        },
+        {
+          "value": 6475
+        },
+        {
+          "value": 304
+        }
+      ],
+      "Männer": [
+        {
+          "value": 3447
+        },
+        {
+          "value": 3141
+        },
+        {
+          "value": 306
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 3332
+        },
+        {
+          "value": 3334
+        },
+        {
+          "value": -2
+        }
+      ]
+    },
+    "2019": {
+      "Insgesamt": [
+        {
+          "value": 6444
+        },
+        {
+          "value": 6196
+        },
+        {
+          "value": 248
+        }
+      ],
+      "Männer": [
+        {
+          "value": 3298
+        },
+        {
+          "value": 3032
+        },
+        {
+          "value": 266
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 3146
+        },
+        {
+          "value": 3164
+        },
+        {
+          "value": -18
+        }
+      ]
+    },
+    "2020": {
+      "Insgesamt": [
+        {
+          "value": 6468
+        },
+        {
+          "value": 6554
+        },
+        {
+          "value": -86
+        }
+      ],
+      "Männer": [
+        {
+          "value": 3344
+        },
+        {
+          "value": 3279
+        },
+        {
+          "value": 65
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 3124
+        },
+        {
+          "value": 3275
+        },
+        {
+          "value": -151
+        }
+      ]
+    },
+    "2021": {
+      "Insgesamt": [
+        {
+          "value": 6252
+        },
+        {
+          "value": 7088
+        },
+        {
+          "value": -836
+        }
+      ],
+      "Männer": [
+        {
+          "value": 3190
+        },
+        {
+          "value": 3619
+        },
+        {
+          "value": -429
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 3062
+        },
+        {
+          "value": 3469
+        },
+        {
+          "value": -407
+        }
+      ]
+    },
+    "2022": {
+      "Insgesamt": [
+        {
+          "value": 5862
+        },
+        {
+          "value": 7106
+        },
+        {
+          "value": -1244
+        }
+      ],
+      "Männer": [
+        {
+          "value": 3057
+        },
+        {
+          "value": 3531
+        },
+        {
+          "value": -474
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 2805
+        },
+        {
+          "value": 3575
+        },
+        {
+          "value": -770
+        }
+      ]
+    },
+    "2023": {
+      "Insgesamt": [
+        {
+          "value": 4900
+        },
+        {
+          "value": 6896
+        },
+        {
+          "value": -1996
+        }
+      ],
+      "Männer": [
+        {
+          "value": 2535
+        },
+        {
+          "value": 3358
+        },
+        {
+          "value": -823
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 2365
+        },
+        {
+          "value": 3538
+        },
+        {
+          "value": -1173
+        }
+      ]
+    },
+    "2024": {
+      "Insgesamt": [
+        {
+          "value": 4819
+        },
+        {
+          "value": 6673
+        },
+        {
+          "value": -1854
+        }
+      ],
+      "Männer": [
+        {
+          "value": 2511
+        },
+        {
+          "value": 3333
+        },
+        {
+          "value": -822
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 2308
+        },
+        {
+          "value": 3340
+        },
+        {
+          "value": -1032
+        }
+      ]
+    }
+  }
+}

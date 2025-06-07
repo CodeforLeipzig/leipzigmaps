@@ -1,0 +1,1528 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=9&rubrik_nr=3&periode=y",
+    "title": "Beschäftigte: Deutschland__insgesamt"
+  },
+  "data": {
+    "2014": {
+      "Beschäftigte insgesamt: Deutschland": [
+        {
+          "value": 3024.37
+        }
+      ],
+      "Beschäftigte insgesamt: Sachsen": [
+        {
+          "value": 2250.69
+        }
+      ],
+      "Beschäftigte insgesamt: Stadt Leipzig": [
+        {
+          "value": 2548.71
+        }
+      ],
+      "Männer": [
+        {
+          "value": 2577.62
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 2506.13
+        }
+      ],
+      "unter 25 Jahre": [
+        {
+          "value": 2567.27
+        }
+      ],
+      "25 bis unter 55 Jahre": [
+        {
+          "value": 1860.12
+        }
+      ],
+      "55 Jahre und älter": [
+        {
+          "value": 1857.2
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 2573.92
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 2796.6
+        }
+      ],
+      "ohne Berufsabschluss": [
+        {
+          "value": 1725.83
+        }
+      ],
+      "mit anerkanntem Berufsabschluss": [
+        {
+          "value": 2321.09
+        }
+      ],
+      "mit akademischen Berufsabschluss": [
+        {
+          "value": 3977.45
+        }
+      ],
+      "Bergbau, Energie- und Wasserversorgung, Entsorgung": [
+        {
+          "value": null
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Handel, Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": null
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": null
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": null
+        }
+      ],
+      "Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "Immobilien, freiberufliche, wissenschaftliche und technische Dienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "sonstige wirtschaftliche Dienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "Öffentliche Verwaltung, Verteidigung, Sozialversicherung, exterritoriale Organisationen": [
+        {
+          "value": null
+        }
+      ],
+      "Erziehung und Unterricht": [
+        {
+          "value": null
+        }
+      ],
+      "Gesundheitswesen": [
+        {
+          "value": null
+        }
+      ],
+      "Heime und Sozialwesen": [
+        {
+          "value": null
+        }
+      ],
+      "Kunst und Unterhaltung, sonstige Dienstleistungen, private Haushalte": [
+        {
+          "value": null
+        }
+      ],
+      "Anteil der Beschäftigten mit Entgelten unter der bundeseinheitlichen Schwelle des unteren Entgeltbereichs in Prozent": [
+        {
+          "value": null
+        }
+      ],
+      "Anteil der Beschäftigten mit Entgelten unter der ostdeutschen Schwelle des unteren Entgeltbereichs in Prozent": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2015": {
+      "Beschäftigte insgesamt: Deutschland": [
+        {
+          "value": 3082.98
+        }
+      ],
+      "Beschäftigte insgesamt: Sachsen": [
+        {
+          "value": 2322.77
+        }
+      ],
+      "Beschäftigte insgesamt: Stadt Leipzig": [
+        {
+          "value": 2643.83
+        }
+      ],
+      "Männer": [
+        {
+          "value": 2687.69
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 2582.15
+        }
+      ],
+      "unter 25 Jahre": [
+        {
+          "value": 2668.86
+        }
+      ],
+      "25 bis unter 55 Jahre": [
+        {
+          "value": 1895.57
+        }
+      ],
+      "55 Jahre und älter": [
+        {
+          "value": 1877.75
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 2657.16
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 2888.92
+        }
+      ],
+      "ohne Berufsabschluss": [
+        {
+          "value": 1825.68
+        }
+      ],
+      "mit anerkanntem Berufsabschluss": [
+        {
+          "value": 2397.37
+        }
+      ],
+      "mit akademischen Berufsabschluss": [
+        {
+          "value": 4069.38
+        }
+      ],
+      "Bergbau, Energie- und Wasserversorgung, Entsorgung": [
+        {
+          "value": null
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Handel, Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": null
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": null
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": null
+        }
+      ],
+      "Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "Immobilien, freiberufliche, wissenschaftliche und technische Dienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "sonstige wirtschaftliche Dienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "Öffentliche Verwaltung, Verteidigung, Sozialversicherung, exterritoriale Organisationen": [
+        {
+          "value": null
+        }
+      ],
+      "Erziehung und Unterricht": [
+        {
+          "value": null
+        }
+      ],
+      "Gesundheitswesen": [
+        {
+          "value": null
+        }
+      ],
+      "Heime und Sozialwesen": [
+        {
+          "value": null
+        }
+      ],
+      "Kunst und Unterhaltung, sonstige Dienstleistungen, private Haushalte": [
+        {
+          "value": null
+        }
+      ],
+      "Anteil der Beschäftigten mit Entgelten unter der bundeseinheitlichen Schwelle des unteren Entgeltbereichs in Prozent": [
+        {
+          "value": null
+        }
+      ],
+      "Anteil der Beschäftigten mit Entgelten unter der ostdeutschen Schwelle des unteren Entgeltbereichs in Prozent": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2016": {
+      "Beschäftigte insgesamt: Deutschland": [
+        {
+          "value": 3132.61
+        }
+      ],
+      "Beschäftigte insgesamt: Sachsen": [
+        {
+          "value": 2387.77
+        }
+      ],
+      "Beschäftigte insgesamt: Stadt Leipzig": [
+        {
+          "value": 2716.96
+        }
+      ],
+      "Männer": [
+        {
+          "value": 2766.71
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 2639.94
+        }
+      ],
+      "unter 25 Jahre": [
+        {
+          "value": 2749.05
+        }
+      ],
+      "25 bis unter 55 Jahre": [
+        {
+          "value": 1919.18
+        }
+      ],
+      "55 Jahre und älter": [
+        {
+          "value": 1924.27
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 2734.12
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 2932.63
+        }
+      ],
+      "ohne Berufsabschluss": [
+        {
+          "value": 1871.77
+        }
+      ],
+      "mit anerkanntem Berufsabschluss": [
+        {
+          "value": 2480.57
+        }
+      ],
+      "mit akademischen Berufsabschluss": [
+        {
+          "value": 4063.27
+        }
+      ],
+      "Bergbau, Energie- und Wasserversorgung, Entsorgung": [
+        {
+          "value": null
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Handel, Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": null
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": null
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": null
+        }
+      ],
+      "Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "Immobilien, freiberufliche, wissenschaftliche und technische Dienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "sonstige wirtschaftliche Dienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "Öffentliche Verwaltung, Verteidigung, Sozialversicherung, exterritoriale Organisationen": [
+        {
+          "value": null
+        }
+      ],
+      "Erziehung und Unterricht": [
+        {
+          "value": null
+        }
+      ],
+      "Gesundheitswesen": [
+        {
+          "value": null
+        }
+      ],
+      "Heime und Sozialwesen": [
+        {
+          "value": null
+        }
+      ],
+      "Kunst und Unterhaltung, sonstige Dienstleistungen, private Haushalte": [
+        {
+          "value": null
+        }
+      ],
+      "Anteil der Beschäftigten mit Entgelten unter der bundeseinheitlichen Schwelle des unteren Entgeltbereichs in Prozent": [
+        {
+          "value": null
+        }
+      ],
+      "Anteil der Beschäftigten mit Entgelten unter der ostdeutschen Schwelle des unteren Entgeltbereichs in Prozent": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2017": {
+      "Beschäftigte insgesamt: Deutschland": [
+        {
+          "value": 3209.13
+        }
+      ],
+      "Beschäftigte insgesamt: Sachsen": [
+        {
+          "value": 2478.82
+        }
+      ],
+      "Beschäftigte insgesamt: Stadt Leipzig": [
+        {
+          "value": 2807.3
+        }
+      ],
+      "Männer": [
+        {
+          "value": 2856.16
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 2733.68
+        }
+      ],
+      "55 Jahre und älter": [
+        {
+          "value": 2002.8
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 2830.9
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 3009.61
+        }
+      ],
+      "ohne Berufsabschluss": [
+        {
+          "value": 1916.79
+        }
+      ],
+      "mit anerkanntem Berufsabschluss": [
+        {
+          "value": 2578.95
+        }
+      ],
+      "mit akademischen Berufsabschluss": [
+        {
+          "value": 4120.49
+        }
+      ],
+      "Bergbau, Energie- und Wasserversorgung, Entsorgung": [
+        {
+          "value": null
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Handel, Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": null
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": null
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": null
+        }
+      ],
+      "Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "Immobilien, freiberufliche, wissenschaftliche und technische Dienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "sonstige wirtschaftliche Dienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "Öffentliche Verwaltung, Verteidigung, Sozialversicherung, exterritoriale Organisationen": [
+        {
+          "value": null
+        }
+      ],
+      "Erziehung und Unterricht": [
+        {
+          "value": null
+        }
+      ],
+      "Gesundheitswesen": [
+        {
+          "value": null
+        }
+      ],
+      "Heime und Sozialwesen": [
+        {
+          "value": null
+        }
+      ],
+      "Kunst und Unterhaltung, sonstige Dienstleistungen, private Haushalte": [
+        {
+          "value": null
+        }
+      ],
+      "Anteil der Beschäftigten mit Entgelten unter der bundeseinheitlichen Schwelle des unteren Entgeltbereichs in Prozent": [
+        {
+          "value": null
+        }
+      ],
+      "Anteil der Beschäftigten mit Entgelten unter der ostdeutschen Schwelle des unteren Entgeltbereichs in Prozent": [
+        {
+          "value": null
+        }
+      ],
+      "unter 25 Jahre": [
+        {
+          "value": 2852.45
+        }
+      ],
+      "25 bis unter 55 Jahre": [
+        {
+          "value": 1916.03
+        }
+      ]
+    },
+    "2018": {
+      "Beschäftigte insgesamt: Deutschland": [
+        {
+          "value": 3304
+        }
+      ],
+      "Beschäftigte insgesamt: Sachsen": [
+        {
+          "value": 2587
+        }
+      ],
+      "Beschäftigte insgesamt: Stadt Leipzig": [
+        {
+          "value": 2935.53
+        }
+      ],
+      "Männer": [
+        {
+          "value": 3003.45
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 2837.09
+        }
+      ],
+      "unter 25 Jahre": [
+        {
+          "value": 2075.64
+        }
+      ],
+      "25 bis unter 55 Jahre": [
+        {
+          "value": 2970.49
+        }
+      ],
+      "55 Jahre und älter": [
+        {
+          "value": 3086.25
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 2992.75
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 1956.85
+        }
+      ],
+      "ohne Berufsabschluss": [
+        {
+          "value": 1946.24
+        }
+      ],
+      "mit anerkanntem Berufsabschluss": [
+        {
+          "value": 2683.78
+        }
+      ],
+      "mit akademischen Berufsabschluss": [
+        {
+          "value": 4215.81
+        }
+      ],
+      "Bergbau, Energie- und Wasserversorgung, Entsorgung": [
+        {
+          "value": null
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Handel, Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": null
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": null
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": null
+        }
+      ],
+      "Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "Immobilien, freiberufliche, wissenschaftliche und technische Dienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "sonstige wirtschaftliche Dienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "Öffentliche Verwaltung, Verteidigung, Sozialversicherung, exterritoriale Organisationen": [
+        {
+          "value": null
+        }
+      ],
+      "Erziehung und Unterricht": [
+        {
+          "value": null
+        }
+      ],
+      "Gesundheitswesen": [
+        {
+          "value": null
+        }
+      ],
+      "Heime und Sozialwesen": [
+        {
+          "value": null
+        }
+      ],
+      "Kunst und Unterhaltung, sonstige Dienstleistungen, private Haushalte": [
+        {
+          "value": null
+        }
+      ],
+      "Anteil der Beschäftigten mit Entgelten unter der bundeseinheitlichen Schwelle des unteren Entgeltbereichs in Prozent": [
+        {
+          "value": null
+        }
+      ],
+      "Anteil der Beschäftigten mit Entgelten unter der ostdeutschen Schwelle des unteren Entgeltbereichs in Prozent": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2019": {
+      "Beschäftigte insgesamt: Deutschland": [
+        {
+          "value": 3401
+        }
+      ],
+      "Beschäftigte insgesamt: Sachsen": [
+        {
+          "value": 2695
+        }
+      ],
+      "Beschäftigte insgesamt: Stadt Leipzig": [
+        {
+          "value": 3050.33
+        }
+      ],
+      "Männer": [
+        {
+          "value": 3119.11
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 2956.17
+        }
+      ],
+      "unter 25 Jahre": [
+        {
+          "value": 2193.45
+        }
+      ],
+      "25 bis unter 55 Jahre": [
+        {
+          "value": 3083.06
+        }
+      ],
+      "55 Jahre und älter": [
+        {
+          "value": 3201.21
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 3113.85
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 2092.58
+        }
+      ],
+      "ohne Berufsabschluss": [
+        {
+          "value": 2041.24
+        }
+      ],
+      "mit anerkanntem Berufsabschluss": [
+        {
+          "value": 2792.63
+        }
+      ],
+      "mit akademischen Berufsabschluss": [
+        {
+          "value": 4365.75
+        }
+      ],
+      "Bergbau, Energie- und Wasserversorgung, Entsorgung": [
+        {
+          "value": null
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Handel, Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": null
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": null
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": null
+        }
+      ],
+      "Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "Immobilien, freiberufliche, wissenschaftliche und technische Dienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "sonstige wirtschaftliche Dienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "Öffentliche Verwaltung, Verteidigung, Sozialversicherung, exterritoriale Organisationen": [
+        {
+          "value": null
+        }
+      ],
+      "Erziehung und Unterricht": [
+        {
+          "value": null
+        }
+      ],
+      "Gesundheitswesen": [
+        {
+          "value": null
+        }
+      ],
+      "Heime und Sozialwesen": [
+        {
+          "value": null
+        }
+      ],
+      "Kunst und Unterhaltung, sonstige Dienstleistungen, private Haushalte": [
+        {
+          "value": null
+        }
+      ],
+      "Anteil der Beschäftigten mit Entgelten unter der bundeseinheitlichen Schwelle des unteren Entgeltbereichs in Prozent": [
+        {
+          "value": null
+        }
+      ],
+      "Anteil der Beschäftigten mit Entgelten unter der ostdeutschen Schwelle des unteren Entgeltbereichs in Prozent": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2020": {
+      "Beschäftigte insgesamt: Deutschland": [
+        {
+          "value": 3427
+        }
+      ],
+      "Beschäftigte insgesamt: Sachsen": [
+        {
+          "value": 2742
+        }
+      ],
+      "Beschäftigte insgesamt: Stadt Leipzig": [
+        {
+          "value": 3090.42
+        }
+      ],
+      "Männer": [
+        {
+          "value": 3133.8
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 3027
+        }
+      ],
+      "unter 25 Jahre": [
+        {
+          "value": 2268.17
+        }
+      ],
+      "25 bis unter 55 Jahre": [
+        {
+          "value": 3131.52
+        }
+      ],
+      "55 Jahre und älter": [
+        {
+          "value": 3221.42
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 3164.37
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 2149.02
+        }
+      ],
+      "ohne Berufsabschluss": [
+        {
+          "value": 2079.01
+        }
+      ],
+      "mit anerkanntem Berufsabschluss": [
+        {
+          "value": 2838.66
+        }
+      ],
+      "mit akademischen Berufsabschluss": [
+        {
+          "value": 4420.45
+        }
+      ],
+      "Bergbau, Energie- und Wasserversorgung, Entsorgung": [
+        {
+          "value": 3756.62
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 4023.2
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 2633.53
+        }
+      ],
+      "Handel, Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 2605.59
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 2575.21
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 1839.85
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 3892.92
+        }
+      ],
+      "Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 4672
+        }
+      ],
+      "Immobilien, freiberufliche, wissenschaftliche und technische Dienstleistungen": [
+        {
+          "value": 3393.28
+        }
+      ],
+      "sonstige wirtschaftliche Dienstleistungen": [
+        {
+          "value": 2211.47
+        }
+      ],
+      "Öffentliche Verwaltung, Verteidigung, Sozialversicherung, exterritoriale Organisationen": [
+        {
+          "value": 3841.39
+        }
+      ],
+      "Erziehung und Unterricht": [
+        {
+          "value": 4239.2
+        }
+      ],
+      "Gesundheitswesen": [
+        {
+          "value": 3484.06
+        }
+      ],
+      "Heime und Sozialwesen": [
+        {
+          "value": 2680.47
+        }
+      ],
+      "Kunst und Unterhaltung, sonstige Dienstleistungen, private Haushalte": [
+        {
+          "value": 3155.91
+        }
+      ],
+      "Anteil der Beschäftigten mit Entgelten unter der bundeseinheitlichen Schwelle des unteren Entgeltbereichs in Prozent": [
+        {
+          "value": 26.2
+        }
+      ],
+      "Anteil der Beschäftigten mit Entgelten unter der ostdeutschen Schwelle des unteren Entgeltbereichs in Prozent": [
+        {
+          "value": 13.9
+        }
+      ]
+    },
+    "2021": {
+      "Beschäftigte insgesamt: Deutschland": [
+        {
+          "value": 3516
+        }
+      ],
+      "Beschäftigte insgesamt: Sachsen": [
+        {
+          "value": 2857
+        }
+      ],
+      "Beschäftigte insgesamt: Stadt Leipzig": [
+        {
+          "value": 3203.41
+        }
+      ],
+      "Männer": [
+        {
+          "value": 3242.82
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 3146.86
+        }
+      ],
+      "unter 25 Jahre": [
+        {
+          "value": 2373.32
+        }
+      ],
+      "25 bis unter 55 Jahre": [
+        {
+          "value": 3252.72
+        }
+      ],
+      "55 Jahre und älter": [
+        {
+          "value": 3305.12
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 3286.8
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 2248.85
+        }
+      ],
+      "ohne Berufsabschluss": [
+        {
+          "value": 2159.06
+        }
+      ],
+      "mit anerkanntem Berufsabschluss": [
+        {
+          "value": 2942.15
+        }
+      ],
+      "mit akademischen Berufsabschluss": [
+        {
+          "value": 4540.96
+        }
+      ],
+      "Bergbau, Energie- und Wasserversorgung, Entsorgung": [
+        {
+          "value": 3832.17
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 3976.2
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 2749.85
+        }
+      ],
+      "Handel, Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 2729.73
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 2637.8
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 1931.06
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 4055.74
+        }
+      ],
+      "Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 4808.09
+        }
+      ],
+      "Immobilien, freiberufliche, wissenschaftliche und technische Dienstleistungen": [
+        {
+          "value": 3565.98
+        }
+      ],
+      "sonstige wirtschaftliche Dienstleistungen": [
+        {
+          "value": 2290.39
+        }
+      ],
+      "Öffentliche Verwaltung, Verteidigung, Sozialversicherung, exterritoriale Organisationen": [
+        {
+          "value": 3911.9
+        }
+      ],
+      "Erziehung und Unterricht": [
+        {
+          "value": 4309.04
+        }
+      ],
+      "Gesundheitswesen": [
+        {
+          "value": 3639.54
+        }
+      ],
+      "Heime und Sozialwesen": [
+        {
+          "value": 2880.05
+        }
+      ],
+      "Kunst und Unterhaltung, sonstige Dienstleistungen, private Haushalte": [
+        {
+          "value": 3156.44
+        }
+      ],
+      "Anteil der Beschäftigten mit Entgelten unter der bundeseinheitlichen Schwelle des unteren Entgeltbereichs in Prozent": [
+        {
+          "value": 24.4
+        }
+      ],
+      "Anteil der Beschäftigten mit Entgelten unter der ostdeutschen Schwelle des unteren Entgeltbereichs in Prozent": [
+        {
+          "value": 13.7
+        }
+      ]
+    },
+    "2022": {
+      "Beschäftigte insgesamt: Deutschland": [
+        {
+          "value": 3646
+        }
+      ],
+      "Beschäftigte insgesamt: Sachsen": [
+        {
+          "value": 3012
+        }
+      ],
+      "Beschäftigte insgesamt: Stadt Leipzig": [
+        {
+          "value": 3383.35
+        }
+      ],
+      "Männer": [
+        {
+          "value": 3445.69
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 3301.15
+        }
+      ],
+      "unter 25 Jahre": [
+        {
+          "value": 2551.17
+        }
+      ],
+      "25 bis unter 55 Jahre": [
+        {
+          "value": 3455.05
+        }
+      ],
+      "55 Jahre und älter": [
+        {
+          "value": 3421.26
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 3471.41
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 2473.91
+        }
+      ],
+      "ohne Berufsabschluss": [
+        {
+          "value": 2337.09
+        }
+      ],
+      "mit anerkanntem Berufsabschluss": [
+        {
+          "value": 3113.29
+        }
+      ],
+      "mit akademischen Berufsabschluss": [
+        {
+          "value": 4690.08
+        }
+      ],
+      "Bergbau, Energie- und Wasserversorgung, Entsorgung": [
+        {
+          "value": 3938.66
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 4286.18
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 2876.72
+        }
+      ],
+      "Handel, Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 2846.72
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 2764.58
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 2219.16
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 4287.93
+        }
+      ],
+      "Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 4911.53
+        }
+      ],
+      "Immobilien, freiberufliche, wissenschaftliche und technische Dienstleistungen": [
+        {
+          "value": 3760.89
+        }
+      ],
+      "sonstige wirtschaftliche Dienstleistungen": [
+        {
+          "value": 2479.14
+        }
+      ],
+      "Öffentliche Verwaltung, Verteidigung, Sozialversicherung, exterritoriale Organisationen": [
+        {
+          "value": 4027.76
+        }
+      ],
+      "Erziehung und Unterricht": [
+        {
+          "value": 4322.08
+        }
+      ],
+      "Gesundheitswesen": [
+        {
+          "value": 3767.71
+        }
+      ],
+      "Heime und Sozialwesen": [
+        {
+          "value": 3101.75
+        }
+      ],
+      "Kunst und Unterhaltung, sonstige Dienstleistungen, private Haushalte": [
+        {
+          "value": 3377.63
+        }
+      ],
+      "Anteil der Beschäftigten mit Entgelten unter der bundeseinheitlichen Schwelle des unteren Entgeltbereichs in Prozent": [
+        {
+          "value": 21.4
+        }
+      ],
+      "Anteil der Beschäftigten mit Entgelten unter der ostdeutschen Schwelle des unteren Entgeltbereichs in Prozent": [
+        {
+          "value": 11.1
+        }
+      ]
+    },
+    "2023": {
+      "Beschäftigte insgesamt: Deutschland": [
+        {
+          "value": 3795.56
+        }
+      ],
+      "Beschäftigte insgesamt: Sachsen": [
+        {
+          "value": 3182.37
+        }
+      ],
+      "Beschäftigte insgesamt: Stadt Leipzig": [
+        {
+          "value": 3549.92
+        }
+      ],
+      "Männer": [
+        {
+          "value": 3615.36
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 3474.12
+        }
+      ],
+      "unter 25 Jahre": [
+        {
+          "value": 2701.16
+        }
+      ],
+      "25 bis unter 55 Jahre": [
+        {
+          "value": 3636.1
+        }
+      ],
+      "55 Jahre und älter": [
+        {
+          "value": 3571.85
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 3659.46
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 2627.43
+        }
+      ],
+      "ohne Berufsabschluss": [
+        {
+          "value": 2520.66
+        }
+      ],
+      "mit anerkanntem Berufsabschluss": [
+        {
+          "value": 3293.24
+        }
+      ],
+      "mit akademischen Berufsabschluss": [
+        {
+          "value": 4862.9
+        }
+      ],
+      "Bergbau, Energie- und Wasserversorgung, Entsorgung": [
+        {
+          "value": 4153.74
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 4739.79
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 3016.35
+        }
+      ],
+      "Handel, Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 2990.02
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 2898.99
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 2455.26
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 4414.87
+        }
+      ],
+      "Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 5103.63
+        }
+      ],
+      "Immobilien, freiberufliche, wissenschaftliche und technische Dienstleistungen": [
+        {
+          "value": 3966.86
+        }
+      ],
+      "sonstige wirtschaftliche Dienstleistungen": [
+        {
+          "value": 2665.71
+        }
+      ],
+      "Öffentliche Verwaltung, Verteidigung, Sozialversicherung, exterritoriale Organisationen": [
+        {
+          "value": 4118.22
+        }
+      ],
+      "Erziehung und Unterricht": [
+        {
+          "value": 4414.29
+        }
+      ],
+      "Gesundheitswesen": [
+        {
+          "value": 3902.3
+        }
+      ],
+      "Heime und Sozialwesen": [
+        {
+          "value": 3397.7
+        }
+      ],
+      "Kunst und Unterhaltung, sonstige Dienstleistungen, private Haushalte": [
+        {
+          "value": 3502.72
+        }
+      ],
+      "Anteil der Beschäftigten mit Entgelten unter der bundeseinheitlichen Schwelle des unteren Entgeltbereichs in Prozent": [
+        {
+          "value": 19.1347
+        }
+      ],
+      "Anteil der Beschäftigten mit Entgelten unter der ostdeutschen Schwelle des unteren Entgeltbereichs in Prozent": [
+        {
+          "value": 9.59707
+        }
+      ]
+    }
+  }
+}

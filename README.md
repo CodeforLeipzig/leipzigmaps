@@ -91,6 +91,7 @@ Contributions are what make the open source community such an amazing place to l
 Project Link: [https://github.com/CodeforLeipzig/leipzig-maps](https://github.com/CodeforLeipzig/leipzig-maps)
 
 ## Sources used
+ * [Dataset Katalog des Amt für Statistik und Wahlen der Stadt Leipzig](https://statistik.leipzig.de/opendata/api/katalog/)
  * Leipzig Stadtteilgrenzen
    * tracked [here](https://github.com/CodeforLeipzig/leipzigmaps/issues/19)
  * [Leipzig - Schwimmhallen](https://www.leipzig.de/freizeit-kultur-und-tourismus/sport/sportstaetten/schwimmhallen) ([leipzig.de](https://leipzig.de))

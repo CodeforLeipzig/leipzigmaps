@@ -1,0 +1,2600 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=8&rubrik_nr=6&periode=y",
+    "title": "Gewerbeanmeldungen__insgesamt"
+  },
+  "data": {
+    "2001": {
+      "Gewerbeanmeldungen insgesamt": [
+        {
+          "value": 5514
+        }
+      ],
+      "Gewerbeabmeldungen insgesamt": [
+        {
+          "value": 4984
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Grundstücks- und Wohnungswesen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Erbringung freiberuflicher, wissenschaftlicher und technischer Dienstleistungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Sonstige wirtschaftliche Dienstleistungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Erbringung von sonstigen Dienstleistungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Übrige Wirtschaftszweige": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2002": {
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Grundstücks- und Wohnungswesen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Erbringung freiberuflicher, wissenschaftlicher und technischer Dienstleistungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Sonstige wirtschaftliche Dienstleistungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Erbringung von sonstigen Dienstleistungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Übrige Wirtschaftszweige": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Gewerbeanmeldungen insgesamt": [
+        {
+          "value": 5497
+        }
+      ],
+      "Gewerbeabmeldungen insgesamt": [
+        {
+          "value": 4873
+        }
+      ]
+    },
+    "2003": {
+      "Gewerbeabmeldungen insgesamt": [
+        {
+          "value": 4587
+        }
+      ],
+      "Gewerbeanmeldungen insgesamt": [
+        {
+          "value": 6414
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Grundstücks- und Wohnungswesen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Erbringung freiberuflicher, wissenschaftlicher und technischer Dienstleistungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Sonstige wirtschaftliche Dienstleistungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Erbringung von sonstigen Dienstleistungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Übrige Wirtschaftszweige": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2004": {
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Grundstücks- und Wohnungswesen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Erbringung freiberuflicher, wissenschaftlicher und technischer Dienstleistungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Sonstige wirtschaftliche Dienstleistungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Erbringung von sonstigen Dienstleistungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Übrige Wirtschaftszweige": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Gewerbeanmeldungen insgesamt": [
+        {
+          "value": 7523
+        }
+      ],
+      "Gewerbeabmeldungen insgesamt": [
+        {
+          "value": 4483
+        }
+      ]
+    },
+    "2005": {
+      "Gewerbeabmeldungen insgesamt": [
+        {
+          "value": 4600
+        }
+      ],
+      "Gewerbeanmeldungen insgesamt": [
+        {
+          "value": 6580
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Grundstücks- und Wohnungswesen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Erbringung freiberuflicher, wissenschaftlicher und technischer Dienstleistungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Sonstige wirtschaftliche Dienstleistungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Erbringung von sonstigen Dienstleistungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Übrige Wirtschaftszweige": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2006": {
+      "Baugewerbe": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Grundstücks- und Wohnungswesen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Erbringung freiberuflicher, wissenschaftlicher und technischer Dienstleistungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Sonstige wirtschaftliche Dienstleistungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Erbringung von sonstigen Dienstleistungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Übrige Wirtschaftszweige": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Gewerbeanmeldungen insgesamt": [
+        {
+          "value": 7213
+        }
+      ],
+      "Gewerbeabmeldungen insgesamt": [
+        {
+          "value": 5026
+        }
+      ]
+    },
+    "2007": {
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Grundstücks- und Wohnungswesen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Erbringung freiberuflicher, wissenschaftlicher und technischer Dienstleistungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Sonstige wirtschaftliche Dienstleistungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Erbringung von sonstigen Dienstleistungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Übrige Wirtschaftszweige": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Gewerbeanmeldungen insgesamt": [
+        {
+          "value": 6369
+        }
+      ],
+      "Gewerbeabmeldungen insgesamt": [
+        {
+          "value": 4953
+        }
+      ]
+    },
+    "2008": {
+      "Gewerbeanmeldungen insgesamt": [
+        {
+          "value": 6560
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 120
+        },
+        {
+          "value": 159
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 563
+        },
+        {
+          "value": 659
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 1412
+        },
+        {
+          "value": 1489
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 138
+        },
+        {
+          "value": 157
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 470
+        },
+        {
+          "value": 466
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 362
+        },
+        {
+          "value": 228
+        }
+      ],
+      "Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 249
+        },
+        {
+          "value": 282
+        }
+      ],
+      "Grundstücks- und Wohnungswesen": [
+        {
+          "value": 232
+        },
+        {
+          "value": 155
+        }
+      ],
+      "Erbringung freiberuflicher, wissenschaftlicher und technischer Dienstleistungen": [
+        {
+          "value": 860
+        },
+        {
+          "value": 656
+        }
+      ],
+      "Sonstige wirtschaftliche Dienstleistungen": [
+        {
+          "value": 1153
+        },
+        {
+          "value": 805
+        }
+      ],
+      "Erbringung von sonstigen Dienstleistungen": [
+        {
+          "value": 636
+        },
+        {
+          "value": 440
+        }
+      ],
+      "Übrige Wirtschaftszweige": [
+        {
+          "value": 365
+        },
+        {
+          "value": 207
+        }
+      ],
+      "Gewerbeabmeldungen insgesamt": [
+        {
+          "value": 5703
+        }
+      ]
+    },
+    "2009": {
+      "Gewerbeanmeldungen insgesamt": [
+        {
+          "value": 6192
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 140
+        },
+        {
+          "value": 151
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 530
+        },
+        {
+          "value": 525
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 1292
+        },
+        {
+          "value": 1498
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 113
+        },
+        {
+          "value": 151
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 495
+        },
+        {
+          "value": 405
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 357
+        },
+        {
+          "value": 271
+        }
+      ],
+      "Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 230
+        },
+        {
+          "value": 252
+        }
+      ],
+      "Grundstücks- und Wohnungswesen": [
+        {
+          "value": 238
+        },
+        {
+          "value": 157
+        }
+      ],
+      "Erbringung freiberuflicher, wissenschaftlicher und technischer Dienstleistungen": [
+        {
+          "value": 778
+        },
+        {
+          "value": 621
+        }
+      ],
+      "Sonstige wirtschaftliche Dienstleistungen": [
+        {
+          "value": 999
+        },
+        {
+          "value": 788
+        }
+      ],
+      "Erbringung von sonstigen Dienstleistungen": [
+        {
+          "value": 628
+        },
+        {
+          "value": 391
+        }
+      ],
+      "Übrige Wirtschaftszweige": [
+        {
+          "value": 392
+        },
+        {
+          "value": 195
+        }
+      ],
+      "Gewerbeabmeldungen insgesamt": [
+        {
+          "value": 5405
+        }
+      ]
+    },
+    "2010": {
+      "Gewerbeanmeldungen insgesamt": [
+        {
+          "value": 6572
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 127
+        },
+        {
+          "value": 116
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 591
+        },
+        {
+          "value": 553
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 1299
+        },
+        {
+          "value": 1364
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 132
+        },
+        {
+          "value": 144
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 453
+        },
+        {
+          "value": 418
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 346
+        },
+        {
+          "value": 241
+        }
+      ],
+      "Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 217
+        },
+        {
+          "value": 252
+        }
+      ],
+      "Grundstücks- und Wohnungswesen": [
+        {
+          "value": 209
+        },
+        {
+          "value": 165
+        }
+      ],
+      "Erbringung freiberuflicher, wissenschaftlicher und technischer Dienstleistungen": [
+        {
+          "value": 792
+        },
+        {
+          "value": 646
+        }
+      ],
+      "Sonstige wirtschaftliche Dienstleistungen": [
+        {
+          "value": 1229
+        },
+        {
+          "value": 861
+        }
+      ],
+      "Erbringung von sonstigen Dienstleistungen": [
+        {
+          "value": 742
+        },
+        {
+          "value": 446
+        }
+      ],
+      "Übrige Wirtschaftszweige": [
+        {
+          "value": 435
+        },
+        {
+          "value": 241
+        }
+      ],
+      "Gewerbeabmeldungen insgesamt": [
+        {
+          "value": 5447
+        }
+      ]
+    },
+    "2011": {
+      "Gewerbeanmeldungen insgesamt": [
+        {
+          "value": 6711
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 153
+        },
+        {
+          "value": 122
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 771
+        },
+        {
+          "value": 554
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 1245
+        },
+        {
+          "value": 1215
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 136
+        },
+        {
+          "value": 153
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 502
+        },
+        {
+          "value": 432
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 379
+        },
+        {
+          "value": 228
+        }
+      ],
+      "Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 185
+        },
+        {
+          "value": 252
+        }
+      ],
+      "Grundstücks- und Wohnungswesen": [
+        {
+          "value": 258
+        },
+        {
+          "value": 169
+        }
+      ],
+      "Erbringung freiberuflicher, wissenschaftlicher und technischer Dienstleistungen": [
+        {
+          "value": 909
+        },
+        {
+          "value": 587
+        }
+      ],
+      "Sonstige wirtschaftliche Dienstleistungen": [
+        {
+          "value": 1087
+        },
+        {
+          "value": 743
+        }
+      ],
+      "Erbringung von sonstigen Dienstleistungen": [
+        {
+          "value": 688
+        },
+        {
+          "value": 478
+        }
+      ],
+      "Übrige Wirtschaftszweige": [
+        {
+          "value": 398
+        },
+        {
+          "value": 228
+        }
+      ],
+      "Gewerbeabmeldungen insgesamt": [
+        {
+          "value": 5161
+        }
+      ]
+    },
+    "2012": {
+      "Gewerbeanmeldungen insgesamt": [
+        {
+          "value": 6439
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 116
+        },
+        {
+          "value": 98
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 873
+        },
+        {
+          "value": 680
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 1288
+        },
+        {
+          "value": 1189
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 122
+        },
+        {
+          "value": 138
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 429
+        },
+        {
+          "value": 355
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 368
+        },
+        {
+          "value": 239
+        }
+      ],
+      "Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 158
+        },
+        {
+          "value": 219
+        }
+      ],
+      "Grundstücks- und Wohnungswesen": [
+        {
+          "value": 181
+        },
+        {
+          "value": 164
+        }
+      ],
+      "Erbringung freiberuflicher, wissenschaftlicher und technischer Dienstleistungen": [
+        {
+          "value": 726
+        },
+        {
+          "value": 522
+        }
+      ],
+      "Sonstige wirtschaftliche Dienstleistungen": [
+        {
+          "value": 1062
+        },
+        {
+          "value": 860
+        }
+      ],
+      "Erbringung von sonstigen Dienstleistungen": [
+        {
+          "value": 704
+        },
+        {
+          "value": 470
+        }
+      ],
+      "Übrige Wirtschaftszweige": [
+        {
+          "value": 191
+        },
+        {
+          "value": 84
+        }
+      ],
+      "Gewerbeabmeldungen insgesamt": [
+        {
+          "value": 5166
+        }
+      ]
+    },
+    "2013": {
+      "Gewerbeanmeldungen insgesamt": [
+        {
+          "value": 5646
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 124
+        },
+        {
+          "value": 130
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 404
+        },
+        {
+          "value": 673
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 1151
+        },
+        {
+          "value": 1084
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 109
+        },
+        {
+          "value": 132
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 413
+        },
+        {
+          "value": 361
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 337
+        },
+        {
+          "value": 224
+        }
+      ],
+      "Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 145
+        },
+        {
+          "value": 216
+        }
+      ],
+      "Grundstücks- und Wohnungswesen": [
+        {
+          "value": 176
+        },
+        {
+          "value": 161
+        }
+      ],
+      "Erbringung freiberuflicher, wissenschaftlicher und technischer Dienstleistungen": [
+        {
+          "value": 697
+        },
+        {
+          "value": 482
+        }
+      ],
+      "Sonstige wirtschaftliche Dienstleistungen": [
+        {
+          "value": 934
+        },
+        {
+          "value": 750
+        }
+      ],
+      "Erbringung von sonstigen Dienstleistungen": [
+        {
+          "value": 756
+        },
+        {
+          "value": 596
+        }
+      ],
+      "Übrige Wirtschaftszweige": [
+        {
+          "value": 177
+        },
+        {
+          "value": 89
+        }
+      ],
+      "Gewerbeabmeldungen insgesamt": [
+        {
+          "value": 5052
+        }
+      ]
+    },
+    "2014": {
+      "Information und Kommunikation": [
+        {
+          "value": 215
+        },
+        {
+          "value": 298
+        }
+      ],
+      "Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 184
+        },
+        {
+          "value": 166
+        }
+      ],
+      "Grundstücks- und Wohnungswesen": [
+        {
+          "value": 128
+        },
+        {
+          "value": 191
+        }
+      ],
+      "Erbringung freiberuflicher, wissenschaftlicher und technischer Dienstleistungen": [
+        {
+          "value": 450
+        },
+        {
+          "value": 686
+        }
+      ],
+      "Sonstige wirtschaftliche Dienstleistungen": [
+        {
+          "value": 792
+        },
+        {
+          "value": 981
+        }
+      ],
+      "Erbringung von sonstigen Dienstleistungen": [
+        {
+          "value": 652
+        },
+        {
+          "value": 699
+        }
+      ],
+      "Übrige Wirtschaftszweige": [
+        {
+          "value": 115
+        },
+        {
+          "value": 163
+        }
+      ],
+      "Gewerbeanmeldungen insgesamt": [
+        {
+          "value": 5695
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 127
+        },
+        {
+          "value": 102
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 460
+        },
+        {
+          "value": 528
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 1168
+        },
+        {
+          "value": 1182
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 105
+        },
+        {
+          "value": 116
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 434
+        },
+        {
+          "value": 362
+        }
+      ],
+      "Gewerbeabmeldungen insgesamt": [
+        {
+          "value": 4974
+        }
+      ]
+    },
+    "2015": {
+      "Gewerbeanmeldungen insgesamt": [
+        {
+          "value": 5881
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 112
+        },
+        {
+          "value": 114
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 560
+        },
+        {
+          "value": 597
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 1113
+        },
+        {
+          "value": 1105
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 127
+        },
+        {
+          "value": 121
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 471
+        },
+        {
+          "value": 373
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 323
+        },
+        {
+          "value": 229
+        }
+      ],
+      "Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 158
+        },
+        {
+          "value": 193
+        }
+      ],
+      "Grundstücks- und Wohnungswesen": [
+        {
+          "value": 206
+        },
+        {
+          "value": 172
+        }
+      ],
+      "Erbringung freiberuflicher, wissenschaftlicher und technischer Dienstleistungen": [
+        {
+          "value": 645
+        },
+        {
+          "value": 466
+        }
+      ],
+      "Sonstige wirtschaftliche Dienstleistungen": [
+        {
+          "value": 993
+        },
+        {
+          "value": 756
+        }
+      ],
+      "Erbringung von sonstigen Dienstleistungen": [
+        {
+          "value": 737
+        },
+        {
+          "value": 660
+        }
+      ],
+      "Übrige Wirtschaftszweige": [
+        {
+          "value": 174
+        },
+        {
+          "value": 93
+        }
+      ],
+      "Gewerbeabmeldungen insgesamt": [
+        {
+          "value": 5033
+        }
+      ]
+    },
+    "2016": {
+      "Gewerbeabmeldungen insgesamt": [
+        {
+          "value": 4866
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 539
+        },
+        {
+          "value": 562
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 1086
+        },
+        {
+          "value": 1103
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 115
+        },
+        {
+          "value": 118
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 393
+        },
+        {
+          "value": 477
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 210
+        },
+        {
+          "value": 339
+        }
+      ],
+      "Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 159
+        },
+        {
+          "value": 156
+        }
+      ],
+      "Grundstücks- und Wohnungswesen": [
+        {
+          "value": 164
+        },
+        {
+          "value": 194
+        }
+      ],
+      "Erbringung freiberuflicher, wissenschaftlicher und technischer Dienstleistungen": [
+        {
+          "value": 475
+        },
+        {
+          "value": 708
+        }
+      ],
+      "Sonstige wirtschaftliche Dienstleistungen": [
+        {
+          "value": 773
+        },
+        {
+          "value": 899
+        }
+      ],
+      "Erbringung von sonstigen Dienstleistungen": [
+        {
+          "value": 601
+        },
+        {
+          "value": 656
+        }
+      ],
+      "Übrige Wirtschaftszweige": [
+        {
+          "value": 83
+        },
+        {
+          "value": 161
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 106
+        },
+        {
+          "value": 129
+        }
+      ],
+      "Gewerbeanmeldungen insgesamt": [
+        {
+          "value": 5762
+        }
+      ]
+    },
+    "2017": {
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 985
+        },
+        {
+          "value": 1036
+        }
+      ],
+      "Gewerbeanmeldungen insgesamt": [
+        {
+          "value": 5409
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 95
+        },
+        {
+          "value": 101
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 510
+        },
+        {
+          "value": 568
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 123
+        },
+        {
+          "value": 123
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 468
+        },
+        {
+          "value": 416
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 303
+        },
+        {
+          "value": 245
+        }
+      ],
+      "Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 163
+        },
+        {
+          "value": 164
+        }
+      ],
+      "Grundstücks- und Wohnungswesen": [
+        {
+          "value": 227
+        },
+        {
+          "value": 143
+        }
+      ],
+      "Erbringung freiberuflicher, wissenschaftlicher und technischer Dienstleistungen": [
+        {
+          "value": 689
+        },
+        {
+          "value": 550
+        }
+      ],
+      "Sonstige wirtschaftliche Dienstleistungen": [
+        {
+          "value": 825
+        },
+        {
+          "value": 777
+        }
+      ],
+      "Erbringung von sonstigen Dienstleistungen": [
+        {
+          "value": 531
+        },
+        {
+          "value": 469
+        }
+      ],
+      "Übrige Wirtschaftszweige": [
+        {
+          "value": 195
+        },
+        {
+          "value": 108
+        }
+      ],
+      "Gewerbeabmeldungen insgesamt": [
+        {
+          "value": 4903
+        }
+      ]
+    },
+    "2018": {
+      "Gastgewerbe": [
+        {
+          "value": 405
+        },
+        {
+          "value": 436
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 231
+        },
+        {
+          "value": 345
+        }
+      ],
+      "Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 179
+        },
+        {
+          "value": 159
+        }
+      ],
+      "Grundstücks- und Wohnungswesen": [
+        {
+          "value": 158
+        },
+        {
+          "value": 207
+        }
+      ],
+      "Erbringung freiberuflicher, wissenschaftlicher und technischer Dienstleistungen": [
+        {
+          "value": 508
+        },
+        {
+          "value": 647
+        }
+      ],
+      "Sonstige wirtschaftliche Dienstleistungen": [
+        {
+          "value": 721
+        },
+        {
+          "value": 791
+        }
+      ],
+      "Erbringung von sonstigen Dienstleistungen": [
+        {
+          "value": 476
+        },
+        {
+          "value": 501
+        }
+      ],
+      "Übrige Wirtschaftszweige": [
+        {
+          "value": 102
+        },
+        {
+          "value": 205
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 1057
+        },
+        {
+          "value": 1050
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 108
+        },
+        {
+          "value": 131
+        }
+      ],
+      "Gewerbeanmeldungen insgesamt": [
+        {
+          "value": 5356
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 104
+        },
+        {
+          "value": 105
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 478
+        },
+        {
+          "value": 482
+        }
+      ],
+      "Gewerbeabmeldungen insgesamt": [
+        {
+          "value": 4729
+        }
+      ]
+    },
+    "2019": {
+      "Gewerbeanmeldungen insgesamt": [
+        {
+          "value": 5379
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 122
+        },
+        {
+          "value": 107
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 647
+        },
+        {
+          "value": 521
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 1079
+        },
+        {
+          "value": 1034
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 133
+        },
+        {
+          "value": 115
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 433
+        },
+        {
+          "value": 410
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 335
+        },
+        {
+          "value": 252
+        }
+      ],
+      "Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 119
+        },
+        {
+          "value": 146
+        }
+      ],
+      "Grundstücks- und Wohnungswesen": [
+        {
+          "value": 226
+        },
+        {
+          "value": 150
+        }
+      ],
+      "Erbringung freiberuflicher, wissenschaftlicher und technischer Dienstleistungen": [
+        {
+          "value": 615
+        },
+        {
+          "value": 530
+        }
+      ],
+      "Sonstige wirtschaftliche Dienstleistungen": [
+        {
+          "value": 768
+        },
+        {
+          "value": 722
+        }
+      ],
+      "Erbringung von sonstigen Dienstleistungen": [
+        {
+          "value": 389
+        },
+        {
+          "value": 427
+        }
+      ],
+      "Übrige Wirtschaftszweige": [
+        {
+          "value": 219
+        },
+        {
+          "value": 111
+        }
+      ],
+      "Gewerbeabmeldungen insgesamt": [
+        {
+          "value": 4757
+        }
+      ]
+    },
+    "2020": {
+      "Gewerbeanmeldungen insgesamt": [
+        {
+          "value": 5130
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 100
+        },
+        {
+          "value": 104
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 479
+        },
+        {
+          "value": 503
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 1182
+        },
+        {
+          "value": 914
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 207
+        },
+        {
+          "value": 135
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 364
+        },
+        {
+          "value": 319
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 424
+        },
+        {
+          "value": 186
+        }
+      ],
+      "Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 168
+        },
+        {
+          "value": 126
+        }
+      ],
+      "Grundstücks- und Wohnungswesen": [
+        {
+          "value": 203
+        },
+        {
+          "value": 126
+        }
+      ],
+      "Erbringung freiberuflicher, wissenschaftlicher und technischer Dienstleistungen": [
+        {
+          "value": 585
+        },
+        {
+          "value": 517
+        }
+      ],
+      "Sonstige wirtschaftliche Dienstleistungen": [
+        {
+          "value": 676
+        },
+        {
+          "value": 649
+        }
+      ],
+      "Erbringung von sonstigen Dienstleistungen": [
+        {
+          "value": 336
+        },
+        {
+          "value": 436
+        }
+      ],
+      "Übrige Wirtschaftszweige": [
+        {
+          "value": 170
+        },
+        {
+          "value": 112
+        }
+      ],
+      "Gewerbeabmeldungen insgesamt": [
+        {
+          "value": 4301
+        }
+      ]
+    },
+    "2021": {
+      "Gewerbeanmeldungen insgesamt": [
+        {
+          "value": 5394
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 173
+        },
+        {
+          "value": 93
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 465
+        },
+        {
+          "value": 434
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 1195
+        },
+        {
+          "value": 830
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 241
+        },
+        {
+          "value": 169
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 378
+        },
+        {
+          "value": 318
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 406
+        },
+        {
+          "value": 231
+        }
+      ],
+      "Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 197
+        },
+        {
+          "value": 140
+        }
+      ],
+      "Grundstücks- und Wohnungswesen": [
+        {
+          "value": 205
+        },
+        {
+          "value": 142
+        }
+      ],
+      "Erbringung freiberuflicher, wissenschaftlicher und technischer Dienstleistungen": [
+        {
+          "value": 645
+        },
+        {
+          "value": 404
+        }
+      ],
+      "Sonstige wirtschaftliche Dienstleistungen": [
+        {
+          "value": 652
+        },
+        {
+          "value": 576
+        }
+      ],
+      "Erbringung von sonstigen Dienstleistungen": [
+        {
+          "value": 294
+        },
+        {
+          "value": 329
+        }
+      ],
+      "Übrige Wirtschaftszweige": [
+        {
+          "value": 543
+        },
+        {
+          "value": 276
+        }
+      ],
+      "Gewerbeabmeldungen insgesamt": [
+        {
+          "value": 3942
+        }
+      ]
+    },
+    "2022": {
+      "Gewerbeanmeldungen insgesamt": [
+        {
+          "value": 5384
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 134
+        },
+        {
+          "value": 96
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 446
+        },
+        {
+          "value": 430
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 1129
+        },
+        {
+          "value": 1026
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 162
+        },
+        {
+          "value": 214
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 407
+        },
+        {
+          "value": 349
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 369
+        },
+        {
+          "value": 239
+        }
+      ],
+      "Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 169
+        },
+        {
+          "value": 135
+        }
+      ],
+      "Grundstücks- und Wohnungswesen": [
+        {
+          "value": 326
+        },
+        {
+          "value": 150
+        }
+      ],
+      "Erbringung freiberuflicher, wissenschaftlicher und technischer Dienstleistungen": [
+        {
+          "value": 587
+        },
+        {
+          "value": 449
+        }
+      ],
+      "Sonstige wirtschaftliche Dienstleistungen": [
+        {
+          "value": 675
+        },
+        {
+          "value": 566
+        }
+      ],
+      "Erbringung von sonstigen Dienstleistungen": [
+        {
+          "value": 379
+        },
+        {
+          "value": 347
+        }
+      ],
+      "Übrige Wirtschaftszweige": [
+        {
+          "value": 236
+        },
+        {
+          "value": 127
+        }
+      ],
+      "Gewerbeabmeldungen insgesamt": [
+        {
+          "value": 4349
+        }
+      ]
+    },
+    "2023": {
+      "Gewerbeanmeldungen insgesamt": [
+        {
+          "value": 5263
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 91
+        },
+        {
+          "value": 89
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 372
+        },
+        {
+          "value": 440
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 1221
+        },
+        {
+          "value": 1021
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 119
+        },
+        {
+          "value": 147
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 469
+        },
+        {
+          "value": 408
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 362
+        },
+        {
+          "value": 237
+        }
+      ],
+      "Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 163
+        },
+        {
+          "value": 161
+        }
+      ],
+      "Grundstücks- und Wohnungswesen": [
+        {
+          "value": 155
+        },
+        {
+          "value": 115
+        }
+      ],
+      "Erbringung freiberuflicher, wissenschaftlicher und technischer Dienstleistungen": [
+        {
+          "value": 634
+        },
+        {
+          "value": 404
+        }
+      ],
+      "Sonstige wirtschaftliche Dienstleistungen": [
+        {
+          "value": 716
+        },
+        {
+          "value": 581
+        }
+      ],
+      "Erbringung von sonstigen Dienstleistungen": [
+        {
+          "value": 378
+        },
+        {
+          "value": 327
+        }
+      ],
+      "Übrige Wirtschaftszweige": [
+        {
+          "value": 209
+        },
+        {
+          "value": 169
+        }
+      ],
+      "Gewerbeabmeldungen insgesamt": [
+        {
+          "value": 4312
+        }
+      ]
+    },
+    "2024": {
+      "Gewerbeanmeldungen insgesamt": [
+        {
+          "value": 5158
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 134
+        },
+        {
+          "value": 106
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 347
+        },
+        {
+          "value": 416
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 1067
+        },
+        {
+          "value": 1056
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 142
+        },
+        {
+          "value": 147
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 525
+        },
+        {
+          "value": 454
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 325
+        },
+        {
+          "value": 249
+        }
+      ],
+      "Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 141
+        },
+        {
+          "value": 137
+        }
+      ],
+      "Grundstücks- und Wohnungswesen": [
+        {
+          "value": 150
+        },
+        {
+          "value": 117
+        }
+      ],
+      "Erbringung freiberuflicher, wissenschaftlicher und technischer Dienstleistungen": [
+        {
+          "value": 645
+        },
+        {
+          "value": 440
+        }
+      ],
+      "Sonstige wirtschaftliche Dienstleistungen": [
+        {
+          "value": 769
+        },
+        {
+          "value": 617
+        }
+      ],
+      "Erbringung von sonstigen Dienstleistungen": [
+        {
+          "value": 410
+        },
+        {
+          "value": 356
+        }
+      ],
+      "Übrige Wirtschaftszweige": [
+        {
+          "value": 218
+        },
+        {
+          "value": 124
+        }
+      ],
+      "Gewerbeabmeldungen insgesamt": [
+        {
+          "value": 4412
+        }
+      ]
+    }
+  }
+}

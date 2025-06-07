@@ -1,0 +1,1262 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=3&rubrik_nr=6&periode=y",
+    "title": "Zuzüge__insgesamt"
+  },
+  "data": {
+    "2000": {
+      "Insgesamt": [
+        {
+          "value": 21239
+        },
+        {
+          "value": 19576
+        },
+        {
+          "value": 1663
+        }
+      ],
+      "Männer": [
+        {
+          "value": 12026
+        },
+        {
+          "value": 10923
+        },
+        {
+          "value": 1103
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 9213
+        },
+        {
+          "value": 8653
+        },
+        {
+          "value": 560
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2001": {
+      "Insgesamt": [
+        {
+          "value": 20507
+        },
+        {
+          "value": 19208
+        },
+        {
+          "value": 1299
+        }
+      ],
+      "Männer": [
+        {
+          "value": 11371
+        },
+        {
+          "value": 10734
+        },
+        {
+          "value": 637
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 9136
+        },
+        {
+          "value": 8474
+        },
+        {
+          "value": 662
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2002": {
+      "Insgesamt": [
+        {
+          "value": 21435
+        },
+        {
+          "value": 18099
+        },
+        {
+          "value": 3336
+        }
+      ],
+      "Männer": [
+        {
+          "value": 11617
+        },
+        {
+          "value": 9989
+        },
+        {
+          "value": 1628
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 9818
+        },
+        {
+          "value": 8110
+        },
+        {
+          "value": 1708
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2003": {
+      "Insgesamt": [
+        {
+          "value": 21696
+        },
+        {
+          "value": 17809
+        },
+        {
+          "value": 3887
+        }
+      ],
+      "Männer": [
+        {
+          "value": 11680
+        },
+        {
+          "value": 9591
+        },
+        {
+          "value": 2089
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 10016
+        },
+        {
+          "value": 8218
+        },
+        {
+          "value": 1798
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2004": {
+      "Insgesamt": [
+        {
+          "value": 21554
+        },
+        {
+          "value": 19480
+        },
+        {
+          "value": 2074
+        }
+      ],
+      "Männer": [
+        {
+          "value": 11553
+        },
+        {
+          "value": 11099
+        },
+        {
+          "value": 454
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 10001
+        },
+        {
+          "value": 8381
+        },
+        {
+          "value": 1620
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2005": {
+      "Insgesamt": [
+        {
+          "value": 20815
+        },
+        {
+          "value": 17770
+        },
+        {
+          "value": 3045
+        }
+      ],
+      "Männer": [
+        {
+          "value": 10867
+        },
+        {
+          "value": 9162
+        },
+        {
+          "value": 1705
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 9948
+        },
+        {
+          "value": 8608
+        },
+        {
+          "value": 1340
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2006": {
+      "Insgesamt": [
+        {
+          "value": 21897
+        },
+        {
+          "value": 17263
+        },
+        {
+          "value": 4634
+        }
+      ],
+      "Männer": [
+        {
+          "value": 11560
+        },
+        {
+          "value": 9131
+        },
+        {
+          "value": 2429
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 10337
+        },
+        {
+          "value": 8132
+        },
+        {
+          "value": 2205
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2007": {
+      "Insgesamt": [
+        {
+          "value": 35488
+        },
+        {
+          "value": 19817
+        },
+        {
+          "value": 15671
+        }
+      ],
+      "Männer": [
+        {
+          "value": 23294
+        },
+        {
+          "value": 10149
+        },
+        {
+          "value": 13145
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 12194
+        },
+        {
+          "value": 9668
+        },
+        {
+          "value": 2526
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2008": {
+      "Insgesamt": [
+        {
+          "value": 24532
+        },
+        {
+          "value": 19309
+        },
+        {
+          "value": 5223
+        }
+      ],
+      "Männer": [
+        {
+          "value": 12716
+        },
+        {
+          "value": 9789
+        },
+        {
+          "value": 2927
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 11816
+        },
+        {
+          "value": 9520
+        },
+        {
+          "value": 2296
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2009": {
+      "Insgesamt": [
+        {
+          "value": 25230
+        },
+        {
+          "value": 19166
+        },
+        {
+          "value": 6064
+        }
+      ],
+      "Männer": [
+        {
+          "value": 12892
+        },
+        {
+          "value": 9461
+        },
+        {
+          "value": 3431
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 12338
+        },
+        {
+          "value": 9705
+        },
+        {
+          "value": 2633
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2010": {
+      "Insgesamt": [
+        {
+          "value": 27034
+        },
+        {
+          "value": 18584
+        },
+        {
+          "value": 8450
+        }
+      ],
+      "Männer": [
+        {
+          "value": 13975
+        },
+        {
+          "value": 9191
+        },
+        {
+          "value": 4784
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 13059
+        },
+        {
+          "value": 9393
+        },
+        {
+          "value": 3666
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2011": {
+      "Insgesamt": [
+        {
+          "value": 29798
+        },
+        {
+          "value": 20108
+        },
+        {
+          "value": 9690
+        }
+      ],
+      "Männer": [
+        {
+          "value": 15592
+        },
+        {
+          "value": 10073
+        },
+        {
+          "value": 5519
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 14206
+        },
+        {
+          "value": 10035
+        },
+        {
+          "value": 4171
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 23236
+        },
+        {
+          "value": 16250
+        },
+        {
+          "value": 6986
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 6562
+        },
+        {
+          "value": 3858
+        },
+        {
+          "value": 2704
+        }
+      ]
+    },
+    "2012": {
+      "Insgesamt": [
+        {
+          "value": 31658
+        },
+        {
+          "value": 19989
+        },
+        {
+          "value": 11669
+        }
+      ],
+      "Männer": [
+        {
+          "value": 16879
+        },
+        {
+          "value": 10051
+        },
+        {
+          "value": 6828
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 14779
+        },
+        {
+          "value": 9938
+        },
+        {
+          "value": 4841
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 23683
+        },
+        {
+          "value": 15987
+        },
+        {
+          "value": 7696
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 7975
+        },
+        {
+          "value": 4002
+        },
+        {
+          "value": 3973
+        }
+      ]
+    },
+    "2013": {
+      "Insgesamt": [
+        {
+          "value": 32355
+        },
+        {
+          "value": 21006
+        },
+        {
+          "value": 11349
+        }
+      ],
+      "Männer": [
+        {
+          "value": 17047
+        },
+        {
+          "value": 10762
+        },
+        {
+          "value": 6285
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 15308
+        },
+        {
+          "value": 10244
+        },
+        {
+          "value": 5064
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 23167
+        },
+        {
+          "value": 16103
+        },
+        {
+          "value": 7064
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 9188
+        },
+        {
+          "value": 4903
+        },
+        {
+          "value": 4285
+        }
+      ]
+    },
+    "2014": {
+      "Insgesamt": [
+        {
+          "value": 35381
+        },
+        {
+          "value": 22448
+        },
+        {
+          "value": 12933
+        }
+      ],
+      "Männer": [
+        {
+          "value": 19071
+        },
+        {
+          "value": 11478
+        },
+        {
+          "value": 7593
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 16310
+        },
+        {
+          "value": 10970
+        },
+        {
+          "value": 5340
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 24190
+        },
+        {
+          "value": 16943
+        },
+        {
+          "value": 7247
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 11191
+        },
+        {
+          "value": 5505
+        },
+        {
+          "value": 5686
+        }
+      ]
+    },
+    "2015": {
+      "Insgesamt": [
+        {
+          "value": 40963
+        },
+        {
+          "value": 24294
+        },
+        {
+          "value": 16669
+        }
+      ],
+      "Männer": [
+        {
+          "value": 22825
+        },
+        {
+          "value": 12734
+        },
+        {
+          "value": 10091
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 18138
+        },
+        {
+          "value": 11560
+        },
+        {
+          "value": 6578
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 23710
+        },
+        {
+          "value": 17099
+        },
+        {
+          "value": 6611
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 17253
+        },
+        {
+          "value": 7195
+        },
+        {
+          "value": 10058
+        }
+      ]
+    },
+    "2016": {
+      "Insgesamt": [
+        {
+          "value": 40052
+        },
+        {
+          "value": 26859
+        },
+        {
+          "value": 13193
+        }
+      ],
+      "Männer": [
+        {
+          "value": 22616
+        },
+        {
+          "value": 14354
+        },
+        {
+          "value": 8262
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 17436
+        },
+        {
+          "value": 12505
+        },
+        {
+          "value": 4931
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 22457
+        },
+        {
+          "value": 17692
+        },
+        {
+          "value": 4765
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 17595
+        },
+        {
+          "value": 9167
+        },
+        {
+          "value": 8428
+        }
+      ]
+    },
+    "2017": {
+      "Insgesamt": [
+        {
+          "value": 36013
+        },
+        {
+          "value": 25935
+        },
+        {
+          "value": 10078
+        }
+      ],
+      "Männer": [
+        {
+          "value": 19120
+        },
+        {
+          "value": 13393
+        },
+        {
+          "value": 5727
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 16893
+        },
+        {
+          "value": 12542
+        },
+        {
+          "value": 4351
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 22906
+        },
+        {
+          "value": 18642
+        },
+        {
+          "value": 4264
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 13107
+        },
+        {
+          "value": 7293
+        },
+        {
+          "value": 5814
+        }
+      ]
+    },
+    "2018": {
+      "Insgesamt": [
+        {
+          "value": 33886
+        },
+        {
+          "value": 26912
+        },
+        {
+          "value": 6974
+        }
+      ],
+      "Männer": [
+        {
+          "value": 17614
+        },
+        {
+          "value": 13835
+        },
+        {
+          "value": 3779
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 16272
+        },
+        {
+          "value": 13077
+        },
+        {
+          "value": 3195
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 22168
+        },
+        {
+          "value": 19133
+        },
+        {
+          "value": 3035
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 11718
+        },
+        {
+          "value": 7779
+        },
+        {
+          "value": 3939
+        }
+      ]
+    },
+    "2019": {
+      "Insgesamt": [
+        {
+          "value": 33962
+        },
+        {
+          "value": 27849
+        },
+        {
+          "value": 6113
+        }
+      ],
+      "Männer": [
+        {
+          "value": 17894
+        },
+        {
+          "value": 14214
+        },
+        {
+          "value": 3680
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 16068
+        },
+        {
+          "value": 13635
+        },
+        {
+          "value": 2433
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 22040
+        },
+        {
+          "value": 19576
+        },
+        {
+          "value": 2464
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 11922
+        },
+        {
+          "value": 8273
+        },
+        {
+          "value": 3649
+        }
+      ]
+    },
+    "2020": {
+      "Insgesamt": [
+        {
+          "value": 30302
+        },
+        {
+          "value": 25367
+        },
+        {
+          "value": 4935
+        }
+      ],
+      "Männer": [
+        {
+          "value": 15655
+        },
+        {
+          "value": 13146
+        },
+        {
+          "value": 2509
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 14647
+        },
+        {
+          "value": 12221
+        },
+        {
+          "value": 2426
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 20802
+        },
+        {
+          "value": 18426
+        },
+        {
+          "value": 2376
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 9500
+        },
+        {
+          "value": 6941
+        },
+        {
+          "value": 2559
+        }
+      ]
+    },
+    "2021": {
+      "Insgesamt": [
+        {
+          "value": 30890
+        },
+        {
+          "value": 26841
+        },
+        {
+          "value": 4049
+        }
+      ],
+      "Männer": [
+        {
+          "value": 16029
+        },
+        {
+          "value": 13777
+        },
+        {
+          "value": 2252
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 14861
+        },
+        {
+          "value": 13064
+        },
+        {
+          "value": 1797
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 20221
+        },
+        {
+          "value": 19021
+        },
+        {
+          "value": 1200
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 10669
+        },
+        {
+          "value": 7820
+        },
+        {
+          "value": 2849
+        }
+      ]
+    }
+  }
+}

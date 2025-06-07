@@ -1,0 +1,1779 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=10&rubrik_nr=3&periode=y",
+    "title": "Verkehrsunfälle__Verkehrsunfälle__insgesamt"
+  },
+  "data": {
+    "2001": {
+      "Verkehrsunfälle insgesamt": [
+        {
+          "value": 15555
+        }
+      ],
+      "mit Personenschaden": [
+        {
+          "value": 2011
+        }
+      ],
+      "Getötete Personen": [
+        {
+          "value": 22
+        }
+      ],
+      "Schwerverletzte": [
+        {
+          "value": 314
+        }
+      ],
+      "Leichtverletzte": [
+        {
+          "value": 2066
+        }
+      ],
+      "mit Kindern bis unter 15 Jahren": [
+        {
+          "value": 192
+        }
+      ],
+      "Getötete Kinder": [
+        {
+          "value": 1
+        }
+      ],
+      "Verletzte Kinder": [
+        {
+          "value": 166
+        }
+      ],
+      "mit Unfallflucht": [
+        {
+          "value": 3292
+        }
+      ],
+      "unter Alkoholeinfluss": [
+        {
+          "value": 388
+        }
+      ],
+      "unter Drogeneinfluss": [
+        {
+          "value": null
+        }
+      ],
+      "mit Radfahrern": [
+        {
+          "value": 776
+        }
+      ],
+      "darunter verursacht von Radfahrern": [
+        {
+          "value": 367
+        }
+      ],
+      "Getötete Radfahrer": [
+        {
+          "value": 5
+        }
+      ],
+      "Verletzte Radfahrer": [
+        {
+          "value": 543
+        }
+      ]
+    },
+    "2002": {
+      "mit Radfahrern": [
+        {
+          "value": 832
+        }
+      ],
+      "darunter verursacht von Radfahrern": [
+        {
+          "value": 365
+        }
+      ],
+      "Getötete Radfahrer": [
+        {
+          "value": 4
+        }
+      ],
+      "Verletzte Radfahrer": [
+        {
+          "value": 575
+        }
+      ],
+      "unter Drogeneinfluss": [
+        {
+          "value": null
+        }
+      ],
+      "Verkehrsunfälle insgesamt": [
+        {
+          "value": 15145
+        }
+      ],
+      "mit Personenschaden": [
+        {
+          "value": 1972
+        }
+      ],
+      "Getötete Personen": [
+        {
+          "value": 15
+        }
+      ],
+      "Schwerverletzte": [
+        {
+          "value": 334
+        }
+      ],
+      "Leichtverletzte": [
+        {
+          "value": 2070
+        }
+      ],
+      "mit Kindern bis unter 15 Jahren": [
+        {
+          "value": 223
+        }
+      ],
+      "Getötete Kinder": [
+        {
+          "value": null
+        }
+      ],
+      "Verletzte Kinder": [
+        {
+          "value": 190
+        }
+      ],
+      "mit Unfallflucht": [
+        {
+          "value": 3210
+        }
+      ],
+      "unter Alkoholeinfluss": [
+        {
+          "value": 398
+        }
+      ]
+    },
+    "2003": {
+      "Verkehrsunfälle insgesamt": [
+        {
+          "value": 15091
+        }
+      ],
+      "mit Personenschaden": [
+        {
+          "value": 1856
+        }
+      ],
+      "Getötete Personen": [
+        {
+          "value": 19
+        }
+      ],
+      "Schwerverletzte": [
+        {
+          "value": 322
+        }
+      ],
+      "Leichtverletzte": [
+        {
+          "value": 1925
+        }
+      ],
+      "mit Kindern bis unter 15 Jahren": [
+        {
+          "value": 172
+        }
+      ],
+      "Getötete Kinder": [
+        {
+          "value": 1
+        }
+      ],
+      "Verletzte Kinder": [
+        {
+          "value": 138
+        }
+      ],
+      "mit Unfallflucht": [
+        {
+          "value": 3244
+        }
+      ],
+      "unter Alkoholeinfluss": [
+        {
+          "value": 370
+        }
+      ],
+      "unter Drogeneinfluss": [
+        {
+          "value": null
+        }
+      ],
+      "mit Radfahrern": [
+        {
+          "value": 906
+        }
+      ],
+      "darunter verursacht von Radfahrern": [
+        {
+          "value": 402
+        }
+      ],
+      "Getötete Radfahrer": [
+        {
+          "value": 4
+        }
+      ],
+      "Verletzte Radfahrer": [
+        {
+          "value": 582
+        }
+      ]
+    },
+    "2004": {
+      "mit Radfahrern": [
+        {
+          "value": 949
+        }
+      ],
+      "darunter verursacht von Radfahrern": [
+        {
+          "value": 416
+        }
+      ],
+      "Getötete Radfahrer": [
+        {
+          "value": 1
+        }
+      ],
+      "Verletzte Radfahrer": [
+        {
+          "value": 584
+        }
+      ],
+      "unter Drogeneinfluss": [
+        {
+          "value": null
+        }
+      ],
+      "Verkehrsunfälle insgesamt": [
+        {
+          "value": 15153
+        }
+      ],
+      "mit Personenschaden": [
+        {
+          "value": 1704
+        }
+      ],
+      "Getötete Personen": [
+        {
+          "value": 11
+        }
+      ],
+      "Schwerverletzte": [
+        {
+          "value": 281
+        }
+      ],
+      "Leichtverletzte": [
+        {
+          "value": 1757
+        }
+      ],
+      "mit Kindern bis unter 15 Jahren": [
+        {
+          "value": 153
+        }
+      ],
+      "Getötete Kinder": [
+        {
+          "value": null
+        }
+      ],
+      "Verletzte Kinder": [
+        {
+          "value": 123
+        }
+      ],
+      "mit Unfallflucht": [
+        {
+          "value": 3324
+        }
+      ],
+      "unter Alkoholeinfluss": [
+        {
+          "value": 330
+        }
+      ]
+    },
+    "2005": {
+      "Verkehrsunfälle insgesamt": [
+        {
+          "value": 15595
+        }
+      ],
+      "mit Personenschaden": [
+        {
+          "value": 1872
+        }
+      ],
+      "Getötete Personen": [
+        {
+          "value": 17
+        }
+      ],
+      "Schwerverletzte": [
+        {
+          "value": 309
+        }
+      ],
+      "Leichtverletzte": [
+        {
+          "value": 1908
+        }
+      ],
+      "mit Kindern bis unter 15 Jahren": [
+        {
+          "value": 179
+        }
+      ],
+      "Getötete Kinder": [
+        {
+          "value": 2
+        }
+      ],
+      "Verletzte Kinder": [
+        {
+          "value": 140
+        }
+      ],
+      "mit Unfallflucht": [
+        {
+          "value": 3477
+        }
+      ],
+      "unter Alkoholeinfluss": [
+        {
+          "value": 329
+        }
+      ],
+      "unter Drogeneinfluss": [
+        {
+          "value": 9
+        }
+      ],
+      "mit Radfahrern": [
+        {
+          "value": 1047
+        }
+      ],
+      "darunter verursacht von Radfahrern": [
+        {
+          "value": 462
+        }
+      ],
+      "Getötete Radfahrer": [
+        {
+          "value": 5
+        }
+      ],
+      "Verletzte Radfahrer": [
+        {
+          "value": 669
+        }
+      ]
+    },
+    "2006": {
+      "mit Radfahrern": [
+        {
+          "value": 1068
+        }
+      ],
+      "darunter verursacht von Radfahrern": [
+        {
+          "value": 484
+        }
+      ],
+      "Getötete Radfahrer": [
+        {
+          "value": 1
+        }
+      ],
+      "Verletzte Radfahrer": [
+        {
+          "value": 727
+        }
+      ],
+      "unter Drogeneinfluss": [
+        {
+          "value": 7
+        }
+      ],
+      "Verkehrsunfälle insgesamt": [
+        {
+          "value": 14511
+        }
+      ],
+      "mit Personenschaden": [
+        {
+          "value": 1811
+        }
+      ],
+      "Getötete Personen": [
+        {
+          "value": 11
+        }
+      ],
+      "Schwerverletzte": [
+        {
+          "value": 312
+        }
+      ],
+      "Leichtverletzte": [
+        {
+          "value": 1816
+        }
+      ],
+      "mit Kindern bis unter 15 Jahren": [
+        {
+          "value": 125
+        }
+      ],
+      "Getötete Kinder": [
+        {
+          "value": null
+        }
+      ],
+      "Verletzte Kinder": [
+        {
+          "value": 124
+        }
+      ],
+      "mit Unfallflucht": [
+        {
+          "value": 3192
+        }
+      ],
+      "unter Alkoholeinfluss": [
+        {
+          "value": 324
+        }
+      ]
+    },
+    "2007": {
+      "unter Drogeneinfluss": [
+        {
+          "value": 8
+        }
+      ],
+      "mit Radfahrern": [
+        {
+          "value": 1159
+        }
+      ],
+      "darunter verursacht von Radfahrern": [
+        {
+          "value": 502
+        }
+      ],
+      "Getötete Radfahrer": [
+        {
+          "value": 3
+        }
+      ],
+      "Verletzte Radfahrer": [
+        {
+          "value": 761
+        }
+      ],
+      "Verkehrsunfälle insgesamt": [
+        {
+          "value": 14700
+        }
+      ],
+      "mit Personenschaden": [
+        {
+          "value": 1866
+        }
+      ],
+      "Getötete Personen": [
+        {
+          "value": 14
+        }
+      ],
+      "Schwerverletzte": [
+        {
+          "value": 297
+        }
+      ],
+      "Leichtverletzte": [
+        {
+          "value": 1868
+        }
+      ],
+      "mit Kindern bis unter 15 Jahren": [
+        {
+          "value": 124
+        }
+      ],
+      "Getötete Kinder": [
+        {
+          "value": null
+        }
+      ],
+      "Verletzte Kinder": [
+        {
+          "value": 105
+        }
+      ],
+      "mit Unfallflucht": [
+        {
+          "value": 3341
+        }
+      ],
+      "unter Alkoholeinfluss": [
+        {
+          "value": 334
+        }
+      ]
+    },
+    "2008": {
+      "Verkehrsunfälle insgesamt": [
+        {
+          "value": 14685
+        }
+      ],
+      "mit Personenschaden": [
+        {
+          "value": 1949
+        }
+      ],
+      "Getötete Personen": [
+        {
+          "value": 9
+        }
+      ],
+      "Schwerverletzte": [
+        {
+          "value": 284
+        }
+      ],
+      "Leichtverletzte": [
+        {
+          "value": 1922
+        }
+      ],
+      "mit Kindern bis unter 15 Jahren": [
+        {
+          "value": 128
+        }
+      ],
+      "Getötete Kinder": [
+        {
+          "value": null
+        }
+      ],
+      "Verletzte Kinder": [
+        {
+          "value": 109
+        }
+      ],
+      "mit Unfallflucht": [
+        {
+          "value": 3236
+        }
+      ],
+      "unter Alkoholeinfluss": [
+        {
+          "value": 285
+        }
+      ],
+      "mit Radfahrern": [
+        {
+          "value": 1155
+        }
+      ],
+      "darunter verursacht von Radfahrern": [
+        {
+          "value": 449
+        }
+      ],
+      "Getötete Radfahrer": [
+        {
+          "value": 4
+        }
+      ],
+      "Verletzte Radfahrer": [
+        {
+          "value": 792
+        }
+      ],
+      "unter Drogeneinfluss": [
+        {
+          "value": 9
+        }
+      ]
+    },
+    "2009": {
+      "Verkehrsunfälle insgesamt": [
+        {
+          "value": 14473
+        }
+      ],
+      "mit Personenschaden": [
+        {
+          "value": 1833
+        }
+      ],
+      "Getötete Personen": [
+        {
+          "value": 9
+        }
+      ],
+      "Schwerverletzte": [
+        {
+          "value": 291
+        }
+      ],
+      "Leichtverletzte": [
+        {
+          "value": 1842
+        }
+      ],
+      "mit Kindern bis unter 15 Jahren": [
+        {
+          "value": 139
+        }
+      ],
+      "Getötete Kinder": [
+        {
+          "value": null
+        }
+      ],
+      "Verletzte Kinder": [
+        {
+          "value": 118
+        }
+      ],
+      "mit Unfallflucht": [
+        {
+          "value": 3465
+        }
+      ],
+      "unter Alkoholeinfluss": [
+        {
+          "value": 255
+        }
+      ],
+      "unter Drogeneinfluss": [
+        {
+          "value": 13
+        }
+      ],
+      "mit Radfahrern": [
+        {
+          "value": 1019
+        }
+      ],
+      "darunter verursacht von Radfahrern": [
+        {
+          "value": 447
+        }
+      ],
+      "Getötete Radfahrer": [
+        {
+          "value": 3
+        }
+      ],
+      "Verletzte Radfahrer": [
+        {
+          "value": 705
+        }
+      ]
+    },
+    "2010": {
+      "Verkehrsunfälle insgesamt": [
+        {
+          "value": 14969
+        }
+      ],
+      "mit Personenschaden": [
+        {
+          "value": 1720
+        }
+      ],
+      "Getötete Personen": [
+        {
+          "value": 5
+        }
+      ],
+      "Schwerverletzte": [
+        {
+          "value": 246
+        }
+      ],
+      "Leichtverletzte": [
+        {
+          "value": 1814
+        }
+      ],
+      "mit Kindern bis unter 15 Jahren": [
+        {
+          "value": 140
+        }
+      ],
+      "Getötete Kinder": [
+        {
+          "value": null
+        }
+      ],
+      "Verletzte Kinder": [
+        {
+          "value": 114
+        }
+      ],
+      "mit Radfahrern": [
+        {
+          "value": 909
+        }
+      ],
+      "darunter verursacht von Radfahrern": [
+        {
+          "value": 411
+        }
+      ],
+      "Getötete Radfahrer": [
+        {
+          "value": 1
+        }
+      ],
+      "Verletzte Radfahrer": [
+        {
+          "value": 667
+        }
+      ],
+      "mit Unfallflucht": [
+        {
+          "value": 3896
+        }
+      ],
+      "unter Alkoholeinfluss": [
+        {
+          "value": 240
+        }
+      ],
+      "unter Drogeneinfluss": [
+        {
+          "value": 13
+        }
+      ]
+    },
+    "2011": {
+      "Verkehrsunfälle insgesamt": [
+        {
+          "value": 14461
+        }
+      ],
+      "mit Personenschaden": [
+        {
+          "value": 1858
+        }
+      ],
+      "Getötete Personen": [
+        {
+          "value": 6
+        }
+      ],
+      "Schwerverletzte": [
+        {
+          "value": 289
+        }
+      ],
+      "Leichtverletzte": [
+        {
+          "value": 1845
+        }
+      ],
+      "mit Kindern bis unter 15 Jahren": [
+        {
+          "value": 147
+        }
+      ],
+      "Getötete Kinder": [
+        {
+          "value": null
+        }
+      ],
+      "Verletzte Kinder": [
+        {
+          "value": 128
+        }
+      ],
+      "mit Radfahrern": [
+        {
+          "value": 1121
+        }
+      ],
+      "darunter verursacht von Radfahrern": [
+        {
+          "value": 483
+        }
+      ],
+      "Getötete Radfahrer": [
+        {
+          "value": 2
+        }
+      ],
+      "Verletzte Radfahrer": [
+        {
+          "value": 794
+        }
+      ],
+      "mit Unfallflucht": [
+        {
+          "value": 3909
+        }
+      ],
+      "unter Alkoholeinfluss": [
+        {
+          "value": 189
+        }
+      ],
+      "unter Drogeneinfluss": [
+        {
+          "value": 8
+        }
+      ]
+    },
+    "2012": {
+      "Verkehrsunfälle insgesamt": [
+        {
+          "value": 14485
+        }
+      ],
+      "mit Personenschaden": [
+        {
+          "value": 2026
+        }
+      ],
+      "Getötete Personen": [
+        {
+          "value": 14
+        }
+      ],
+      "Schwerverletzte": [
+        {
+          "value": 326
+        }
+      ],
+      "Leichtverletzte": [
+        {
+          "value": 2015
+        }
+      ],
+      "mit Kindern bis unter 15 Jahren": [
+        {
+          "value": 177
+        }
+      ],
+      "Getötete Kinder": [
+        {
+          "value": null
+        }
+      ],
+      "Verletzte Kinder": [
+        {
+          "value": 148
+        }
+      ],
+      "mit Radfahrern": [
+        {
+          "value": 1240
+        }
+      ],
+      "darunter verursacht von Radfahrern": [
+        {
+          "value": 425
+        }
+      ],
+      "Getötete Radfahrer": [
+        {
+          "value": 3
+        }
+      ],
+      "Verletzte Radfahrer": [
+        {
+          "value": 846
+        }
+      ],
+      "mit Unfallflucht": [
+        {
+          "value": 3854
+        }
+      ],
+      "unter Alkoholeinfluss": [
+        {
+          "value": 235
+        }
+      ],
+      "unter Drogeneinfluss": [
+        {
+          "value": 9
+        }
+      ]
+    },
+    "2013": {
+      "Verkehrsunfälle insgesamt": [
+        {
+          "value": 14010
+        }
+      ],
+      "mit Personenschaden": [
+        {
+          "value": 1940
+        }
+      ],
+      "Getötete Personen": [
+        {
+          "value": 14
+        }
+      ],
+      "Schwerverletzte": [
+        {
+          "value": 322
+        }
+      ],
+      "Leichtverletzte": [
+        {
+          "value": 1974
+        }
+      ],
+      "mit Kindern bis unter 15 Jahren": [
+        {
+          "value": 142
+        }
+      ],
+      "Getötete Kinder": [
+        {
+          "value": 1
+        }
+      ],
+      "Verletzte Kinder": [
+        {
+          "value": 110
+        }
+      ],
+      "mit Radfahrern": [
+        {
+          "value": 1113
+        }
+      ],
+      "darunter verursacht von Radfahrern": [
+        {
+          "value": 488
+        }
+      ],
+      "Getötete Radfahrer": [
+        {
+          "value": 3
+        }
+      ],
+      "Verletzte Radfahrer": [
+        {
+          "value": 793
+        }
+      ],
+      "mit Unfallflucht": [
+        {
+          "value": 4021
+        }
+      ],
+      "unter Alkoholeinfluss": [
+        {
+          "value": 254
+        }
+      ],
+      "unter Drogeneinfluss": [
+        {
+          "value": 27
+        }
+      ]
+    },
+    "2014": {
+      "Verkehrsunfälle insgesamt": [
+        {
+          "value": 13904
+        }
+      ],
+      "mit Personenschaden": [
+        {
+          "value": 2031
+        }
+      ],
+      "Getötete Personen": [
+        {
+          "value": 10
+        }
+      ],
+      "Schwerverletzte": [
+        {
+          "value": 357
+        }
+      ],
+      "Leichtverletzte": [
+        {
+          "value": 2076
+        }
+      ],
+      "mit Kindern bis unter 15 Jahren": [
+        {
+          "value": 166
+        }
+      ],
+      "Getötete Kinder": [
+        {
+          "value": null
+        }
+      ],
+      "Verletzte Kinder": [
+        {
+          "value": 148
+        }
+      ],
+      "mit Radfahrern": [
+        {
+          "value": 1261
+        }
+      ],
+      "darunter verursacht von Radfahrern": [
+        {
+          "value": 541
+        }
+      ],
+      "Getötete Radfahrer": [
+        {
+          "value": 3
+        }
+      ],
+      "Verletzte Radfahrer": [
+        {
+          "value": 936
+        }
+      ],
+      "mit Unfallflucht": [
+        {
+          "value": 4198
+        }
+      ],
+      "unter Alkoholeinfluss": [
+        {
+          "value": 193
+        }
+      ],
+      "unter Drogeneinfluss": [
+        {
+          "value": 29
+        }
+      ]
+    },
+    "2015": {
+      "Verkehrsunfälle insgesamt": [
+        {
+          "value": 13750
+        }
+      ],
+      "mit Personenschaden": [
+        {
+          "value": 2079
+        }
+      ],
+      "Getötete Personen": [
+        {
+          "value": 8
+        }
+      ],
+      "Schwerverletzte": [
+        {
+          "value": 339
+        }
+      ],
+      "Leichtverletzte": [
+        {
+          "value": 2144
+        }
+      ],
+      "mit Kindern bis unter 15 Jahren": [
+        {
+          "value": 197
+        }
+      ],
+      "Getötete Kinder": [
+        {
+          "value": null
+        }
+      ],
+      "Verletzte Kinder": [
+        {
+          "value": 191
+        }
+      ],
+      "mit Radfahrern": [
+        {
+          "value": 1221
+        }
+      ],
+      "darunter verursacht von Radfahrern": [
+        {
+          "value": 525
+        }
+      ],
+      "Getötete Radfahrer": [
+        {
+          "value": 2
+        }
+      ],
+      "Verletzte Radfahrer": [
+        {
+          "value": 921
+        }
+      ],
+      "mit Unfallflucht": [
+        {
+          "value": 4451
+        }
+      ],
+      "unter Alkoholeinfluss": [
+        {
+          "value": 210
+        }
+      ],
+      "unter Drogeneinfluss": [
+        {
+          "value": 40
+        }
+      ]
+    },
+    "2016": {
+      "Verkehrsunfälle insgesamt": [
+        {
+          "value": 13758
+        }
+      ],
+      "mit Personenschaden": [
+        {
+          "value": 2146
+        }
+      ],
+      "Getötete Personen": [
+        {
+          "value": 14
+        }
+      ],
+      "Schwerverletzte": [
+        {
+          "value": 357
+        }
+      ],
+      "Leichtverletzte": [
+        {
+          "value": 2165
+        }
+      ],
+      "mit Kindern bis unter 15 Jahren": [
+        {
+          "value": 174
+        }
+      ],
+      "Getötete Kinder": [
+        {
+          "value": 1
+        }
+      ],
+      "Verletzte Kinder": [
+        {
+          "value": 145
+        }
+      ],
+      "mit Radfahrern": [
+        {
+          "value": 1262
+        }
+      ],
+      "darunter verursacht von Radfahrern": [
+        {
+          "value": 514
+        }
+      ],
+      "Getötete Radfahrer": [
+        {
+          "value": 5
+        }
+      ],
+      "Verletzte Radfahrer": [
+        {
+          "value": 924
+        }
+      ],
+      "mit Unfallflucht": [
+        {
+          "value": 4567
+        }
+      ],
+      "unter Alkoholeinfluss": [
+        {
+          "value": 223
+        }
+      ],
+      "unter Drogeneinfluss": [
+        {
+          "value": 51
+        }
+      ]
+    },
+    "2017": {
+      "Verkehrsunfälle insgesamt": [
+        {
+          "value": 13409
+        }
+      ],
+      "mit Personenschaden": [
+        {
+          "value": 2077
+        }
+      ],
+      "Getötete Personen": [
+        {
+          "value": 9
+        }
+      ],
+      "Schwerverletzte": [
+        {
+          "value": 425
+        }
+      ],
+      "Leichtverletzte": [
+        {
+          "value": 2061
+        }
+      ],
+      "mit Kindern bis unter 15 Jahren": [
+        {
+          "value": 195
+        }
+      ],
+      "Getötete Kinder": [
+        {
+          "value": null
+        }
+      ],
+      "Verletzte Kinder": [
+        {
+          "value": 179
+        }
+      ],
+      "mit Radfahrern": [
+        {
+          "value": 1171
+        }
+      ],
+      "darunter verursacht von Radfahrern": [
+        {
+          "value": 475
+        }
+      ],
+      "Getötete Radfahrer": [
+        {
+          "value": 2
+        }
+      ],
+      "Verletzte Radfahrer": [
+        {
+          "value": 899
+        }
+      ],
+      "mit Unfallflucht": [
+        {
+          "value": 4468
+        }
+      ],
+      "unter Alkoholeinfluss": [
+        {
+          "value": 221
+        }
+      ],
+      "unter Drogeneinfluss": [
+        {
+          "value": 37
+        }
+      ]
+    },
+    "2018": {
+      "Verkehrsunfälle insgesamt": [
+        {
+          "value": 13006
+        }
+      ],
+      "mit Personenschaden": [
+        {
+          "value": 2079
+        }
+      ],
+      "Getötete Personen": [
+        {
+          "value": 14
+        }
+      ],
+      "Schwerverletzte": [
+        {
+          "value": 384
+        }
+      ],
+      "Leichtverletzte": [
+        {
+          "value": 2108
+        }
+      ],
+      "mit Kindern bis unter 15 Jahren": [
+        {
+          "value": 188
+        }
+      ],
+      "Getötete Kinder": [
+        {
+          "value": null
+        }
+      ],
+      "Verletzte Kinder": [
+        {
+          "value": 171
+        }
+      ],
+      "mit Radfahrern": [
+        {
+          "value": 1286
+        }
+      ],
+      "darunter verursacht von Radfahrern": [
+        {
+          "value": 547
+        }
+      ],
+      "Getötete Radfahrer": [
+        {
+          "value": 6
+        }
+      ],
+      "Verletzte Radfahrer": [
+        {
+          "value": 953
+        }
+      ],
+      "mit Unfallflucht": [
+        {
+          "value": 4431
+        }
+      ],
+      "unter Alkoholeinfluss": [
+        {
+          "value": 200
+        }
+      ],
+      "unter Drogeneinfluss": [
+        {
+          "value": 38
+        }
+      ]
+    },
+    "2019": {
+      "Verkehrsunfälle insgesamt": [
+        {
+          "value": 13192
+        }
+      ],
+      "mit Personenschaden": [
+        {
+          "value": 1991
+        }
+      ],
+      "Getötete Personen": [
+        {
+          "value": 14
+        }
+      ],
+      "Schwerverletzte": [
+        {
+          "value": 332
+        }
+      ],
+      "Leichtverletzte": [
+        {
+          "value": 2043
+        }
+      ],
+      "mit Kindern bis unter 15 Jahren": [
+        {
+          "value": 178
+        }
+      ],
+      "Getötete Kinder": [
+        {
+          "value": 1
+        }
+      ],
+      "Verletzte Kinder": [
+        {
+          "value": 183
+        }
+      ],
+      "mit Radfahrern": [
+        {
+          "value": 1221
+        }
+      ],
+      "darunter verursacht von Radfahrern": [
+        {
+          "value": 506
+        }
+      ],
+      "Getötete Radfahrer": [
+        {
+          "value": 5
+        }
+      ],
+      "Verletzte Radfahrer": [
+        {
+          "value": 904
+        }
+      ],
+      "mit Unfallflucht": [
+        {
+          "value": 4670
+        }
+      ],
+      "unter Alkoholeinfluss": [
+        {
+          "value": 209
+        }
+      ],
+      "unter Drogeneinfluss": [
+        {
+          "value": 48
+        }
+      ]
+    },
+    "2020": {
+      "Verkehrsunfälle insgesamt": [
+        {
+          "value": 11925
+        }
+      ],
+      "mit Personenschaden": [
+        {
+          "value": 1735
+        }
+      ],
+      "Getötete Personen": [
+        {
+          "value": 14
+        }
+      ],
+      "Schwerverletzte": [
+        {
+          "value": 274
+        }
+      ],
+      "Leichtverletzte": [
+        {
+          "value": 1737
+        }
+      ],
+      "mit Kindern bis unter 15 Jahren": [
+        {
+          "value": 133
+        }
+      ],
+      "Getötete Kinder": [
+        {
+          "value": null
+        }
+      ],
+      "Verletzte Kinder": [
+        {
+          "value": 112
+        }
+      ],
+      "mit Radfahrern": [
+        {
+          "value": 1217
+        }
+      ],
+      "darunter verursacht von Radfahrern": [
+        {
+          "value": 544
+        }
+      ],
+      "Getötete Radfahrer": [
+        {
+          "value": 5
+        }
+      ],
+      "Verletzte Radfahrer": [
+        {
+          "value": 905
+        }
+      ],
+      "mit Unfallflucht": [
+        {
+          "value": 4149
+        }
+      ],
+      "unter Alkoholeinfluss": [
+        {
+          "value": 194
+        }
+      ],
+      "unter Drogeneinfluss": [
+        {
+          "value": 50
+        }
+      ]
+    },
+    "2021": {
+      "Verkehrsunfälle insgesamt": [
+        {
+          "value": 12152
+        }
+      ],
+      "mit Personenschaden": [
+        {
+          "value": 1655
+        }
+      ],
+      "Getötete Personen": [
+        {
+          "value": 12
+        }
+      ],
+      "Schwerverletzte": [
+        {
+          "value": 239
+        }
+      ],
+      "Leichtverletzte": [
+        {
+          "value": 1669
+        }
+      ],
+      "mit Kindern bis unter 15 Jahren": [
+        {
+          "value": 140
+        }
+      ],
+      "Getötete Kinder": [
+        {
+          "value": null
+        }
+      ],
+      "Verletzte Kinder": [
+        {
+          "value": 110
+        }
+      ],
+      "mit Radfahrern": [
+        {
+          "value": 1161
+        }
+      ],
+      "darunter verursacht von Radfahrern": [
+        {
+          "value": 574
+        }
+      ],
+      "Getötete Radfahrer": [
+        {
+          "value": 1
+        }
+      ],
+      "Verletzte Radfahrer": [
+        {
+          "value": 831
+        }
+      ],
+      "mit Unfallflucht": [
+        {
+          "value": 4107
+        }
+      ],
+      "unter Alkoholeinfluss": [
+        {
+          "value": 161
+        }
+      ],
+      "unter Drogeneinfluss": [
+        {
+          "value": 51
+        }
+      ]
+    },
+    "2022": {
+      "Verkehrsunfälle insgesamt": [
+        {
+          "value": 12665
+        }
+      ],
+      "mit Personenschaden": [
+        {
+          "value": 1994
+        }
+      ],
+      "Getötete Personen": [
+        {
+          "value": 9
+        }
+      ],
+      "Schwerverletzte": [
+        {
+          "value": 309
+        }
+      ],
+      "Leichtverletzte": [
+        {
+          "value": 2046
+        }
+      ],
+      "mit Kindern bis unter 15 Jahren": [
+        {
+          "value": 196
+        }
+      ],
+      "Getötete Kinder": [
+        {
+          "value": null
+        }
+      ],
+      "Verletzte Kinder": [
+        {
+          "value": 170
+        }
+      ],
+      "mit Radfahrern": [
+        {
+          "value": 1320
+        }
+      ],
+      "darunter verursacht von Radfahrern": [
+        {
+          "value": 660
+        }
+      ],
+      "Getötete Radfahrer": [
+        {
+          "value": 1
+        }
+      ],
+      "Verletzte Radfahrer": [
+        {
+          "value": 1016
+        }
+      ],
+      "mit Unfallflucht": [
+        {
+          "value": 4286
+        }
+      ],
+      "unter Alkoholeinfluss": [
+        {
+          "value": 243
+        }
+      ],
+      "unter Drogeneinfluss": [
+        {
+          "value": 51
+        }
+      ]
+    },
+    "2023": {
+      "Verkehrsunfälle insgesamt": [
+        {
+          "value": 12843
+        }
+      ],
+      "mit Personenschaden": [
+        {
+          "value": 1934
+        }
+      ],
+      "Getötete Personen": [
+        {
+          "value": 12
+        }
+      ],
+      "Schwerverletzte": [
+        {
+          "value": 263
+        }
+      ],
+      "Leichtverletzte": [
+        {
+          "value": 2015
+        }
+      ],
+      "mit Kindern bis unter 15 Jahren": [
+        {
+          "value": null
+        }
+      ],
+      "Getötete Kinder": [
+        {
+          "value": null
+        }
+      ],
+      "Verletzte Kinder": [
+        {
+          "value": null
+        }
+      ],
+      "mit Radfahrern": [
+        {
+          "value": null
+        }
+      ],
+      "darunter verursacht von Radfahrern": [
+        {
+          "value": null
+        }
+      ],
+      "Getötete Radfahrer": [
+        {
+          "value": null
+        }
+      ],
+      "Verletzte Radfahrer": [
+        {
+          "value": null
+        }
+      ],
+      "mit Unfallflucht": [
+        {
+          "value": 4484
+        }
+      ],
+      "unter Alkoholeinfluss": [
+        {
+          "value": 199
+        }
+      ],
+      "unter Drogeneinfluss": [
+        {
+          "value": 61
+        }
+      ]
+    }
+  }
+}

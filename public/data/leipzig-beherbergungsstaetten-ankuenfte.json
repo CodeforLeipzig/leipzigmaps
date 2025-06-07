@@ -1,0 +1,1434 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=8&rubrik_nr=9&periode=y",
+    "title": "Beherbergungsstätten__Ankünfte"
+  },
+  "data": {
+    "2001": {
+      "Ankünfte": [
+        {
+          "value": 783959
+        },
+        {
+          "value": 596781
+        },
+        {
+          "value": 140064
+        },
+        {
+          "value": 14544
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Übernachtungen": [
+        {
+          "value": 1433390
+        },
+        {
+          "value": 1081250
+        },
+        {
+          "value": 247794
+        },
+        {
+          "value": 32259
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Durchschnittliche Aufenthaltsdauer (Tage)": [
+        {
+          "value": 1.8
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 2.2
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2002": {
+      "Übernachtungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 1487110
+        },
+        {
+          "value": 1134760
+        },
+        {
+          "value": 244646
+        },
+        {
+          "value": 29114
+        }
+      ],
+      "Durchschnittliche Aufenthaltsdauer (Tage)": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 1.9
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 2.2
+        }
+      ],
+      "Ankünfte": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 798591
+        },
+        {
+          "value": 616459
+        },
+        {
+          "value": 134386
+        },
+        {
+          "value": 13462
+        }
+      ]
+    },
+    "2003": {
+      "Ankünfte": [
+        {
+          "value": 879191
+        },
+        {
+          "value": 672264
+        },
+        {
+          "value": 144373
+        },
+        {
+          "value": 16026
+        },
+        {
+          "value": 776994
+        },
+        {
+          "value": 102197
+        }
+      ],
+      "Übernachtungen": [
+        {
+          "value": 1611780
+        },
+        {
+          "value": 1199930
+        },
+        {
+          "value": 276999
+        },
+        {
+          "value": 33641
+        },
+        {
+          "value": 1396750
+        },
+        {
+          "value": 215023
+        }
+      ],
+      "Durchschnittliche Aufenthaltsdauer (Tage)": [
+        {
+          "value": 1.8
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 1.9
+        },
+        {
+          "value": 2.1
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 2.1
+        }
+      ]
+    },
+    "2004": {
+      "Übernachtungen": [
+        {
+          "value": 240673
+        },
+        {
+          "value": 1516840
+        },
+        {
+          "value": 38709
+        },
+        {
+          "value": 1757510
+        },
+        {
+          "value": 1292120
+        },
+        {
+          "value": 293833
+        }
+      ],
+      "Durchschnittliche Aufenthaltsdauer (Tage)": [
+        {
+          "value": 2.1
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 2.2
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 1.9
+        }
+      ],
+      "Ankünfte": [
+        {
+          "value": 114806
+        },
+        {
+          "value": 839424
+        },
+        {
+          "value": 17785
+        },
+        {
+          "value": 954230
+        },
+        {
+          "value": 722514
+        },
+        {
+          "value": 155798
+        }
+      ]
+    },
+    "2005": {
+      "Ankünfte": [
+        {
+          "value": 926180
+        },
+        {
+          "value": 693567
+        },
+        {
+          "value": 157362
+        },
+        {
+          "value": 18394
+        },
+        {
+          "value": 799410
+        },
+        {
+          "value": 126770
+        }
+      ],
+      "Übernachtungen": [
+        {
+          "value": 1731110
+        },
+        {
+          "value": 1264190
+        },
+        {
+          "value": 292315
+        },
+        {
+          "value": 41323
+        },
+        {
+          "value": 1472490
+        },
+        {
+          "value": 258615
+        }
+      ],
+      "Durchschnittliche Aufenthaltsdauer (Tage)": [
+        {
+          "value": 1.9
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 1.9
+        },
+        {
+          "value": 2.2
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 2
+        }
+      ]
+    },
+    "2006": {
+      "Übernachtungen": [
+        {
+          "value": 307298
+        },
+        {
+          "value": 1541620
+        },
+        {
+          "value": 319650
+        },
+        {
+          "value": 50169
+        },
+        {
+          "value": 1848910
+        },
+        {
+          "value": 1301850
+        }
+      ],
+      "Durchschnittliche Aufenthaltsdauer (Tage)": [
+        {
+          "value": 2
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 2.2
+        },
+        {
+          "value": 1.9
+        },
+        {
+          "value": 1.8
+        }
+      ],
+      "Ankünfte": [
+        {
+          "value": 151618
+        },
+        {
+          "value": 845420
+        },
+        {
+          "value": 174940
+        },
+        {
+          "value": 23163
+        },
+        {
+          "value": 997038
+        },
+        {
+          "value": 728396
+        }
+      ]
+    },
+    "2007": {
+      "Ankünfte": [
+        {
+          "value": 991420
+        },
+        {
+          "value": 733236
+        },
+        {
+          "value": 165010
+        },
+        {
+          "value": 24205
+        },
+        {
+          "value": 842396
+        },
+        {
+          "value": 149024
+        }
+      ],
+      "Übernachtungen": [
+        {
+          "value": 1838510
+        },
+        {
+          "value": 1304830
+        },
+        {
+          "value": 307449
+        },
+        {
+          "value": 53215
+        },
+        {
+          "value": 1540590
+        },
+        {
+          "value": 297927
+        }
+      ],
+      "Durchschnittliche Aufenthaltsdauer (Tage)": [
+        {
+          "value": 1.9
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 1.9
+        },
+        {
+          "value": 2.2
+        },
+        {
+          "value": 1.9
+        },
+        {
+          "value": 2
+        }
+      ]
+    },
+    "2008": {
+      "Ankünfte": [
+        {
+          "value": 1003700
+        },
+        {
+          "value": 828734
+        },
+        {
+          "value": 174969
+        },
+        {
+          "value": 736659
+        },
+        {
+          "value": 171613
+        },
+        {
+          "value": 27719
+        }
+      ],
+      "Übernachtungen": [
+        {
+          "value": 1852750
+        },
+        {
+          "value": 1491770
+        },
+        {
+          "value": 360981
+        },
+        {
+          "value": 1299230
+        },
+        {
+          "value": 321465
+        },
+        {
+          "value": 60885
+        }
+      ],
+      "Durchschnittliche Aufenthaltsdauer (Tage)": [
+        {
+          "value": 1.8
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 2.1
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 1.9
+        },
+        {
+          "value": 2.2
+        }
+      ]
+    },
+    "2009": {
+      "Ankünfte": [
+        {
+          "value": 1026860
+        },
+        {
+          "value": 850105
+        },
+        {
+          "value": 176753
+        },
+        {
+          "value": 732268
+        },
+        {
+          "value": 214893
+        },
+        {
+          "value": 25250
+        }
+      ],
+      "Übernachtungen": [
+        {
+          "value": 1876810
+        },
+        {
+          "value": 1523570
+        },
+        {
+          "value": 353239
+        },
+        {
+          "value": 1288780
+        },
+        {
+          "value": 406977
+        },
+        {
+          "value": 61845
+        }
+      ],
+      "Durchschnittliche Aufenthaltsdauer (Tage)": [
+        {
+          "value": 1.8
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 1.9
+        },
+        {
+          "value": 2.4
+        }
+      ]
+    },
+    "2010": {
+      "Ankünfte": [
+        {
+          "value": 199777
+        },
+        {
+          "value": 801600
+        },
+        {
+          "value": 237776
+        },
+        {
+          "value": 26812
+        },
+        {
+          "value": 1121260
+        },
+        {
+          "value": 921480
+        }
+      ],
+      "Übernachtungen": [
+        {
+          "value": 395127
+        },
+        {
+          "value": 1385250
+        },
+        {
+          "value": 443720
+        },
+        {
+          "value": 68869
+        },
+        {
+          "value": 2023400
+        },
+        {
+          "value": 1628270
+        }
+      ],
+      "Durchschnittliche Aufenthaltsdauer (Tage)": [
+        {
+          "value": 2
+        },
+        {
+          "value": 1.7
+        },
+        {
+          "value": 1.9
+        },
+        {
+          "value": 2.6
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 1.8
+        }
+      ]
+    },
+    "2011": {
+      "Ankünfte": [
+        {
+          "value": 1194540
+        },
+        {
+          "value": 1016040
+        },
+        {
+          "value": 178497
+        },
+        {
+          "value": 841443
+        },
+        {
+          "value": 267712
+        },
+        {
+          "value": 28085
+        }
+      ],
+      "Übernachtungen": [
+        {
+          "value": 2135780
+        },
+        {
+          "value": 1785930
+        },
+        {
+          "value": 349849
+        },
+        {
+          "value": 1444560
+        },
+        {
+          "value": 487159
+        },
+        {
+          "value": 75007
+        }
+      ],
+      "Durchschnittliche Aufenthaltsdauer (Tage)": [
+        {
+          "value": 1.8
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 1.7
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 2.7
+        }
+      ]
+    },
+    "2012": {
+      "Ankünfte": [
+        {
+          "value": 1347820
+        },
+        {
+          "value": 1154150
+        },
+        {
+          "value": 193674
+        },
+        {
+          "value": 902276
+        },
+        {
+          "value": 308839
+        },
+        {
+          "value": 34242
+        }
+      ],
+      "Übernachtungen": [
+        {
+          "value": 2482540
+        },
+        {
+          "value": 2091080
+        },
+        {
+          "value": 391464
+        },
+        {
+          "value": 1576120
+        },
+        {
+          "value": 594253
+        },
+        {
+          "value": 85202
+        }
+      ],
+      "Durchschnittliche Aufenthaltsdauer (Tage)": [
+        {
+          "value": 1.8
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 1.7
+        },
+        {
+          "value": 1.9
+        },
+        {
+          "value": 2.5
+        }
+      ]
+    },
+    "2013": {
+      "Ankünfte": [
+        {
+          "value": 1453420
+        },
+        {
+          "value": 1245410
+        },
+        {
+          "value": 208008
+        },
+        {
+          "value": 952821
+        },
+        {
+          "value": 359092
+        },
+        {
+          "value": 35278
+        }
+      ],
+      "Übernachtungen": [
+        {
+          "value": 2697870
+        },
+        {
+          "value": 2263280
+        },
+        {
+          "value": 434594
+        },
+        {
+          "value": 1687190
+        },
+        {
+          "value": 678807
+        },
+        {
+          "value": 83139
+        }
+      ],
+      "Durchschnittliche Aufenthaltsdauer (Tage)": [
+        {
+          "value": 1.9
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 2.1
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 1.9
+        },
+        {
+          "value": 2.4
+        }
+      ]
+    },
+    "2014": {
+      "Ankünfte": [
+        {
+          "value": 1510370
+        },
+        {
+          "value": 1314130
+        },
+        {
+          "value": 196240
+        },
+        {
+          "value": 972175
+        },
+        {
+          "value": 390505
+        },
+        {
+          "value": 39423
+        }
+      ],
+      "Übernachtungen": [
+        {
+          "value": 2764850
+        },
+        {
+          "value": 2372330
+        },
+        {
+          "value": 392525
+        },
+        {
+          "value": 1716060
+        },
+        {
+          "value": 702805
+        },
+        {
+          "value": 91937
+        }
+      ],
+      "Durchschnittliche Aufenthaltsdauer (Tage)": [
+        {
+          "value": 1.8
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 2.3
+        }
+      ]
+    },
+    "2015": {
+      "Ankünfte": [
+        {
+          "value": 1535960
+        },
+        {
+          "value": 1326700
+        },
+        {
+          "value": 209252
+        },
+        {
+          "value": 977654
+        },
+        {
+          "value": 400405
+        },
+        {
+          "value": 43625
+        }
+      ],
+      "Übernachtungen": [
+        {
+          "value": 2829820
+        },
+        {
+          "value": 2404850
+        },
+        {
+          "value": 424975
+        },
+        {
+          "value": 1737030
+        },
+        {
+          "value": 718748
+        },
+        {
+          "value": 101671
+        }
+      ],
+      "Durchschnittliche Aufenthaltsdauer (Tage)": [
+        {
+          "value": 1.8
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 2.3
+        }
+      ]
+    },
+    "2016": {
+      "Ankünfte": [
+        {
+          "value": 1572070
+        },
+        {
+          "value": 1355170
+        },
+        {
+          "value": 216903
+        },
+        {
+          "value": 974568
+        },
+        {
+          "value": 398914
+        },
+        {
+          "value": 46357
+        }
+      ],
+      "Übernachtungen": [
+        {
+          "value": 2899390
+        },
+        {
+          "value": 2457710
+        },
+        {
+          "value": 441687
+        },
+        {
+          "value": 1726980
+        },
+        {
+          "value": 716060
+        },
+        {
+          "value": 106160
+        }
+      ],
+      "Durchschnittliche Aufenthaltsdauer (Tage)": [
+        {
+          "value": 1.8
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 2.3
+        }
+      ]
+    },
+    "2017": {
+      "Übernachtungen": [
+        {
+          "value": 2664890
+        },
+        {
+          "value": 506468
+        },
+        {
+          "value": 1786350
+        },
+        {
+          "value": 884654
+        },
+        {
+          "value": 104812
+        },
+        {
+          "value": 3171350
+        }
+      ],
+      "Durchschnittliche Aufenthaltsdauer (Tage)": [
+        {
+          "value": 1.8
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 2.2
+        },
+        {
+          "value": 1.9
+        }
+      ],
+      "Ankünfte": [
+        {
+          "value": 252040
+        },
+        {
+          "value": 997742
+        },
+        {
+          "value": 490434
+        },
+        {
+          "value": 47328
+        },
+        {
+          "value": 1708910
+        },
+        {
+          "value": 1456870
+        }
+      ]
+    },
+    "2018": {
+      "Ankünfte": [
+        {
+          "value": 1836800
+        },
+        {
+          "value": 1567170
+        },
+        {
+          "value": 269632
+        },
+        {
+          "value": 1052440
+        },
+        {
+          "value": 555633
+        },
+        {
+          "value": 47460
+        }
+      ],
+      "Übernachtungen": [
+        {
+          "value": 3376260
+        },
+        {
+          "value": 2834040
+        },
+        {
+          "value": 542214
+        },
+        {
+          "value": 1875190
+        },
+        {
+          "value": 985947
+        },
+        {
+          "value": 107229
+        }
+      ],
+      "Durchschnittliche Aufenthaltsdauer (Tage)": [
+        {
+          "value": 1.8
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 2.3
+        }
+      ]
+    },
+    "2019": {
+      "Ankünfte": [
+        {
+          "value": 1929690
+        },
+        {
+          "value": 1670050
+        },
+        {
+          "value": 259648
+        },
+        {
+          "value": 1109060
+        },
+        {
+          "value": 567838
+        },
+        {
+          "value": 47884
+        }
+      ],
+      "Übernachtungen": [
+        {
+          "value": 3602860
+        },
+        {
+          "value": 3070290
+        },
+        {
+          "value": 532570
+        },
+        {
+          "value": 2009640
+        },
+        {
+          "value": 1011940
+        },
+        {
+          "value": 109938
+        }
+      ],
+      "Durchschnittliche Aufenthaltsdauer (Tage)": [
+        {
+          "value": 1.9
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 2.1
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 2.3
+        }
+      ]
+    },
+    "2020": {
+      "Durchschnittliche Aufenthaltsdauer (Tage)": [
+        {
+          "value": 1.9
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 2.7
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 1.9
+        },
+        {
+          "value": 2.4
+        }
+      ],
+      "Übernachtungen": [
+        {
+          "value": 523023
+        },
+        {
+          "value": 71718
+        },
+        {
+          "value": 1959150
+        },
+        {
+          "value": 1734710
+        },
+        {
+          "value": 224437
+        },
+        {
+          "value": 1060070
+        }
+      ],
+      "Ankünfte": [
+        {
+          "value": 26728
+        },
+        {
+          "value": 289173
+        },
+        {
+          "value": 984503
+        },
+        {
+          "value": 890184
+        },
+        {
+          "value": 94319
+        },
+        {
+          "value": 559131
+        }
+      ]
+    },
+    "2021": {
+      "Ankünfte": [
+        {
+          "value": 948014
+        },
+        {
+          "value": 855226
+        },
+        {
+          "value": 92788
+        },
+        {
+          "value": 589955
+        },
+        {
+          "value": 235765
+        },
+        {
+          "value": 23394
+        }
+      ],
+      "Übernachtungen": [
+        {
+          "value": 2032370
+        },
+        {
+          "value": 1784970
+        },
+        {
+          "value": 247398
+        },
+        {
+          "value": 1167340
+        },
+        {
+          "value": 462157
+        },
+        {
+          "value": 72146
+        }
+      ],
+      "Durchschnittliche Aufenthaltsdauer (Tage)": [
+        {
+          "value": 2.1
+        },
+        {
+          "value": 2.1
+        },
+        {
+          "value": 2.7
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 3.1
+        }
+      ]
+    },
+    "2022": {
+      "Ankünfte": [
+        {
+          "value": 1703600
+        },
+        {
+          "value": 1495920
+        },
+        {
+          "value": 207679
+        },
+        {
+          "value": 1063430
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Übernachtungen": [
+        {
+          "value": 3369690
+        },
+        {
+          "value": 2904560
+        },
+        {
+          "value": 465128
+        },
+        {
+          "value": 1994210
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Durchschnittliche Aufenthaltsdauer (Tage)": [
+        {
+          "value": 0
+        },
+        {
+          "value": 1.9
+        },
+        {
+          "value": 2.2
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2023": {
+      "Ankünfte": [
+        {
+          "value": 1979970
+        },
+        {
+          "value": 1735400
+        },
+        {
+          "value": 244572
+        },
+        {
+          "value": 1268640
+        },
+        {
+          "value": 455881
+        },
+        {
+          "value": 36128
+        }
+      ],
+      "Übernachtungen": [
+        {
+          "value": 3826960
+        },
+        {
+          "value": 3283910
+        },
+        {
+          "value": 543052
+        },
+        {
+          "value": 2304510
+        },
+        {
+          "value": 856420
+        },
+        {
+          "value": 92773
+        }
+      ],
+      "Durchschnittliche Aufenthaltsdauer (Tage)": [
+        {
+          "value": 1.9
+        },
+        {
+          "value": 1.9
+        },
+        {
+          "value": 2.2
+        },
+        {
+          "value": 1.8
+        },
+        {
+          "value": 1.9
+        },
+        {
+          "value": 2.6
+        }
+      ]
+    }
+  }
+}

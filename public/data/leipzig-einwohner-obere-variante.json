@@ -1,0 +1,314 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=2&rubrik_nr=6&periode=y",
+    "title": "Einwohner__Obere Variante"
+  },
+  "data": {
+    "2023": {
+      "Obere Variante": [
+        {
+          "value": 628500
+        }
+      ],
+      "Hauptvariante": [
+        {
+          "value": 627200
+        }
+      ],
+      "Untere Variante": [
+        {
+          "value": 627000
+        }
+      ]
+    },
+    "2024": {
+      "Untere Variante": [
+        {
+          "value": 628300
+        }
+      ],
+      "Hauptvariante": [
+        {
+          "value": 629300
+        }
+      ],
+      "Obere Variante": [
+        {
+          "value": 631700
+        }
+      ]
+    },
+    "2025": {
+      "Obere Variante": [
+        {
+          "value": 634700
+        }
+      ],
+      "Hauptvariante": [
+        {
+          "value": 631000
+        }
+      ],
+      "Untere Variante": [
+        {
+          "value": 628900
+        }
+      ]
+    },
+    "2026": {
+      "Untere Variante": [
+        {
+          "value": 629100
+        }
+      ],
+      "Hauptvariante": [
+        {
+          "value": 632500
+        }
+      ],
+      "Obere Variante": [
+        {
+          "value": 637800
+        }
+      ]
+    },
+    "2027": {
+      "Obere Variante": [
+        {
+          "value": 641200
+        }
+      ],
+      "Hauptvariante": [
+        {
+          "value": 634100
+        }
+      ],
+      "Untere Variante": [
+        {
+          "value": 629000
+        }
+      ]
+    },
+    "2028": {
+      "Untere Variante": [
+        {
+          "value": 628800
+        }
+      ],
+      "Hauptvariante": [
+        {
+          "value": 635500
+        }
+      ],
+      "Obere Variante": [
+        {
+          "value": 644800
+        }
+      ]
+    },
+    "2029": {
+      "Obere Variante": [
+        {
+          "value": 648900
+        }
+      ],
+      "Hauptvariante": [
+        {
+          "value": 637200
+        }
+      ],
+      "Untere Variante": [
+        {
+          "value": 628700
+        }
+      ]
+    },
+    "2030": {
+      "Untere Variante": [
+        {
+          "value": 628500
+        }
+      ],
+      "Hauptvariante": [
+        {
+          "value": 639100
+        }
+      ],
+      "Obere Variante": [
+        {
+          "value": 653100
+        }
+      ]
+    },
+    "2031": {
+      "Obere Variante": [
+        {
+          "value": 657400
+        }
+      ],
+      "Hauptvariante": [
+        {
+          "value": 641300
+        }
+      ],
+      "Untere Variante": [
+        {
+          "value": 628300
+        }
+      ]
+    },
+    "2032": {
+      "Untere Variante": [
+        {
+          "value": 627900
+        }
+      ],
+      "Hauptvariante": [
+        {
+          "value": 643600
+        }
+      ],
+      "Obere Variante": [
+        {
+          "value": 661700
+        }
+      ]
+    },
+    "2033": {
+      "Obere Variante": [
+        {
+          "value": 666100
+        }
+      ],
+      "Hauptvariante": [
+        {
+          "value": 646000
+        }
+      ],
+      "Untere Variante": [
+        {
+          "value": 627600
+        }
+      ]
+    },
+    "2034": {
+      "Untere Variante": [
+        {
+          "value": 627100
+        }
+      ],
+      "Hauptvariante": [
+        {
+          "value": 648500
+        }
+      ],
+      "Obere Variante": [
+        {
+          "value": 670600
+        }
+      ]
+    },
+    "2035": {
+      "Obere Variante": [
+        {
+          "value": 675000
+        }
+      ],
+      "Hauptvariante": [
+        {
+          "value": 651000
+        }
+      ],
+      "Untere Variante": [
+        {
+          "value": 626700
+        }
+      ]
+    },
+    "2036": {
+      "Untere Variante": [
+        {
+          "value": 626100
+        }
+      ],
+      "Hauptvariante": [
+        {
+          "value": 653700
+        }
+      ],
+      "Obere Variante": [
+        {
+          "value": 679600
+        }
+      ]
+    },
+    "2037": {
+      "Obere Variante": [
+        {
+          "value": 684100
+        }
+      ],
+      "Hauptvariante": [
+        {
+          "value": 656200
+        }
+      ],
+      "Untere Variante": [
+        {
+          "value": 625400
+        }
+      ]
+    },
+    "2038": {
+      "Untere Variante": [
+        {
+          "value": 624700
+        }
+      ],
+      "Hauptvariante": [
+        {
+          "value": 658800
+        }
+      ],
+      "Obere Variante": [
+        {
+          "value": 688600
+        }
+      ]
+    },
+    "2039": {
+      "Obere Variante": [
+        {
+          "value": 693100
+        }
+      ],
+      "Hauptvariante": [
+        {
+          "value": 661400
+        }
+      ],
+      "Untere Variante": [
+        {
+          "value": 624000
+        }
+      ]
+    },
+    "2040": {
+      "Untere Variante": [
+        {
+          "value": 623200
+        }
+      ],
+      "Hauptvariante": [
+        {
+          "value": 664000
+        }
+      ],
+      "Obere Variante": [
+        {
+          "value": 697700
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,2924 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=11&rubrik_nr=1&periode=y",
+    "title": "Stadtgeschichtliches Museum__insgesamt"
+  },
+  "data": {
+    "2001": {
+      "Stadtgeschichtliches Museum insgesamt": [
+        {
+          "value": 389269
+        }
+      ],
+      "Altes Rathaus": [
+        {
+          "value": 112007
+        }
+      ],
+      "Völkerschlachtdenkmal": [
+        {
+          "value": 180845
+        }
+      ],
+      "Forum 1813": [
+        {
+          "value": 30512
+        }
+      ],
+      "Alte Börse": [
+        {
+          "value": 29650
+        }
+      ],
+      "Kaffeemuseum": [
+        {
+          "value": 25416
+        }
+      ],
+      "Museum der bildenden Künste": [
+        {
+          "value": 68792
+        }
+      ],
+      "GRASSI Museum für Angewandte Kunst": [
+        {
+          "value": 21010
+        }
+      ],
+      "Naturkundemuseum": [
+        {
+          "value": 24141
+        }
+      ],
+      "Bach-Archiv": [
+        {
+          "value": 30175
+        }
+      ],
+      "Zeitgeschichtliches Forum": [
+        {
+          "value": 144970
+        }
+      ],
+      "Museum für Druckkunst Leipzig": [
+        {
+          "value": 5774
+        }
+      ],
+      "GRASSI Museum für Völkerkunde": [
+        {
+          "value": 8326
+        }
+      ],
+      "GRASSI Museum für Musikinstrumente": [
+        {
+          "value": null
+        }
+      ],
+      "Ägyptisches Museum": [
+        {
+          "value": 15171
+        }
+      ],
+      "Gedenkstätte Museum in der \"Runden Ecke\"": [
+        {
+          "value": 87802
+        }
+      ],
+      "Museum im Mendelssohn-Haus": [
+        {
+          "value": 14475
+        }
+      ],
+      "Apothekenmuseum": [
+        {
+          "value": 3087
+        }
+      ],
+      "Deutsches Kleingärtnermuseum": [
+        {
+          "value": 1902
+        }
+      ],
+      "Stadtgeschichtliches Museum (Neubau)": [
+        {
+          "value": null
+        }
+      ],
+      "Gedenkstätte für Zwangsarbeit": [
+        {
+          "value": null
+        }
+      ],
+      "Deutsches Buch -und Schriftmuseum": [
+        {
+          "value": 5774
+        }
+      ],
+      "UNIKATUM Kindermuseum": [
+        {
+          "value": null
+        }
+      ],
+      "Schillerhaus": [
+        {
+          "value": 8665
+        }
+      ],
+      "Galerie für Zeitgenössische Kunst": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2002": {
+      "UNIKATUM Kindermuseum": [
+        {
+          "value": null
+        }
+      ],
+      "Stadtgeschichtliches Museum insgesamt": [
+        {
+          "value": 375419
+        }
+      ],
+      "Altes Rathaus": [
+        {
+          "value": 98715
+        }
+      ],
+      "Völkerschlachtdenkmal": [
+        {
+          "value": 178808
+        }
+      ],
+      "Forum 1813": [
+        {
+          "value": 27217
+        }
+      ],
+      "Alte Börse": [
+        {
+          "value": 35621
+        }
+      ],
+      "Kaffeemuseum": [
+        {
+          "value": 21606
+        }
+      ],
+      "Museum der bildenden Künste": [
+        {
+          "value": 90481
+        }
+      ],
+      "GRASSI Museum für Angewandte Kunst": [
+        {
+          "value": 36039
+        }
+      ],
+      "Naturkundemuseum": [
+        {
+          "value": 33965
+        }
+      ],
+      "Bach-Archiv": [
+        {
+          "value": 26578
+        }
+      ],
+      "Zeitgeschichtliches Forum": [
+        {
+          "value": 149795
+        }
+      ],
+      "Museum für Druckkunst Leipzig": [
+        {
+          "value": 5734
+        }
+      ],
+      "GRASSI Museum für Völkerkunde": [
+        {
+          "value": 11086
+        }
+      ],
+      "GRASSI Museum für Musikinstrumente": [
+        {
+          "value": 7664
+        }
+      ],
+      "Ägyptisches Museum": [
+        {
+          "value": 14486
+        }
+      ],
+      "Gedenkstätte Museum in der \"Runden Ecke\"": [
+        {
+          "value": 75183
+        }
+      ],
+      "Deutsches Buch -und Schriftmuseum": [
+        {
+          "value": 5734
+        }
+      ],
+      "Deutsches Kleingärtnermuseum": [
+        {
+          "value": 2055
+        }
+      ],
+      "Museum im Mendelssohn-Haus": [
+        {
+          "value": 16345
+        }
+      ],
+      "Apothekenmuseum": [
+        {
+          "value": 2220
+        }
+      ],
+      "Stadtgeschichtliches Museum (Neubau)": [
+        {
+          "value": null
+        }
+      ],
+      "Schillerhaus": [
+        {
+          "value": 11596
+        }
+      ],
+      "Galerie für Zeitgenössische Kunst": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2003": {
+      "Galerie für Zeitgenössische Kunst": [
+        {
+          "value": null
+        }
+      ],
+      "Schillerhaus": [
+        {
+          "value": 12088
+        }
+      ],
+      "Stadtgeschichtliches Museum (Neubau)": [
+        {
+          "value": null
+        }
+      ],
+      "Apothekenmuseum": [
+        {
+          "value": 2875
+        }
+      ],
+      "Museum im Mendelssohn-Haus": [
+        {
+          "value": 17071
+        }
+      ],
+      "Deutsches Kleingärtnermuseum": [
+        {
+          "value": 2068
+        }
+      ],
+      "Deutsches Buch -und Schriftmuseum": [
+        {
+          "value": 5445
+        }
+      ],
+      "Gedenkstätte für Zwangsarbeit": [
+        {
+          "value": null
+        }
+      ],
+      "Gedenkstätte Museum in der \"Runden Ecke\"": [
+        {
+          "value": 71528
+        }
+      ],
+      "Ägyptisches Museum": [
+        {
+          "value": 11538
+        }
+      ],
+      "GRASSI Museum für Musikinstrumente": [
+        {
+          "value": 8376
+        }
+      ],
+      "GRASSI Museum für Völkerkunde": [
+        {
+          "value": 8981
+        }
+      ],
+      "Museum für Druckkunst Leipzig": [
+        {
+          "value": 5445
+        }
+      ],
+      "Zeitgeschichtliches Forum": [
+        {
+          "value": 155979
+        }
+      ],
+      "Bach-Archiv": [
+        {
+          "value": 27399
+        }
+      ],
+      "Naturkundemuseum": [
+        {
+          "value": 55158
+        }
+      ],
+      "GRASSI Museum für Angewandte Kunst": [
+        {
+          "value": 30175
+        }
+      ],
+      "Museum der bildenden Künste": [
+        {
+          "value": 67409
+        }
+      ],
+      "Kaffeemuseum": [
+        {
+          "value": 30189
+        }
+      ],
+      "Alte Börse": [
+        {
+          "value": 35218
+        }
+      ],
+      "Forum 1813": [
+        {
+          "value": 29158
+        }
+      ],
+      "Völkerschlachtdenkmal": [
+        {
+          "value": 224553
+        }
+      ],
+      "Altes Rathaus": [
+        {
+          "value": 121734
+        }
+      ],
+      "Stadtgeschichtliches Museum insgesamt": [
+        {
+          "value": 454416
+        }
+      ],
+      "UNIKATUM Kindermuseum": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2004": {
+      "UNIKATUM Kindermuseum": [
+        {
+          "value": null
+        }
+      ],
+      "Stadtgeschichtliches Museum insgesamt": [
+        {
+          "value": 361120
+        }
+      ],
+      "Altes Rathaus": [
+        {
+          "value": 72311
+        }
+      ],
+      "Völkerschlachtdenkmal": [
+        {
+          "value": 184007
+        }
+      ],
+      "Forum 1813": [
+        {
+          "value": 23707
+        }
+      ],
+      "Alte Börse": [
+        {
+          "value": 32824
+        }
+      ],
+      "Kaffeemuseum": [
+        {
+          "value": 34165
+        }
+      ],
+      "Museum der bildenden Künste": [
+        {
+          "value": 55874
+        }
+      ],
+      "GRASSI Museum für Angewandte Kunst": [
+        {
+          "value": 74984
+        }
+      ],
+      "Naturkundemuseum": [
+        {
+          "value": 28199
+        }
+      ],
+      "Bach-Archiv": [
+        {
+          "value": 30199
+        }
+      ],
+      "Zeitgeschichtliches Forum": [
+        {
+          "value": 158486
+        }
+      ],
+      "Museum für Druckkunst Leipzig": [
+        {
+          "value": 5993
+        }
+      ],
+      "GRASSI Museum für Völkerkunde": [
+        {
+          "value": 7303
+        }
+      ],
+      "GRASSI Museum für Musikinstrumente": [
+        {
+          "value": 8733
+        }
+      ],
+      "Ägyptisches Museum": [
+        {
+          "value": 12563
+        }
+      ],
+      "Gedenkstätte Museum in der \"Runden Ecke\"": [
+        {
+          "value": 83254
+        }
+      ],
+      "Gedenkstätte für Zwangsarbeit": [
+        {
+          "value": null
+        }
+      ],
+      "Deutsches Buch -und Schriftmuseum": [
+        {
+          "value": 5993
+        }
+      ],
+      "Deutsches Kleingärtnermuseum": [
+        {
+          "value": 2831
+        }
+      ],
+      "Museum im Mendelssohn-Haus": [
+        {
+          "value": 20178
+        }
+      ],
+      "Apothekenmuseum": [
+        {
+          "value": 2215
+        }
+      ],
+      "Stadtgeschichtliches Museum (Neubau)": [
+        {
+          "value": null
+        }
+      ],
+      "Schillerhaus": [
+        {
+          "value": 11869
+        }
+      ],
+      "Galerie für Zeitgenössische Kunst": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2005": {
+      "Galerie für Zeitgenössische Kunst": [
+        {
+          "value": 18502
+        }
+      ],
+      "Schillerhaus": [
+        {
+          "value": 14338
+        }
+      ],
+      "Stadtgeschichtliches Museum (Neubau)": [
+        {
+          "value": 50921
+        }
+      ],
+      "Stadtgeschichtliches Museum insgesamt": [
+        {
+          "value": 339579
+        }
+      ],
+      "Altes Rathaus": [
+        {
+          "value": 44144
+        }
+      ],
+      "Völkerschlachtdenkmal": [
+        {
+          "value": 147246
+        }
+      ],
+      "Forum 1813": [
+        {
+          "value": 20495
+        }
+      ],
+      "Alte Börse": [
+        {
+          "value": 30686
+        }
+      ],
+      "Kaffeemuseum": [
+        {
+          "value": 30535
+        }
+      ],
+      "Museum der bildenden Künste": [
+        {
+          "value": 173451
+        }
+      ],
+      "GRASSI Museum für Angewandte Kunst": [
+        {
+          "value": 28810
+        }
+      ],
+      "Naturkundemuseum": [
+        {
+          "value": 32796
+        }
+      ],
+      "Bach-Archiv": [
+        {
+          "value": 30534
+        }
+      ],
+      "Zeitgeschichtliches Forum": [
+        {
+          "value": 173427
+        }
+      ],
+      "Museum für Druckkunst Leipzig": [
+        {
+          "value": 5486
+        }
+      ],
+      "GRASSI Museum für Völkerkunde": [
+        {
+          "value": 16103
+        }
+      ],
+      "GRASSI Museum für Musikinstrumente": [
+        {
+          "value": 9530
+        }
+      ],
+      "Ägyptisches Museum": [
+        {
+          "value": 13529
+        }
+      ],
+      "Gedenkstätte Museum in der \"Runden Ecke\"": [
+        {
+          "value": 88484
+        }
+      ],
+      "Museum im Mendelssohn-Haus": [
+        {
+          "value": 20201
+        }
+      ],
+      "Apothekenmuseum": [
+        {
+          "value": 2035
+        }
+      ],
+      "Deutsches Kleingärtnermuseum": [
+        {
+          "value": 2043
+        }
+      ],
+      "Deutsches Buch -und Schriftmuseum": [
+        {
+          "value": 5486
+        }
+      ],
+      "Gedenkstätte für Zwangsarbeit": [
+        {
+          "value": null
+        }
+      ],
+      "UNIKATUM Kindermuseum": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2006": {
+      "UNIKATUM Kindermuseum": [
+        {
+          "value": null
+        }
+      ],
+      "Gedenkstätte für Zwangsarbeit": [
+        {
+          "value": null
+        }
+      ],
+      "Deutsches Buch -und Schriftmuseum": [
+        {
+          "value": 5081
+        }
+      ],
+      "Stadtgeschichtliches Museum insgesamt": [
+        {
+          "value": 322933
+        }
+      ],
+      "Altes Rathaus": [
+        {
+          "value": 45102
+        }
+      ],
+      "Völkerschlachtdenkmal": [
+        {
+          "value": 155765
+        }
+      ],
+      "Forum 1813": [
+        {
+          "value": 18658
+        }
+      ],
+      "Alte Börse": [
+        {
+          "value": 28956
+        }
+      ],
+      "Kaffeemuseum": [
+        {
+          "value": 28630
+        }
+      ],
+      "Museum der bildenden Künste": [
+        {
+          "value": 111442
+        }
+      ],
+      "GRASSI Museum für Angewandte Kunst": [
+        {
+          "value": 8852
+        }
+      ],
+      "Naturkundemuseum": [
+        {
+          "value": 29416
+        }
+      ],
+      "Bach-Archiv": [
+        {
+          "value": 31300
+        }
+      ],
+      "Zeitgeschichtliches Forum": [
+        {
+          "value": 162835
+        }
+      ],
+      "Museum für Druckkunst Leipzig": [
+        {
+          "value": 5091
+        }
+      ],
+      "GRASSI Museum für Völkerkunde": [
+        {
+          "value": 22830
+        }
+      ],
+      "GRASSI Museum für Musikinstrumente": [
+        {
+          "value": 17613
+        }
+      ],
+      "Ägyptisches Museum": [
+        {
+          "value": 10279
+        }
+      ],
+      "Gedenkstätte Museum in der \"Runden Ecke\"": [
+        {
+          "value": 78581
+        }
+      ],
+      "Museum im Mendelssohn-Haus": [
+        {
+          "value": 20974
+        }
+      ],
+      "Apothekenmuseum": [
+        {
+          "value": 1519
+        }
+      ],
+      "Deutsches Kleingärtnermuseum": [
+        {
+          "value": 2043
+        }
+      ],
+      "Stadtgeschichtliches Museum (Neubau)": [
+        {
+          "value": 35583
+        }
+      ],
+      "Schillerhaus": [
+        {
+          "value": 10109
+        }
+      ],
+      "Galerie für Zeitgenössische Kunst": [
+        {
+          "value": 12112
+        }
+      ]
+    },
+    "2007": {
+      "Deutsches Buch -und Schriftmuseum": [
+        {
+          "value": 5127
+        }
+      ],
+      "Gedenkstätte für Zwangsarbeit": [
+        {
+          "value": null
+        }
+      ],
+      "UNIKATUM Kindermuseum": [
+        {
+          "value": null
+        }
+      ],
+      "Stadtgeschichtliches Museum insgesamt": [
+        {
+          "value": 353624
+        }
+      ],
+      "Altes Rathaus": [
+        {
+          "value": 44332
+        }
+      ],
+      "Völkerschlachtdenkmal": [
+        {
+          "value": 186737
+        }
+      ],
+      "Forum 1813": [
+        {
+          "value": 21382
+        }
+      ],
+      "Alte Börse": [
+        {
+          "value": 30176
+        }
+      ],
+      "Kaffeemuseum": [
+        {
+          "value": 26433
+        }
+      ],
+      "Museum der bildenden Künste": [
+        {
+          "value": 121903
+        }
+      ],
+      "GRASSI Museum für Angewandte Kunst": [
+        {
+          "value": 23646
+        }
+      ],
+      "Naturkundemuseum": [
+        {
+          "value": 34694
+        }
+      ],
+      "Bach-Archiv": [
+        {
+          "value": 31588
+        }
+      ],
+      "Zeitgeschichtliches Forum": [
+        {
+          "value": 172610
+        }
+      ],
+      "Museum für Druckkunst Leipzig": [
+        {
+          "value": 5127
+        }
+      ],
+      "GRASSI Museum für Völkerkunde": [
+        {
+          "value": 27287
+        }
+      ],
+      "GRASSI Museum für Musikinstrumente": [
+        {
+          "value": 21333
+        }
+      ],
+      "Ägyptisches Museum": [
+        {
+          "value": 10565
+        }
+      ],
+      "Gedenkstätte Museum in der \"Runden Ecke\"": [
+        {
+          "value": 92307
+        }
+      ],
+      "Museum im Mendelssohn-Haus": [
+        {
+          "value": 21998
+        }
+      ],
+      "Apothekenmuseum": [
+        {
+          "value": 1601
+        }
+      ],
+      "Deutsches Kleingärtnermuseum": [
+        {
+          "value": 1654
+        }
+      ],
+      "Stadtgeschichtliches Museum (Neubau)": [
+        {
+          "value": 33892
+        }
+      ],
+      "Schillerhaus": [
+        {
+          "value": 10564
+        }
+      ],
+      "Galerie für Zeitgenössische Kunst": [
+        {
+          "value": 14124
+        }
+      ]
+    },
+    "2008": {
+      "Stadtgeschichtliches Museum insgesamt": [
+        {
+          "value": 342325
+        }
+      ],
+      "Altes Rathaus": [
+        {
+          "value": 41743
+        }
+      ],
+      "Stadtgeschichtliches Museum (Neubau)": [
+        {
+          "value": 37607
+        }
+      ],
+      "Völkerschlachtdenkmal": [
+        {
+          "value": 180242
+        }
+      ],
+      "Forum 1813": [
+        {
+          "value": 20100
+        }
+      ],
+      "Alte Börse": [
+        {
+          "value": 27426
+        }
+      ],
+      "Schillerhaus": [
+        {
+          "value": 12364
+        }
+      ],
+      "Kaffeemuseum": [
+        {
+          "value": 22769
+        }
+      ],
+      "Museum der bildenden Künste": [
+        {
+          "value": 160744
+        }
+      ],
+      "GRASSI Museum für Angewandte Kunst": [
+        {
+          "value": 57873
+        }
+      ],
+      "GRASSI Museum für Musikinstrumente": [
+        {
+          "value": 29677
+        }
+      ],
+      "GRASSI Museum für Völkerkunde": [
+        {
+          "value": 36497
+        }
+      ],
+      "Naturkundemuseum": [
+        {
+          "value": 31411
+        }
+      ],
+      "Bach-Archiv": [
+        {
+          "value": 28380
+        }
+      ],
+      "Zeitgeschichtliches Forum": [
+        {
+          "value": 189570
+        }
+      ],
+      "Museum für Druckkunst Leipzig": [
+        {
+          "value": 4909
+        }
+      ],
+      "Ägyptisches Museum": [
+        {
+          "value": 10268
+        }
+      ],
+      "Gedenkstätte Museum in der \"Runden Ecke\"": [
+        {
+          "value": 98565
+        }
+      ],
+      "Museum im Mendelssohn-Haus": [
+        {
+          "value": 26745
+        }
+      ],
+      "Apothekenmuseum": [
+        {
+          "value": 1793
+        }
+      ],
+      "Deutsches Kleingärtnermuseum": [
+        {
+          "value": 2017
+        }
+      ],
+      "Galerie für Zeitgenössische Kunst": [
+        {
+          "value": 18095
+        }
+      ],
+      "UNIKATUM Kindermuseum": [
+        {
+          "value": null
+        }
+      ],
+      "Gedenkstätte für Zwangsarbeit": [
+        {
+          "value": null
+        }
+      ],
+      "Deutsches Buch -und Schriftmuseum": [
+        {
+          "value": 4909
+        }
+      ]
+    },
+    "2009": {
+      "Deutsches Buch -und Schriftmuseum": [
+        {
+          "value": 1300
+        }
+      ],
+      "Gedenkstätte für Zwangsarbeit": [
+        {
+          "value": null
+        }
+      ],
+      "UNIKATUM Kindermuseum": [
+        {
+          "value": null
+        }
+      ],
+      "Stadtgeschichtliches Museum insgesamt": [
+        {
+          "value": 411091
+        }
+      ],
+      "Altes Rathaus": [
+        {
+          "value": 75984
+        }
+      ],
+      "Stadtgeschichtliches Museum (Neubau)": [
+        {
+          "value": 31169
+        }
+      ],
+      "Völkerschlachtdenkmal": [
+        {
+          "value": 189693
+        }
+      ],
+      "Forum 1813": [
+        {
+          "value": 48120
+        }
+      ],
+      "Alte Börse": [
+        {
+          "value": 31099
+        }
+      ],
+      "Schillerhaus": [
+        {
+          "value": 11126
+        }
+      ],
+      "Kaffeemuseum": [
+        {
+          "value": 23801
+        }
+      ],
+      "Museum der bildenden Künste": [
+        {
+          "value": 111819
+        }
+      ],
+      "GRASSI Museum für Angewandte Kunst": [
+        {
+          "value": 53392
+        }
+      ],
+      "GRASSI Museum für Musikinstrumente": [
+        {
+          "value": 26220
+        }
+      ],
+      "GRASSI Museum für Völkerkunde": [
+        {
+          "value": 43561
+        }
+      ],
+      "Naturkundemuseum": [
+        {
+          "value": 38337
+        }
+      ],
+      "Bach-Archiv": [
+        {
+          "value": 25641
+        }
+      ],
+      "Zeitgeschichtliches Forum": [
+        {
+          "value": 215973
+        }
+      ],
+      "Museum für Druckkunst Leipzig": [
+        {
+          "value": 1300
+        }
+      ],
+      "Ägyptisches Museum": [
+        {
+          "value": 10034
+        }
+      ],
+      "Gedenkstätte Museum in der \"Runden Ecke\"": [
+        {
+          "value": 125971
+        }
+      ],
+      "Museum im Mendelssohn-Haus": [
+        {
+          "value": 36667
+        }
+      ],
+      "Apothekenmuseum": [
+        {
+          "value": 1852
+        }
+      ],
+      "Deutsches Kleingärtnermuseum": [
+        {
+          "value": 1472
+        }
+      ],
+      "Galerie für Zeitgenössische Kunst": [
+        {
+          "value": 22410
+        }
+      ]
+    },
+    "2010": {
+      "Stadtgeschichtliches Museum insgesamt": [
+        {
+          "value": 356066
+        }
+      ],
+      "Altes Rathaus": [
+        {
+          "value": 43958
+        }
+      ],
+      "Stadtgeschichtliches Museum (Neubau)": [
+        {
+          "value": 25784
+        }
+      ],
+      "Völkerschlachtdenkmal": [
+        {
+          "value": 179611
+        }
+      ],
+      "Forum 1813": [
+        {
+          "value": 44897
+        }
+      ],
+      "Alte Börse": [
+        {
+          "value": 28380
+        }
+      ],
+      "Schillerhaus": [
+        {
+          "value": 8821
+        }
+      ],
+      "Kaffeemuseum": [
+        {
+          "value": 24591
+        }
+      ],
+      "Museum der bildenden Künste": [
+        {
+          "value": 180174
+        }
+      ],
+      "Zeitgeschichtliches Forum": [
+        {
+          "value": 225446
+        }
+      ],
+      "Gedenkstätte Museum in der \"Runden Ecke\"": [
+        {
+          "value": 122058
+        }
+      ],
+      "GRASSI Museum für Angewandte Kunst": [
+        {
+          "value": 60816
+        }
+      ],
+      "GRASSI Museum für Völkerkunde": [
+        {
+          "value": 42134
+        }
+      ],
+      "GRASSI Museum für Musikinstrumente": [
+        {
+          "value": 31068
+        }
+      ],
+      "Naturkundemuseum": [
+        {
+          "value": 37226
+        }
+      ],
+      "Bach-Archiv": [
+        {
+          "value": 50089
+        }
+      ],
+      "Museum im Mendelssohn-Haus": [
+        {
+          "value": 33317
+        }
+      ],
+      "Galerie für Zeitgenössische Kunst": [
+        {
+          "value": 24045
+        }
+      ],
+      "Ägyptisches Museum": [
+        {
+          "value": 10496
+        }
+      ],
+      "Museum für Druckkunst Leipzig": [
+        {
+          "value": 10569
+        }
+      ],
+      "Apothekenmuseum": [
+        {
+          "value": 2048
+        }
+      ],
+      "Deutsches Kleingärtnermuseum": [
+        {
+          "value": 1188
+        }
+      ],
+      "UNIKATUM Kindermuseum": [
+        {
+          "value": null
+        }
+      ],
+      "Gedenkstätte für Zwangsarbeit": [
+        {
+          "value": null
+        }
+      ],
+      "Deutsches Buch -und Schriftmuseum": [
+        {
+          "value": 958
+        }
+      ]
+    },
+    "2011": {
+      "Deutsches Buch -und Schriftmuseum": [
+        {
+          "value": 8922
+        }
+      ],
+      "Gedenkstätte für Zwangsarbeit": [
+        {
+          "value": null
+        }
+      ],
+      "UNIKATUM Kindermuseum": [
+        {
+          "value": null
+        }
+      ],
+      "Stadtgeschichtliches Museum insgesamt": [
+        {
+          "value": 418947
+        }
+      ],
+      "Altes Rathaus": [
+        {
+          "value": 40499
+        }
+      ],
+      "Stadtgeschichtliches Museum (Neubau)": [
+        {
+          "value": 47644
+        }
+      ],
+      "Völkerschlachtdenkmal": [
+        {
+          "value": 200319
+        }
+      ],
+      "Forum 1813": [
+        {
+          "value": 63825
+        }
+      ],
+      "Alte Börse": [
+        {
+          "value": 29470
+        }
+      ],
+      "Schillerhaus": [
+        {
+          "value": 10295
+        }
+      ],
+      "Kaffeemuseum": [
+        {
+          "value": 26866
+        }
+      ],
+      "Zeitgeschichtliches Forum": [
+        {
+          "value": 191265
+        }
+      ],
+      "Gedenkstätte Museum in der \"Runden Ecke\"": [
+        {
+          "value": 123667
+        }
+      ],
+      "Museum der bildenden Künste": [
+        {
+          "value": 121971
+        }
+      ],
+      "Bach-Archiv": [
+        {
+          "value": 43775
+        }
+      ],
+      "GRASSI Museum für Angewandte Kunst": [
+        {
+          "value": 55158
+        }
+      ],
+      "GRASSI Museum für Völkerkunde": [
+        {
+          "value": 34689
+        }
+      ],
+      "GRASSI Museum für Musikinstrumente": [
+        {
+          "value": 28403
+        }
+      ],
+      "Naturkundemuseum": [
+        {
+          "value": 34002
+        }
+      ],
+      "Museum im Mendelssohn-Haus": [
+        {
+          "value": 34780
+        }
+      ],
+      "Galerie für Zeitgenössische Kunst": [
+        {
+          "value": 24100
+        }
+      ],
+      "Museum für Druckkunst Leipzig": [
+        {
+          "value": 10328
+        }
+      ],
+      "Ägyptisches Museum": [
+        {
+          "value": 15315
+        }
+      ],
+      "Apothekenmuseum": [
+        {
+          "value": 1934
+        }
+      ],
+      "Deutsches Kleingärtnermuseum": [
+        {
+          "value": 1883
+        }
+      ]
+    },
+    "2012": {
+      "UNIKATUM Kindermuseum": [
+        {
+          "value": null
+        }
+      ],
+      "Gedenkstätte für Zwangsarbeit": [
+        {
+          "value": null
+        }
+      ],
+      "Stadtgeschichtliches Museum insgesamt": [
+        {
+          "value": 423260
+        }
+      ],
+      "Altes Rathaus": [
+        {
+          "value": 42919
+        }
+      ],
+      "Stadtgeschichtliches Museum (Neubau)": [
+        {
+          "value": 30980
+        }
+      ],
+      "Völkerschlachtdenkmal": [
+        {
+          "value": 217531
+        }
+      ],
+      "Forum 1813": [
+        {
+          "value": 68758
+        }
+      ],
+      "Alte Börse": [
+        {
+          "value": 28497
+        }
+      ],
+      "Schillerhaus": [
+        {
+          "value": 8949
+        }
+      ],
+      "Kaffeemuseum": [
+        {
+          "value": 25571
+        }
+      ],
+      "Zeitgeschichtliches Forum": [
+        {
+          "value": 307593
+        }
+      ],
+      "Gedenkstätte Museum in der \"Runden Ecke\"": [
+        {
+          "value": 134629
+        }
+      ],
+      "Museum der bildenden Künste": [
+        {
+          "value": 112030
+        }
+      ],
+      "Bach-Archiv": [
+        {
+          "value": 48800
+        }
+      ],
+      "GRASSI Museum für Angewandte Kunst": [
+        {
+          "value": 72716
+        }
+      ],
+      "GRASSI Museum für Völkerkunde": [
+        {
+          "value": 31531
+        }
+      ],
+      "GRASSI Museum für Musikinstrumente": [
+        {
+          "value": 31185
+        }
+      ],
+      "Naturkundemuseum": [
+        {
+          "value": 23064
+        }
+      ],
+      "Museum im Mendelssohn-Haus": [
+        {
+          "value": 33206
+        }
+      ],
+      "Galerie für Zeitgenössische Kunst": [
+        {
+          "value": 22103
+        }
+      ],
+      "Ägyptisches Museum": [
+        {
+          "value": 16009
+        }
+      ],
+      "Deutsches Buch -und Schriftmuseum": [
+        {
+          "value": 26642
+        }
+      ],
+      "Museum für Druckkunst Leipzig": [
+        {
+          "value": 10548
+        }
+      ],
+      "Apothekenmuseum": [
+        {
+          "value": 2120
+        }
+      ],
+      "Deutsches Kleingärtnermuseum": [
+        {
+          "value": 1942
+        }
+      ]
+    },
+    "2013": {
+      "Stadtgeschichtliches Museum insgesamt": [
+        {
+          "value": 561196
+        }
+      ],
+      "Altes Rathaus": [
+        {
+          "value": 40517
+        }
+      ],
+      "Stadtgeschichtliches Museum (Neubau)": [
+        {
+          "value": 29881
+        }
+      ],
+      "Völkerschlachtdenkmal": [
+        {
+          "value": 315223
+        }
+      ],
+      "Forum 1813": [
+        {
+          "value": 102555
+        }
+      ],
+      "Alte Börse": [
+        {
+          "value": 32028
+        }
+      ],
+      "Schillerhaus": [
+        {
+          "value": 8574
+        }
+      ],
+      "Kaffeemuseum": [
+        {
+          "value": 27345
+        }
+      ],
+      "Zeitgeschichtliches Forum": [
+        {
+          "value": 254112
+        }
+      ],
+      "Gedenkstätte Museum in der \"Runden Ecke\"": [
+        {
+          "value": 120084
+        }
+      ],
+      "Museum der bildenden Künste": [
+        {
+          "value": 96264
+        }
+      ],
+      "Bach-Archiv": [
+        {
+          "value": 43997
+        }
+      ],
+      "GRASSI Museum für Angewandte Kunst": [
+        {
+          "value": 95593
+        }
+      ],
+      "GRASSI Museum für Völkerkunde": [
+        {
+          "value": 59821
+        }
+      ],
+      "GRASSI Museum für Musikinstrumente": [
+        {
+          "value": 34242
+        }
+      ],
+      "Naturkundemuseum": [
+        {
+          "value": 27408
+        }
+      ],
+      "Museum im Mendelssohn-Haus": [
+        {
+          "value": 33407
+        }
+      ],
+      "Galerie für Zeitgenössische Kunst": [
+        {
+          "value": 36752
+        }
+      ],
+      "Ägyptisches Museum": [
+        {
+          "value": 16179
+        }
+      ],
+      "Deutsches Buch -und Schriftmuseum": [
+        {
+          "value": 22638
+        }
+      ],
+      "Museum für Druckkunst Leipzig": [
+        {
+          "value": 9221
+        }
+      ],
+      "Apothekenmuseum": [
+        {
+          "value": 1648
+        }
+      ],
+      "Deutsches Kleingärtnermuseum": [
+        {
+          "value": 2189
+        }
+      ],
+      "Gedenkstätte für Zwangsarbeit": [
+        {
+          "value": null
+        }
+      ],
+      "UNIKATUM Kindermuseum": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2014": {
+      "UNIKATUM Kindermuseum": [
+        {
+          "value": null
+        }
+      ],
+      "Gedenkstätte für Zwangsarbeit": [
+        {
+          "value": null
+        }
+      ],
+      "Stadtgeschichtliches Museum insgesamt": [
+        {
+          "value": 529341
+        }
+      ],
+      "Altes Rathaus": [
+        {
+          "value": 39173
+        }
+      ],
+      "Stadtgeschichtliches Museum (Neubau)": [
+        {
+          "value": 20939
+        }
+      ],
+      "Völkerschlachtdenkmal": [
+        {
+          "value": 313914
+        }
+      ],
+      "Forum 1813": [
+        {
+          "value": 91966
+        }
+      ],
+      "Alte Börse": [
+        {
+          "value": 25445
+        }
+      ],
+      "Schillerhaus": [
+        {
+          "value": 8460
+        }
+      ],
+      "Kaffeemuseum": [
+        {
+          "value": 29295
+        }
+      ],
+      "Zeitgeschichtliches Forum": [
+        {
+          "value": 189923
+        }
+      ],
+      "Gedenkstätte Museum in der \"Runden Ecke\"": [
+        {
+          "value": 137493
+        }
+      ],
+      "Museum der bildenden Künste": [
+        {
+          "value": 100345
+        }
+      ],
+      "Bach-Archiv": [
+        {
+          "value": 43897
+        }
+      ],
+      "GRASSI Museum für Angewandte Kunst": [
+        {
+          "value": 65520
+        }
+      ],
+      "GRASSI Museum für Völkerkunde": [
+        {
+          "value": 58668
+        }
+      ],
+      "GRASSI Museum für Musikinstrumente": [
+        {
+          "value": 27774
+        }
+      ],
+      "Naturkundemuseum": [
+        {
+          "value": 37859
+        }
+      ],
+      "Museum im Mendelssohn-Haus": [
+        {
+          "value": 37137
+        }
+      ],
+      "Galerie für Zeitgenössische Kunst": [
+        {
+          "value": 20951
+        }
+      ],
+      "Ägyptisches Museum": [
+        {
+          "value": 16242
+        }
+      ],
+      "Deutsches Buch -und Schriftmuseum": [
+        {
+          "value": 19142
+        }
+      ],
+      "Museum für Druckkunst Leipzig": [
+        {
+          "value": 12265
+        }
+      ],
+      "Apothekenmuseum": [
+        {
+          "value": 2009
+        }
+      ],
+      "Deutsches Kleingärtnermuseum": [
+        {
+          "value": 2818
+        }
+      ]
+    },
+    "2015": {
+      "Stadtgeschichtliches Museum insgesamt": [
+        {
+          "value": 498236
+        }
+      ],
+      "Altes Rathaus": [
+        {
+          "value": 44824
+        }
+      ],
+      "Stadtgeschichtliches Museum (Neubau)": [
+        {
+          "value": 22593
+        }
+      ],
+      "Völkerschlachtdenkmal": [
+        {
+          "value": 278895
+        }
+      ],
+      "Forum 1813": [
+        {
+          "value": 88768
+        }
+      ],
+      "Alte Börse": [
+        {
+          "value": 26000
+        }
+      ],
+      "Schillerhaus": [
+        {
+          "value": 9848
+        }
+      ],
+      "Kaffeemuseum": [
+        {
+          "value": 26286
+        }
+      ],
+      "Zeitgeschichtliches Forum": [
+        {
+          "value": 203994
+        }
+      ],
+      "Gedenkstätte Museum in der \"Runden Ecke\"": [
+        {
+          "value": 124171
+        }
+      ],
+      "Museum der bildenden Künste": [
+        {
+          "value": 134959
+        }
+      ],
+      "Bach-Archiv": [
+        {
+          "value": 46094
+        }
+      ],
+      "GRASSI Museum für Angewandte Kunst": [
+        {
+          "value": 70744
+        }
+      ],
+      "GRASSI Museum für Völkerkunde": [
+        {
+          "value": 42171
+        }
+      ],
+      "GRASSI Museum für Musikinstrumente": [
+        {
+          "value": 30201
+        }
+      ],
+      "Naturkundemuseum": [
+        {
+          "value": 37964
+        }
+      ],
+      "Museum im Mendelssohn-Haus": [
+        {
+          "value": 33079
+        }
+      ],
+      "Galerie für Zeitgenössische Kunst": [
+        {
+          "value": 21569
+        }
+      ],
+      "Ägyptisches Museum": [
+        {
+          "value": 16006
+        }
+      ],
+      "Deutsches Buch -und Schriftmuseum": [
+        {
+          "value": 16970
+        }
+      ],
+      "Museum für Druckkunst Leipzig": [
+        {
+          "value": 11925
+        }
+      ],
+      "Apothekenmuseum": [
+        {
+          "value": 1714
+        }
+      ],
+      "Deutsches Kleingärtnermuseum": [
+        {
+          "value": 2151
+        }
+      ],
+      "Gedenkstätte für Zwangsarbeit": [
+        {
+          "value": null
+        }
+      ],
+      "UNIKATUM Kindermuseum": [
+        {
+          "value": 11500
+        }
+      ]
+    },
+    "2016": {
+      "UNIKATUM Kindermuseum": [
+        {
+          "value": 12299
+        }
+      ],
+      "Gedenkstätte für Zwangsarbeit": [
+        {
+          "value": null
+        }
+      ],
+      "Stadtgeschichtliches Museum insgesamt": [
+        {
+          "value": 466476
+        }
+      ],
+      "Altes Rathaus": [
+        {
+          "value": 39631
+        }
+      ],
+      "Stadtgeschichtliches Museum (Neubau)": [
+        {
+          "value": 44751
+        }
+      ],
+      "Völkerschlachtdenkmal": [
+        {
+          "value": 254181
+        }
+      ],
+      "Forum 1813": [
+        {
+          "value": 69989
+        }
+      ],
+      "Alte Börse": [
+        {
+          "value": 22982
+        }
+      ],
+      "Schillerhaus": [
+        {
+          "value": 9886
+        }
+      ],
+      "Kaffeemuseum": [
+        {
+          "value": 24991
+        }
+      ],
+      "Zeitgeschichtliches Forum": [
+        {
+          "value": 232514
+        }
+      ],
+      "Gedenkstätte Museum in der \"Runden Ecke\"": [
+        {
+          "value": 104878
+        }
+      ],
+      "Museum der bildenden Künste": [
+        {
+          "value": 105596
+        }
+      ],
+      "Bach-Archiv": [
+        {
+          "value": 45067
+        }
+      ],
+      "GRASSI Museum für Angewandte Kunst": [
+        {
+          "value": 71030
+        }
+      ],
+      "GRASSI Museum für Völkerkunde": [
+        {
+          "value": 50666
+        }
+      ],
+      "GRASSI Museum für Musikinstrumente": [
+        {
+          "value": 28959
+        }
+      ],
+      "Naturkundemuseum": [
+        {
+          "value": 42962
+        }
+      ],
+      "Museum im Mendelssohn-Haus": [
+        {
+          "value": 31820
+        }
+      ],
+      "Galerie für Zeitgenössische Kunst": [
+        {
+          "value": 36225
+        }
+      ],
+      "Ägyptisches Museum": [
+        {
+          "value": 16975
+        }
+      ],
+      "Deutsches Buch -und Schriftmuseum": [
+        {
+          "value": 17597
+        }
+      ],
+      "Museum für Druckkunst Leipzig": [
+        {
+          "value": 10107
+        }
+      ],
+      "Apothekenmuseum": [
+        {
+          "value": 1423
+        }
+      ],
+      "Deutsches Kleingärtnermuseum": [
+        {
+          "value": 2686
+        }
+      ]
+    },
+    "2017": {
+      "Gedenkstätte für Zwangsarbeit": [
+        {
+          "value": null
+        }
+      ],
+      "Stadtgeschichtliches Museum insgesamt": [
+        {
+          "value": 497379
+        }
+      ],
+      "Altes Rathaus": [
+        {
+          "value": 39497
+        }
+      ],
+      "Stadtgeschichtliches Museum (Neubau)": [
+        {
+          "value": 36648
+        }
+      ],
+      "Völkerschlachtdenkmal": [
+        {
+          "value": 269539
+        }
+      ],
+      "Forum 1813": [
+        {
+          "value": 88786
+        }
+      ],
+      "Alte Börse": [
+        {
+          "value": 25876
+        }
+      ],
+      "Schillerhaus": [
+        {
+          "value": 9463
+        }
+      ],
+      "Kaffeemuseum": [
+        {
+          "value": 27555
+        }
+      ],
+      "Zeitgeschichtliches Forum": [
+        {
+          "value": 207392
+        }
+      ],
+      "Gedenkstätte Museum in der \"Runden Ecke\"": [
+        {
+          "value": 104655
+        }
+      ],
+      "Museum der bildenden Künste": [
+        {
+          "value": 121177
+        }
+      ],
+      "Bach-Archiv": [
+        {
+          "value": 50195
+        }
+      ],
+      "GRASSI Museum für Angewandte Kunst": [
+        {
+          "value": 79431
+        }
+      ],
+      "GRASSI Museum für Völkerkunde": [
+        {
+          "value": 67918
+        }
+      ],
+      "GRASSI Museum für Musikinstrumente": [
+        {
+          "value": 35514
+        }
+      ],
+      "Naturkundemuseum": [
+        {
+          "value": 44979
+        }
+      ],
+      "Museum im Mendelssohn-Haus": [
+        {
+          "value": 32262
+        }
+      ],
+      "Galerie für Zeitgenössische Kunst": [
+        {
+          "value": 59137
+        }
+      ],
+      "Ägyptisches Museum": [
+        {
+          "value": 18171
+        }
+      ],
+      "Deutsches Buch -und Schriftmuseum": [
+        {
+          "value": 15931
+        }
+      ],
+      "Museum für Druckkunst Leipzig": [
+        {
+          "value": 10296
+        }
+      ],
+      "Apothekenmuseum": [
+        {
+          "value": 2357
+        }
+      ],
+      "Deutsches Kleingärtnermuseum": [
+        {
+          "value": 3755
+        }
+      ],
+      "UNIKATUM Kindermuseum": [
+        {
+          "value": 16335
+        }
+      ]
+    },
+    "2018": {
+      "Gedenkstätte für Zwangsarbeit": [
+        {
+          "value": 2821
+        }
+      ],
+      "Stadtgeschichtliches Museum insgesamt": [
+        {
+          "value": 468415
+        }
+      ],
+      "Altes Rathaus": [
+        {
+          "value": 35253
+        }
+      ],
+      "Stadtgeschichtliches Museum (Neubau)": [
+        {
+          "value": 20870
+        }
+      ],
+      "Völkerschlachtdenkmal": [
+        {
+          "value": 269239
+        }
+      ],
+      "Forum 1813": [
+        {
+          "value": 89699
+        }
+      ],
+      "Alte Börse": [
+        {
+          "value": 20352
+        }
+      ],
+      "Schillerhaus": [
+        {
+          "value": 4256
+        }
+      ],
+      "Kaffeemuseum": [
+        {
+          "value": 28459
+        }
+      ],
+      "Zeitgeschichtliches Forum": [
+        {
+          "value": 202742
+        }
+      ],
+      "Gedenkstätte Museum in der \"Runden Ecke\"": [
+        {
+          "value": 119479
+        }
+      ],
+      "Museum der bildenden Künste": [
+        {
+          "value": 120856
+        }
+      ],
+      "Bach-Archiv": [
+        {
+          "value": 50782
+        }
+      ],
+      "GRASSI Museum für Angewandte Kunst": [
+        {
+          "value": 73675
+        }
+      ],
+      "GRASSI Museum für Völkerkunde": [
+        {
+          "value": 48716
+        }
+      ],
+      "GRASSI Museum für Musikinstrumente": [
+        {
+          "value": 28816
+        }
+      ],
+      "Naturkundemuseum": [
+        {
+          "value": 50363
+        }
+      ],
+      "Museum im Mendelssohn-Haus": [
+        {
+          "value": 35075
+        }
+      ],
+      "Galerie für Zeitgenössische Kunst": [
+        {
+          "value": 66640
+        }
+      ],
+      "Ägyptisches Museum": [
+        {
+          "value": 18721
+        }
+      ],
+      "Deutsches Buch -und Schriftmuseum": [
+        {
+          "value": 19872
+        }
+      ],
+      "Museum für Druckkunst Leipzig": [
+        {
+          "value": 10013
+        }
+      ],
+      "Apothekenmuseum": [
+        {
+          "value": 2357
+        }
+      ],
+      "Deutsches Kleingärtnermuseum": [
+        {
+          "value": 3652
+        }
+      ],
+      "UNIKATUM Kindermuseum": [
+        {
+          "value": 19903
+        }
+      ]
+    },
+    "2019": {
+      "Stadtgeschichtliches Museum insgesamt": [
+        {
+          "value": 492146
+        }
+      ],
+      "Altes Rathaus": [
+        {
+          "value": 42021
+        }
+      ],
+      "Stadtgeschichtliches Museum (Neubau)": [
+        {
+          "value": 22851
+        }
+      ],
+      "Völkerschlachtdenkmal": [
+        {
+          "value": 299866
+        }
+      ],
+      "Forum 1813": [
+        {
+          "value": 97637
+        }
+      ],
+      "Alte Börse": [
+        {
+          "value": 23739
+        }
+      ],
+      "Schillerhaus": [
+        {
+          "value": 5341
+        }
+      ],
+      "Kaffeemuseum": [
+        {
+          "value": 677
+        }
+      ],
+      "Zeitgeschichtliches Forum": [
+        {
+          "value": 272989
+        }
+      ],
+      "Gedenkstätte Museum in der \"Runden Ecke\"": [
+        {
+          "value": 139538
+        }
+      ],
+      "Museum der bildenden Künste": [
+        {
+          "value": 195750
+        }
+      ],
+      "Bach-Archiv": [
+        {
+          "value": 50989
+        }
+      ],
+      "GRASSI Museum für Angewandte Kunst": [
+        {
+          "value": 90369
+        }
+      ],
+      "GRASSI Museum für Völkerkunde": [
+        {
+          "value": 67534
+        }
+      ],
+      "GRASSI Museum für Musikinstrumente": [
+        {
+          "value": 30014
+        }
+      ],
+      "Naturkundemuseum": [
+        {
+          "value": 70248
+        }
+      ],
+      "Museum im Mendelssohn-Haus": [
+        {
+          "value": 37363
+        }
+      ],
+      "Galerie für Zeitgenössische Kunst": [
+        {
+          "value": 70341
+        }
+      ],
+      "Ägyptisches Museum": [
+        {
+          "value": 19523
+        }
+      ],
+      "Deutsches Buch -und Schriftmuseum": [
+        {
+          "value": 18738
+        }
+      ],
+      "Museum für Druckkunst Leipzig": [
+        {
+          "value": 10617
+        }
+      ],
+      "Apothekenmuseum": [
+        {
+          "value": 2466
+        }
+      ],
+      "Deutsches Kleingärtnermuseum": [
+        {
+          "value": 5829
+        }
+      ],
+      "UNIKATUM Kindermuseum": [
+        {
+          "value": 23729
+        }
+      ],
+      "Gedenkstätte für Zwangsarbeit": [
+        {
+          "value": 3134
+        }
+      ]
+    },
+    "2020": {
+      "Stadtgeschichtliches Museum insgesamt": [
+        {
+          "value": 271767
+        }
+      ],
+      "Altes Rathaus": [
+        {
+          "value": 15893
+        }
+      ],
+      "Stadtgeschichtliches Museum (Neubau)": [
+        {
+          "value": 12642
+        }
+      ],
+      "Völkerschlachtdenkmal": [
+        {
+          "value": 176912
+        }
+      ],
+      "Forum 1813": [
+        {
+          "value": 58471
+        }
+      ],
+      "Alte Börse": [
+        {
+          "value": 5250
+        }
+      ],
+      "Schillerhaus": [
+        {
+          "value": 2573
+        }
+      ],
+      "Kaffeemuseum": [
+        {
+          "value": null
+        }
+      ],
+      "Zeitgeschichtliches Forum": [
+        {
+          "value": 107462
+        }
+      ],
+      "Gedenkstätte Museum in der \"Runden Ecke\"": [
+        {
+          "value": 30398
+        }
+      ],
+      "Museum der bildenden Künste": [
+        {
+          "value": 72273
+        }
+      ],
+      "Bach-Archiv": [
+        {
+          "value": 16030
+        }
+      ],
+      "GRASSI Museum für Angewandte Kunst": [
+        {
+          "value": 37207
+        }
+      ],
+      "GRASSI Museum für Völkerkunde": [
+        {
+          "value": 36646
+        }
+      ],
+      "GRASSI Museum für Musikinstrumente": [
+        {
+          "value": 10229
+        }
+      ],
+      "Naturkundemuseum": [
+        {
+          "value": 39242
+        }
+      ],
+      "Museum im Mendelssohn-Haus": [
+        {
+          "value": 10157
+        }
+      ],
+      "Galerie für Zeitgenössische Kunst": [
+        {
+          "value": 38089
+        }
+      ],
+      "Ägyptisches Museum": [
+        {
+          "value": 10029
+        }
+      ],
+      "Deutsches Buch -und Schriftmuseum": [
+        {
+          "value": 6059
+        }
+      ],
+      "Museum für Druckkunst Leipzig": [
+        {
+          "value": 5898
+        }
+      ],
+      "Apothekenmuseum": [
+        {
+          "value": 1196
+        }
+      ],
+      "Deutsches Kleingärtnermuseum": [
+        {
+          "value": 1675
+        }
+      ],
+      "UNIKATUM Kindermuseum": [
+        {
+          "value": 17454
+        }
+      ],
+      "Gedenkstätte für Zwangsarbeit": [
+        {
+          "value": 1156
+        }
+      ]
+    },
+    "2021": {
+      "Stadtgeschichtliches Museum insgesamt": [
+        {
+          "value": 216545
+        }
+      ],
+      "Altes Rathaus": [
+        {
+          "value": 6248
+        }
+      ],
+      "Stadtgeschichtliches Museum (Neubau)": [
+        {
+          "value": 8107
+        }
+      ],
+      "Völkerschlachtdenkmal": [
+        {
+          "value": 144623
+        }
+      ],
+      "Forum 1813": [
+        {
+          "value": 47735
+        }
+      ],
+      "Alte Börse": [
+        {
+          "value": 6802
+        }
+      ],
+      "Schillerhaus": [
+        {
+          "value": 2978
+        }
+      ],
+      "Kaffeemuseum": [
+        {
+          "value": 25
+        }
+      ],
+      "Zeitgeschichtliches Forum": [
+        {
+          "value": 78901
+        }
+      ],
+      "Gedenkstätte Museum in der \"Runden Ecke\"": [
+        {
+          "value": 25029
+        }
+      ],
+      "Museum der bildenden Künste": [
+        {
+          "value": 81002
+        }
+      ],
+      "Bach-Archiv": [
+        {
+          "value": 11926
+        }
+      ],
+      "GRASSI Museum für Angewandte Kunst": [
+        {
+          "value": 37732
+        }
+      ],
+      "GRASSI Museum für Völkerkunde": [
+        {
+          "value": 2788
+        }
+      ],
+      "GRASSI Museum für Musikinstrumente": [
+        {
+          "value": 6510
+        }
+      ],
+      "Naturkundemuseum": [
+        {
+          "value": 31007
+        }
+      ],
+      "Museum im Mendelssohn-Haus": [
+        {
+          "value": 8579
+        }
+      ],
+      "Galerie für Zeitgenössische Kunst": [
+        {
+          "value": 93277
+        }
+      ],
+      "Ägyptisches Museum": [
+        {
+          "value": 5361
+        }
+      ],
+      "Deutsches Buch -und Schriftmuseum": [
+        {
+          "value": 4149
+        }
+      ],
+      "Museum für Druckkunst Leipzig": [
+        {
+          "value": 4424
+        }
+      ],
+      "Apothekenmuseum": [
+        {
+          "value": 890
+        }
+      ],
+      "Deutsches Kleingärtnermuseum": [
+        {
+          "value": 1559
+        }
+      ],
+      "UNIKATUM Kindermuseum": [
+        {
+          "value": 9916
+        }
+      ],
+      "Gedenkstätte für Zwangsarbeit": [
+        {
+          "value": 1706
+        }
+      ]
+    },
+    "2022": {
+      "Stadtgeschichtliches Museum insgesamt": [
+        {
+          "value": 419511
+        }
+      ],
+      "Altes Rathaus": [
+        {
+          "value": 34979
+        }
+      ],
+      "Stadtgeschichtliches Museum (Neubau)": [
+        {
+          "value": 17146
+        }
+      ],
+      "Völkerschlachtdenkmal": [
+        {
+          "value": 253876
+        }
+      ],
+      "Forum 1813": [
+        {
+          "value": 83769
+        }
+      ],
+      "Alte Börse": [
+        {
+          "value": 18598
+        }
+      ],
+      "Schillerhaus": [
+        {
+          "value": 3756
+        }
+      ],
+      "Kaffeemuseum": [
+        {
+          "value": null
+        }
+      ],
+      "Zeitgeschichtliches Forum": [
+        {
+          "value": 141507
+        }
+      ],
+      "Gedenkstätte Museum in der \"Runden Ecke\"": [
+        {
+          "value": 63960
+        }
+      ],
+      "Museum der bildenden Künste": [
+        {
+          "value": 83068
+        }
+      ],
+      "Bach-Archiv": [
+        {
+          "value": 36070
+        }
+      ],
+      "GRASSI Museum für Angewandte Kunst": [
+        {
+          "value": 72761
+        }
+      ],
+      "GRASSI Museum für Völkerkunde": [
+        {
+          "value": 16744
+        }
+      ],
+      "GRASSI Museum für Musikinstrumente": [
+        {
+          "value": 18074
+        }
+      ],
+      "Naturkundemuseum": [
+        {
+          "value": 53386
+        }
+      ],
+      "Museum im Mendelssohn-Haus": [
+        {
+          "value": 24952
+        }
+      ],
+      "Galerie für Zeitgenössische Kunst": [
+        {
+          "value": 107540
+        }
+      ],
+      "Ägyptisches Museum": [
+        {
+          "value": 17342
+        }
+      ],
+      "Deutsches Buch -und Schriftmuseum": [
+        {
+          "value": 11547
+        }
+      ],
+      "Museum für Druckkunst Leipzig": [
+        {
+          "value": 10015
+        }
+      ],
+      "Apothekenmuseum": [
+        {
+          "value": 1478
+        }
+      ],
+      "Deutsches Kleingärtnermuseum": [
+        {
+          "value": 3062
+        }
+      ],
+      "UNIKATUM Kindermuseum": [
+        {
+          "value": 26782
+        }
+      ],
+      "Gedenkstätte für Zwangsarbeit": [
+        {
+          "value": 2504
+        }
+      ]
+    },
+    "2023": {
+      "Stadtgeschichtliches Museum insgesamt": [
+        {
+          "value": 497343
+        }
+      ],
+      "Altes Rathaus": [
+        {
+          "value": 45505
+        }
+      ],
+      "Stadtgeschichtliches Museum (Neubau)": [
+        {
+          "value": 25932
+        }
+      ],
+      "Völkerschlachtdenkmal": [
+        {
+          "value": 289956
+        }
+      ],
+      "Forum 1813": [
+        {
+          "value": 94855
+        }
+      ],
+      "Alte Börse": [
+        {
+          "value": 23748
+        }
+      ],
+      "Schillerhaus": [
+        {
+          "value": 7906
+        }
+      ],
+      "Kaffeemuseum": [
+        {
+          "value": null
+        }
+      ],
+      "Zeitgeschichtliches Forum": [
+        {
+          "value": 163369
+        }
+      ],
+      "Gedenkstätte Museum in der \"Runden Ecke\"": [
+        {
+          "value": null
+        }
+      ],
+      "Museum der bildenden Künste": [
+        {
+          "value": 122328
+        }
+      ],
+      "Bach-Archiv": [
+        {
+          "value": null
+        }
+      ],
+      "GRASSI Museum für Angewandte Kunst": [
+        {
+          "value": 92059
+        }
+      ],
+      "GRASSI Museum für Völkerkunde": [
+        {
+          "value": 43741
+        }
+      ],
+      "GRASSI Museum für Musikinstrumente": [
+        {
+          "value": 29155
+        }
+      ],
+      "Naturkundemuseum": [
+        {
+          "value": 70324
+        }
+      ],
+      "Museum im Mendelssohn-Haus": [
+        {
+          "value": 31356
+        }
+      ],
+      "Galerie für Zeitgenössische Kunst": [
+        {
+          "value": 116334
+        }
+      ],
+      "Ägyptisches Museum": [
+        {
+          "value": 24591
+        }
+      ],
+      "Deutsches Buch -und Schriftmuseum": [
+        {
+          "value": 18655
+        }
+      ],
+      "Museum für Druckkunst Leipzig": [
+        {
+          "value": 9381
+        }
+      ],
+      "Apothekenmuseum": [
+        {
+          "value": 1847
+        }
+      ],
+      "Deutsches Kleingärtnermuseum": [
+        {
+          "value": 7064
+        }
+      ],
+      "UNIKATUM Kindermuseum": [
+        {
+          "value": 44829
+        }
+      ],
+      "Gedenkstätte für Zwangsarbeit": [
+        {
+          "value": 2753
+        }
+      ]
+    }
+  }
+}

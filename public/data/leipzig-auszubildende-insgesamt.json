@@ -1,0 +1,712 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=7&rubrik_nr=2&periode=y",
+    "title": "Auszubildende__insgesamt"
+  },
+  "data": {
+    "2001": {
+      "Auszubildende insgesamt": [
+        {
+          "value": 13946
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": null
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Handel, Verkehr und Gastgewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Unternehmensdienstleister": [
+        {
+          "value": null
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2002": {
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": null
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Handel, Verkehr und Gastgewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Unternehmensdienstleister": [
+        {
+          "value": null
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": null
+        }
+      ],
+      "Auszubildende insgesamt": [
+        {
+          "value": 13401
+        }
+      ]
+    },
+    "2003": {
+      "Auszubildende insgesamt": [
+        {
+          "value": 12958
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": null
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Handel, Verkehr und Gastgewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Unternehmensdienstleister": [
+        {
+          "value": null
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2004": {
+      "Auszubildende insgesamt": [
+        {
+          "value": 12647
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": null
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Handel, Verkehr und Gastgewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Unternehmensdienstleister": [
+        {
+          "value": null
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2005": {
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": null
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Handel, Verkehr und Gastgewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Unternehmensdienstleister": [
+        {
+          "value": null
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": null
+        }
+      ],
+      "Auszubildende insgesamt": [
+        {
+          "value": 12915
+        }
+      ]
+    },
+    "2006": {
+      "Auszubildende insgesamt": [
+        {
+          "value": 13890
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": null
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Handel, Verkehr und Gastgewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Unternehmensdienstleister": [
+        {
+          "value": null
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2007": {
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": null
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Handel, Verkehr und Gastgewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Unternehmensdienstleister": [
+        {
+          "value": null
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": null
+        }
+      ],
+      "Auszubildende insgesamt": [
+        {
+          "value": 14067
+        }
+      ]
+    },
+    "2008": {
+      "Auszubildende insgesamt": [
+        {
+          "value": 13050
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 19
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 1542
+        }
+      ],
+      "Handel, Verkehr und Gastgewerbe": [
+        {
+          "value": 2519
+        }
+      ],
+      "Unternehmensdienstleister": [
+        {
+          "value": 2187
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 6783
+        }
+      ]
+    },
+    "2009": {
+      "Auszubildende insgesamt": [
+        {
+          "value": 12363
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 20
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 1543
+        }
+      ],
+      "Handel, Verkehr und Gastgewerbe": [
+        {
+          "value": 2330
+        }
+      ],
+      "Unternehmensdienstleister": [
+        {
+          "value": 2109
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 6361
+        }
+      ]
+    },
+    "2010": {
+      "Auszubildende insgesamt": [
+        {
+          "value": 11471
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 19
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 1540
+        }
+      ],
+      "Handel, Verkehr und Gastgewerbe": [
+        {
+          "value": 2219
+        }
+      ],
+      "Unternehmensdienstleister": [
+        {
+          "value": 2010
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 5667
+        }
+      ]
+    },
+    "2011": {
+      "Auszubildende insgesamt": [
+        {
+          "value": 9903
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 19
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 1382
+        }
+      ],
+      "Handel, Verkehr und Gastgewerbe": [
+        {
+          "value": 2073
+        }
+      ],
+      "Unternehmensdienstleister": [
+        {
+          "value": 1758
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 4671
+        }
+      ]
+    },
+    "2012": {
+      "Auszubildende insgesamt": [
+        {
+          "value": 9149
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 13
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 1345
+        }
+      ],
+      "Handel, Verkehr und Gastgewerbe": [
+        {
+          "value": 2080
+        }
+      ],
+      "Unternehmensdienstleister": [
+        {
+          "value": 1897
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 3436
+        }
+      ]
+    },
+    "2013": {
+      "Auszubildende insgesamt": [
+        {
+          "value": 8332
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 12
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 1329
+        }
+      ],
+      "Handel, Verkehr und Gastgewerbe": [
+        {
+          "value": 2038
+        }
+      ],
+      "Unternehmensdienstleister": [
+        {
+          "value": 1899
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 2722
+        }
+      ]
+    },
+    "2014": {
+      "Auszubildende insgesamt": [
+        {
+          "value": 8281
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 9
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 1428
+        }
+      ],
+      "Handel, Verkehr und Gastgewerbe": [
+        {
+          "value": 1954
+        }
+      ],
+      "Unternehmensdienstleister": [
+        {
+          "value": 1879
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 3011
+        }
+      ]
+    },
+    "2015": {
+      "Auszubildende insgesamt": [
+        {
+          "value": 7758
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 9
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 1379
+        }
+      ],
+      "Handel, Verkehr und Gastgewerbe": [
+        {
+          "value": 2000
+        }
+      ],
+      "Unternehmensdienstleister": [
+        {
+          "value": 1748
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 2621
+        }
+      ]
+    },
+    "2016": {
+      "Auszubildende insgesamt": [
+        {
+          "value": 7511
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 13
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 1325
+        }
+      ],
+      "Handel, Verkehr und Gastgewerbe": [
+        {
+          "value": 1997
+        }
+      ],
+      "Unternehmensdienstleister": [
+        {
+          "value": 1585
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 2591
+        }
+      ]
+    },
+    "2017": {
+      "Auszubildende insgesamt": [
+        {
+          "value": 7719
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 13
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 1345
+        }
+      ],
+      "Handel, Verkehr und Gastgewerbe": [
+        {
+          "value": 2109
+        }
+      ],
+      "Unternehmensdienstleister": [
+        {
+          "value": 1636
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 2616
+        }
+      ]
+    },
+    "2018": {
+      "Auszubildende insgesamt": [
+        {
+          "value": 7933
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 14
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 1339
+        }
+      ],
+      "Handel, Verkehr und Gastgewerbe": [
+        {
+          "value": 2187
+        }
+      ],
+      "Unternehmensdienstleister": [
+        {
+          "value": 1603
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 2790
+        }
+      ]
+    },
+    "2019": {
+      "Auszubildende insgesamt": [
+        {
+          "value": 8965
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 14
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 1410
+        }
+      ],
+      "Handel, Verkehr und Gastgewerbe": [
+        {
+          "value": 2324
+        }
+      ],
+      "Unternehmensdienstleister": [
+        {
+          "value": 1841
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 3376
+        }
+      ]
+    },
+    "2020": {
+      "Auszubildende insgesamt": [
+        {
+          "value": 9519
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 21
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 1438
+        }
+      ],
+      "Handel, Verkehr und Gastgewerbe": [
+        {
+          "value": 2525
+        }
+      ],
+      "Unternehmensdienstleister": [
+        {
+          "value": 1998
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 3537
+        }
+      ]
+    },
+    "2021": {
+      "Auszubildende insgesamt": [
+        {
+          "value": 9482
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 21
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 1345
+        }
+      ],
+      "Handel, Verkehr und Gastgewerbe": [
+        {
+          "value": 2533
+        }
+      ],
+      "Unternehmensdienstleister": [
+        {
+          "value": 1874
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 3709
+        }
+      ]
+    },
+    "2022": {
+      "Auszubildende insgesamt": [
+        {
+          "value": 9609
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 18
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 1361
+        }
+      ],
+      "Handel, Verkehr und Gastgewerbe": [
+        {
+          "value": 2551
+        }
+      ],
+      "Unternehmensdienstleister": [
+        {
+          "value": 2005
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 3674
+        }
+      ]
+    }
+  }
+}

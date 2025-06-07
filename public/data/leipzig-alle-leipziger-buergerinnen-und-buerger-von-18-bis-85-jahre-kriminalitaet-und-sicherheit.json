@@ -1,0 +1,688 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=14&rubrik_nr=11&periode=y",
+    "title": "Alle Leipziger Bürgerinnen und Bürger von 18 bis 85 Jahre__Kriminalität und Sicherheit"
+  },
+  "data": {
+    "2020": {
+      "Kriminalität und Sicherheit": [
+        {
+          "value": 49.1643
+        },
+        {
+          "value": 24.6346
+        },
+        {
+          "value": 41.5373
+        },
+        {
+          "value": 69.7647
+        }
+      ],
+      "Verkehr": [
+        {
+          "value": 46.541
+        },
+        {
+          "value": 46.7989
+        },
+        {
+          "value": 50.5303
+        },
+        {
+          "value": 37.8751
+        }
+      ],
+      "Wohnen": [
+        {
+          "value": 37.8508
+        },
+        {
+          "value": 47.0626
+        },
+        {
+          "value": 54.4683
+        },
+        {
+          "value": 20.25
+        }
+      ],
+      "Armut und Einkommen": [
+        {
+          "value": 31.9571
+        },
+        {
+          "value": 30.337
+        },
+        {
+          "value": 29.8261
+        },
+        {
+          "value": 28.3373
+        }
+      ],
+      "Sauberkeit und Ordnung": [
+        {
+          "value": 30.5638
+        },
+        {
+          "value": 19.9201
+        },
+        {
+          "value": 18.6209
+        },
+        {
+          "value": 46.479
+        }
+      ],
+      "Kitas und Schulen": [
+        {
+          "value": 22.4118
+        },
+        {
+          "value": 23.5724
+        },
+        {
+          "value": 48.6934
+        },
+        {
+          "value": 9.94199
+        }
+      ],
+      "Gesellschaftliches Zusammenleben": [
+        {
+          "value": 18.7306
+        },
+        {
+          "value": 23.1886
+        },
+        {
+          "value": 16.304
+        },
+        {
+          "value": 18.5594
+        }
+      ],
+      "Wirtschaft und Beschäftigung": [
+        {
+          "value": 11.2796
+        },
+        {
+          "value": 10.8837
+        },
+        {
+          "value": 8.03746
+        },
+        {
+          "value": 10.6488
+        }
+      ],
+      "Umwelt": [
+        {
+          "value": 10.5885
+        },
+        {
+          "value": 20.4458
+        },
+        {
+          "value": 10.0741
+        },
+        {
+          "value": 7.29311
+        }
+      ],
+      "Freizeit und Kultur": [
+        {
+          "value": 8.17901
+        },
+        {
+          "value": 13.3204
+        },
+        {
+          "value": 4.87329
+        },
+        {
+          "value": 5.89186
+        }
+      ],
+      "Medizinische Versorgung": [
+        {
+          "value": 6.81844
+        },
+        {
+          "value": 4.4894
+        },
+        {
+          "value": 4.38617
+        },
+        {
+          "value": 8.59008
+        }
+      ],
+      "Sonstiges": [
+        {
+          "value": 4.00544
+        },
+        {
+          "value": 2.38111
+        },
+        {
+          "value": 2.60934
+        },
+        {
+          "value": 3.89976
+        }
+      ]
+    },
+    "2021": {
+      "Armut und Einkommen": [
+        {
+          "value": 29.9995
+        },
+        {
+          "value": 31.0724
+        },
+        {
+          "value": 25.8578
+        },
+        {
+          "value": 27.9995
+        }
+      ],
+      "Freizeit und Kultur": [
+        {
+          "value": 8.15051
+        },
+        {
+          "value": 18.7685
+        },
+        {
+          "value": 7.46989
+        },
+        {
+          "value": 4.76151
+        }
+      ],
+      "Gesellschaftliches Zusammenleben": [
+        {
+          "value": 21.1336
+        },
+        {
+          "value": 24.4032
+        },
+        {
+          "value": 19.5588
+        },
+        {
+          "value": 19.8678
+        }
+      ],
+      "Kitas und Schulen": [
+        {
+          "value": 20.6991
+        },
+        {
+          "value": 20.8909
+        },
+        {
+          "value": 49.8042
+        },
+        {
+          "value": 6.91055
+        }
+      ],
+      "Kriminalität und Sicherheit": [
+        {
+          "value": 47.1984
+        },
+        {
+          "value": 20.9395
+        },
+        {
+          "value": 39.3875
+        },
+        {
+          "value": 74.3979
+        }
+      ],
+      "Medizinische Versorgung": [
+        {
+          "value": 11.8113
+        },
+        {
+          "value": 8.83172
+        },
+        {
+          "value": 11.0518
+        },
+        {
+          "value": 12.0265
+        }
+      ],
+      "Sauberkeit und Ordnung": [
+        {
+          "value": 32.8914
+        },
+        {
+          "value": 24.1466
+        },
+        {
+          "value": 24.7482
+        },
+        {
+          "value": 48.391
+        }
+      ],
+      "Sonstiges": [
+        {
+          "value": 9.34303
+        },
+        {
+          "value": 11.1899
+        },
+        {
+          "value": 6.97381
+        },
+        {
+          "value": 8.4767
+        }
+      ],
+      "Umwelt": [
+        {
+          "value": 12.6084
+        },
+        {
+          "value": 24.5702
+        },
+        {
+          "value": 10.7379
+        },
+        {
+          "value": 7.28776
+        }
+      ],
+      "Verkehr": [
+        {
+          "value": 52.6004
+        },
+        {
+          "value": 60.0403
+        },
+        {
+          "value": 52.9613
+        },
+        {
+          "value": 42.921
+        }
+      ],
+      "Wirtschaft und Beschäftigung": [
+        {
+          "value": 7.06103
+        },
+        {
+          "value": 7.18111
+        },
+        {
+          "value": 6.15898
+        },
+        {
+          "value": 4.98668
+        }
+      ],
+      "Wohnen": [
+        {
+          "value": 38.5792
+        },
+        {
+          "value": 47.1785
+        },
+        {
+          "value": 53.0381
+        },
+        {
+          "value": 14.0381
+        }
+      ]
+    },
+    "2022": {
+      "Armut und Einkommen": [
+        {
+          "value": 39.0967
+        },
+        {
+          "value": 38.4603
+        },
+        {
+          "value": 41.3728
+        },
+        {
+          "value": 33.359
+        }
+      ],
+      "Freizeit und Kultur": [
+        {
+          "value": 4.21043
+        },
+        {
+          "value": 5.23564
+        },
+        {
+          "value": 6.36275
+        },
+        {
+          "value": 1.73987
+        }
+      ],
+      "Gesellschaftliches Zusammenleben": [
+        {
+          "value": 19.9195
+        },
+        {
+          "value": 15.6148
+        },
+        {
+          "value": 18.9691
+        },
+        {
+          "value": 21.0377
+        }
+      ],
+      "Kitas und Schulen": [
+        {
+          "value": 27.7949
+        },
+        {
+          "value": 28.7209
+        },
+        {
+          "value": 52.5292
+        },
+        {
+          "value": 14.6241
+        }
+      ],
+      "Kriminalität und Sicherheit": [
+        {
+          "value": 40.1071
+        },
+        {
+          "value": 24.7627
+        },
+        {
+          "value": 29.3369
+        },
+        {
+          "value": 62.2516
+        }
+      ],
+      "Medizinische Versorgung": [
+        {
+          "value": 19.5521
+        },
+        {
+          "value": 15.594
+        },
+        {
+          "value": 17.7218
+        },
+        {
+          "value": 25.2365
+        }
+      ],
+      "Sauberkeit und Ordnung": [
+        {
+          "value": 29.1937
+        },
+        {
+          "value": 24.3292
+        },
+        {
+          "value": 18.8672
+        },
+        {
+          "value": 45.7458
+        }
+      ],
+      "Sonstiges": [
+        {
+          "value": 8.34071
+        },
+        {
+          "value": 6.80675
+        },
+        {
+          "value": 7.26997
+        },
+        {
+          "value": 8.85022
+        }
+      ],
+      "Umwelt": [
+        {
+          "value": 13.1998
+        },
+        {
+          "value": 20.8104
+        },
+        {
+          "value": 12.6809
+        },
+        {
+          "value": 10.443
+        }
+      ],
+      "Verkehr": [
+        {
+          "value": 44.0243
+        },
+        {
+          "value": 44.2361
+        },
+        {
+          "value": 40.9257
+        },
+        {
+          "value": 34.0368
+        }
+      ],
+      "Wirtschaft und Beschäftigung": [
+        {
+          "value": 9.42071
+        },
+        {
+          "value": 8.21899
+        },
+        {
+          "value": 8.34938
+        },
+        {
+          "value": 6.76707
+        }
+      ],
+      "Wohnen": [
+        {
+          "value": 40.5798
+        },
+        {
+          "value": 54.047
+        },
+        {
+          "value": 51.3536
+        },
+        {
+          "value": 17.2503
+        }
+      ]
+    },
+    "2023": {
+      "Armut und Einkommen": [
+        {
+          "value": 36.9511
+        },
+        {
+          "value": 32.4241
+        },
+        {
+          "value": 37.1312
+        },
+        {
+          "value": 32.4098
+        }
+      ],
+      "Freizeit und Kultur": [
+        {
+          "value": 4.54545
+        },
+        {
+          "value": 11.1852
+        },
+        {
+          "value": 3.09539
+        },
+        {
+          "value": 0.787394
+        }
+      ],
+      "Gesellschaftliches Zusammenleben": [
+        {
+          "value": 24.029
+        },
+        {
+          "value": 16.972
+        },
+        {
+          "value": 25.1059
+        },
+        {
+          "value": 24.8215
+        }
+      ],
+      "Kitas und Schulen": [
+        {
+          "value": 26.5716
+        },
+        {
+          "value": 25.9596
+        },
+        {
+          "value": 49.9668
+        },
+        {
+          "value": 17.1426
+        }
+      ],
+      "Kriminalität und Sicherheit": [
+        {
+          "value": 41.0465
+        },
+        {
+          "value": 22.8919
+        },
+        {
+          "value": 33.8766
+        },
+        {
+          "value": 67.0479
+        }
+      ],
+      "Medizinische Versorgung": [
+        {
+          "value": 21.9532
+        },
+        {
+          "value": 12.1345
+        },
+        {
+          "value": 19.0378
+        },
+        {
+          "value": 25.6581
+        }
+      ],
+      "Sauberkeit und Ordnung": [
+        {
+          "value": 27.5066
+        },
+        {
+          "value": 20.6824
+        },
+        {
+          "value": 18.2119
+        },
+        {
+          "value": 44.3241
+        }
+      ],
+      "Umwelt": [
+        {
+          "value": 11.8586
+        },
+        {
+          "value": 21.5581
+        },
+        {
+          "value": 10.0979
+        },
+        {
+          "value": 8.44016
+        }
+      ],
+      "Verkehr": [
+        {
+          "value": 42.5616
+        },
+        {
+          "value": 49.3503
+        },
+        {
+          "value": 37.1299
+        },
+        {
+          "value": 36.1847
+        }
+      ],
+      "Wirtschaft und Beschäftigung": [
+        {
+          "value": 9.9095
+        },
+        {
+          "value": 6.72938
+        },
+        {
+          "value": 11.0807
+        },
+        {
+          "value": 7.87468
+        }
+      ],
+      "Wohnen": [
+        {
+          "value": 48.3972
+        },
+        {
+          "value": 66.1998
+        },
+        {
+          "value": 53.1888
+        },
+        {
+          "value": 21.1873
+        }
+      ],
+      "Sonstiges": [
+        {
+          "value": 8.1592
+        },
+        {
+          "value": 8.66075
+        },
+        {
+          "value": 7.59561
+        },
+        {
+          "value": 7.65694
+        }
+      ]
+    }
+  }
+}

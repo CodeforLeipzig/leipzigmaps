@@ -1,0 +1,912 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=14&rubrik_nr=9&periode=y",
+    "title": "Alle Leipziger Bürgerinnen und Bürger von 18 bis 85 Jahre__Wirtschaftsförderung, Ansiedlung von Investoren, Unternehmen"
+  },
+  "data": {
+    "2010": {
+      "Wirtschaftsförderung, Ansiedlung von Investoren, Unternehmen": [
+        {
+          "value": 32.8032
+        },
+        {
+          "value": 24.3733
+        },
+        {
+          "value": 25.4576
+        },
+        {
+          "value": 34.2442
+        }
+      ],
+      "Brand- und Katastrophenschutz": [
+        {
+          "value": 14.6275
+        },
+        {
+          "value": -6.94728
+        },
+        {
+          "value": 7.83995
+        },
+        {
+          "value": 35.0263
+        }
+      ],
+      "Schulen und Kindertagesstätten": [
+        {
+          "value": 68.2555
+        },
+        {
+          "value": 69.2377
+        },
+        {
+          "value": 93.0048
+        },
+        {
+          "value": 55.4401
+        }
+      ],
+      "Öffentliche Verkehrsmittel": [
+        {
+          "value": 0.184333
+        },
+        {
+          "value": -3.84719
+        },
+        {
+          "value": -8.61452
+        },
+        {
+          "value": 15.1078
+        }
+      ],
+      "Angebote für Kinder und Jugendliche": [
+        {
+          "value": 37.512
+        },
+        {
+          "value": 32.1364
+        },
+        {
+          "value": 55.2755
+        },
+        {
+          "value": 29.837
+        }
+      ],
+      "Angebote für Senioren": [
+        {
+          "value": -7.51624
+        },
+        {
+          "value": -17.6811
+        },
+        {
+          "value": -16.2807
+        },
+        {
+          "value": 3.17154
+        }
+      ],
+      "Gewährung von Ermäßigungen (z.B. Leipzig-Pass, Sozial-Ticket)": [
+        {
+          "value": -6.36536
+        },
+        {
+          "value": -14.4289
+        },
+        {
+          "value": -8.3033
+        },
+        {
+          "value": -1.06972
+        }
+      ],
+      "Straßenbau und -sanierung": [
+        {
+          "value": 36.8117
+        },
+        {
+          "value": 33.713
+        },
+        {
+          "value": 28.4701
+        },
+        {
+          "value": 42.7104
+        }
+      ],
+      "Ver- und Entsorgung (Wasser, Abwasser, Strom, Gas, Abfall)": [
+        {
+          "value": 14.4183
+        },
+        {
+          "value": 3.80059
+        },
+        {
+          "value": 13.287
+        },
+        {
+          "value": 23.1461
+        }
+      ],
+      "Naherholung, Grünanlagen, Parks": [
+        {
+          "value": 11.0367
+        },
+        {
+          "value": 34.1636
+        },
+        {
+          "value": 19.3914
+        },
+        {
+          "value": 0.730528
+        }
+      ],
+      "Schwimmbäder, Sportanlagen": [
+        {
+          "value": 17.1341
+        },
+        {
+          "value": 17.6962
+        },
+        {
+          "value": 34.6284
+        },
+        {
+          "value": 6.90121
+        }
+      ],
+      "Städtische Bibliotheken": [
+        {
+          "value": -7.35264
+        },
+        {
+          "value": 11.4368
+        },
+        {
+          "value": 0.277995
+        },
+        {
+          "value": -20.4144
+        }
+      ],
+      "Museen, Ausstellungen": [
+        {
+          "value": -19.3672
+        },
+        {
+          "value": -1.33709
+        },
+        {
+          "value": -21.1255
+        },
+        {
+          "value": -23.2109
+        }
+      ],
+      "Oper, Gewandhaus, Schauspiel": [
+        {
+          "value": -13.3809
+        },
+        {
+          "value": -11.186
+        },
+        {
+          "value": -21.7907
+        },
+        {
+          "value": -12.8047
+        }
+      ],
+      "Soziokultur": [
+        {
+          "value": -20.3921
+        },
+        {
+          "value": -4.87578
+        },
+        {
+          "value": -35.302
+        },
+        {
+          "value": -28.4149
+        }
+      ],
+      "Unterstützung sozial benachteiligter Jugendlicher/ hilfebedürftiger Familien": [
+        {
+          "value": 23.5349
+        },
+        {
+          "value": 18.89
+        },
+        {
+          "value": 30.9097
+        },
+        {
+          "value": 25.9205
+        }
+      ]
+    },
+    "2011": {
+      "Schulen und Kindertagesstätten": [
+        {
+          "value": 67.1035
+        },
+        {
+          "value": 71.3091
+        },
+        {
+          "value": 86.0946
+        },
+        {
+          "value": 52.3509
+        }
+      ],
+      "Angebote für Kinder und Jugendliche": [
+        {
+          "value": 36.9966
+        },
+        {
+          "value": 39.1071
+        },
+        {
+          "value": 59.7711
+        },
+        {
+          "value": 22.0937
+        }
+      ],
+      "Straßenbau und -sanierung": [
+        {
+          "value": 50.9235
+        },
+        {
+          "value": 45.3193
+        },
+        {
+          "value": 37.305
+        },
+        {
+          "value": 57.1537
+        }
+      ],
+      "Wirtschaftsförderung, Ansiedlung von Investoren, Unternehmen": [
+        {
+          "value": 30.2645
+        },
+        {
+          "value": 2.16273
+        },
+        {
+          "value": 21.7963
+        },
+        {
+          "value": 29.0673
+        }
+      ],
+      "Unterstützung sozial benachteiligter Jugendlicher/ hilfebedürftiger Familien": [
+        {
+          "value": 29.255
+        },
+        {
+          "value": 38.0084
+        },
+        {
+          "value": 39.6137
+        },
+        {
+          "value": 21.0657
+        }
+      ],
+      "Schwimmbäder, Sportanlagen": [
+        {
+          "value": 10.0291
+        },
+        {
+          "value": -4.8568
+        },
+        {
+          "value": 25.2493
+        },
+        {
+          "value": 1.12497
+        }
+      ],
+      "Brand- und Katastrophenschutz": [
+        {
+          "value": 6.85444
+        },
+        {
+          "value": -6.67364
+        },
+        {
+          "value": 3.53495
+        },
+        {
+          "value": 19.0421
+        }
+      ],
+      "Ver- und Entsorgung (Wasser, Abwasser, Strom, Gas, Abfall)": [
+        {
+          "value": 13.4893
+        },
+        {
+          "value": 16.7532
+        },
+        {
+          "value": 5.53603
+        },
+        {
+          "value": 16.345
+        }
+      ],
+      "Naherholung, Grünanlagen, Parks": [
+        {
+          "value": 13.3852
+        },
+        {
+          "value": 29.9516
+        },
+        {
+          "value": 17.782
+        },
+        {
+          "value": -2.03745
+        }
+      ],
+      "Öffentliche Verkehrsmittel": [
+        {
+          "value": 9.59054
+        },
+        {
+          "value": 4.01218
+        },
+        {
+          "value": -6.37806
+        },
+        {
+          "value": 21.3119
+        }
+      ],
+      "Gewährung von Ermäßigungen (z.B. Leipzig-Pass, Sozial-Ticket)": [
+        {
+          "value": -4.29603
+        },
+        {
+          "value": 4.59898
+        },
+        {
+          "value": 3.60648
+        },
+        {
+          "value": -3.06861
+        }
+      ],
+      "Städtische Bibliotheken": [
+        {
+          "value": -15.4332
+        },
+        {
+          "value": -1.58158
+        },
+        {
+          "value": -4.19158
+        },
+        {
+          "value": -31.3474
+        }
+      ],
+      "Angebote für Senioren": [
+        {
+          "value": -1.59425
+        },
+        {
+          "value": 5.6444
+        },
+        {
+          "value": -2.18647
+        },
+        {
+          "value": 0.487258
+        }
+      ],
+      "Oper, Gewandhaus, Schauspiel": [
+        {
+          "value": -11.4935
+        },
+        {
+          "value": 1.76923
+        },
+        {
+          "value": -7.98366
+        },
+        {
+          "value": -12.5793
+        }
+      ],
+      "Museen, Ausstellungen": [
+        {
+          "value": -27.2502
+        },
+        {
+          "value": -18.641
+        },
+        {
+          "value": -24.4492
+        },
+        {
+          "value": -33.6684
+        }
+      ],
+      "Soziokultur": [
+        {
+          "value": -24.3484
+        },
+        {
+          "value": -16.4013
+        },
+        {
+          "value": -15.6897
+        },
+        {
+          "value": -30.5921
+        }
+      ]
+    },
+    "2013": {
+      "Schulen und Kindertagesstätten": [
+        {
+          "value": 63.1187
+        },
+        {
+          "value": 68.6259
+        },
+        {
+          "value": 85.8372
+        },
+        {
+          "value": 51.6792
+        }
+      ],
+      "Straßenbau und -sanierung": [
+        {
+          "value": 40.8565
+        },
+        {
+          "value": 18.2627
+        },
+        {
+          "value": 27.7442
+        },
+        {
+          "value": 51.9897
+        }
+      ],
+      "Angebote für Kinder und Jugendliche": [
+        {
+          "value": 27.8929
+        },
+        {
+          "value": 18.4049
+        },
+        {
+          "value": 42.3624
+        },
+        {
+          "value": 24.3219
+        }
+      ],
+      "Wirtschaftsförderung, Ansiedlung von Investoren, Unternehmen": [
+        {
+          "value": 7.86795
+        },
+        {
+          "value": -5.17736
+        },
+        {
+          "value": -0.652738
+        },
+        {
+          "value": 11.8981
+        }
+      ],
+      "Unterstützung sozial benachteiligter Jugendlicher/ hilfebedürftiger Familien": [
+        {
+          "value": 21.5135
+        },
+        {
+          "value": 24.1621
+        },
+        {
+          "value": 26.3448
+        },
+        {
+          "value": 11.5087
+        }
+      ],
+      "Ver- und Entsorgung (Wasser, Abwasser, Strom, Gas, Abfall)": [
+        {
+          "value": 10.1934
+        },
+        {
+          "value": 12.1803
+        },
+        {
+          "value": -0.742239
+        },
+        {
+          "value": 9.66944
+        }
+      ],
+      "Naherholung, Grünanlagen, Parks": [
+        {
+          "value": 17.9402
+        },
+        {
+          "value": 18.3033
+        },
+        {
+          "value": 22.0784
+        },
+        {
+          "value": 11.5567
+        }
+      ],
+      "Schwimmbäder, Sportanlagen": [
+        {
+          "value": 10.7383
+        },
+        {
+          "value": -1.18183
+        },
+        {
+          "value": 16.067
+        },
+        {
+          "value": 8.57544
+        }
+      ],
+      "Öffentliche Verkehrsmittel": [
+        {
+          "value": 4.79605
+        },
+        {
+          "value": 1.80674
+        },
+        {
+          "value": -11.4526
+        },
+        {
+          "value": 13.7369
+        }
+      ],
+      "Brand- und Katastrophenschutz": [
+        {
+          "value": 12.4228
+        },
+        {
+          "value": -2.74561
+        },
+        {
+          "value": 6.177
+        },
+        {
+          "value": 23.9915
+        }
+      ],
+      "Angebote für Senioren": [
+        {
+          "value": -2.55808
+        },
+        {
+          "value": -14.7725
+        },
+        {
+          "value": -11.2389
+        },
+        {
+          "value": 6.5815
+        }
+      ],
+      "Gewährung von Ermäßigungen (z.B. Leipzig-Pass, Sozial-Ticket)": [
+        {
+          "value": -8.24455
+        },
+        {
+          "value": -17.4407
+        },
+        {
+          "value": -10.6326
+        },
+        {
+          "value": 0.949316
+        }
+      ],
+      "Oper, Gewandhaus, Schauspiel": [
+        {
+          "value": -18.4056
+        },
+        {
+          "value": -19.0375
+        },
+        {
+          "value": -24.5254
+        },
+        {
+          "value": -11.7799
+        }
+      ],
+      "Städtische Bibliotheken": [
+        {
+          "value": -13.9962
+        },
+        {
+          "value": -22.4383
+        },
+        {
+          "value": -6.57254
+        },
+        {
+          "value": -17.4129
+        }
+      ],
+      "Soziokultur": [
+        {
+          "value": -15.9044
+        },
+        {
+          "value": -8.70811
+        },
+        {
+          "value": -11.6784
+        },
+        {
+          "value": -23.3848
+        }
+      ],
+      "Museen, Ausstellungen": [
+        {
+          "value": -21.9526
+        },
+        {
+          "value": -14.7261
+        },
+        {
+          "value": -20.95
+        },
+        {
+          "value": -28.2697
+        }
+      ]
+    },
+    "2014": {
+      "Schulen und Kindertagesstätten": [
+        {
+          "value": 72.8684
+        },
+        {
+          "value": 73.73
+        },
+        {
+          "value": 87.6744
+        },
+        {
+          "value": 63.1522
+        }
+      ],
+      "Straßenbau und -sanierung": [
+        {
+          "value": 36.8627
+        },
+        {
+          "value": 42.1445
+        },
+        {
+          "value": 21.048
+        },
+        {
+          "value": 42.7974
+        }
+      ],
+      "Angebote für Kinder und Jugendliche": [
+        {
+          "value": 31.9055
+        },
+        {
+          "value": 24.7619
+        },
+        {
+          "value": 38.351
+        },
+        {
+          "value": 26.0473
+        }
+      ],
+      "Wirtschaftsförderung, Ansiedlung von Investoren, Unternehmen": [
+        {
+          "value": 14.9494
+        },
+        {
+          "value": 14.5286
+        },
+        {
+          "value": 6.21633
+        },
+        {
+          "value": 11.5067
+        }
+      ],
+      "Unterstützung sozial benachteiligter Jugendlicher/ hilfebedürftiger Familien": [
+        {
+          "value": 22.8609
+        },
+        {
+          "value": 29.1541
+        },
+        {
+          "value": 28.9525
+        },
+        {
+          "value": 22.1188
+        }
+      ],
+      "Ver- und Entsorgung (Wasser, Abwasser, Strom, Gas, Abfall)": [
+        {
+          "value": 6.87948
+        },
+        {
+          "value": 8.24824
+        },
+        {
+          "value": 0.782656
+        },
+        {
+          "value": 8.85658
+        }
+      ],
+      "Naherholung, Grünanlagen, Parks": [
+        {
+          "value": 8.51703
+        },
+        {
+          "value": 12.4238
+        },
+        {
+          "value": 8.38774
+        },
+        {
+          "value": 2.96012
+        }
+      ],
+      "Schwimmbäder, Sportanlagen": [
+        {
+          "value": 8.15778
+        },
+        {
+          "value": -7.26929
+        },
+        {
+          "value": 16.545
+        },
+        {
+          "value": 5.44663
+        }
+      ],
+      "Öffentliche Verkehrsmittel": [
+        {
+          "value": 14.7889
+        },
+        {
+          "value": 16.4576
+        },
+        {
+          "value": -5.23596
+        },
+        {
+          "value": 27.8267
+        }
+      ],
+      "Brand- und Katastrophenschutz": [
+        {
+          "value": 14.9502
+        },
+        {
+          "value": 6.03869
+        },
+        {
+          "value": 6.53478
+        },
+        {
+          "value": 23.9154
+        }
+      ],
+      "Angebote für Senioren": [
+        {
+          "value": -2.4808
+        },
+        {
+          "value": -19.0477
+        },
+        {
+          "value": -11.1897
+        },
+        {
+          "value": 8.98552
+        }
+      ],
+      "Gewährung von Ermäßigungen (z.B. Leipzig-Pass, Sozial-Ticket)": [
+        {
+          "value": -8.18063
+        },
+        {
+          "value": -14.5431
+        },
+        {
+          "value": -15.861
+        },
+        {
+          "value": 3.47717
+        }
+      ],
+      "Oper, Gewandhaus, Schauspiel": [
+        {
+          "value": -15.4324
+        },
+        {
+          "value": -0.497755
+        },
+        {
+          "value": -17.1253
+        },
+        {
+          "value": -13.6412
+        }
+      ],
+      "Städtische Bibliotheken": [
+        {
+          "value": -9.65121
+        },
+        {
+          "value": -5.30386
+        },
+        {
+          "value": -6.70337
+        },
+        {
+          "value": -12.2655
+        }
+      ],
+      "Soziokultur": [
+        {
+          "value": -14.724
+        },
+        {
+          "value": -8.32613
+        },
+        {
+          "value": -3.74283
+        },
+        {
+          "value": -30.2539
+        }
+      ],
+      "Museen, Ausstellungen": [
+        {
+          "value": -23.1482
+        },
+        {
+          "value": -19.485
+        },
+        {
+          "value": -23.4202
+        },
+        {
+          "value": -26.8549
+        }
+      ]
+    }
+  }
+}

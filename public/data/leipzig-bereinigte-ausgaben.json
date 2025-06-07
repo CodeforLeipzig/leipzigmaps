@@ -1,0 +1,1164 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=14&rubrik_nr=5&periode=y",
+    "title": "Bereinigte Ausgaben"
+  },
+  "data": {
+    "2000": {
+      "Bereinigte Ausgaben": [
+        {
+          "value": 2374.65
+        }
+      ],
+      "Ausgaben der laufenden Rechnung": [
+        {
+          "value": 1809.35
+        }
+      ],
+      "Personalausgaben": [
+        {
+          "value": 624.61
+        }
+      ],
+      "laufender Sachaufwand": [
+        {
+          "value": 383.37
+        }
+      ],
+      "soziale Leistungen": [
+        {
+          "value": 242.82
+        }
+      ],
+      "Zinsausgaben": [
+        {
+          "value": 96.92
+        }
+      ],
+      "sonstige Ausgaben": [
+        {
+          "value": 469.62
+        },
+        {
+          "value": 120.35
+        }
+      ],
+      "abzüglich: Zahlungen von gleicher Ebene": [
+        {
+          "value": 7.98
+        },
+        {
+          "value": 0.05
+        }
+      ],
+      "Ausgaben der Kapitalrechnung": [
+        {
+          "value": 565.3
+        }
+      ],
+      "Sachinvestitionen": [
+        {
+          "value": 445
+        }
+      ],
+      "darunter: Baumaßnahmen": [
+        {
+          "value": 385.88
+        }
+      ],
+      "Finanzierungssaldo": [
+        {
+          "value": -190.87
+        }
+      ]
+    },
+    "2001": {
+      "abzüglich: Zahlungen von gleicher Ebene": [
+        {
+          "value": 0.31
+        },
+        {
+          "value": 8.31
+        }
+      ],
+      "Finanzierungssaldo": [
+        {
+          "value": -234.96
+        }
+      ],
+      "sonstige Ausgaben": [
+        {
+          "value": 118.65
+        },
+        {
+          "value": 502.11
+        }
+      ],
+      "darunter: Baumaßnahmen": [
+        {
+          "value": 377.26
+        }
+      ],
+      "Sachinvestitionen": [
+        {
+          "value": 443.41
+        }
+      ],
+      "Ausgaben der Kapitalrechnung": [
+        {
+          "value": 561.75
+        }
+      ],
+      "Zinsausgaben": [
+        {
+          "value": 98
+        }
+      ],
+      "soziale Leistungen": [
+        {
+          "value": 250.42
+        }
+      ],
+      "laufender Sachaufwand": [
+        {
+          "value": 350.41
+        }
+      ],
+      "Personalausgaben": [
+        {
+          "value": 534.25
+        }
+      ],
+      "Ausgaben der laufenden Rechnung": [
+        {
+          "value": 1726.88
+        }
+      ],
+      "Bereinigte Ausgaben": [
+        {
+          "value": 2288.63
+        }
+      ]
+    },
+    "2002": {
+      "Bereinigte Ausgaben": [
+        {
+          "value": 2336.6
+        }
+      ],
+      "Ausgaben der laufenden Rechnung": [
+        {
+          "value": 1716.65
+        }
+      ],
+      "Personalausgaben": [
+        {
+          "value": 540.71
+        }
+      ],
+      "laufender Sachaufwand": [
+        {
+          "value": 346.33
+        }
+      ],
+      "soziale Leistungen": [
+        {
+          "value": 265.9
+        }
+      ],
+      "Zinsausgaben": [
+        {
+          "value": 91.28
+        }
+      ],
+      "sonstige Ausgaben": [
+        {
+          "value": 483.78
+        },
+        {
+          "value": 178.12
+        }
+      ],
+      "abzüglich: Zahlungen von gleicher Ebene": [
+        {
+          "value": 11.35
+        },
+        {
+          "value": 0.31
+        }
+      ],
+      "Ausgaben der Kapitalrechnung": [
+        {
+          "value": 619.95
+        }
+      ],
+      "Sachinvestitionen": [
+        {
+          "value": 442.15
+        }
+      ],
+      "darunter: Baumaßnahmen": [
+        {
+          "value": 384.33
+        }
+      ],
+      "Finanzierungssaldo": [
+        {
+          "value": -75.12
+        }
+      ]
+    },
+    "2003": {
+      "abzüglich: Zahlungen von gleicher Ebene": [
+        {
+          "value": 0.62
+        },
+        {
+          "value": 10.55
+        }
+      ],
+      "Finanzierungssaldo": [
+        {
+          "value": -123.88
+        }
+      ],
+      "sonstige Ausgaben": [
+        {
+          "value": 146.74
+        },
+        {
+          "value": 525.01
+        }
+      ],
+      "darunter: Baumaßnahmen": [
+        {
+          "value": 321.16
+        }
+      ],
+      "Sachinvestitionen": [
+        {
+          "value": 367.17
+        }
+      ],
+      "Ausgaben der Kapitalrechnung": [
+        {
+          "value": 513.29
+        }
+      ],
+      "Zinsausgaben": [
+        {
+          "value": 86.15
+        }
+      ],
+      "soziale Leistungen": [
+        {
+          "value": 312.77
+        }
+      ],
+      "laufender Sachaufwand": [
+        {
+          "value": 318.6
+        }
+      ],
+      "Personalausgaben": [
+        {
+          "value": 543.5
+        }
+      ],
+      "Ausgaben der laufenden Rechnung": [
+        {
+          "value": 1775.48
+        }
+      ],
+      "Bereinigte Ausgaben": [
+        {
+          "value": 2288.77
+        }
+      ]
+    },
+    "2004": {
+      "Bereinigte Ausgaben": [
+        {
+          "value": 2118.76
+        }
+      ],
+      "Ausgaben der laufenden Rechnung": [
+        {
+          "value": 1792.15
+        }
+      ],
+      "Personalausgaben": [
+        {
+          "value": 540.91
+        }
+      ],
+      "laufender Sachaufwand": [
+        {
+          "value": 304.85
+        }
+      ],
+      "soziale Leistungen": [
+        {
+          "value": 374.05
+        }
+      ],
+      "Zinsausgaben": [
+        {
+          "value": 77.55
+        }
+      ],
+      "sonstige Ausgaben": [
+        {
+          "value": 505.78
+        },
+        {
+          "value": 54.02
+        }
+      ],
+      "abzüglich: Zahlungen von gleicher Ebene": [
+        {
+          "value": 10.99
+        },
+        {
+          "value": 0.31
+        }
+      ],
+      "Ausgaben der Kapitalrechnung": [
+        {
+          "value": 326.61
+        }
+      ],
+      "Sachinvestitionen": [
+        {
+          "value": 272.9
+        }
+      ],
+      "darunter: Baumaßnahmen": [
+        {
+          "value": 246.45
+        }
+      ],
+      "Finanzierungssaldo": [
+        {
+          "value": -15.43
+        }
+      ]
+    },
+    "2005": {
+      "abzüglich: Zahlungen von gleicher Ebene": [
+        {
+          "value": 0.31
+        },
+        {
+          "value": 9.72
+        }
+      ],
+      "Finanzierungssaldo": [
+        {
+          "value": 6.67
+        }
+      ],
+      "sonstige Ausgaben": [
+        {
+          "value": 41.56
+        },
+        {
+          "value": 508.21
+        }
+      ],
+      "darunter: Baumaßnahmen": [
+        {
+          "value": 197.99
+        }
+      ],
+      "Sachinvestitionen": [
+        {
+          "value": 236.83
+        }
+      ],
+      "Ausgaben der Kapitalrechnung": [
+        {
+          "value": 278.07
+        }
+      ],
+      "Zinsausgaben": [
+        {
+          "value": 72.14
+        }
+      ],
+      "soziale Leistungen": [
+        {
+          "value": 458.5
+        }
+      ],
+      "laufender Sachaufwand": [
+        {
+          "value": 310.56
+        }
+      ],
+      "Personalausgaben": [
+        {
+          "value": 483.65
+        }
+      ],
+      "Ausgaben der laufenden Rechnung": [
+        {
+          "value": 1823.34
+        }
+      ],
+      "Bereinigte Ausgaben": [
+        {
+          "value": 2101.41
+        }
+      ]
+    },
+    "2006": {
+      "Bereinigte Ausgaben": [
+        {
+          "value": 2091.49
+        }
+      ],
+      "Ausgaben der laufenden Rechnung": [
+        {
+          "value": 1855.15
+        }
+      ],
+      "Personalausgaben": [
+        {
+          "value": 487.55
+        }
+      ],
+      "laufender Sachaufwand": [
+        {
+          "value": 314.26
+        }
+      ],
+      "soziale Leistungen": [
+        {
+          "value": 539.77
+        }
+      ],
+      "Zinsausgaben": [
+        {
+          "value": 71.33
+        }
+      ],
+      "sonstige Ausgaben": [
+        {
+          "value": 456.65
+        },
+        {
+          "value": 38.14
+        }
+      ],
+      "abzüglich: Zahlungen von gleicher Ebene": [
+        {
+          "value": 14.42
+        },
+        {
+          "value": null
+        }
+      ],
+      "Ausgaben der Kapitalrechnung": [
+        {
+          "value": 236.35
+        }
+      ],
+      "Sachinvestitionen": [
+        {
+          "value": 198.21
+        }
+      ],
+      "darunter: Baumaßnahmen": [
+        {
+          "value": 156.17
+        }
+      ],
+      "Finanzierungssaldo": [
+        {
+          "value": 133.72
+        }
+      ]
+    },
+    "2007": {
+      "Bereinigte Ausgaben": [
+        {
+          "value": 2054.6
+        }
+      ],
+      "Ausgaben der laufenden Rechnung": [
+        {
+          "value": 1853.39
+        }
+      ],
+      "Personalausgaben": [
+        {
+          "value": 479.93
+        }
+      ],
+      "laufender Sachaufwand": [
+        {
+          "value": 334.46
+        }
+      ],
+      "soziale Leistungen": [
+        {
+          "value": 558.58
+        }
+      ],
+      "Zinsausgaben": [
+        {
+          "value": 77.95
+        }
+      ],
+      "sonstige Ausgaben": [
+        {
+          "value": 412.62
+        },
+        {
+          "value": 23.92
+        }
+      ],
+      "abzüglich: Zahlungen von gleicher Ebene": [
+        {
+          "value": 10.15
+        },
+        {
+          "value": 0.04
+        }
+      ],
+      "Ausgaben der Kapitalrechnung": [
+        {
+          "value": 201.21
+        }
+      ],
+      "Sachinvestitionen": [
+        {
+          "value": 177.33
+        }
+      ],
+      "darunter: Baumaßnahmen": [
+        {
+          "value": 143.1
+        }
+      ],
+      "Finanzierungssaldo": [
+        {
+          "value": 136.81
+        }
+      ]
+    },
+    "2008": {
+      "Bereinigte Ausgaben": [
+        {
+          "value": 2136.68
+        }
+      ],
+      "Ausgaben der laufenden Rechnung": [
+        {
+          "value": 1929.58
+        }
+      ],
+      "Personalausgaben": [
+        {
+          "value": 525.83
+        }
+      ],
+      "laufender Sachaufwand": [
+        {
+          "value": 346.44
+        }
+      ],
+      "soziale Leistungen": [
+        {
+          "value": 559.07
+        }
+      ],
+      "Zinsausgaben": [
+        {
+          "value": 75.34
+        }
+      ],
+      "sonstige Ausgaben": [
+        {
+          "value": 428.4
+        },
+        {
+          "value": 26.03
+        }
+      ],
+      "abzüglich: Zahlungen von gleicher Ebene": [
+        {
+          "value": 5.5
+        },
+        {
+          "value": 0.02
+        }
+      ],
+      "Ausgaben der Kapitalrechnung": [
+        {
+          "value": 207.1
+        }
+      ],
+      "Sachinvestitionen": [
+        {
+          "value": 181.08
+        }
+      ],
+      "darunter: Baumaßnahmen": [
+        {
+          "value": 143.71
+        }
+      ],
+      "Finanzierungssaldo": [
+        {
+          "value": 178.75
+        }
+      ]
+    },
+    "2009": {
+      "Bereinigte Ausgaben": [
+        {
+          "value": 2285.15
+        }
+      ],
+      "Ausgaben der laufenden Rechnung": [
+        {
+          "value": 2056.93
+        }
+      ],
+      "Personalausgaben": [
+        {
+          "value": 553.34
+        }
+      ],
+      "laufender Sachaufwand": [
+        {
+          "value": 359.81
+        }
+      ],
+      "soziale Leistungen": [
+        {
+          "value": 561.37
+        }
+      ],
+      "Zinsausgaben": [
+        {
+          "value": 55.42
+        }
+      ],
+      "sonstige Ausgaben": [
+        {
+          "value": 530.75
+        },
+        {
+          "value": 30.41
+        }
+      ],
+      "abzüglich: Zahlungen von gleicher Ebene": [
+        {
+          "value": 3.76
+        },
+        {
+          "value": 0.04
+        }
+      ],
+      "Ausgaben der Kapitalrechnung": [
+        {
+          "value": 228.22
+        }
+      ],
+      "Sachinvestitionen": [
+        {
+          "value": 197.85
+        }
+      ],
+      "darunter: Baumaßnahmen": [
+        {
+          "value": 152.21
+        }
+      ],
+      "Finanzierungssaldo": [
+        {
+          "value": 145.83
+        }
+      ]
+    },
+    "2010": {
+      "Bereinigte Ausgaben": [
+        {
+          "value": 2458.66
+        }
+      ],
+      "Ausgaben der laufenden Rechnung": [
+        {
+          "value": 2102.03
+        }
+      ],
+      "Personalausgaben": [
+        {
+          "value": 557.84
+        }
+      ],
+      "laufender Sachaufwand": [
+        {
+          "value": 372.34
+        }
+      ],
+      "soziale Leistungen": [
+        {
+          "value": 565.3
+        }
+      ],
+      "Zinsausgaben": [
+        {
+          "value": 42.1
+        }
+      ],
+      "sonstige Ausgaben": [
+        {
+          "value": 569.97
+        },
+        {
+          "value": 46.59
+        }
+      ],
+      "abzüglich: Zahlungen von gleicher Ebene": [
+        {
+          "value": 5.52
+        },
+        {
+          "value": 0.33
+        }
+      ],
+      "Ausgaben der Kapitalrechnung": [
+        {
+          "value": 356.63
+        }
+      ],
+      "Sachinvestitionen": [
+        {
+          "value": 310.37
+        }
+      ],
+      "darunter: Baumaßnahmen": [
+        {
+          "value": 257.61
+        }
+      ],
+      "Finanzierungssaldo": [
+        {
+          "value": -8.78
+        }
+      ]
+    },
+    "2011": {
+      "Bereinigte Ausgaben": [
+        {
+          "value": 2427.65
+        }
+      ],
+      "Ausgaben der laufenden Rechnung": [
+        {
+          "value": 2130.39
+        }
+      ],
+      "Personalausgaben": [
+        {
+          "value": 559.18
+        }
+      ],
+      "laufender Sachaufwand": [
+        {
+          "value": 387.7
+        }
+      ],
+      "soziale Leistungen": [
+        {
+          "value": 584.59
+        }
+      ],
+      "Zinsausgaben": [
+        {
+          "value": 38.14
+        }
+      ],
+      "sonstige Ausgaben": [
+        {
+          "value": 564.99
+        },
+        {
+          "value": 42.1
+        }
+      ],
+      "abzüglich: Zahlungen von gleicher Ebene": [
+        {
+          "value": 4.21
+        },
+        {
+          "value": 0.1
+        }
+      ],
+      "Ausgaben der Kapitalrechnung": [
+        {
+          "value": 297.26
+        }
+      ],
+      "Sachinvestitionen": [
+        {
+          "value": 255.25
+        }
+      ],
+      "darunter: Baumaßnahmen": [
+        {
+          "value": 222.64
+        }
+      ],
+      "Finanzierungssaldo": [
+        {
+          "value": 86.48
+        }
+      ]
+    },
+    "2012": {
+      "Bereinigte Ausgaben": [
+        {
+          "value": 2319.74
+        }
+      ],
+      "Ausgaben der laufenden Rechnung": [
+        {
+          "value": 2057.62
+        }
+      ],
+      "Personalausgaben": [
+        {
+          "value": 548.59
+        }
+      ],
+      "laufender Sachaufwand": [
+        {
+          "value": 406.99
+        }
+      ],
+      "soziale Leistungen": [
+        {
+          "value": 565.78
+        }
+      ],
+      "Zinsausgaben": [
+        {
+          "value": 31.99
+        }
+      ],
+      "sonstige Ausgaben": [
+        {
+          "value": 510.2
+        },
+        {
+          "value": 58.34
+        }
+      ],
+      "abzüglich: Zahlungen von gleicher Ebene": [
+        {
+          "value": 5.94
+        },
+        {
+          "value": 0.05
+        }
+      ],
+      "Ausgaben der Kapitalrechnung": [
+        {
+          "value": 262.13
+        }
+      ],
+      "Sachinvestitionen": [
+        {
+          "value": 203.84
+        }
+      ],
+      "darunter: Baumaßnahmen": [
+        {
+          "value": 173.59
+        }
+      ],
+      "Finanzierungssaldo": [
+        {
+          "value": -14.25
+        }
+      ]
+    },
+    "2013": {
+      "Bereinigte Ausgaben": [
+        {
+          "value": 2538.16
+        }
+      ],
+      "Ausgaben der laufenden Rechnung": [
+        {
+          "value": 2268.76
+        }
+      ],
+      "Personalausgaben": [
+        {
+          "value": 620.66
+        }
+      ],
+      "laufender Sachaufwand": [
+        {
+          "value": 442.37
+        }
+      ],
+      "soziale Leistungen": [
+        {
+          "value": 621.28
+        }
+      ],
+      "Zinsausgaben": [
+        {
+          "value": 28.58
+        }
+      ],
+      "sonstige Ausgaben": [
+        {
+          "value": 562.22
+        },
+        {
+          "value": 70.52
+        }
+      ],
+      "abzüglich: Zahlungen von gleicher Ebene": [
+        {
+          "value": 6.36
+        },
+        {
+          "value": 0.11
+        }
+      ],
+      "Ausgaben der Kapitalrechnung": [
+        {
+          "value": 269.4
+        }
+      ],
+      "Sachinvestitionen": [
+        {
+          "value": 198.99
+        }
+      ],
+      "darunter: Baumaßnahmen": [
+        {
+          "value": 167.72
+        }
+      ],
+      "Finanzierungssaldo": [
+        {
+          "value": 83.48
+        }
+      ]
+    },
+    "2014": {
+      "Bereinigte Ausgaben": [
+        {
+          "value": 2629.53
+        }
+      ],
+      "Ausgaben der laufenden Rechnung": [
+        {
+          "value": 2332.54
+        }
+      ],
+      "Personalausgaben": [
+        {
+          "value": 636.47
+        }
+      ],
+      "laufender Sachaufwand": [
+        {
+          "value": 446.47
+        }
+      ],
+      "soziale Leistungen": [
+        {
+          "value": 651.21
+        }
+      ],
+      "Zinsausgaben": [
+        {
+          "value": 25.06
+        }
+      ],
+      "sonstige Ausgaben": [
+        {
+          "value": 583.63
+        },
+        {
+          "value": 84.58
+        }
+      ],
+      "abzüglich: Zahlungen von gleicher Ebene": [
+        {
+          "value": 10.3
+        },
+        {
+          "value": 2.39
+        }
+      ],
+      "Ausgaben der Kapitalrechnung": [
+        {
+          "value": 296.99
+        }
+      ],
+      "Sachinvestitionen": [
+        {
+          "value": 214.8
+        }
+      ],
+      "darunter: Baumaßnahmen": [
+        {
+          "value": 185.32
+        }
+      ],
+      "Finanzierungssaldo": [
+        {
+          "value": 208.25
+        }
+      ]
+    },
+    "2015": {
+      "Bereinigte Ausgaben": [
+        {
+          "value": 2842.56
+        }
+      ],
+      "Ausgaben der laufenden Rechnung": [
+        {
+          "value": 2425.33
+        }
+      ],
+      "Personalausgaben": [
+        {
+          "value": 627.03
+        }
+      ],
+      "laufender Sachaufwand": [
+        {
+          "value": 466.77
+        }
+      ],
+      "soziale Leistungen": [
+        {
+          "value": 690.01
+        }
+      ],
+      "Zinsausgaben": [
+        {
+          "value": 20.39
+        }
+      ],
+      "sonstige Ausgaben": [
+        {
+          "value": 631.93
+        },
+        {
+          "value": 229.72
+        }
+      ],
+      "abzüglich: Zahlungen von gleicher Ebene": [
+        {
+          "value": 10.8
+        },
+        {
+          "value": 2.55
+        }
+      ],
+      "Ausgaben der Kapitalrechnung": [
+        {
+          "value": 417.22
+        }
+      ],
+      "Sachinvestitionen": [
+        {
+          "value": 190.05
+        }
+      ],
+      "darunter: Baumaßnahmen": [
+        {
+          "value": 166.63
+        }
+      ],
+      "Finanzierungssaldo": [
+        {
+          "value": -50.65
+        }
+      ]
+    },
+    "2016": {
+      "Bereinigte Ausgaben": [
+        {
+          "value": 2865.41
+        }
+      ],
+      "Ausgaben der laufenden Rechnung": [
+        {
+          "value": 2540.19
+        }
+      ],
+      "Personalausgaben": [
+        {
+          "value": 656.526
+        }
+      ],
+      "laufender Sachaufwand": [
+        {
+          "value": 510.342
+        }
+      ],
+      "soziale Leistungen": [
+        {
+          "value": 705.393
+        }
+      ],
+      "Zinsausgaben": [
+        {
+          "value": 20.8608
+        }
+      ],
+      "sonstige Ausgaben": [
+        {
+          "value": 675.939
+        },
+        {
+          "value": 60.3692
+        }
+      ],
+      "abzüglich: Zahlungen von gleicher Ebene": [
+        {
+          "value": 28.87
+        },
+        {
+          "value": 0.614555
+        }
+      ],
+      "Ausgaben der Kapitalrechnung": [
+        {
+          "value": 325.218
+        }
+      ],
+      "Sachinvestitionen": [
+        {
+          "value": 265.463
+        }
+      ],
+      "darunter: Baumaßnahmen": [
+        {
+          "value": 225.612
+        }
+      ],
+      "Finanzierungssaldo": [
+        {
+          "value": 18.6676
+        }
+      ]
+    }
+  }
+}

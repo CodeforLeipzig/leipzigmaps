@@ -1,0 +1,2579 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=14&rubrik_nr=8&periode=y",
+    "title": "Alle Leipziger Bürgerinnen und Bürger von 18 bis 85 Jahre__Angebot an Arbeitsplätzen"
+  },
+  "data": {
+    "2001": {
+      "Angebot an Arbeitsplätzen": [
+        {
+          "value": 4.5977
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Angebot an Ausbildungsplätzen, Lehrstellen": [
+        {
+          "value": 5.47945
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Angebot an Kindereinrichtungen": [
+        {
+          "value": 35
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Versorgung mit Alten- und Pflegeheimen": [
+        {
+          "value": 53.5714
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Angebot an Jugendfreizeiteinrichtungen": [
+        {
+          "value": 10.2941
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Angebot an Freizeitsportanlagen": [
+        {
+          "value": 45.679
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Zustand der Gewässer": [
+        {
+          "value": 67.033
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Ausbau der Naherholungsgebiete": [
+        {
+          "value": 75.5319
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Angebot an öffentlichen Grünanlagen und Parks": [
+        {
+          "value": 74.2268
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Sauberkeit der Luft": [
+        {
+          "value": 65.9574
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Sauberkeit der Straßen und öffentlichen Plätze": [
+        {
+          "value": 26.2626
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Straßenzustand": [
+        {
+          "value": 18.1818
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Öffentliche Sicherheit/Schutz vor Kriminalität": [
+        {
+          "value": 18.9474
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Angebot von Kunst und Kultur": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2010": {
+      "Angebot von Kunst und Kultur": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Angebot an Arbeitsplätzen": [
+        {
+          "value": 12.8426
+        },
+        {
+          "value": 19.2613
+        },
+        {
+          "value": 15.7479
+        },
+        {
+          "value": 4.90582
+        }
+      ],
+      "Angebot an Ausbildungsplätzen, Lehrstellen": [
+        {
+          "value": 20.3341
+        },
+        {
+          "value": 32.8366
+        },
+        {
+          "value": 24.0375
+        },
+        {
+          "value": 12.6235
+        }
+      ],
+      "Angebot an Kindereinrichtungen": [
+        {
+          "value": 25.2596
+        },
+        {
+          "value": 26.3365
+        },
+        {
+          "value": 24.522
+        },
+        {
+          "value": 29.722
+        }
+      ],
+      "Versorgung mit Alten- und Pflegeheimen": [
+        {
+          "value": 42.0033
+        },
+        {
+          "value": 49.8518
+        },
+        {
+          "value": 43.1855
+        },
+        {
+          "value": 37.7056
+        }
+      ],
+      "Angebot an Jugendfreizeiteinrichtungen": [
+        {
+          "value": 16.9352
+        },
+        {
+          "value": 27.2512
+        },
+        {
+          "value": 16.9617
+        },
+        {
+          "value": 10.0754
+        }
+      ],
+      "Angebot an Freizeitsportanlagen": [
+        {
+          "value": 43.8844
+        },
+        {
+          "value": 41.2599
+        },
+        {
+          "value": 38.7946
+        },
+        {
+          "value": 42.0381
+        }
+      ],
+      "Zustand der Gewässer": [
+        {
+          "value": 65.8715
+        },
+        {
+          "value": 56.9032
+        },
+        {
+          "value": 63.2677
+        },
+        {
+          "value": 65.9174
+        }
+      ],
+      "Ausbau der Naherholungsgebiete": [
+        {
+          "value": 78.2317
+        },
+        {
+          "value": 69.6789
+        },
+        {
+          "value": 74.847
+        },
+        {
+          "value": 79.9262
+        }
+      ],
+      "Angebot an öffentlichen Grünanlagen und Parks": [
+        {
+          "value": 79.9493
+        },
+        {
+          "value": 78.3111
+        },
+        {
+          "value": 79.8469
+        },
+        {
+          "value": 77.3803
+        }
+      ],
+      "Sauberkeit der Luft": [
+        {
+          "value": 59.4266
+        },
+        {
+          "value": 52.7392
+        },
+        {
+          "value": 53.2173
+        },
+        {
+          "value": 63.386
+        }
+      ],
+      "Sauberkeit der Straßen und öffentlichen Plätze": [
+        {
+          "value": 27.3686
+        },
+        {
+          "value": 34.7097
+        },
+        {
+          "value": 30.0149
+        },
+        {
+          "value": 18.5327
+        }
+      ],
+      "Straßenzustand": [
+        {
+          "value": 6.06048
+        },
+        {
+          "value": 9.79985
+        },
+        {
+          "value": 6.18115
+        },
+        {
+          "value": 5.79654
+        }
+      ],
+      "Öffentliche Sicherheit/Schutz vor Kriminalität": [
+        {
+          "value": 19.2023
+        },
+        {
+          "value": 28.9217
+        },
+        {
+          "value": 26.6771
+        },
+        {
+          "value": 7.52662
+        }
+      ]
+    },
+    "2011": {
+      "Angebot an Arbeitsplätzen": [
+        {
+          "value": 15.0758
+        },
+        {
+          "value": 12.4556
+        },
+        {
+          "value": 23.2068
+        },
+        {
+          "value": 9.91393
+        }
+      ],
+      "Angebot an Ausbildungsplätzen, Lehrstellen": [
+        {
+          "value": 27.5385
+        },
+        {
+          "value": 31.2079
+        },
+        {
+          "value": 30.54
+        },
+        {
+          "value": 21.8141
+        }
+      ],
+      "Angebot an Kindereinrichtungen": [
+        {
+          "value": 18.6518
+        },
+        {
+          "value": 18.4382
+        },
+        {
+          "value": 18.3998
+        },
+        {
+          "value": 24.1965
+        }
+      ],
+      "Versorgung mit Alten- und Pflegeheimen": [
+        {
+          "value": 40.4001
+        },
+        {
+          "value": 46.2992
+        },
+        {
+          "value": 45.7975
+        },
+        {
+          "value": 33.7708
+        }
+      ],
+      "Angebot an Jugendfreizeiteinrichtungen": [
+        {
+          "value": 16.5694
+        },
+        {
+          "value": 16.1862
+        },
+        {
+          "value": 20.6988
+        },
+        {
+          "value": 13.0677
+        }
+      ],
+      "Angebot an Freizeitsportanlagen": [
+        {
+          "value": 43.1898
+        },
+        {
+          "value": 40.7124
+        },
+        {
+          "value": 41.4655
+        },
+        {
+          "value": 44.189
+        }
+      ],
+      "Zustand der Gewässer": [
+        {
+          "value": 64.9005
+        },
+        {
+          "value": 51.5173
+        },
+        {
+          "value": 71.2471
+        },
+        {
+          "value": 62.4344
+        }
+      ],
+      "Ausbau der Naherholungsgebiete": [
+        {
+          "value": 76.8305
+        },
+        {
+          "value": 67.185
+        },
+        {
+          "value": 76.8559
+        },
+        {
+          "value": 76.0264
+        }
+      ],
+      "Angebot an öffentlichen Grünanlagen und Parks": [
+        {
+          "value": 77.7674
+        },
+        {
+          "value": 77.125
+        },
+        {
+          "value": 83.2775
+        },
+        {
+          "value": 73.7681
+        }
+      ],
+      "Sauberkeit der Luft": [
+        {
+          "value": 55.6489
+        },
+        {
+          "value": 54.4419
+        },
+        {
+          "value": 54.9782
+        },
+        {
+          "value": 51.4351
+        }
+      ],
+      "Sauberkeit der Straßen und öffentlichen Plätze": [
+        {
+          "value": 28.5456
+        },
+        {
+          "value": 39.5829
+        },
+        {
+          "value": 32.6001
+        },
+        {
+          "value": 15.1039
+        }
+      ],
+      "Straßenzustand": [
+        {
+          "value": 6.38189
+        },
+        {
+          "value": 7.35294
+        },
+        {
+          "value": 10.3864
+        },
+        {
+          "value": 3.33774
+        }
+      ],
+      "Öffentliche Sicherheit/Schutz vor Kriminalität": [
+        {
+          "value": 16.4445
+        },
+        {
+          "value": 27.3755
+        },
+        {
+          "value": 19.3573
+        },
+        {
+          "value": 6.89749
+        }
+      ],
+      "Angebot von Kunst und Kultur": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2014": {
+      "Angebot von Kunst und Kultur": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Angebot an öffentlichen Grünanlagen und Parks": [
+        {
+          "value": 82.3604
+        },
+        {
+          "value": 83.2252
+        },
+        {
+          "value": 79.7319
+        },
+        {
+          "value": 75.2929
+        }
+      ],
+      "Ausbau der Naherholungsgebiete": [
+        {
+          "value": 82.3434
+        },
+        {
+          "value": 60.5177
+        },
+        {
+          "value": 82.3407
+        },
+        {
+          "value": 74.4761
+        }
+      ],
+      "Zustand der Gewässer": [
+        {
+          "value": 72.4686
+        },
+        {
+          "value": 58.0355
+        },
+        {
+          "value": 72.6132
+        },
+        {
+          "value": 61.8178
+        }
+      ],
+      "Sauberkeit der Luft": [
+        {
+          "value": 54.9161
+        },
+        {
+          "value": 52.3962
+        },
+        {
+          "value": 53.6828
+        },
+        {
+          "value": 46.4486
+        }
+      ],
+      "Angebot an Freizeitsportanlagen": [
+        {
+          "value": 48.8758
+        },
+        {
+          "value": 43.6825
+        },
+        {
+          "value": 48.1049
+        },
+        {
+          "value": 27.956
+        }
+      ],
+      "Versorgung mit Alten- und Pflegeheimen": [
+        {
+          "value": 35.119
+        },
+        {
+          "value": 19.9256
+        },
+        {
+          "value": 38.5127
+        },
+        {
+          "value": 18.487
+        }
+      ],
+      "Sauberkeit der Straßen und öffentlichen Plätze": [
+        {
+          "value": 33.5105
+        },
+        {
+          "value": 42.2614
+        },
+        {
+          "value": 41.7519
+        },
+        {
+          "value": 19.9395
+        }
+      ],
+      "Angebot an Ausbildungsplätzen, Lehrstellen": [
+        {
+          "value": 52.1533
+        },
+        {
+          "value": 45.4828
+        },
+        {
+          "value": 54.4333
+        },
+        {
+          "value": 18.4697
+        }
+      ],
+      "Angebot an Kindereinrichtungen": [
+        {
+          "value": 16.7392
+        },
+        {
+          "value": 7.19539
+        },
+        {
+          "value": 22.6729
+        },
+        {
+          "value": 8.59689
+        }
+      ],
+      "Angebot an Jugendfreizeiteinrichtungen": [
+        {
+          "value": 20.7521
+        },
+        {
+          "value": 17.306
+        },
+        {
+          "value": 24.6856
+        },
+        {
+          "value": 4.05711
+        }
+      ],
+      "Öffentliche Sicherheit/Schutz vor Kriminalität": [
+        {
+          "value": 13.9622
+        },
+        {
+          "value": 22.8688
+        },
+        {
+          "value": 16.8001
+        },
+        {
+          "value": 3.29252
+        }
+      ],
+      "Angebot an Arbeitsplätzen": [
+        {
+          "value": 30.271
+        },
+        {
+          "value": 30.4276
+        },
+        {
+          "value": 38.4073
+        },
+        {
+          "value": 9.25471
+        }
+      ],
+      "Straßenzustand": [
+        {
+          "value": 9.31302
+        },
+        {
+          "value": 13.2627
+        },
+        {
+          "value": 11.3575
+        },
+        {
+          "value": 6.20231
+        }
+      ]
+    },
+    "2015": {
+      "Angebot von Kunst und Kultur": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Angebot an Arbeitsplätzen": [
+        {
+          "value": 31.3862
+        },
+        {
+          "value": 33.4742
+        },
+        {
+          "value": 36.3698
+        },
+        {
+          "value": 31.1678
+        }
+      ],
+      "Angebot an Ausbildungsplätzen, Lehrstellen": [
+        {
+          "value": 50.7291
+        },
+        {
+          "value": 55.2141
+        },
+        {
+          "value": 45.096
+        },
+        {
+          "value": 52.7397
+        }
+      ],
+      "Angebot an Freizeitsportanlagen": [
+        {
+          "value": 43.0519
+        },
+        {
+          "value": 57.8028
+        },
+        {
+          "value": 46.261
+        },
+        {
+          "value": 29.5048
+        }
+      ],
+      "Angebot an Jugendfreizeiteinrichtungen": [
+        {
+          "value": 20.2953
+        },
+        {
+          "value": 39.6541
+        },
+        {
+          "value": 21.195
+        },
+        {
+          "value": 12.9953
+        }
+      ],
+      "Angebot an Kindereinrichtungen": [
+        {
+          "value": 19.6016
+        },
+        {
+          "value": 24.3518
+        },
+        {
+          "value": 13.8423
+        },
+        {
+          "value": 25.5013
+        }
+      ],
+      "Angebot an öffentlichen Grünanlagen und Parks": [
+        {
+          "value": 82.4498
+        },
+        {
+          "value": 79.6571
+        },
+        {
+          "value": 83.1246
+        },
+        {
+          "value": 76.3334
+        }
+      ],
+      "Ausbau der Naherholungsgebiete": [
+        {
+          "value": 81.7412
+        },
+        {
+          "value": 86.0695
+        },
+        {
+          "value": 87.9599
+        },
+        {
+          "value": 77.176
+        }
+      ],
+      "Öffentliche Sicherheit/Schutz vor Kriminalität": [
+        {
+          "value": 15.7941
+        },
+        {
+          "value": 33.5267
+        },
+        {
+          "value": 21.7965
+        },
+        {
+          "value": 5.58436
+        }
+      ],
+      "Sauberkeit der Luft": [
+        {
+          "value": 55.9309
+        },
+        {
+          "value": 63.0508
+        },
+        {
+          "value": 57.2285
+        },
+        {
+          "value": 48.7309
+        }
+      ],
+      "Sauberkeit der Straßen und öffentlichen Plätze": [
+        {
+          "value": 35.4127
+        },
+        {
+          "value": 50.6259
+        },
+        {
+          "value": 34.8602
+        },
+        {
+          "value": 21.0579
+        }
+      ],
+      "Straßenzustand": [
+        {
+          "value": 8.70029
+        },
+        {
+          "value": 22.6417
+        },
+        {
+          "value": 8.84123
+        },
+        {
+          "value": 4.61961
+        }
+      ],
+      "Versorgung mit Alten- und Pflegeheimen": [
+        {
+          "value": 36.9888
+        },
+        {
+          "value": 51.7622
+        },
+        {
+          "value": 53.5648
+        },
+        {
+          "value": 25.5023
+        }
+      ],
+      "Zustand der Gewässer": [
+        {
+          "value": 73.5966
+        },
+        {
+          "value": 69.1326
+        },
+        {
+          "value": 74.3382
+        },
+        {
+          "value": 69.7071
+        }
+      ]
+    },
+    "2016": {
+      "Angebot von Kunst und Kultur": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Angebot an Arbeitsplätzen": [
+        {
+          "value": 41
+        },
+        {
+          "value": 61
+        },
+        {
+          "value": 50
+        },
+        {
+          "value": 29
+        }
+      ],
+      "Angebot an Ausbildungsplätzen, Lehrstellen": [
+        {
+          "value": 51
+        },
+        {
+          "value": 55
+        },
+        {
+          "value": 55
+        },
+        {
+          "value": 45
+        }
+      ],
+      "Angebot an Freizeitsportanlagen": [
+        {
+          "value": 48
+        },
+        {
+          "value": 61
+        },
+        {
+          "value": 51
+        },
+        {
+          "value": 40
+        }
+      ],
+      "Angebot an Jugendfreizeiteinrichtungen": [
+        {
+          "value": 25
+        },
+        {
+          "value": 31
+        },
+        {
+          "value": 30
+        },
+        {
+          "value": 14
+        }
+      ],
+      "Angebot an Kindereinrichtungen": [
+        {
+          "value": 19
+        },
+        {
+          "value": 7
+        },
+        {
+          "value": 20
+        },
+        {
+          "value": 25
+        }
+      ],
+      "Angebot an öffentlichen Grünanlagen und Parks": [
+        {
+          "value": 82
+        },
+        {
+          "value": 93
+        },
+        {
+          "value": 86
+        },
+        {
+          "value": 79
+        }
+      ],
+      "Ausbau der Naherholungsgebiete": [
+        {
+          "value": 81
+        },
+        {
+          "value": 83
+        },
+        {
+          "value": 85
+        },
+        {
+          "value": 81
+        }
+      ],
+      "Öffentliche Sicherheit/Schutz vor Kriminalität": [
+        {
+          "value": 17
+        },
+        {
+          "value": 34
+        },
+        {
+          "value": 22
+        },
+        {
+          "value": 5
+        }
+      ],
+      "Sauberkeit der Luft": [
+        {
+          "value": 52
+        },
+        {
+          "value": 63
+        },
+        {
+          "value": 57
+        },
+        {
+          "value": 45
+        }
+      ],
+      "Sauberkeit der Straßen und öffentlichen Plätze": [
+        {
+          "value": 28
+        },
+        {
+          "value": 47
+        },
+        {
+          "value": 31
+        },
+        {
+          "value": 17
+        }
+      ],
+      "Straßenzustand": [
+        {
+          "value": 10
+        },
+        {
+          "value": 24
+        },
+        {
+          "value": 11
+        },
+        {
+          "value": 8
+        }
+      ],
+      "Versorgung mit Alten- und Pflegeheimen": [
+        {
+          "value": 33
+        },
+        {
+          "value": 16
+        },
+        {
+          "value": 46
+        },
+        {
+          "value": 31
+        }
+      ],
+      "Zustand der Gewässer": [
+        {
+          "value": 72
+        },
+        {
+          "value": 64
+        },
+        {
+          "value": 81
+        },
+        {
+          "value": 70
+        }
+      ]
+    },
+    "2017": {
+      "Angebot an Arbeitsplätzen": [
+        {
+          "value": 49
+        },
+        {
+          "value": 54
+        },
+        {
+          "value": 56
+        },
+        {
+          "value": 41
+        }
+      ],
+      "Angebot an Ausbildungsplätzen, Lehrstellen": [
+        {
+          "value": 59
+        },
+        {
+          "value": 74
+        },
+        {
+          "value": 62
+        },
+        {
+          "value": 52
+        }
+      ],
+      "Angebot an Freizeitsportanlagen": [
+        {
+          "value": 48
+        },
+        {
+          "value": 66
+        },
+        {
+          "value": 45
+        },
+        {
+          "value": 42
+        }
+      ],
+      "Angebot an Jugendfreizeiteinrichtungen": [
+        {
+          "value": 27
+        },
+        {
+          "value": 46
+        },
+        {
+          "value": 28
+        },
+        {
+          "value": 21
+        }
+      ],
+      "Angebot an Kindereinrichtungen": [
+        {
+          "value": 12
+        },
+        {
+          "value": 12
+        },
+        {
+          "value": 13
+        },
+        {
+          "value": 15
+        }
+      ],
+      "Angebot an öffentlichen Grünanlagen und Parks": [
+        {
+          "value": 81
+        },
+        {
+          "value": 89
+        },
+        {
+          "value": 80
+        },
+        {
+          "value": 77
+        }
+      ],
+      "Ausbau der Naherholungsgebiete": [
+        {
+          "value": 79
+        },
+        {
+          "value": 78
+        },
+        {
+          "value": 81
+        },
+        {
+          "value": 78
+        }
+      ],
+      "Öffentliche Sicherheit/Schutz vor Kriminalität": [
+        {
+          "value": 18
+        },
+        {
+          "value": 46
+        },
+        {
+          "value": 19
+        },
+        {
+          "value": 6
+        }
+      ],
+      "Sauberkeit der Luft": [
+        {
+          "value": 48
+        },
+        {
+          "value": 65
+        },
+        {
+          "value": 45
+        },
+        {
+          "value": 40
+        }
+      ],
+      "Sauberkeit der Straßen und öffentlichen Plätze": [
+        {
+          "value": 29
+        },
+        {
+          "value": 53
+        },
+        {
+          "value": 27
+        },
+        {
+          "value": 16
+        }
+      ],
+      "Straßenzustand": [
+        {
+          "value": 9
+        },
+        {
+          "value": 21
+        },
+        {
+          "value": 11
+        },
+        {
+          "value": 5
+        }
+      ],
+      "Versorgung mit Alten- und Pflegeheimen": [
+        {
+          "value": 21
+        },
+        {
+          "value": 18
+        },
+        {
+          "value": 18
+        },
+        {
+          "value": 21
+        }
+      ],
+      "Zustand der Gewässer": [
+        {
+          "value": 70
+        },
+        {
+          "value": 73
+        },
+        {
+          "value": 73
+        },
+        {
+          "value": 64
+        }
+      ],
+      "Angebot von Kunst und Kultur": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2018": {
+      "Angebot an Arbeitsplätzen": [
+        {
+          "value": 52
+        },
+        {
+          "value": 79
+        },
+        {
+          "value": 61
+        },
+        {
+          "value": 41
+        }
+      ],
+      "Angebot an Ausbildungsplätzen, Lehrstellen": [
+        {
+          "value": 57
+        },
+        {
+          "value": 77
+        },
+        {
+          "value": 52
+        },
+        {
+          "value": 51
+        }
+      ],
+      "Angebot an Freizeitsportanlagen": [
+        {
+          "value": 46
+        },
+        {
+          "value": 53
+        },
+        {
+          "value": 48
+        },
+        {
+          "value": 44
+        }
+      ],
+      "Angebot an Jugendfreizeiteinrichtungen": [
+        {
+          "value": 28
+        },
+        {
+          "value": 58
+        },
+        {
+          "value": 29
+        },
+        {
+          "value": 19
+        }
+      ],
+      "Angebot an Kindereinrichtungen": [
+        {
+          "value": 13
+        },
+        {
+          "value": 34
+        },
+        {
+          "value": 12
+        },
+        {
+          "value": 13
+        }
+      ],
+      "Angebot an öffentlichen Grünanlagen und Parks": [
+        {
+          "value": 76
+        },
+        {
+          "value": 77
+        },
+        {
+          "value": 77
+        },
+        {
+          "value": 70
+        }
+      ],
+      "Ausbau der Naherholungsgebiete": [
+        {
+          "value": 74
+        },
+        {
+          "value": 70
+        },
+        {
+          "value": 73
+        },
+        {
+          "value": 74
+        }
+      ],
+      "Öffentliche Sicherheit/Schutz vor Kriminalität": [
+        {
+          "value": 21
+        },
+        {
+          "value": 40
+        },
+        {
+          "value": 27
+        },
+        {
+          "value": 6
+        }
+      ],
+      "Sauberkeit der Luft": [
+        {
+          "value": 46
+        },
+        {
+          "value": 51
+        },
+        {
+          "value": 53
+        },
+        {
+          "value": 39
+        }
+      ],
+      "Sauberkeit der Straßen und öffentlichen Plätze": [
+        {
+          "value": 27
+        },
+        {
+          "value": 39
+        },
+        {
+          "value": 32
+        },
+        {
+          "value": 17
+        }
+      ],
+      "Straßenzustand": [
+        {
+          "value": 11
+        },
+        {
+          "value": 18
+        },
+        {
+          "value": 19
+        },
+        {
+          "value": 8
+        }
+      ],
+      "Versorgung mit Alten- und Pflegeheimen": [
+        {
+          "value": 22
+        },
+        {
+          "value": 37
+        },
+        {
+          "value": 30
+        },
+        {
+          "value": 20
+        }
+      ],
+      "Zustand der Gewässer": [
+        {
+          "value": 61
+        },
+        {
+          "value": 46
+        },
+        {
+          "value": 68
+        },
+        {
+          "value": 57
+        }
+      ],
+      "Angebot von Kunst und Kultur": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2019": {
+      "Angebot an Arbeitsplätzen": [
+        {
+          "value": 58
+        },
+        {
+          "value": 67
+        },
+        {
+          "value": 67
+        },
+        {
+          "value": 47
+        }
+      ],
+      "Angebot an Ausbildungsplätzen, Lehrstellen": [
+        {
+          "value": 67
+        },
+        {
+          "value": 75
+        },
+        {
+          "value": 72
+        },
+        {
+          "value": 62
+        }
+      ],
+      "Angebot an Freizeitsportanlagen": [
+        {
+          "value": 53
+        },
+        {
+          "value": 61
+        },
+        {
+          "value": 53
+        },
+        {
+          "value": 46
+        }
+      ],
+      "Angebot an Jugendfreizeiteinrichtungen": [
+        {
+          "value": 30
+        },
+        {
+          "value": 57
+        },
+        {
+          "value": 31
+        },
+        {
+          "value": 22
+        }
+      ],
+      "Angebot an Kindereinrichtungen": [
+        {
+          "value": 20
+        },
+        {
+          "value": 28
+        },
+        {
+          "value": 16
+        },
+        {
+          "value": 27
+        }
+      ],
+      "Angebot an öffentlichen Grünanlagen und Parks": [
+        {
+          "value": 73
+        },
+        {
+          "value": 76
+        },
+        {
+          "value": 69
+        },
+        {
+          "value": 72
+        }
+      ],
+      "Ausbau der Naherholungsgebiete": [
+        {
+          "value": 72
+        },
+        {
+          "value": 71
+        },
+        {
+          "value": 74
+        },
+        {
+          "value": 68
+        }
+      ],
+      "Öffentliche Sicherheit/Schutz vor Kriminalität": [
+        {
+          "value": 26
+        },
+        {
+          "value": 52
+        },
+        {
+          "value": 32
+        },
+        {
+          "value": 9
+        }
+      ],
+      "Sauberkeit der Luft": [
+        {
+          "value": 36
+        },
+        {
+          "value": 37
+        },
+        {
+          "value": 37
+        },
+        {
+          "value": 37
+        }
+      ],
+      "Sauberkeit der Straßen und öffentlichen Plätze": [
+        {
+          "value": 24
+        },
+        {
+          "value": 31
+        },
+        {
+          "value": 26
+        },
+        {
+          "value": 17
+        }
+      ],
+      "Straßenzustand": [
+        {
+          "value": 15
+        },
+        {
+          "value": 28
+        },
+        {
+          "value": 18
+        },
+        {
+          "value": 8
+        }
+      ],
+      "Versorgung mit Alten- und Pflegeheimen": [
+        {
+          "value": 20
+        },
+        {
+          "value": 14
+        },
+        {
+          "value": 24
+        },
+        {
+          "value": 16
+        }
+      ],
+      "Zustand der Gewässer": [
+        {
+          "value": 57
+        },
+        {
+          "value": 61
+        },
+        {
+          "value": 60
+        },
+        {
+          "value": 54
+        }
+      ],
+      "Angebot von Kunst und Kultur": [
+        {
+          "value": 88
+        },
+        {
+          "value": 90
+        },
+        {
+          "value": 89
+        },
+        {
+          "value": 86
+        }
+      ]
+    },
+    "2020": {
+      "Angebot an Arbeitsplätzen": [
+        {
+          "value": 52.1672
+        },
+        {
+          "value": 70.1148
+        },
+        {
+          "value": 58.5487
+        },
+        {
+          "value": 43.626
+        }
+      ],
+      "Angebot an Ausbildungsplätzen, Lehrstellen": [
+        {
+          "value": 60.3203
+        },
+        {
+          "value": 80.4662
+        },
+        {
+          "value": 63.8559
+        },
+        {
+          "value": 50.9335
+        }
+      ],
+      "Angebot an Freizeitsportanlagen": [
+        {
+          "value": 62.6572
+        },
+        {
+          "value": 80.8788
+        },
+        {
+          "value": 60.1961
+        },
+        {
+          "value": 59.511
+        }
+      ],
+      "Angebot an Jugendfreizeiteinrichtungen": [
+        {
+          "value": 29.8115
+        },
+        {
+          "value": 57.4774
+        },
+        {
+          "value": 32.1204
+        },
+        {
+          "value": 22.1679
+        }
+      ],
+      "Angebot an Kindereinrichtungen": [
+        {
+          "value": 29.3349
+        },
+        {
+          "value": 31.3344
+        },
+        {
+          "value": 27.8248
+        },
+        {
+          "value": 35.9564
+        }
+      ],
+      "Angebot an öffentlichen Grünanlagen und Parks": [
+        {
+          "value": 79.8099
+        },
+        {
+          "value": 87.9771
+        },
+        {
+          "value": 78.4581
+        },
+        {
+          "value": 78.2689
+        }
+      ],
+      "Ausbau der Naherholungsgebiete": [
+        {
+          "value": 74.1569
+        },
+        {
+          "value": 76.4605
+        },
+        {
+          "value": 75.6295
+        },
+        {
+          "value": 74.878
+        }
+      ],
+      "Öffentliche Sicherheit/Schutz vor Kriminalität": [
+        {
+          "value": 25.1156
+        },
+        {
+          "value": 47.2664
+        },
+        {
+          "value": 28.0646
+        },
+        {
+          "value": 10.1601
+        }
+      ],
+      "Sauberkeit der Luft": [
+        {
+          "value": 48.7926
+        },
+        {
+          "value": 60.094
+        },
+        {
+          "value": 43.5534
+        },
+        {
+          "value": 47.667
+        }
+      ],
+      "Sauberkeit der Straßen und öffentlichen Plätze": [
+        {
+          "value": 28.6159
+        },
+        {
+          "value": 42.7549
+        },
+        {
+          "value": 31.6441
+        },
+        {
+          "value": 20.5387
+        }
+      ],
+      "Straßenzustand": [
+        {
+          "value": 15.5048
+        },
+        {
+          "value": 38.4589
+        },
+        {
+          "value": 18.1127
+        },
+        {
+          "value": 12.0614
+        }
+      ],
+      "Versorgung mit Alten- und Pflegeheimen": [
+        {
+          "value": 31.7638
+        },
+        {
+          "value": 42.1231
+        },
+        {
+          "value": 38.8642
+        },
+        {
+          "value": 27.6266
+        }
+      ],
+      "Zustand der Gewässer": [
+        {
+          "value": 60.9404
+        },
+        {
+          "value": 54.3576
+        },
+        {
+          "value": 63.9578
+        },
+        {
+          "value": 66.336
+        }
+      ],
+      "Angebot von Kunst und Kultur": [
+        {
+          "value": 80.4291
+        },
+        {
+          "value": 87.7287
+        },
+        {
+          "value": 81.7443
+        },
+        {
+          "value": 81.0701
+        }
+      ]
+    },
+    "2021": {
+      "Angebot an Arbeitsplätzen": [
+        {
+          "value": 58.8651
+        },
+        {
+          "value": 66.9019
+        },
+        {
+          "value": 68.3082
+        },
+        {
+          "value": 44.4283
+        }
+      ],
+      "Angebot an Ausbildungsplätzen, Lehrstellen": [
+        {
+          "value": 62.5713
+        },
+        {
+          "value": 69.9255
+        },
+        {
+          "value": 71.278
+        },
+        {
+          "value": 47.2191
+        }
+      ],
+      "Angebot an Freizeitsportanlagen": [
+        {
+          "value": 54.258
+        },
+        {
+          "value": 58.4461
+        },
+        {
+          "value": 57.358
+        },
+        {
+          "value": 41.4913
+        }
+      ],
+      "Angebot an Jugendfreizeiteinrichtungen": [
+        {
+          "value": 24.315
+        },
+        {
+          "value": 37.8096
+        },
+        {
+          "value": 27.5349
+        },
+        {
+          "value": 17.2128
+        }
+      ],
+      "Angebot an Kindereinrichtungen": [
+        {
+          "value": 33.4235
+        },
+        {
+          "value": 40.4689
+        },
+        {
+          "value": 28.2357
+        },
+        {
+          "value": 38.7941
+        }
+      ],
+      "Angebot an öffentlichen Grünanlagen und Parks": [
+        {
+          "value": 72.6742
+        },
+        {
+          "value": 74.9039
+        },
+        {
+          "value": 73.5876
+        },
+        {
+          "value": 71.0348
+        }
+      ],
+      "Angebot von Kunst und Kultur": [
+        {
+          "value": 74.7244
+        },
+        {
+          "value": 68.6313
+        },
+        {
+          "value": 82.1104
+        },
+        {
+          "value": 73.7463
+        }
+      ],
+      "Ausbau der Naherholungsgebiete": [
+        {
+          "value": 67.1196
+        },
+        {
+          "value": 63.5036
+        },
+        {
+          "value": 69.7872
+        },
+        {
+          "value": 66.5537
+        }
+      ],
+      "Öffentliche Sicherheit/Schutz vor Kriminalität": [
+        {
+          "value": 23.5539
+        },
+        {
+          "value": 36.2872
+        },
+        {
+          "value": 27.3644
+        },
+        {
+          "value": 7.32336
+        }
+      ],
+      "Sauberkeit der Luft": [
+        {
+          "value": 42.7186
+        },
+        {
+          "value": 40.6159
+        },
+        {
+          "value": 45.8051
+        },
+        {
+          "value": 40.8497
+        }
+      ],
+      "Sauberkeit der Straßen und öffentlichen Plätze": [
+        {
+          "value": 21.5339
+        },
+        {
+          "value": 30.8425
+        },
+        {
+          "value": 23.8129
+        },
+        {
+          "value": 15.677
+        }
+      ],
+      "Straßenzustand": [
+        {
+          "value": 12.7737
+        },
+        {
+          "value": 25.7231
+        },
+        {
+          "value": 14.8759
+        },
+        {
+          "value": 9.02511
+        }
+      ],
+      "Versorgung mit Alten- und Pflegeheimen": [
+        {
+          "value": 30.492
+        },
+        {
+          "value": 31.8445
+        },
+        {
+          "value": 36.683
+        },
+        {
+          "value": 32.0566
+        }
+      ],
+      "Zustand der Gewässer": [
+        {
+          "value": 58.1108
+        },
+        {
+          "value": 49.7467
+        },
+        {
+          "value": 62.0695
+        },
+        {
+          "value": 56.8011
+        }
+      ]
+    },
+    "2022": {
+      "Angebot an Kindereinrichtungen": [
+        {
+          "value": 18.7638
+        },
+        {
+          "value": 26.9714
+        },
+        {
+          "value": 26.783
+        },
+        {
+          "value": 36.6405
+        }
+      ],
+      "Angebot an Arbeitsplätzen": [
+        {
+          "value": 55.2389
+        },
+        {
+          "value": 61.7467
+        },
+        {
+          "value": 59.4449
+        },
+        {
+          "value": 44.1536
+        }
+      ],
+      "Angebot an Ausbildungsplätzen, Lehrstellen": [
+        {
+          "value": 65.4093
+        },
+        {
+          "value": 80.8193
+        },
+        {
+          "value": 68.2408
+        },
+        {
+          "value": 50.9953
+        }
+      ],
+      "Angebot an Freizeitsportanlagen": [
+        {
+          "value": 54.3203
+        },
+        {
+          "value": 66.1272
+        },
+        {
+          "value": 47.5771
+        },
+        {
+          "value": 44.5456
+        }
+      ],
+      "Angebot an Jugendfreizeiteinrichtungen": [
+        {
+          "value": 28.7601
+        },
+        {
+          "value": 44.1296
+        },
+        {
+          "value": 25.5672
+        },
+        {
+          "value": 20.5532
+        }
+      ],
+      "Angebot an öffentlichen Grünanlagen und Parks": [
+        {
+          "value": 72.8998
+        },
+        {
+          "value": 84.266
+        },
+        {
+          "value": 66.2079
+        },
+        {
+          "value": 66.99
+        }
+      ],
+      "Angebot von Kunst und Kultur": [
+        {
+          "value": 83.2
+        },
+        {
+          "value": 91.6235
+        },
+        {
+          "value": 81.4652
+        },
+        {
+          "value": 80.7673
+        }
+      ],
+      "Ausbau der Naherholungsgebiete": [
+        {
+          "value": 70.1802
+        },
+        {
+          "value": 78.9775
+        },
+        {
+          "value": 70.4381
+        },
+        {
+          "value": 67.7102
+        }
+      ],
+      "Öffentliche Sicherheit/Schutz vor Kriminalität": [
+        {
+          "value": 25.6185
+        },
+        {
+          "value": 45.4736
+        },
+        {
+          "value": 32.3007
+        },
+        {
+          "value": 6.82218
+        }
+      ],
+      "Sauberkeit der Luft": [
+        {
+          "value": 44.2919
+        },
+        {
+          "value": 40.1167
+        },
+        {
+          "value": 44.7757
+        },
+        {
+          "value": 47.8168
+        }
+      ],
+      "Sauberkeit der Straßen und öffentlichen Plätze": [
+        {
+          "value": 23.2143
+        },
+        {
+          "value": 38.5705
+        },
+        {
+          "value": 25.6332
+        },
+        {
+          "value": 12.7069
+        }
+      ],
+      "Straßenzustand": [
+        {
+          "value": 12.6262
+        },
+        {
+          "value": 24.0991
+        },
+        {
+          "value": 16.5083
+        },
+        {
+          "value": 7.02663
+        }
+      ],
+      "Versorgung mit Alten- und Pflegeheimen": [
+        {
+          "value": 22.6788
+        },
+        {
+          "value": 38.6913
+        },
+        {
+          "value": 23.8345
+        },
+        {
+          "value": 19.0925
+        }
+      ],
+      "Zustand der Gewässer": [
+        {
+          "value": 57.0793
+        },
+        {
+          "value": 61.0293
+        },
+        {
+          "value": 57.5258
+        },
+        {
+          "value": 54.6934
+        }
+      ]
+    },
+    "2023": {
+      "Angebot an Arbeitsplätzen": [
+        {
+          "value": 40.5937
+        },
+        {
+          "value": 51.9913
+        },
+        {
+          "value": 54.6094
+        },
+        {
+          "value": 16.454
+        }
+      ],
+      "Angebot an Ausbildungsplätzen, Lehrstellen": [
+        {
+          "value": 33.6595
+        },
+        {
+          "value": 54.4848
+        },
+        {
+          "value": 36.457
+        },
+        {
+          "value": 17.0938
+        }
+      ],
+      "Angebot an Freizeitsportanlagen": [
+        {
+          "value": 46.1095
+        },
+        {
+          "value": 56.5717
+        },
+        {
+          "value": 43.5098
+        },
+        {
+          "value": 29.5747
+        }
+      ],
+      "Angebot an Jugendfreizeiteinrichtungen": [
+        {
+          "value": 13.7794
+        },
+        {
+          "value": 21.3084
+        },
+        {
+          "value": 20.0811
+        },
+        {
+          "value": 4.80675
+        }
+      ],
+      "Angebot an Kindereinrichtungen": [
+        {
+          "value": 11.8183
+        },
+        {
+          "value": 4.92061
+        },
+        {
+          "value": 27.1333
+        },
+        {
+          "value": 5.69264
+        }
+      ],
+      "Angebot an öffentlichen Grünanlagen und Parks": [
+        {
+          "value": 74.5854
+        },
+        {
+          "value": 81.9941
+        },
+        {
+          "value": 75.9544
+        },
+        {
+          "value": 68.0179
+        }
+      ],
+      "Angebot von Kunst und Kultur": [
+        {
+          "value": 76.0111
+        },
+        {
+          "value": 69.8522
+        },
+        {
+          "value": 73.7335
+        },
+        {
+          "value": 73.1945
+        }
+      ],
+      "Ausbau der Naherholungsgebiete": [
+        {
+          "value": 59.84
+        },
+        {
+          "value": 34.5393
+        },
+        {
+          "value": 63.4323
+        },
+        {
+          "value": 59.4899
+        }
+      ],
+      "Öffentliche Sicherheit/Schutz vor Kriminalität": [
+        {
+          "value": 29.6809
+        },
+        {
+          "value": 48.4447
+        },
+        {
+          "value": 34.5247
+        },
+        {
+          "value": 6.32834
+        }
+      ],
+      "Sauberkeit der Luft": [
+        {
+          "value": 48.5054
+        },
+        {
+          "value": 44.4816
+        },
+        {
+          "value": 41.4975
+        },
+        {
+          "value": 49.4615
+        }
+      ],
+      "Sauberkeit der Straßen und öffentlichen Plätze": [
+        {
+          "value": 25.0653
+        },
+        {
+          "value": 33.798
+        },
+        {
+          "value": 32.6344
+        },
+        {
+          "value": 11.2197
+        }
+      ],
+      "Straßenzustand": [
+        {
+          "value": 13.2122
+        },
+        {
+          "value": 22.2828
+        },
+        {
+          "value": 17.4374
+        },
+        {
+          "value": 5.115
+        }
+      ],
+      "Versorgung mit Alten- und Pflegeheimen": [
+        {
+          "value": 10.8496
+        },
+        {
+          "value": 10.1684
+        },
+        {
+          "value": 11.8911
+        },
+        {
+          "value": 11.0388
+        }
+      ],
+      "Zustand der Gewässer": [
+        {
+          "value": 48.7707
+        },
+        {
+          "value": 34.9118
+        },
+        {
+          "value": 50.5789
+        },
+        {
+          "value": 45.8561
+        }
+      ]
+    }
+  }
+}

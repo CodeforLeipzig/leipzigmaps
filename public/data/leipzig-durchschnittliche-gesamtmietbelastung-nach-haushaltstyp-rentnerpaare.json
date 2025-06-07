@@ -1,0 +1,230 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=6&rubrik_nr=27&periode=y",
+    "title": "Durchschnittliche Gesamtmietbelastung nach Haushaltstyp __Rentnerpaare"
+  },
+  "data": {
+    "2018": {
+      "Rentnerpaare": [
+        {
+          "value": 27
+        }
+      ],
+      "Alleinstehende Rentner": [
+        {
+          "value": 34
+        }
+      ],
+      "Paare ohne Kind": [
+        {
+          "value": 24
+        }
+      ],
+      "Paare mit Kind(ern)": [
+        {
+          "value": 26
+        }
+      ],
+      "Alleinerziehende": [
+        {
+          "value": null
+        }
+      ],
+      "Alleinstehende < 65 J.": [
+        {
+          "value": 32
+        }
+      ],
+      "insgesamt": [
+        {
+          "value": 30
+        }
+      ]
+    },
+    "2019": {
+      "insgesamt": [
+        {
+          "value": 30
+        }
+      ],
+      "Alleinstehende < 65 J.": [
+        {
+          "value": 32
+        }
+      ],
+      "Alleinerziehende": [
+        {
+          "value": 33
+        }
+      ],
+      "Paare mit Kind(ern)": [
+        {
+          "value": 25
+        }
+      ],
+      "Paare ohne Kind": [
+        {
+          "value": 23
+        }
+      ],
+      "Alleinstehende Rentner": [
+        {
+          "value": 36
+        }
+      ],
+      "Rentnerpaare": [
+        {
+          "value": 26
+        }
+      ]
+    },
+    "2020": {
+      "Rentnerpaare": [
+        {
+          "value": 24
+        }
+      ],
+      "Alleinstehende Rentner": [
+        {
+          "value": 34
+        }
+      ],
+      "Paare ohne Kind": [
+        {
+          "value": 22
+        }
+      ],
+      "Paare mit Kind(ern)": [
+        {
+          "value": 23
+        }
+      ],
+      "Alleinerziehende": [
+        {
+          "value": null
+        }
+      ],
+      "Alleinstehende < 65 J.": [
+        {
+          "value": 30
+        }
+      ],
+      "insgesamt": [
+        {
+          "value": 29
+        }
+      ]
+    },
+    "2021": {
+      "insgesamt": [
+        {
+          "value": 29
+        }
+      ],
+      "Alleinstehende < 65 J.": [
+        {
+          "value": 31
+        }
+      ],
+      "Alleinerziehende": [
+        {
+          "value": 31
+        }
+      ],
+      "Paare mit Kind(ern)": [
+        {
+          "value": 23
+        }
+      ],
+      "Paare ohne Kind": [
+        {
+          "value": 22
+        }
+      ],
+      "Alleinstehende Rentner": [
+        {
+          "value": 34
+        }
+      ],
+      "Rentnerpaare": [
+        {
+          "value": 24
+        }
+      ]
+    },
+    "2022": {
+      "Rentnerpaare": [
+        {
+          "value": 26
+        }
+      ],
+      "Alleinstehende Rentner": [
+        {
+          "value": 33
+        }
+      ],
+      "Paare ohne Kind": [
+        {
+          "value": 24
+        }
+      ],
+      "Paare mit Kind(ern)": [
+        {
+          "value": 27
+        }
+      ],
+      "Alleinerziehende": [
+        {
+          "value": null
+        }
+      ],
+      "Alleinstehende < 65 J.": [
+        {
+          "value": 30
+        }
+      ],
+      "insgesamt": [
+        {
+          "value": 29
+        }
+      ]
+    },
+    "2023": {
+      "Rentnerpaare": [
+        {
+          "value": 25.638
+        }
+      ],
+      "Alleinstehende Rentner": [
+        {
+          "value": 35.3191
+        }
+      ],
+      "Paare ohne Kind": [
+        {
+          "value": 23.0761
+        }
+      ],
+      "Paare mit Kind(ern)": [
+        {
+          "value": 23.6009
+        }
+      ],
+      "Alleinerziehende": [
+        {
+          "value": 31.2901
+        }
+      ],
+      "Alleinstehende < 65 J.": [
+        {
+          "value": 30.4877
+        }
+      ],
+      "insgesamt": [
+        {
+          "value": 29.4237
+        }
+      ]
+    }
+  }
+}

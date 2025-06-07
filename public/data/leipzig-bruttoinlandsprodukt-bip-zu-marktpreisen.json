@@ -1,0 +1,1310 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=8&rubrik_nr=12&periode=y",
+    "title": "Bruttoinlandsprodukt (BIP) zu Marktpreisen"
+  },
+  "data": {
+    "2001": {
+      "Bruttoinlandsprodukt (BIP) zu Marktpreisen": [
+        {
+          "value": 10995
+        }
+      ],
+      "je Einwohner": [
+        {
+          "value": 22304
+        }
+      ],
+      "je Erwerbstätigem": [
+        {
+          "value": 40415
+        }
+      ],
+      "Bruttowertschöpfung zu Herstellungspreisen": [
+        {
+          "value": 9909
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 21
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 1636
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 648
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 581
+        }
+      ],
+      "Dienstleistungsbereiche": [
+        {
+          "value": 8252
+        }
+      ],
+      "Handel, Gastgewerbe und Verkehr": [
+        {
+          "value": 1685
+        }
+      ],
+      "Finanzierung, Vermietung und Unternehmensdienstleister": [
+        {
+          "value": 3388
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 3180
+        }
+      ]
+    },
+    "2002": {
+      "Bruttoinlandsprodukt (BIP) zu Marktpreisen": [
+        {
+          "value": 11392
+        }
+      ],
+      "je Einwohner": [
+        {
+          "value": 23078
+        }
+      ],
+      "je Erwerbstätigem": [
+        {
+          "value": 42043
+        }
+      ],
+      "Bruttowertschöpfung zu Herstellungspreisen": [
+        {
+          "value": 10276
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 16
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 1656
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 711
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 585
+        }
+      ],
+      "Dienstleistungsbereiche": [
+        {
+          "value": 8604
+        }
+      ],
+      "Handel, Gastgewerbe und Verkehr": [
+        {
+          "value": 1731
+        }
+      ],
+      "Finanzierung, Vermietung und Unternehmensdienstleister": [
+        {
+          "value": 3665
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 3209
+        }
+      ]
+    },
+    "2003": {
+      "Bruttoinlandsprodukt (BIP) zu Marktpreisen": [
+        {
+          "value": 11645
+        }
+      ],
+      "je Einwohner": [
+        {
+          "value": 23484
+        }
+      ],
+      "je Erwerbstätigem": [
+        {
+          "value": 42494
+        }
+      ],
+      "Bruttowertschöpfung zu Herstellungspreisen": [
+        {
+          "value": 10491
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 13
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 1773
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 745
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 591
+        }
+      ],
+      "Dienstleistungsbereiche": [
+        {
+          "value": 8705
+        }
+      ],
+      "Handel, Gastgewerbe und Verkehr": [
+        {
+          "value": 1744
+        }
+      ],
+      "Finanzierung, Vermietung und Unternehmensdienstleister": [
+        {
+          "value": 3683
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 3278
+        }
+      ]
+    },
+    "2004": {
+      "Bruttoinlandsprodukt (BIP) zu Marktpreisen": [
+        {
+          "value": 11801
+        }
+      ],
+      "je Einwohner": [
+        {
+          "value": 23726
+        }
+      ],
+      "je Erwerbstätigem": [
+        {
+          "value": 42871
+        }
+      ],
+      "Bruttowertschöpfung zu Herstellungspreisen": [
+        {
+          "value": 10667
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 16
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 1879
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 817
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 638
+        }
+      ],
+      "Dienstleistungsbereiche": [
+        {
+          "value": 8771
+        }
+      ],
+      "Handel, Gastgewerbe und Verkehr": [
+        {
+          "value": 1776
+        }
+      ],
+      "Finanzierung, Vermietung und Unternehmensdienstleister": [
+        {
+          "value": 3671
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 3324
+        }
+      ]
+    },
+    "2005": {
+      "Bruttoinlandsprodukt (BIP) zu Marktpreisen": [
+        {
+          "value": 12040
+        }
+      ],
+      "je Einwohner": [
+        {
+          "value": 24095
+        }
+      ],
+      "je Erwerbstätigem": [
+        {
+          "value": 43767
+        }
+      ],
+      "Bruttowertschöpfung zu Herstellungspreisen": [
+        {
+          "value": 10868
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 11
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 1930
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 1027
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 529
+        }
+      ],
+      "Dienstleistungsbereiche": [
+        {
+          "value": 8927
+        }
+      ],
+      "Handel, Gastgewerbe und Verkehr": [
+        {
+          "value": 1744
+        }
+      ],
+      "Finanzierung, Vermietung und Unternehmensdienstleister": [
+        {
+          "value": 3784
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 3398
+        }
+      ]
+    },
+    "2006": {
+      "Bruttoinlandsprodukt (BIP) zu Marktpreisen": [
+        {
+          "value": 13057
+        }
+      ],
+      "je Einwohner": [
+        {
+          "value": 25865
+        }
+      ],
+      "je Erwerbstätigem": [
+        {
+          "value": 46029
+        }
+      ],
+      "Bruttowertschöpfung zu Herstellungspreisen": [
+        {
+          "value": 11778
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 12
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 2431
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 1411
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 494
+        }
+      ],
+      "Dienstleistungsbereiche": [
+        {
+          "value": 9334
+        }
+      ],
+      "Handel, Gastgewerbe und Verkehr": [
+        {
+          "value": 1868
+        }
+      ],
+      "Finanzierung, Vermietung und Unternehmensdienstleister": [
+        {
+          "value": 3938
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 3529
+        }
+      ]
+    },
+    "2007": {
+      "Bruttoinlandsprodukt (BIP) zu Marktpreisen": [
+        {
+          "value": 13579
+        }
+      ],
+      "je Einwohner": [
+        {
+          "value": 26733
+        }
+      ],
+      "je Erwerbstätigem": [
+        {
+          "value": 47181
+        }
+      ],
+      "Bruttowertschöpfung zu Herstellungspreisen": [
+        {
+          "value": 12174
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 15
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 2720
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 1717
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 537
+        }
+      ],
+      "Dienstleistungsbereiche": [
+        {
+          "value": 9439
+        }
+      ],
+      "Handel, Gastgewerbe und Verkehr": [
+        {
+          "value": 1897
+        }
+      ],
+      "Finanzierung, Vermietung und Unternehmensdienstleister": [
+        {
+          "value": 4090
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 3451
+        }
+      ]
+    },
+    "2008": {
+      "Bruttoinlandsprodukt (BIP) zu Marktpreisen": [
+        {
+          "value": 13251
+        }
+      ],
+      "je Einwohner": [
+        {
+          "value": 25870
+        }
+      ],
+      "je Erwerbstätigem": [
+        {
+          "value": 45343
+        }
+      ],
+      "Bruttowertschöpfung zu Herstellungspreisen": [
+        {
+          "value": 11875
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 10
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 2224
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 1155
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 654
+        }
+      ],
+      "Dienstleistungsbereiche": [
+        {
+          "value": 9642
+        }
+      ],
+      "Handel, Gastgewerbe und Verkehr": [
+        {
+          "value": 2556
+        }
+      ],
+      "Finanzierung, Vermietung und Unternehmensdienstleister": [
+        {
+          "value": 3405
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 3681
+        }
+      ]
+    },
+    "2009": {
+      "Bruttoinlandsprodukt (BIP) zu Marktpreisen": [
+        {
+          "value": 13204
+        }
+      ],
+      "je Einwohner": [
+        {
+          "value": 25562
+        }
+      ],
+      "je Erwerbstätigem": [
+        {
+          "value": 45114
+        }
+      ],
+      "Bruttowertschöpfung zu Herstellungspreisen": [
+        {
+          "value": 11774
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 6
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 2090
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 975
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 656
+        }
+      ],
+      "Dienstleistungsbereiche": [
+        {
+          "value": 9678
+        }
+      ],
+      "Handel, Gastgewerbe und Verkehr": [
+        {
+          "value": 2640
+        }
+      ],
+      "Finanzierung, Vermietung und Unternehmensdienstleister": [
+        {
+          "value": 3217
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 3821
+        }
+      ]
+    },
+    "2010": {
+      "Bruttoinlandsprodukt (BIP) zu Marktpreisen": [
+        {
+          "value": 15808
+        }
+      ],
+      "je Einwohner": [
+        {
+          "value": 30048
+        }
+      ],
+      "je Erwerbstätigem": [
+        {
+          "value": 52225
+        }
+      ],
+      "Bruttowertschöpfung zu Herstellungspreisen": [
+        {
+          "value": 14197
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 8.51
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 2672.27
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 1530.39
+        }
+      ],
+      "Dienstleistungsbereiche": [
+        {
+          "value": 11516.2
+        }
+      ],
+      "Handel, Gastgewerbe und Verkehr": [
+        {
+          "value": 3633.07
+        }
+      ],
+      "Finanzierung, Vermietung und Unternehmensdienstleister": [
+        {
+          "value": 3881.09
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 4002.03
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 689.28
+        }
+      ]
+    },
+    "2011": {
+      "Bruttoinlandsprodukt (BIP) zu Marktpreisen": [
+        {
+          "value": 15824.9
+        }
+      ],
+      "je Einwohner": [
+        {
+          "value": 31292
+        }
+      ],
+      "je Erwerbstätigem": [
+        {
+          "value": 52263
+        }
+      ],
+      "Bruttowertschöpfung zu Herstellungspreisen": [
+        {
+          "value": 14214.7
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 8.51
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 2676.89
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 1538.82
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 683.74
+        }
+      ],
+      "Dienstleistungsbereiche": [
+        {
+          "value": 11529
+        }
+      ],
+      "Handel, Gastgewerbe und Verkehr": [
+        {
+          "value": 3616.24
+        }
+      ],
+      "Finanzierung, Vermietung und Unternehmensdienstleister": [
+        {
+          "value": 3881.74
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 4031.03
+        }
+      ]
+    },
+    "2012": {
+      "Bruttoinlandsprodukt (BIP) zu Marktpreisen": [
+        {
+          "value": 16637.7
+        }
+      ],
+      "je Einwohner": [
+        {
+          "value": 32279
+        }
+      ],
+      "je Erwerbstätigem": [
+        {
+          "value": 53596
+        }
+      ],
+      "Bruttowertschöpfung zu Herstellungspreisen": [
+        {
+          "value": 14950.8
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 8.953
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 2820.57
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 1577.85
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 766.615
+        }
+      ],
+      "Dienstleistungsbereiche": [
+        {
+          "value": 12121.2
+        }
+      ],
+      "Handel, Gastgewerbe und Verkehr": [
+        {
+          "value": 3704
+        }
+      ],
+      "Finanzierung, Vermietung und Unternehmensdienstleister": [
+        {
+          "value": 4204.25
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 4212.99
+        }
+      ]
+    },
+    "2013": {
+      "Bruttoinlandsprodukt (BIP) zu Marktpreisen": [
+        {
+          "value": 17348.9
+        }
+      ],
+      "je Einwohner": [
+        {
+          "value": 32970
+        }
+      ],
+      "je Erwerbstätigem": [
+        {
+          "value": 54611
+        }
+      ],
+      "Bruttowertschöpfung zu Herstellungspreisen": [
+        {
+          "value": 15608
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 9.531
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 2931.3
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 1741.41
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 740.367
+        }
+      ],
+      "Dienstleistungsbereiche": [
+        {
+          "value": 12667.1
+        }
+      ],
+      "Handel, Gastgewerbe und Verkehr": [
+        {
+          "value": 3846.76
+        }
+      ],
+      "Finanzierung, Vermietung und Unternehmensdienstleister": [
+        {
+          "value": 4401.41
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 4418.95
+        }
+      ]
+    },
+    "2014": {
+      "Bruttoinlandsprodukt (BIP) zu Marktpreisen": [
+        {
+          "value": 18701.6
+        }
+      ],
+      "je Einwohner": [
+        {
+          "value": 34760
+        }
+      ],
+      "je Erwerbstätigem": [
+        {
+          "value": 57689
+        }
+      ],
+      "Bruttowertschöpfung zu Herstellungspreisen": [
+        {
+          "value": 16836
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 11.929
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 3419.55
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 2226.4
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 757.083
+        }
+      ],
+      "Dienstleistungsbereiche": [
+        {
+          "value": 13404.5
+        }
+      ],
+      "Handel, Gastgewerbe und Verkehr": [
+        {
+          "value": 3947.5
+        }
+      ],
+      "Finanzierung, Vermietung und Unternehmensdienstleister": [
+        {
+          "value": 4896.31
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 4560.67
+        }
+      ]
+    },
+    "2015": {
+      "Bruttoinlandsprodukt (BIP) zu Marktpreisen": [
+        {
+          "value": 19376.1
+        }
+      ],
+      "je Einwohner": [
+        {
+          "value": 35071
+        }
+      ],
+      "je Erwerbstätigem": [
+        {
+          "value": 60152
+        }
+      ],
+      "Bruttowertschöpfung zu Herstellungspreisen": [
+        {
+          "value": 17431.2
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 8.638
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 3577.93
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 2324.79
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 849.154
+        }
+      ],
+      "Dienstleistungsbereiche": [
+        {
+          "value": 13844.6
+        }
+      ],
+      "Handel, Gastgewerbe und Verkehr": [
+        {
+          "value": 4216.6
+        }
+      ],
+      "Finanzierung, Vermietung und Unternehmensdienstleister": [
+        {
+          "value": 4917.68
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 4710.35
+        }
+      ]
+    },
+    "2016": {
+      "Bruttoinlandsprodukt (BIP) zu Marktpreisen": [
+        {
+          "value": 19909
+        }
+      ],
+      "je Einwohner": [
+        {
+          "value": 35189
+        }
+      ],
+      "je Erwerbstätigem": [
+        {
+          "value": 60529
+        }
+      ],
+      "Bruttowertschöpfung zu Herstellungspreisen": [
+        {
+          "value": 17925.6
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 10.31
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 3795.23
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 2414.78
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 921.413
+        }
+      ],
+      "Dienstleistungsbereiche": [
+        {
+          "value": 14120
+        }
+      ],
+      "Handel, Gastgewerbe und Verkehr": [
+        {
+          "value": 4089.48
+        }
+      ],
+      "Finanzierung, Vermietung und Unternehmensdienstleister": [
+        {
+          "value": 5109.85
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 4920.72
+        }
+      ]
+    },
+    "2017": {
+      "Bruttoinlandsprodukt (BIP) zu Marktpreisen": [
+        {
+          "value": 21030.6
+        }
+      ],
+      "je Einwohner": [
+        {
+          "value": 36478
+        }
+      ],
+      "je Erwerbstätigem": [
+        {
+          "value": 62501
+        }
+      ],
+      "Bruttowertschöpfung zu Herstellungspreisen": [
+        {
+          "value": 18950.9
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 11.983
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 4009.08
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 2575.77
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 937.942
+        }
+      ],
+      "Dienstleistungsbereiche": [
+        {
+          "value": 14929.9
+        }
+      ],
+      "Handel, Gastgewerbe und Verkehr": [
+        {
+          "value": 4321.77
+        }
+      ],
+      "Finanzierung, Vermietung und Unternehmensdienstleister": [
+        {
+          "value": 5407.01
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 5201.09
+        }
+      ]
+    },
+    "2018": {
+      "Bruttoinlandsprodukt (BIP) zu Marktpreisen": [
+        {
+          "value": 21765.7
+        }
+      ],
+      "je Einwohner": [
+        {
+          "value": 37212
+        }
+      ],
+      "je Erwerbstätigem": [
+        {
+          "value": 63577
+        }
+      ],
+      "Bruttowertschöpfung zu Herstellungspreisen": [
+        {
+          "value": 19615.5
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 11.362
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 3987.42
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 2475.69
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 1026.02
+        }
+      ],
+      "Dienstleistungsbereiche": [
+        {
+          "value": 15616.8
+        }
+      ],
+      "Handel, Gastgewerbe und Verkehr": [
+        {
+          "value": 4574.99
+        }
+      ],
+      "Finanzierung, Vermietung und Unternehmensdienstleister": [
+        {
+          "value": 5575.3
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 5466.46
+        }
+      ]
+    },
+    "2019": {
+      "Bruttoinlandsprodukt (BIP) zu Marktpreisen": [
+        {
+          "value": 22964
+        }
+      ],
+      "je Einwohner": [
+        {
+          "value": 38889
+        }
+      ],
+      "je Erwerbstätigem": [
+        {
+          "value": 66191
+        }
+      ],
+      "Bruttowertschöpfung zu Herstellungspreisen": [
+        {
+          "value": 20698.3
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 10.69
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 4204.12
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 2610.97
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 1116.49
+        }
+      ],
+      "Dienstleistungsbereiche": [
+        {
+          "value": 16483.5
+        }
+      ],
+      "Handel, Gastgewerbe und Verkehr": [
+        {
+          "value": 4910.52
+        }
+      ],
+      "Finanzierung, Vermietung und Unternehmensdienstleister": [
+        {
+          "value": 5749.9
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 5823.1
+        }
+      ]
+    },
+    "2020": {
+      "Bruttoinlandsprodukt (BIP) zu Marktpreisen": [
+        {
+          "value": 22521.3
+        }
+      ],
+      "je Einwohner": [
+        {
+          "value": 37831
+        }
+      ],
+      "je Erwerbstätigem": [
+        {
+          "value": 64809
+        }
+      ],
+      "Bruttowertschöpfung zu Herstellungspreisen": [
+        {
+          "value": 20399.7
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 9.204
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 4123.89
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 2425.08
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 1200.1
+        }
+      ],
+      "Dienstleistungsbereiche": [
+        {
+          "value": 16266.6
+        }
+      ],
+      "Handel, Gastgewerbe und Verkehr": [
+        {
+          "value": 4677.76
+        }
+      ],
+      "Finanzierung, Vermietung und Unternehmensdienstleister": [
+        {
+          "value": 5661.46
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 5927.37
+        }
+      ]
+    },
+    "2021": {
+      "Bruttoinlandsprodukt (BIP) zu Marktpreisen": [
+        {
+          "value": 23804.1
+        }
+      ],
+      "je Einwohner": [
+        {
+          "value": 39695
+        }
+      ],
+      "je Erwerbstätigem": [
+        {
+          "value": 67660
+        }
+      ],
+      "Bruttowertschöpfung zu Herstellungspreisen": [
+        {
+          "value": 21536
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 13.9
+        }
+      ],
+      "Produzierendes Gewerbe": [
+        {
+          "value": 4441.31
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 2789.36
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 1158.05
+        }
+      ],
+      "Dienstleistungsbereiche": [
+        {
+          "value": 17080.8
+        }
+      ],
+      "Handel, Gastgewerbe und Verkehr": [
+        {
+          "value": 4824.34
+        }
+      ],
+      "Finanzierung, Vermietung und Unternehmensdienstleister": [
+        {
+          "value": 6009.77
+        }
+      ],
+      "Öffentliche und private Dienstleister": [
+        {
+          "value": 6246.65
+        }
+      ]
+    }
+  }
+}

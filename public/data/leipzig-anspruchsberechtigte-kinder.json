@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=4&rubrik_nr=44&periode=y",
+    "title": "anspruchsberechtigte Kinder"
+  },
+  "data": {
+    "2004/05": {
+      "anspruchsberechtigte Kinder": [
+        {
+          "value": 3227
+        }
+      ],
+      "untersuchte Kinder": [
+        {
+          "value": 2409
+        }
+      ]
+    },
+    "2009/10": {
+      "untersuchte Kinder": [
+        {
+          "value": 3029
+        }
+      ],
+      "anspruchsberechtigte Kinder": [
+        {
+          "value": 3955
+        }
+      ]
+    },
+    "2010/11": {
+      "anspruchsberechtigte Kinder": [
+        {
+          "value": 4045
+        }
+      ],
+      "untersuchte Kinder": [
+        {
+          "value": 3343
+        }
+      ]
+    },
+    "2011/12": {
+      "untersuchte Kinder": [
+        {
+          "value": 2402
+        }
+      ],
+      "anspruchsberechtigte Kinder": [
+        {
+          "value": 4394
+        }
+      ]
+    },
+    "2012/13": {
+      "anspruchsberechtigte Kinder": [
+        {
+          "value": 4522
+        }
+      ],
+      "untersuchte Kinder": [
+        {
+          "value": 2326
+        }
+      ]
+    },
+    "2013/14": {
+      "untersuchte Kinder": [
+        {
+          "value": 2670
+        }
+      ],
+      "anspruchsberechtigte Kinder": [
+        {
+          "value": 4675
+        }
+      ]
+    },
+    "2014/15": {
+      "anspruchsberechtigte Kinder": [
+        {
+          "value": 4951
+        }
+      ],
+      "untersuchte Kinder": [
+        {
+          "value": 3317
+        }
+      ]
+    },
+    "2015/16": {
+      "untersuchte Kinder": [
+        {
+          "value": 3663
+        }
+      ],
+      "anspruchsberechtigte Kinder": [
+        {
+          "value": 5238
+        }
+      ]
+    },
+    "2016/17": {
+      "anspruchsberechtigte Kinder": [
+        {
+          "value": 5379
+        }
+      ],
+      "untersuchte Kinder": [
+        {
+          "value": 3837
+        }
+      ]
+    },
+    "2017/18": {
+      "untersuchte Kinder": [
+        {
+          "value": 3679
+        }
+      ],
+      "anspruchsberechtigte Kinder": [
+        {
+          "value": 5435
+        }
+      ]
+    },
+    "2018/19": {
+      "anspruchsberechtigte Kinder": [
+        {
+          "value": 5743
+        }
+      ],
+      "untersuchte Kinder": [
+        {
+          "value": 4162
+        }
+      ]
+    },
+    "2019/20": {
+      "untersuchte Kinder": [
+        {
+          "value": 553
+        }
+      ],
+      "anspruchsberechtigte Kinder": [
+        {
+          "value": 5897
+        }
+      ]
+    },
+    "2020/21": {
+      "anspruchsberechtigte Kinder": [
+        {
+          "value": 5971
+        }
+      ],
+      "untersuchte Kinder": [
+        {
+          "value": 64
+        }
+      ]
+    },
+    "2021/22": {
+      "untersuchte Kinder": [
+        {
+          "value": 1961
+        }
+      ],
+      "anspruchsberechtigte Kinder": [
+        {
+          "value": 5838
+        }
+      ]
+    },
+    "2022/23": {
+      "anspruchsberechtigte Kinder": [
+        {
+          "value": 5686
+        }
+      ],
+      "untersuchte Kinder": [
+        {
+          "value": 3732
+        }
+      ]
+    }
+  }
+}

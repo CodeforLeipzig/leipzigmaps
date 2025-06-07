@@ -1,0 +1,218 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=4&rubrik_nr=10&periode=y",
+    "title": "erteilte Wohnberechtigungsscheine"
+  },
+  "data": {
+    "2017": {
+      "erteilte Wohnberechtigungsscheine": [
+        {
+          "value": 530
+        }
+      ],
+      "darunter mit Wohnraum versorgt": [
+        {
+          "value": 288
+        },
+        {
+          "value": 57
+        }
+      ],
+      "erteilte Wohnberechtigungsscheine für Haushalte mit Grundsicherungsleistungen nach dem SGB II oder SGB XII": [
+        {
+          "value": 440
+        }
+      ],
+      "darunter mit Wohraum versorgt": [
+        {
+          "value": 231
+        }
+      ],
+      "erteilte Wohnberechtigungsscheine für Haushalte mit Einkommen ohne Bezug von Grundsicherungsleistungen nach dem SGB II oder SGB XII": [
+        {
+          "value": 90
+        }
+      ]
+    },
+    "2018": {
+      "darunter mit Wohnraum versorgt": [
+        {
+          "value": 68
+        },
+        {
+          "value": 334
+        }
+      ],
+      "erteilte Wohnberechtigungsscheine für Haushalte mit Einkommen ohne Bezug von Grundsicherungsleistungen nach dem SGB II oder SGB XII": [
+        {
+          "value": 118
+        }
+      ],
+      "darunter mit Wohraum versorgt": [
+        {
+          "value": 266
+        }
+      ],
+      "erteilte Wohnberechtigungsscheine für Haushalte mit Grundsicherungsleistungen nach dem SGB II oder SGB XII": [
+        {
+          "value": 500
+        }
+      ],
+      "erteilte Wohnberechtigungsscheine": [
+        {
+          "value": 618
+        }
+      ]
+    },
+    "2019": {
+      "erteilte Wohnberechtigungsscheine": [
+        {
+          "value": 975
+        }
+      ],
+      "darunter mit Wohnraum versorgt": [
+        {
+          "value": 553
+        },
+        {
+          "value": 129
+        }
+      ],
+      "erteilte Wohnberechtigungsscheine für Haushalte mit Grundsicherungsleistungen nach dem SGB II oder SGB XII": [
+        {
+          "value": 763
+        }
+      ],
+      "darunter mit Wohraum versorgt": [
+        {
+          "value": 424
+        }
+      ],
+      "erteilte Wohnberechtigungsscheine für Haushalte mit Einkommen ohne Bezug von Grundsicherungsleistungen nach dem SGB II oder SGB XII": [
+        {
+          "value": 212
+        }
+      ]
+    },
+    "2020": {
+      "darunter mit Wohnraum versorgt": [
+        {
+          "value": 201
+        },
+        {
+          "value": 633
+        }
+      ],
+      "erteilte Wohnberechtigungsscheine für Haushalte mit Einkommen ohne Bezug von Grundsicherungsleistungen nach dem SGB II oder SGB XII": [
+        {
+          "value": 340
+        }
+      ],
+      "darunter mit Wohraum versorgt": [
+        {
+          "value": 432
+        }
+      ],
+      "erteilte Wohnberechtigungsscheine für Haushalte mit Grundsicherungsleistungen nach dem SGB II oder SGB XII": [
+        {
+          "value": 889
+        }
+      ],
+      "erteilte Wohnberechtigungsscheine": [
+        {
+          "value": 1229
+        }
+      ]
+    },
+    "2021": {
+      "erteilte Wohnberechtigungsscheine": [
+        {
+          "value": 1699
+        }
+      ],
+      "darunter mit Wohnraum versorgt": [
+        {
+          "value": 868
+        },
+        {
+          "value": 405
+        }
+      ],
+      "erteilte Wohnberechtigungsscheine für Haushalte mit Grundsicherungsleistungen nach dem SGB II oder SGB XII": [
+        {
+          "value": 1039
+        }
+      ],
+      "darunter mit Wohraum versorgt": [
+        {
+          "value": 463
+        }
+      ],
+      "erteilte Wohnberechtigungsscheine für Haushalte mit Einkommen ohne Bezug von Grundsicherungsleistungen nach dem SGB II oder SGB XII": [
+        {
+          "value": 660
+        }
+      ]
+    },
+    "2022": {
+      "darunter mit Wohraum versorgt": [
+        {
+          "value": 553
+        }
+      ],
+      "erteilte Wohnberechtigungsscheine für Haushalte mit Einkommen ohne Bezug von Grundsicherungsleistungen nach dem SGB II oder SGB XII": [
+        {
+          "value": 916
+        }
+      ],
+      "darunter mit Wohnraum versorgt": [
+        {
+          "value": 381
+        },
+        {
+          "value": 976
+        }
+      ],
+      "erteilte Wohnberechtigungsscheine": [
+        {
+          "value": 2697
+        }
+      ],
+      "erteilte Wohnberechtigungsscheine für Haushalte mit Grundsicherungsleistungen nach dem SGB II oder SGB XII": [
+        {
+          "value": 1781
+        }
+      ]
+    },
+    "2023": {
+      "erteilte Wohnberechtigungsscheine": [
+        {
+          "value": 3555
+        }
+      ],
+      "darunter mit Wohnraum versorgt": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "erteilte Wohnberechtigungsscheine für Haushalte mit Grundsicherungsleistungen nach dem SGB II oder SGB XII": [
+        {
+          "value": 2530
+        }
+      ],
+      "darunter mit Wohraum versorgt": [
+        {
+          "value": null
+        }
+      ],
+      "erteilte Wohnberechtigungsscheine für Haushalte mit Einkommen ohne Bezug von Grundsicherungsleistungen nach dem SGB II oder SGB XII": [
+        {
+          "value": 1025
+        }
+      ]
+    }
+  }
+}

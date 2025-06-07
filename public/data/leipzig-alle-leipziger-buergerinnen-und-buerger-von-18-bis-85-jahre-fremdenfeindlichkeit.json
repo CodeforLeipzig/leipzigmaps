@@ -1,0 +1,3388 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=14&rubrik_nr=10&periode=y",
+    "title": "Alle Leipziger Bürgerinnen und Bürger von 18 bis 85 Jahre__Fremdenfeindlichkeit"
+  },
+  "data": {
+    "2005": {
+      "Fremdenfeindlichkeit": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "ärztliche Versorgung": [
+        {
+          "value": 3.99661
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Arbeits-/Ausbildungsplätze": [
+        {
+          "value": 22.214
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Armut": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Baustellen in der Innenstadt": [
+        {
+          "value": 3.76027
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Finanzsituation/Verschuldung der Stadt": [
+        {
+          "value": 13.3181
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Freizeitangebote für Kinder und Jugendliche": [
+        {
+          "value": 3.0727
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "politischer Extremismus": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Freizeitangebote für Familien": [
+        {
+          "value": 0.428219
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Freizeitangebote für Senioren": [
+        {
+          "value": 0.45248
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Kindertagesstätten": [
+        {
+          "value": 2.2314
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Kriminalität, Sicherheit": [
+        {
+          "value": 9.95262
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Lärmbelastung": [
+        {
+          "value": 2.56691
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Öffentlicher Nahverkehr": [
+        {
+          "value": 0.560875
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Parkplätze": [
+        {
+          "value": 1.27414
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Sauberkeit auf Straßen/Plätzen": [
+        {
+          "value": 4.15268
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Schulen": [
+        {
+          "value": 2.38304
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Straßenbaustellen, Umleitungen": [
+        {
+          "value": 4.57854
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Straßenzustand": [
+        {
+          "value": 5.91211
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Umweltbelastung": [
+        {
+          "value": 2.21151
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Wohnkosten": [
+        {
+          "value": 8.74956
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Wohnungsleerstand": [
+        {
+          "value": 4.41512
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Zusammenleben mit Ausländern": [
+        {
+          "value": 3.76918
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Zustand der Sportanlagen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2010": {
+      "politischer Extremismus": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "ärztliche Versorgung": [
+        {
+          "value": 2.0588
+        },
+        {
+          "value": 2.68408
+        },
+        {
+          "value": 4.31119
+        },
+        {
+          "value": 3.2184
+        }
+      ],
+      "Arbeits-/Ausbildungsplätze": [
+        {
+          "value": 12.319
+        },
+        {
+          "value": 12.1072
+        },
+        {
+          "value": 9.31266
+        },
+        {
+          "value": 11.9019
+        }
+      ],
+      "Armut": [
+        {
+          "value": 7.17802
+        },
+        {
+          "value": 7.68117
+        },
+        {
+          "value": 8.82396
+        },
+        {
+          "value": 8.38788
+        }
+      ],
+      "Baustellen in der Innenstadt": [
+        {
+          "value": 2.75497
+        },
+        {
+          "value": 7.37687
+        },
+        {
+          "value": 3.32564
+        },
+        {
+          "value": 3.80498
+        }
+      ],
+      "Finanzsituation/Verschuldung der Stadt": [
+        {
+          "value": 11.7319
+        },
+        {
+          "value": 9.05112
+        },
+        {
+          "value": 12.5153
+        },
+        {
+          "value": 11.8301
+        }
+      ],
+      "Freizeitangebote für Kinder und Jugendliche": [
+        {
+          "value": 3.68596
+        },
+        {
+          "value": 4.22708
+        },
+        {
+          "value": 1.91986
+        },
+        {
+          "value": 2.4668
+        }
+      ],
+      "Freizeitangebote für Familien": [
+        {
+          "value": 1.61229
+        },
+        {
+          "value": 0.490033
+        },
+        {
+          "value": 0.124418
+        },
+        {
+          "value": 0.478676
+        }
+      ],
+      "Freizeitangebote für Senioren": [
+        {
+          "value": 0.111093
+        },
+        {
+          "value": 0
+        },
+        {
+          "value": 0.923933
+        },
+        {
+          "value": 0.416627
+        }
+      ],
+      "Kindertagesstätten": [
+        {
+          "value": 10.835
+        },
+        {
+          "value": 3.33819
+        },
+        {
+          "value": 2.18062
+        },
+        {
+          "value": 4.28688
+        }
+      ],
+      "Kriminalität, Sicherheit": [
+        {
+          "value": 5.49586
+        },
+        {
+          "value": 6.62996
+        },
+        {
+          "value": 15.2484
+        },
+        {
+          "value": 9.99417
+        }
+      ],
+      "Lärmbelastung": [
+        {
+          "value": 1.85686
+        },
+        {
+          "value": 0.82762
+        },
+        {
+          "value": 3.27365
+        },
+        {
+          "value": 2.46157
+        }
+      ],
+      "Öffentlicher Nahverkehr": [
+        {
+          "value": 0.677869
+        },
+        {
+          "value": 2.70033
+        },
+        {
+          "value": 1.60814
+        },
+        {
+          "value": 1.48381
+        }
+      ],
+      "Parkplätze": [
+        {
+          "value": 2.05645
+        },
+        {
+          "value": 3.94799
+        },
+        {
+          "value": 2.94382
+        },
+        {
+          "value": 3.31482
+        }
+      ],
+      "Sauberkeit auf Straßen/Plätzen": [
+        {
+          "value": 3.67478
+        },
+        {
+          "value": 2.9303
+        },
+        {
+          "value": 7.98845
+        },
+        {
+          "value": 5.23395
+        }
+      ],
+      "Schulen": [
+        {
+          "value": 6.49108
+        },
+        {
+          "value": 3.95177
+        },
+        {
+          "value": 0.750287
+        },
+        {
+          "value": 2.59364
+        }
+      ],
+      "Straßenbaustellen, Umleitungen": [
+        {
+          "value": 5.73306
+        },
+        {
+          "value": 6.04368
+        },
+        {
+          "value": 3.86472
+        },
+        {
+          "value": 5.19809
+        }
+      ],
+      "Straßenzustand": [
+        {
+          "value": 12.5463
+        },
+        {
+          "value": 12.0644
+        },
+        {
+          "value": 10.4224
+        },
+        {
+          "value": 11.779
+        }
+      ],
+      "Umweltbelastung": [
+        {
+          "value": 0.766547
+        },
+        {
+          "value": 1.2969
+        },
+        {
+          "value": 0.835877
+        },
+        {
+          "value": 0.824089
+        }
+      ],
+      "Wohnkosten": [
+        {
+          "value": 3.03291
+        },
+        {
+          "value": 3.75156
+        },
+        {
+          "value": 4.62952
+        },
+        {
+          "value": 4.10748
+        }
+      ],
+      "Wohnungsleerstand": [
+        {
+          "value": 1.01729
+        },
+        {
+          "value": 1.82505
+        },
+        {
+          "value": 2.06825
+        },
+        {
+          "value": 1.8408
+        }
+      ],
+      "Zusammenleben mit Ausländern": [
+        {
+          "value": 3.19147
+        },
+        {
+          "value": 4.62105
+        },
+        {
+          "value": 2.57561
+        },
+        {
+          "value": 3.41617
+        }
+      ],
+      "Zustand der Sportanlagen": [
+        {
+          "value": 1.17253
+        },
+        {
+          "value": 2.45366
+        },
+        {
+          "value": 0.353261
+        },
+        {
+          "value": 0.960174
+        }
+      ],
+      "Fremdenfeindlichkeit": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2011": {
+      "Fremdenfeindlichkeit": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "politischer Extremismus": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Arbeits-/Ausbildungsplätze": [
+        {
+          "value": 8.92145
+        },
+        {
+          "value": 8.09027
+        },
+        {
+          "value": 8.63705
+        },
+        {
+          "value": 6.34203
+        }
+      ],
+      "Finanzsituation/Verschuldung der Stadt": [
+        {
+          "value": 7.77645
+        },
+        {
+          "value": 5.49293
+        },
+        {
+          "value": 7.05744
+        },
+        {
+          "value": 7.36551
+        }
+      ],
+      "Straßenzustand": [
+        {
+          "value": 14.0744
+        },
+        {
+          "value": 16.5373
+        },
+        {
+          "value": 9.37111
+        },
+        {
+          "value": 14.8746
+        }
+      ],
+      "Kriminalität, Sicherheit": [
+        {
+          "value": 14.0093
+        },
+        {
+          "value": 7.66559
+        },
+        {
+          "value": 10.1253
+        },
+        {
+          "value": 20.8104
+        }
+      ],
+      "Armut": [
+        {
+          "value": 8.64039
+        },
+        {
+          "value": 5.49323
+        },
+        {
+          "value": 6.96887
+        },
+        {
+          "value": 9.39246
+        }
+      ],
+      "Sauberkeit auf Straßen/Plätzen": [
+        {
+          "value": 4.93979
+        },
+        {
+          "value": 3.30745
+        },
+        {
+          "value": 2.61235
+        },
+        {
+          "value": 8.67774
+        }
+      ],
+      "Straßenbaustellen, Umleitungen": [
+        {
+          "value": 5.20091
+        },
+        {
+          "value": 8.35962
+        },
+        {
+          "value": 5.13199
+        },
+        {
+          "value": 4.20829
+        }
+      ],
+      "Kindertagesstätten": [
+        {
+          "value": 5.28058
+        },
+        {
+          "value": 5.75101
+        },
+        {
+          "value": 13.7927
+        },
+        {
+          "value": 1.59959
+        }
+      ],
+      "Wohnkosten": [
+        {
+          "value": 4.07826
+        },
+        {
+          "value": 3.67025
+        },
+        {
+          "value": 4.06232
+        },
+        {
+          "value": 4.70073
+        }
+      ],
+      "Baustellen in der Innenstadt": [
+        {
+          "value": 4.1262
+        },
+        {
+          "value": 6.00192
+        },
+        {
+          "value": 2.76475
+        },
+        {
+          "value": 3.106
+        }
+      ],
+      "Zusammenleben mit Ausländern": [
+        {
+          "value": 1.84613
+        },
+        {
+          "value": 4.96435
+        },
+        {
+          "value": 1.75275
+        },
+        {
+          "value": 1.04953
+        }
+      ],
+      "Parkplätze": [
+        {
+          "value": 4.00196
+        },
+        {
+          "value": 7.58626
+        },
+        {
+          "value": 2.84916
+        },
+        {
+          "value": 3.43516
+        }
+      ],
+      "ärztliche Versorgung": [
+        {
+          "value": 2.75523
+        },
+        {
+          "value": 1.29933
+        },
+        {
+          "value": 3.45178
+        },
+        {
+          "value": 3.61614
+        }
+      ],
+      "Schulen": [
+        {
+          "value": 3.42576
+        },
+        {
+          "value": 2.75685
+        },
+        {
+          "value": 9.78755
+        },
+        {
+          "value": 1.01153
+        }
+      ],
+      "Freizeitangebote für Kinder und Jugendliche": [
+        {
+          "value": 2.47519
+        },
+        {
+          "value": 3.63423
+        },
+        {
+          "value": 4.01948
+        },
+        {
+          "value": 1.08536
+        }
+      ],
+      "Lärmbelastung": [
+        {
+          "value": 2.76608
+        },
+        {
+          "value": 1.87059
+        },
+        {
+          "value": 2.29947
+        },
+        {
+          "value": 3.27148
+        }
+      ],
+      "Wohnungsleerstand": [
+        {
+          "value": 1.78806
+        },
+        {
+          "value": 2.2559
+        },
+        {
+          "value": 1.26841
+        },
+        {
+          "value": 1.69111
+        }
+      ],
+      "Öffentlicher Nahverkehr": [
+        {
+          "value": 1.46669
+        },
+        {
+          "value": 2.18749
+        },
+        {
+          "value": 0.603686
+        },
+        {
+          "value": 1.51808
+        }
+      ],
+      "Zustand der Sportanlagen": [
+        {
+          "value": 0.681348
+        },
+        {
+          "value": 0.898557
+        },
+        {
+          "value": 1.27837
+        },
+        {
+          "value": 0.0796772
+        }
+      ],
+      "Umweltbelastung": [
+        {
+          "value": 0.796996
+        },
+        {
+          "value": 1.42066
+        },
+        {
+          "value": 0.463228
+        },
+        {
+          "value": 1.03372
+        }
+      ],
+      "Freizeitangebote für Familien": [
+        {
+          "value": 0.522738
+        },
+        {
+          "value": 0.384818
+        },
+        {
+          "value": 1.70221
+        },
+        {
+          "value": 0.12716
+        }
+      ],
+      "Freizeitangebote für Senioren": [
+        {
+          "value": 0.426063
+        },
+        {
+          "value": 0.371443
+        },
+        {
+          "value": 0
+        },
+        {
+          "value": 1.00374
+        }
+      ]
+    },
+    "2013": {
+      "politischer Extremismus": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Kindertagesstätten": [
+        {
+          "value": 12.4303
+        },
+        {
+          "value": 5.65251
+        },
+        {
+          "value": 5.41027
+        },
+        {
+          "value": 2.32636
+        }
+      ],
+      "Straßenzustand": [
+        {
+          "value": 12.971
+        },
+        {
+          "value": 10.956
+        },
+        {
+          "value": 11.5378
+        },
+        {
+          "value": 14.291
+        }
+      ],
+      "Kriminalität, Sicherheit": [
+        {
+          "value": 15.9427
+        },
+        {
+          "value": 14.3104
+        },
+        {
+          "value": 11.3118
+        },
+        {
+          "value": 22.7552
+        }
+      ],
+      "Arbeits-/Ausbildungsplätze": [
+        {
+          "value": 5.88374
+        },
+        {
+          "value": 7.86215
+        },
+        {
+          "value": 6.42331
+        },
+        {
+          "value": 3.77464
+        }
+      ],
+      "Armut": [
+        {
+          "value": 8.06265
+        },
+        {
+          "value": 7.62062
+        },
+        {
+          "value": 7.46751
+        },
+        {
+          "value": 6.15722
+        }
+      ],
+      "Finanzsituation/Verschuldung der Stadt": [
+        {
+          "value": 6.23361
+        },
+        {
+          "value": 4.25731
+        },
+        {
+          "value": 6.70713
+        },
+        {
+          "value": 6.99526
+        }
+      ],
+      "Straßenbaustellen, Umleitungen": [
+        {
+          "value": 5.77103
+        },
+        {
+          "value": 3.28721
+        },
+        {
+          "value": 4.14359
+        },
+        {
+          "value": 5.81325
+        }
+      ],
+      "Sauberkeit auf Straßen/Plätzen": [
+        {
+          "value": 4.97916
+        },
+        {
+          "value": 3.54115
+        },
+        {
+          "value": 2.96524
+        },
+        {
+          "value": 8.6706
+        }
+      ],
+      "Baustellen in der Innenstadt": [
+        {
+          "value": 4.33851
+        },
+        {
+          "value": 5.02766
+        },
+        {
+          "value": 4.40305
+        },
+        {
+          "value": 3.79695
+        }
+      ],
+      "Wohnkosten": [
+        {
+          "value": 4.90401
+        },
+        {
+          "value": 7.62481
+        },
+        {
+          "value": 5.61552
+        },
+        {
+          "value": 3.97298
+        }
+      ],
+      "Parkplätze": [
+        {
+          "value": 3.86167
+        },
+        {
+          "value": 2.91831
+        },
+        {
+          "value": 2.96241
+        },
+        {
+          "value": 2.92169
+        }
+      ],
+      "Schulen": [
+        {
+          "value": 3.03291
+        },
+        {
+          "value": 2.88234
+        },
+        {
+          "value": 7.65084
+        },
+        {
+          "value": 1.23046
+        }
+      ],
+      "Lärmbelastung": [
+        {
+          "value": 2.59101
+        },
+        {
+          "value": 2.86015
+        },
+        {
+          "value": 1.39995
+        },
+        {
+          "value": 3.22371
+        }
+      ],
+      "ärztliche Versorgung": [
+        {
+          "value": 3.07701
+        },
+        {
+          "value": 3.26856
+        },
+        {
+          "value": 1.65541
+        },
+        {
+          "value": 4.15278
+        }
+      ],
+      "Freizeitangebote für Kinder und Jugendliche": [
+        {
+          "value": 2.67983
+        },
+        {
+          "value": 2.3616
+        },
+        {
+          "value": 4.30258
+        },
+        {
+          "value": 1.62547
+        }
+      ],
+      "Zusammenleben mit Ausländern": [
+        {
+          "value": 3.99237
+        },
+        {
+          "value": 9.08342
+        },
+        {
+          "value": 3.60776
+        },
+        {
+          "value": 2.70782
+        }
+      ],
+      "Wohnungsleerstand": [
+        {
+          "value": 1.31366
+        },
+        {
+          "value": 2.09313
+        },
+        {
+          "value": 0.363601
+        },
+        {
+          "value": 1.55571
+        }
+      ],
+      "Öffentlicher Nahverkehr": [
+        {
+          "value": 1.65719
+        },
+        {
+          "value": 3.13017
+        },
+        {
+          "value": 1.1641
+        },
+        {
+          "value": 1.17865
+        }
+      ],
+      "Umweltbelastung": [
+        {
+          "value": 1.26901
+        },
+        {
+          "value": 1.05207
+        },
+        {
+          "value": 0.763525
+        },
+        {
+          "value": 1.51023
+        }
+      ],
+      "Zustand der Sportanlagen": [
+        {
+          "value": 1.08741
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 2.16803
+        },
+        {
+          "value": 0.331776
+        }
+      ],
+      "Freizeitangebote für Familien": [
+        {
+          "value": 0.257134
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 0.770237
+        },
+        {
+          "value": 0.126153
+        }
+      ],
+      "Freizeitangebote für Senioren": [
+        {
+          "value": 0.441872
+        },
+        {
+          "value": 0.186344
+        },
+        {
+          "value": 0.88205
+        },
+        {
+          "value": 0.45268
+        }
+      ],
+      "Fremdenfeindlichkeit": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2014": {
+      "Fremdenfeindlichkeit": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Arbeits-/Ausbildungsplätze": [
+        {
+          "value": 4.02381
+        },
+        {
+          "value": 4.79827
+        },
+        {
+          "value": 4.00295
+        },
+        {
+          "value": 2.97737
+        }
+      ],
+      "Armut": [
+        {
+          "value": 6.1026
+        },
+        {
+          "value": 6.11771
+        },
+        {
+          "value": 4.81109
+        },
+        {
+          "value": 6.16825
+        }
+      ],
+      "Finanzsituation/Verschuldung der Stadt": [
+        {
+          "value": 5.60348
+        },
+        {
+          "value": 6.19771
+        },
+        {
+          "value": 5.01701
+        },
+        {
+          "value": 6.53209
+        }
+      ],
+      "Kindertagesstätten": [
+        {
+          "value": 7.42604
+        },
+        {
+          "value": 8.38945
+        },
+        {
+          "value": 11.8178
+        },
+        {
+          "value": 4.37384
+        }
+      ],
+      "Straßenbaustellen, Umleitungen": [
+        {
+          "value": 6.50906
+        },
+        {
+          "value": 7.86462
+        },
+        {
+          "value": 5.33175
+        },
+        {
+          "value": 6.34847
+        }
+      ],
+      "Sauberkeit auf Straßen/Plätzen": [
+        {
+          "value": 5.11464
+        },
+        {
+          "value": 3.39038
+        },
+        {
+          "value": 3.17731
+        },
+        {
+          "value": 7.83501
+        }
+      ],
+      "Baustellen in der Innenstadt": [
+        {
+          "value": 3.90076
+        },
+        {
+          "value": 4.86224
+        },
+        {
+          "value": 3.16275
+        },
+        {
+          "value": 2.80128
+        }
+      ],
+      "Wohnkosten": [
+        {
+          "value": 3.87054
+        },
+        {
+          "value": 4.84046
+        },
+        {
+          "value": 4.06361
+        },
+        {
+          "value": 2.90858
+        }
+      ],
+      "Parkplätze": [
+        {
+          "value": 6.06171
+        },
+        {
+          "value": 5.78029
+        },
+        {
+          "value": 5.08251
+        },
+        {
+          "value": 6.00807
+        }
+      ],
+      "Schulen": [
+        {
+          "value": 5.65888
+        },
+        {
+          "value": 7.00026
+        },
+        {
+          "value": 12.1979
+        },
+        {
+          "value": 3.46217
+        }
+      ],
+      "Lärmbelastung": [
+        {
+          "value": 3.07761
+        },
+        {
+          "value": 2.52188
+        },
+        {
+          "value": 1.78375
+        },
+        {
+          "value": 3.58513
+        }
+      ],
+      "ärztliche Versorgung": [
+        {
+          "value": 3.35644
+        },
+        {
+          "value": 2.4736
+        },
+        {
+          "value": 2.48321
+        },
+        {
+          "value": 3.97617
+        }
+      ],
+      "Freizeitangebote für Kinder und Jugendliche": [
+        {
+          "value": 2.65179
+        },
+        {
+          "value": 1.47806
+        },
+        {
+          "value": 3.61607
+        },
+        {
+          "value": 2.62994
+        }
+      ],
+      "Zusammenleben mit Ausländern": [
+        {
+          "value": 5.29672
+        },
+        {
+          "value": 4.12093
+        },
+        {
+          "value": 4.78212
+        },
+        {
+          "value": 5.6599
+        }
+      ],
+      "Wohnungsleerstand": [
+        {
+          "value": 1.94977
+        },
+        {
+          "value": 2.06207
+        },
+        {
+          "value": 1.56675
+        },
+        {
+          "value": 2.11969
+        }
+      ],
+      "Öffentlicher Nahverkehr": [
+        {
+          "value": 2.46288
+        },
+        {
+          "value": 3.44108
+        },
+        {
+          "value": 1.64955
+        },
+        {
+          "value": 2.70329
+        }
+      ],
+      "Umweltbelastung": [
+        {
+          "value": 1.6606
+        },
+        {
+          "value": 2.75408
+        },
+        {
+          "value": 1.39363
+        },
+        {
+          "value": 1.67732
+        }
+      ],
+      "Zustand der Sportanlagen": [
+        {
+          "value": 1.21618
+        },
+        {
+          "value": 0.728858
+        },
+        {
+          "value": 2.07513
+        },
+        {
+          "value": 1.03612
+        }
+      ],
+      "Freizeitangebote für Familien": [
+        {
+          "value": 0.939579
+        },
+        {
+          "value": 0.758071
+        },
+        {
+          "value": 2.27039
+        },
+        {
+          "value": 0.192021
+        }
+      ],
+      "Freizeitangebote für Senioren": [
+        {
+          "value": 0.784463
+        },
+        {
+          "value": 0.303501
+        },
+        {
+          "value": 0.797749
+        },
+        {
+          "value": 0.977421
+        }
+      ],
+      "Straßenzustand": [
+        {
+          "value": 10.7366
+        },
+        {
+          "value": 8.06834
+        },
+        {
+          "value": 10.0168
+        },
+        {
+          "value": 10.023
+        }
+      ],
+      "Kriminalität, Sicherheit": [
+        {
+          "value": 9.37986
+        },
+        {
+          "value": 10.8486
+        },
+        {
+          "value": 16.011
+        },
+        {
+          "value": 12.3095
+        }
+      ],
+      "politischer Extremismus": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2015": {
+      "politischer Extremismus": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Öffentlicher Nahverkehr": [
+        {
+          "value": 7
+        },
+        {
+          "value": 7
+        },
+        {
+          "value": 8
+        },
+        {
+          "value": 11
+        }
+      ],
+      "Parkplätze": [
+        {
+          "value": 13
+        },
+        {
+          "value": 16
+        },
+        {
+          "value": 17
+        },
+        {
+          "value": 14
+        }
+      ],
+      "Sauberkeit auf Straßen/Plätzen": [
+        {
+          "value": 11
+        },
+        {
+          "value": 21
+        },
+        {
+          "value": 14
+        },
+        {
+          "value": 9
+        }
+      ],
+      "Schulen": [
+        {
+          "value": 25
+        },
+        {
+          "value": 7
+        },
+        {
+          "value": 14
+        },
+        {
+          "value": 18
+        }
+      ],
+      "Straßenbaustellen, Umleitungen": [
+        {
+          "value": 10
+        },
+        {
+          "value": 11
+        },
+        {
+          "value": 12
+        },
+        {
+          "value": 21
+        }
+      ],
+      "Straßenzustand": [
+        {
+          "value": 22
+        },
+        {
+          "value": 33
+        },
+        {
+          "value": 29
+        },
+        {
+          "value": 25
+        }
+      ],
+      "Umweltbelastung": [
+        {
+          "value": 5
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 3
+        }
+      ],
+      "Wohnkosten": [
+        {
+          "value": 21
+        },
+        {
+          "value": 12
+        },
+        {
+          "value": 18
+        },
+        {
+          "value": 21
+        }
+      ],
+      "Wohnungsleerstand": [
+        {
+          "value": 3
+        },
+        {
+          "value": 0
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 6
+        }
+      ],
+      "Zusammenleben mit Ausländern": [
+        {
+          "value": 24
+        },
+        {
+          "value": 20
+        },
+        {
+          "value": 24
+        },
+        {
+          "value": 21
+        }
+      ],
+      "Zustand der Sportanlagen": [
+        {
+          "value": 1
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 1
+        }
+      ],
+      "ärztliche Versorgung": [
+        {
+          "value": 12
+        },
+        {
+          "value": 9
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 10
+        }
+      ],
+      "Arbeits-/Ausbildungsplätze": [
+        {
+          "value": 5
+        },
+        {
+          "value": 12
+        },
+        {
+          "value": 20
+        },
+        {
+          "value": 14
+        }
+      ],
+      "Armut": [
+        {
+          "value": 20
+        },
+        {
+          "value": 18
+        },
+        {
+          "value": 12
+        },
+        {
+          "value": 17
+        }
+      ],
+      "Baustellen in der Innenstadt": [
+        {
+          "value": 7
+        },
+        {
+          "value": 8
+        },
+        {
+          "value": 13
+        },
+        {
+          "value": 1
+        }
+      ],
+      "Finanzsituation/Verschuldung der Stadt": [
+        {
+          "value": 16
+        },
+        {
+          "value": 13
+        },
+        {
+          "value": 7
+        },
+        {
+          "value": 10
+        }
+      ],
+      "Freizeitangebote für Kinder und Jugendliche": [
+        {
+          "value": 8
+        },
+        {
+          "value": 9
+        },
+        {
+          "value": 12
+        },
+        {
+          "value": 16
+        }
+      ],
+      "Freizeitangebote für Familien": [
+        {
+          "value": 0
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 0
+        },
+        {
+          "value": 10
+        }
+      ],
+      "Freizeitangebote für Senioren": [
+        {
+          "value": 6
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 0
+        },
+        {
+          "value": 0
+        }
+      ],
+      "Kindertagesstätten": [
+        {
+          "value": 8
+        },
+        {
+          "value": 18
+        },
+        {
+          "value": 12
+        },
+        {
+          "value": 45
+        }
+      ],
+      "Kriminalität, Sicherheit": [
+        {
+          "value": 69
+        },
+        {
+          "value": 49
+        },
+        {
+          "value": 38
+        },
+        {
+          "value": 31
+        }
+      ],
+      "Lärmbelastung": [
+        {
+          "value": 8
+        },
+        {
+          "value": 7
+        },
+        {
+          "value": 14
+        },
+        {
+          "value": 4
+        }
+      ],
+      "Fremdenfeindlichkeit": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2016": {
+      "ärztliche Versorgung": [
+        {
+          "value": 11
+        },
+        {
+          "value": 7
+        },
+        {
+          "value": 10
+        },
+        {
+          "value": 12
+        }
+      ],
+      "Arbeits-/Ausbildungsplätze": [
+        {
+          "value": 9
+        },
+        {
+          "value": 12
+        },
+        {
+          "value": 10
+        },
+        {
+          "value": 6
+        }
+      ],
+      "Armut": [
+        {
+          "value": 16
+        },
+        {
+          "value": 12
+        },
+        {
+          "value": 8
+        },
+        {
+          "value": 18
+        }
+      ],
+      "Baustellen in der Innenstadt": [
+        {
+          "value": 13
+        },
+        {
+          "value": 18
+        },
+        {
+          "value": 13
+        },
+        {
+          "value": 14
+        }
+      ],
+      "Finanzsituation/Verschuldung der Stadt": [
+        {
+          "value": 7
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 7
+        },
+        {
+          "value": 7
+        }
+      ],
+      "Freizeitangebote für Kinder und Jugendliche": [
+        {
+          "value": 5
+        },
+        {
+          "value": 6
+        },
+        {
+          "value": 6
+        },
+        {
+          "value": 3
+        }
+      ],
+      "Freizeitangebote für Familien": [
+        {
+          "value": 1
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 0
+        }
+      ],
+      "Freizeitangebote für Senioren": [
+        {
+          "value": 1
+        },
+        {
+          "value": 0
+        },
+        {
+          "value": 0
+        },
+        {
+          "value": 4
+        }
+      ],
+      "Kindertagesstätten": [
+        {
+          "value": 15
+        },
+        {
+          "value": 8
+        },
+        {
+          "value": 36
+        },
+        {
+          "value": 5
+        }
+      ],
+      "Kriminalität, Sicherheit": [
+        {
+          "value": 48
+        },
+        {
+          "value": 26
+        },
+        {
+          "value": 33
+        },
+        {
+          "value": 68
+        }
+      ],
+      "Lärmbelastung": [
+        {
+          "value": 7
+        },
+        {
+          "value": 7
+        },
+        {
+          "value": 6
+        },
+        {
+          "value": 8
+        }
+      ],
+      "Öffentlicher Nahverkehr": [
+        {
+          "value": 11
+        },
+        {
+          "value": 17
+        },
+        {
+          "value": 6
+        },
+        {
+          "value": 11
+        }
+      ],
+      "Parkplätze": [
+        {
+          "value": 20
+        },
+        {
+          "value": 15
+        },
+        {
+          "value": 18
+        },
+        {
+          "value": 20
+        }
+      ],
+      "Sauberkeit auf Straßen/Plätzen": [
+        {
+          "value": 16
+        },
+        {
+          "value": 17
+        },
+        {
+          "value": 9
+        },
+        {
+          "value": 23
+        }
+      ],
+      "Schulen": [
+        {
+          "value": 15
+        },
+        {
+          "value": 17
+        },
+        {
+          "value": 36
+        },
+        {
+          "value": 8
+        }
+      ],
+      "Straßenbaustellen, Umleitungen": [
+        {
+          "value": 21
+        },
+        {
+          "value": 23
+        },
+        {
+          "value": 26
+        },
+        {
+          "value": 18
+        }
+      ],
+      "Straßenzustand": [
+        {
+          "value": 24
+        },
+        {
+          "value": 28
+        },
+        {
+          "value": 16
+        },
+        {
+          "value": 28
+        }
+      ],
+      "Umweltbelastung": [
+        {
+          "value": 4
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 4
+        }
+      ],
+      "Wohnkosten": [
+        {
+          "value": 21
+        },
+        {
+          "value": 24
+        },
+        {
+          "value": 27
+        },
+        {
+          "value": 14
+        }
+      ],
+      "Wohnungsleerstand": [
+        {
+          "value": 2
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 0
+        },
+        {
+          "value": 2
+        }
+      ],
+      "Zusammenleben mit Ausländern": [
+        {
+          "value": 14
+        },
+        {
+          "value": 12
+        },
+        {
+          "value": 13
+        },
+        {
+          "value": 13
+        }
+      ],
+      "Zustand der Sportanlagen": [
+        {
+          "value": 4
+        },
+        {
+          "value": 6
+        },
+        {
+          "value": 6
+        },
+        {
+          "value": 2
+        }
+      ],
+      "Fremdenfeindlichkeit": [
+        {
+          "value": 18
+        },
+        {
+          "value": 37
+        },
+        {
+          "value": 16
+        },
+        {
+          "value": 12
+        }
+      ],
+      "politischer Extremismus": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2017": {
+      "politischer Extremismus": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "ärztliche Versorgung": [
+        {
+          "value": 3
+        },
+        {
+          "value": 11
+        },
+        {
+          "value": 12
+        },
+        {
+          "value": 14
+        }
+      ],
+      "Arbeits-/Ausbildungsplätze": [
+        {
+          "value": 6
+        },
+        {
+          "value": 7
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 3
+        }
+      ],
+      "Armut": [
+        {
+          "value": 17
+        },
+        {
+          "value": 16
+        },
+        {
+          "value": 9
+        },
+        {
+          "value": 22
+        }
+      ],
+      "Baustellen in der Innenstadt": [
+        {
+          "value": 7
+        },
+        {
+          "value": 11
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 6
+        }
+      ],
+      "Finanzsituation/Verschuldung der Stadt": [
+        {
+          "value": 5
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 7
+        }
+      ],
+      "Freizeitangebote für Kinder und Jugendliche": [
+        {
+          "value": 4
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 4
+        }
+      ],
+      "Freizeitangebote für Familien": [
+        {
+          "value": 1
+        },
+        {
+          "value": 0
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 0
+        }
+      ],
+      "Freizeitangebote für Senioren": [
+        {
+          "value": 2
+        },
+        {
+          "value": 0
+        },
+        {
+          "value": 0
+        },
+        {
+          "value": 4
+        }
+      ],
+      "Kindertagesstätten": [
+        {
+          "value": 21
+        },
+        {
+          "value": 11
+        },
+        {
+          "value": 46
+        },
+        {
+          "value": 10
+        }
+      ],
+      "Kriminalität, Sicherheit": [
+        {
+          "value": 50
+        },
+        {
+          "value": 33
+        },
+        {
+          "value": 39
+        },
+        {
+          "value": 69
+        }
+      ],
+      "Lärmbelastung": [
+        {
+          "value": 7
+        },
+        {
+          "value": 7
+        },
+        {
+          "value": 7
+        },
+        {
+          "value": 9
+        }
+      ],
+      "Öffentlicher Nahverkehr": [
+        {
+          "value": 12
+        },
+        {
+          "value": 22
+        },
+        {
+          "value": 6
+        },
+        {
+          "value": 13
+        }
+      ],
+      "Parkplätze": [
+        {
+          "value": 20
+        },
+        {
+          "value": 20
+        },
+        {
+          "value": 18
+        },
+        {
+          "value": 16
+        }
+      ],
+      "Sauberkeit auf Straßen/Plätzen": [
+        {
+          "value": 17
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 12
+        },
+        {
+          "value": 27
+        }
+      ],
+      "Schulen": [
+        {
+          "value": 12
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 34
+        },
+        {
+          "value": 8
+        }
+      ],
+      "Straßenbaustellen, Umleitungen": [
+        {
+          "value": 15
+        },
+        {
+          "value": 19
+        },
+        {
+          "value": 12
+        },
+        {
+          "value": 14
+        }
+      ],
+      "Straßenzustand": [
+        {
+          "value": 26
+        },
+        {
+          "value": 31
+        },
+        {
+          "value": 21
+        },
+        {
+          "value": 29
+        }
+      ],
+      "Umweltbelastung": [
+        {
+          "value": 8
+        },
+        {
+          "value": 17
+        },
+        {
+          "value": 8
+        },
+        {
+          "value": 7
+        }
+      ],
+      "Wohnkosten": [
+        {
+          "value": 28
+        },
+        {
+          "value": 23
+        },
+        {
+          "value": 39
+        },
+        {
+          "value": 18
+        }
+      ],
+      "Wohnungsleerstand": [
+        {
+          "value": 1
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 0
+        },
+        {
+          "value": 1
+        }
+      ],
+      "Zusammenleben mit Ausländern": [
+        {
+          "value": 15
+        },
+        {
+          "value": 10
+        },
+        {
+          "value": 13
+        },
+        {
+          "value": 17
+        }
+      ],
+      "Zustand der Sportanlagen": [
+        {
+          "value": 2
+        },
+        {
+          "value": 0
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 2
+        }
+      ],
+      "Fremdenfeindlichkeit": [
+        {
+          "value": 16
+        },
+        {
+          "value": 23
+        },
+        {
+          "value": 11
+        },
+        {
+          "value": 10
+        }
+      ]
+    },
+    "2018": {
+      "Zustand der Sportanlagen": [
+        {
+          "value": 3
+        },
+        {
+          "value": 9
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 2
+        }
+      ],
+      "Fremdenfeindlichkeit": [
+        {
+          "value": 14
+        },
+        {
+          "value": 14
+        },
+        {
+          "value": 12
+        },
+        {
+          "value": 11
+        }
+      ],
+      "politischer Extremismus": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "ärztliche Versorgung": [
+        {
+          "value": 11
+        },
+        {
+          "value": 11
+        },
+        {
+          "value": 13
+        },
+        {
+          "value": 12
+        }
+      ],
+      "Arbeits-/Ausbildungsplätze": [
+        {
+          "value": 2
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 4
+        }
+      ],
+      "Armut": [
+        {
+          "value": 10
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 24
+        },
+        {
+          "value": 17
+        }
+      ],
+      "Baustellen in der Innenstadt": [
+        {
+          "value": 12
+        },
+        {
+          "value": 6
+        },
+        {
+          "value": 9
+        },
+        {
+          "value": 9
+        }
+      ],
+      "Finanzsituation/Verschuldung der Stadt": [
+        {
+          "value": 0
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 3
+        }
+      ],
+      "Freizeitangebote für Kinder und Jugendliche": [
+        {
+          "value": 5
+        },
+        {
+          "value": 12
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 4
+        }
+      ],
+      "Freizeitangebote für Familien": [
+        {
+          "value": 1
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 0
+        },
+        {
+          "value": 1
+        }
+      ],
+      "Freizeitangebote für Senioren": [
+        {
+          "value": 1
+        },
+        {
+          "value": 0
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 2
+        }
+      ],
+      "Kindertagesstätten": [
+        {
+          "value": 21
+        },
+        {
+          "value": 47
+        },
+        {
+          "value": 9
+        },
+        {
+          "value": 20
+        }
+      ],
+      "Kriminalität, Sicherheit": [
+        {
+          "value": 21
+        },
+        {
+          "value": 32
+        },
+        {
+          "value": 60
+        },
+        {
+          "value": 42
+        }
+      ],
+      "Lärmbelastung": [
+        {
+          "value": 8
+        },
+        {
+          "value": 7
+        },
+        {
+          "value": 9
+        },
+        {
+          "value": 8
+        }
+      ],
+      "Öffentlicher Nahverkehr": [
+        {
+          "value": 27
+        },
+        {
+          "value": 17
+        },
+        {
+          "value": 16
+        },
+        {
+          "value": 19
+        }
+      ],
+      "Parkplätze": [
+        {
+          "value": 18
+        },
+        {
+          "value": 16
+        },
+        {
+          "value": 21
+        },
+        {
+          "value": 20
+        }
+      ],
+      "Sauberkeit auf Straßen/Plätzen": [
+        {
+          "value": 22
+        },
+        {
+          "value": 15
+        },
+        {
+          "value": 25
+        },
+        {
+          "value": 17
+        }
+      ],
+      "Schulen": [
+        {
+          "value": 9
+        },
+        {
+          "value": 31
+        },
+        {
+          "value": 9
+        },
+        {
+          "value": 13
+        }
+      ],
+      "Straßenbaustellen, Umleitungen": [
+        {
+          "value": 22
+        },
+        {
+          "value": 10
+        },
+        {
+          "value": 16
+        },
+        {
+          "value": 16
+        }
+      ],
+      "Straßenzustand": [
+        {
+          "value": 25
+        },
+        {
+          "value": 8
+        },
+        {
+          "value": 23
+        },
+        {
+          "value": 19
+        }
+      ],
+      "Umweltbelastung": [
+        {
+          "value": 15
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 7
+        }
+      ],
+      "Wohnkosten": [
+        {
+          "value": 35
+        },
+        {
+          "value": 43
+        },
+        {
+          "value": 25
+        },
+        {
+          "value": 37
+        }
+      ],
+      "Wohnungsleerstand": [
+        {
+          "value": 1
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 1
+        }
+      ],
+      "Zusammenleben mit Ausländern": [
+        {
+          "value": 10
+        },
+        {
+          "value": 17
+        },
+        {
+          "value": 17
+        },
+        {
+          "value": 16
+        }
+      ]
+    },
+    "2019": {
+      "ärztliche Versorgung": [
+        {
+          "value": 15
+        },
+        {
+          "value": 16
+        },
+        {
+          "value": 13
+        },
+        {
+          "value": 15
+        }
+      ],
+      "Arbeits-/Ausbildungsplätze": [
+        {
+          "value": 5
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 2
+        }
+      ],
+      "Armut": [
+        {
+          "value": 13
+        },
+        {
+          "value": 10
+        },
+        {
+          "value": 7
+        },
+        {
+          "value": 18
+        }
+      ],
+      "Baustellen in der Innenstadt": [
+        {
+          "value": 12
+        },
+        {
+          "value": 15
+        },
+        {
+          "value": 10
+        },
+        {
+          "value": 11
+        }
+      ],
+      "Finanzsituation/Verschuldung der Stadt": [
+        {
+          "value": 1
+        },
+        {
+          "value": 0
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 1
+        }
+      ],
+      "Freizeitangebote für Kinder und Jugendliche": [
+        {
+          "value": 3
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 2
+        }
+      ],
+      "Freizeitangebote für Familien": [
+        {
+          "value": 2
+        },
+        {
+          "value": 0
+        },
+        {
+          "value": 4
+        },
+        {
+          "value": 1
+        }
+      ],
+      "Freizeitangebote für Senioren": [
+        {
+          "value": 3
+        },
+        {
+          "value": 2
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 6
+        }
+      ],
+      "Kindertagesstätten": [
+        {
+          "value": 18
+        },
+        {
+          "value": 14
+        },
+        {
+          "value": 41
+        },
+        {
+          "value": 7
+        }
+      ],
+      "Kriminalität, Sicherheit": [
+        {
+          "value": 37
+        },
+        {
+          "value": 15
+        },
+        {
+          "value": 27
+        },
+        {
+          "value": 50
+        }
+      ],
+      "Lärmbelastung": [
+        {
+          "value": 9
+        },
+        {
+          "value": 5
+        },
+        {
+          "value": 9
+        },
+        {
+          "value": 10
+        }
+      ],
+      "Öffentlicher Nahverkehr": [
+        {
+          "value": 21
+        },
+        {
+          "value": 30
+        },
+        {
+          "value": 21
+        },
+        {
+          "value": 14
+        }
+      ],
+      "Parkplätze": [
+        {
+          "value": 20
+        },
+        {
+          "value": 22
+        },
+        {
+          "value": 17
+        },
+        {
+          "value": 21
+        }
+      ],
+      "Sauberkeit auf Straßen/Plätzen": [
+        {
+          "value": 17
+        },
+        {
+          "value": 11
+        },
+        {
+          "value": 12
+        },
+        {
+          "value": 27
+        }
+      ],
+      "Schulen": [
+        {
+          "value": 10
+        },
+        {
+          "value": 6
+        },
+        {
+          "value": 25
+        },
+        {
+          "value": 4
+        }
+      ],
+      "Straßenbaustellen, Umleitungen": [
+        {
+          "value": 17
+        },
+        {
+          "value": 18
+        },
+        {
+          "value": 11
+        },
+        {
+          "value": 21
+        }
+      ],
+      "Straßenzustand": [
+        {
+          "value": 18
+        },
+        {
+          "value": 13
+        },
+        {
+          "value": 10
+        },
+        {
+          "value": 20
+        }
+      ],
+      "Umweltbelastung": [
+        {
+          "value": 11
+        },
+        {
+          "value": 25
+        },
+        {
+          "value": 14
+        },
+        {
+          "value": 5
+        }
+      ],
+      "Wohnkosten": [
+        {
+          "value": 34
+        },
+        {
+          "value": 32
+        },
+        {
+          "value": 47
+        },
+        {
+          "value": 21
+        }
+      ],
+      "Wohnungsleerstand": [
+        {
+          "value": 2
+        },
+        {
+          "value": 8
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 0
+        }
+      ],
+      "Zusammenleben mit Ausländern": [
+        {
+          "value": 10
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 7
+        },
+        {
+          "value": 13
+        }
+      ],
+      "Zustand der Sportanlagen": [
+        {
+          "value": 2
+        },
+        {
+          "value": 1
+        },
+        {
+          "value": 3
+        },
+        {
+          "value": 2
+        }
+      ],
+      "Fremdenfeindlichkeit": [
+        {
+          "value": 14
+        },
+        {
+          "value": 30
+        },
+        {
+          "value": 11
+        },
+        {
+          "value": 8
+        }
+      ],
+      "politischer Extremismus": [
+        {
+          "value": 16
+        },
+        {
+          "value": 7
+        },
+        {
+          "value": 12
+        },
+        {
+          "value": 19
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,5098 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/kdvalues?format=json&kategorie_nr=4&rubrik_nr=11&periode=y",
+    "title": "Zukunftsaussicht"
+  },
+  "data": {
+    "2015": {
+      "Zukunftsaussicht": [
+        {
+          "value": 1,
+          "district": "Zentrum"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Südost"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-Süd"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-West"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-Nordwest"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Abtnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Thekla"
+        },
+        {
+          "value": 2,
+          "district": "Plaußig-Portitz"
+        },
+        {
+          "value": 2,
+          "district": "Neustadt-Neuschönefeld"
+        },
+        {
+          "value": 2,
+          "district": "Volkmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Anger-Crottendorf"
+        },
+        {
+          "value": 2,
+          "district": "Sellerhausen-Stünz"
+        },
+        {
+          "value": 2,
+          "district": "Paunsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Heiterblick"
+        },
+        {
+          "value": 2,
+          "district": "Mölkau"
+        },
+        {
+          "value": 2,
+          "district": "Engelsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Baalsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Althen-Kleinpösna"
+        },
+        {
+          "value": 2,
+          "district": "Reudnitz-Thonberg"
+        },
+        {
+          "value": 2,
+          "district": "Stötteritz"
+        },
+        {
+          "value": 2,
+          "district": "Probstheida"
+        },
+        {
+          "value": 2,
+          "district": "Meusdorf"
+        },
+        {
+          "value": 2,
+          "district": "Liebertwolkwitz"
+        },
+        {
+          "value": 2,
+          "district": "Holzhausen"
+        },
+        {
+          "value": 1,
+          "district": "Südvorstadt"
+        },
+        {
+          "value": 2,
+          "district": "Connewitz"
+        },
+        {
+          "value": 2,
+          "district": "Marienbrunn"
+        },
+        {
+          "value": 2,
+          "district": "Lößnig"
+        },
+        {
+          "value": 2,
+          "district": "Dölitz-Dösen"
+        },
+        {
+          "value": 1,
+          "district": "Schleußig"
+        },
+        {
+          "value": 2,
+          "district": "Plagwitz"
+        },
+        {
+          "value": 2,
+          "district": "Kleinzschocher"
+        },
+        {
+          "value": 2,
+          "district": "Großzschocher"
+        },
+        {
+          "value": 2,
+          "district": "Knautkleeberg-Knauthain"
+        },
+        {
+          "value": 2,
+          "district": "Hartmannsdorf-Knautnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Siedlung"
+        },
+        {
+          "value": 2,
+          "district": "Lausen-Grünau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Miltitz"
+        },
+        {
+          "value": 2,
+          "district": "Lindenau"
+        },
+        {
+          "value": 2,
+          "district": "Altlindenau"
+        },
+        {
+          "value": 2,
+          "district": "Neulindenau"
+        },
+        {
+          "value": 2,
+          "district": "Leutzsch"
+        },
+        {
+          "value": 2,
+          "district": "Böhlitz-Ehrenberg"
+        },
+        {
+          "value": 2,
+          "district": "Burghausen-Rückmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Möckern"
+        },
+        {
+          "value": 2,
+          "district": "Wahren"
+        },
+        {
+          "value": 2,
+          "district": "Lützschena-Stahmeln"
+        },
+        {
+          "value": 2,
+          "district": "Lindenthal"
+        },
+        {
+          "value": 1,
+          "district": "Gohlis-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Eutritzsch"
+        },
+        {
+          "value": 2,
+          "district": "Seehausen"
+        },
+        {
+          "value": 2,
+          "district": "Wiederitzsch"
+        }
+      ],
+      "Wirtschaftliche Lage": [
+        {
+          "value": 2,
+          "district": "Zentrum"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Südost"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-West"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Nordwest"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Abtnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Thekla"
+        },
+        {
+          "value": 2,
+          "district": "Plaußig-Portitz"
+        },
+        {
+          "value": 2,
+          "district": "Neustadt-Neuschönefeld"
+        },
+        {
+          "value": 2,
+          "district": "Volkmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Anger-Crottendorf"
+        },
+        {
+          "value": 2,
+          "district": "Sellerhausen-Stünz"
+        },
+        {
+          "value": 2,
+          "district": "Paunsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Heiterblick"
+        },
+        {
+          "value": 2,
+          "district": "Mölkau"
+        },
+        {
+          "value": 2,
+          "district": "Engelsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Baalsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Althen-Kleinpösna"
+        },
+        {
+          "value": 2,
+          "district": "Reudnitz-Thonberg"
+        },
+        {
+          "value": 2,
+          "district": "Stötteritz"
+        },
+        {
+          "value": 2,
+          "district": "Probstheida"
+        },
+        {
+          "value": 2,
+          "district": "Meusdorf"
+        },
+        {
+          "value": 2,
+          "district": "Liebertwolkwitz"
+        },
+        {
+          "value": 2,
+          "district": "Holzhausen"
+        },
+        {
+          "value": 2,
+          "district": "Südvorstadt"
+        },
+        {
+          "value": 2,
+          "district": "Connewitz"
+        },
+        {
+          "value": 2,
+          "district": "Marienbrunn"
+        },
+        {
+          "value": 2,
+          "district": "Lößnig"
+        },
+        {
+          "value": 2,
+          "district": "Dölitz-Dösen"
+        },
+        {
+          "value": 2,
+          "district": "Schleußig"
+        },
+        {
+          "value": 2,
+          "district": "Plagwitz"
+        },
+        {
+          "value": 2,
+          "district": "Kleinzschocher"
+        },
+        {
+          "value": 2,
+          "district": "Großzschocher"
+        },
+        {
+          "value": 2,
+          "district": "Knautkleeberg-Knauthain"
+        },
+        {
+          "value": 2,
+          "district": "Hartmannsdorf-Knautnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Siedlung"
+        },
+        {
+          "value": 2,
+          "district": "Lausen-Grünau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Miltitz"
+        },
+        {
+          "value": 2,
+          "district": "Lindenau"
+        },
+        {
+          "value": 2,
+          "district": "Altlindenau"
+        },
+        {
+          "value": 2,
+          "district": "Neulindenau"
+        },
+        {
+          "value": 2,
+          "district": "Leutzsch"
+        },
+        {
+          "value": 2,
+          "district": "Böhlitz-Ehrenberg"
+        },
+        {
+          "value": 2,
+          "district": "Burghausen-Rückmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Möckern"
+        },
+        {
+          "value": 2,
+          "district": "Wahren"
+        },
+        {
+          "value": 2,
+          "district": "Lützschena-Stahmeln"
+        },
+        {
+          "value": 2,
+          "district": "Lindenthal"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Eutritzsch"
+        },
+        {
+          "value": 2,
+          "district": "Seehausen"
+        },
+        {
+          "value": 2,
+          "district": "Wiederitzsch"
+        }
+      ],
+      "Lebenszufriedenheit": [
+        {
+          "value": 1,
+          "district": "Zentrum"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Südost"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-Süd"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-West"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-Nordwest"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Abtnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Thekla"
+        },
+        {
+          "value": 2,
+          "district": "Plaußig-Portitz"
+        },
+        {
+          "value": 2,
+          "district": "Neustadt-Neuschönefeld"
+        },
+        {
+          "value": 2,
+          "district": "Volkmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Anger-Crottendorf"
+        },
+        {
+          "value": 2,
+          "district": "Sellerhausen-Stünz"
+        },
+        {
+          "value": 2,
+          "district": "Paunsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Heiterblick"
+        },
+        {
+          "value": 1,
+          "district": "Mölkau"
+        },
+        {
+          "value": 2,
+          "district": "Engelsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Baalsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Althen-Kleinpösna"
+        },
+        {
+          "value": 2,
+          "district": "Reudnitz-Thonberg"
+        },
+        {
+          "value": 2,
+          "district": "Stötteritz"
+        },
+        {
+          "value": 2,
+          "district": "Probstheida"
+        },
+        {
+          "value": 2,
+          "district": "Meusdorf"
+        },
+        {
+          "value": 2,
+          "district": "Liebertwolkwitz"
+        },
+        {
+          "value": 1,
+          "district": "Holzhausen"
+        },
+        {
+          "value": 1,
+          "district": "Südvorstadt"
+        },
+        {
+          "value": 2,
+          "district": "Connewitz"
+        },
+        {
+          "value": 2,
+          "district": "Marienbrunn"
+        },
+        {
+          "value": 2,
+          "district": "Lößnig"
+        },
+        {
+          "value": 2,
+          "district": "Dölitz-Dösen"
+        },
+        {
+          "value": 1,
+          "district": "Schleußig"
+        },
+        {
+          "value": 2,
+          "district": "Plagwitz"
+        },
+        {
+          "value": 2,
+          "district": "Kleinzschocher"
+        },
+        {
+          "value": 2,
+          "district": "Großzschocher"
+        },
+        {
+          "value": 2,
+          "district": "Knautkleeberg-Knauthain"
+        },
+        {
+          "value": 2,
+          "district": "Hartmannsdorf-Knautnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Siedlung"
+        },
+        {
+          "value": 2,
+          "district": "Lausen-Grünau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Miltitz"
+        },
+        {
+          "value": 2,
+          "district": "Lindenau"
+        },
+        {
+          "value": 2,
+          "district": "Altlindenau"
+        },
+        {
+          "value": 2,
+          "district": "Neulindenau"
+        },
+        {
+          "value": 2,
+          "district": "Leutzsch"
+        },
+        {
+          "value": 2,
+          "district": "Böhlitz-Ehrenberg"
+        },
+        {
+          "value": 2,
+          "district": "Burghausen-Rückmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Möckern"
+        },
+        {
+          "value": 2,
+          "district": "Wahren"
+        },
+        {
+          "value": 2,
+          "district": "Lützschena-Stahmeln"
+        },
+        {
+          "value": 2,
+          "district": "Lindenthal"
+        },
+        {
+          "value": 1,
+          "district": "Gohlis-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Eutritzsch"
+        },
+        {
+          "value": 2,
+          "district": "Seehausen"
+        },
+        {
+          "value": 2,
+          "district": "Wiederitzsch"
+        }
+      ],
+      "Wohnviertel": [
+        {
+          "value": 2,
+          "district": "Zentrum"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Südost"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-Süd"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-West"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-Nordwest"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Abtnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Thekla"
+        },
+        {
+          "value": 2,
+          "district": "Plaußig-Portitz"
+        },
+        {
+          "value": 2,
+          "district": "Neustadt-Neuschönefeld"
+        },
+        {
+          "value": 2,
+          "district": "Volkmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Anger-Crottendorf"
+        },
+        {
+          "value": 2,
+          "district": "Sellerhausen-Stünz"
+        },
+        {
+          "value": 2,
+          "district": "Paunsdorf"
+        },
+        {
+          "value": 1,
+          "district": "Heiterblick"
+        },
+        {
+          "value": 1,
+          "district": "Mölkau"
+        },
+        {
+          "value": 2,
+          "district": "Engelsdorf"
+        },
+        {
+          "value": 1,
+          "district": "Baalsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Althen-Kleinpösna"
+        },
+        {
+          "value": 2,
+          "district": "Reudnitz-Thonberg"
+        },
+        {
+          "value": 2,
+          "district": "Stötteritz"
+        },
+        {
+          "value": 1,
+          "district": "Probstheida"
+        },
+        {
+          "value": 1,
+          "district": "Meusdorf"
+        },
+        {
+          "value": 1,
+          "district": "Liebertwolkwitz"
+        },
+        {
+          "value": 1,
+          "district": "Holzhausen"
+        },
+        {
+          "value": 1,
+          "district": "Südvorstadt"
+        },
+        {
+          "value": 2,
+          "district": "Connewitz"
+        },
+        {
+          "value": 1,
+          "district": "Marienbrunn"
+        },
+        {
+          "value": 2,
+          "district": "Lößnig"
+        },
+        {
+          "value": 2,
+          "district": "Dölitz-Dösen"
+        },
+        {
+          "value": 1,
+          "district": "Schleußig"
+        },
+        {
+          "value": 1,
+          "district": "Plagwitz"
+        },
+        {
+          "value": 2,
+          "district": "Kleinzschocher"
+        },
+        {
+          "value": 2,
+          "district": "Großzschocher"
+        },
+        {
+          "value": 1,
+          "district": "Knautkleeberg-Knauthain"
+        },
+        {
+          "value": 2,
+          "district": "Hartmannsdorf-Knautnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Siedlung"
+        },
+        {
+          "value": 2,
+          "district": "Lausen-Grünau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Nord"
+        },
+        {
+          "value": 1,
+          "district": "Miltitz"
+        },
+        {
+          "value": 2,
+          "district": "Lindenau"
+        },
+        {
+          "value": 2,
+          "district": "Altlindenau"
+        },
+        {
+          "value": 2,
+          "district": "Neulindenau"
+        },
+        {
+          "value": 2,
+          "district": "Leutzsch"
+        },
+        {
+          "value": 1,
+          "district": "Böhlitz-Ehrenberg"
+        },
+        {
+          "value": 1,
+          "district": "Burghausen-Rückmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Möckern"
+        },
+        {
+          "value": 2,
+          "district": "Wahren"
+        },
+        {
+          "value": 1,
+          "district": "Lützschena-Stahmeln"
+        },
+        {
+          "value": 1,
+          "district": "Lindenthal"
+        },
+        {
+          "value": 1,
+          "district": "Gohlis-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Eutritzsch"
+        },
+        {
+          "value": 1,
+          "district": "Seehausen"
+        },
+        {
+          "value": 2,
+          "district": "Wiederitzsch"
+        }
+      ]
+    },
+    "2017": {
+      "Lebenszufriedenheit": [
+        {
+          "value": 1,
+          "district": "Zentrum"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Südost"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-Süd"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-West"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-Nordwest"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Abtnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Thekla"
+        },
+        {
+          "value": 2,
+          "district": "Plaußig-Portitz"
+        },
+        {
+          "value": 2,
+          "district": "Neustadt-Neuschönefeld"
+        },
+        {
+          "value": 2,
+          "district": "Volkmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Anger-Crottendorf"
+        },
+        {
+          "value": 2,
+          "district": "Sellerhausen-Stünz"
+        },
+        {
+          "value": 2,
+          "district": "Paunsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Heiterblick"
+        },
+        {
+          "value": 2,
+          "district": "Mölkau"
+        },
+        {
+          "value": 2,
+          "district": "Engelsdorf"
+        },
+        {
+          "value": 1,
+          "district": "Baalsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Althen-Kleinpösna"
+        },
+        {
+          "value": 2,
+          "district": "Reudnitz-Thonberg"
+        },
+        {
+          "value": 2,
+          "district": "Stötteritz"
+        },
+        {
+          "value": 2,
+          "district": "Probstheida"
+        },
+        {
+          "value": 2,
+          "district": "Meusdorf"
+        },
+        {
+          "value": 2,
+          "district": "Liebertwolkwitz"
+        },
+        {
+          "value": 2,
+          "district": "Holzhausen"
+        },
+        {
+          "value": 2,
+          "district": "Südvorstadt"
+        },
+        {
+          "value": 2,
+          "district": "Connewitz"
+        },
+        {
+          "value": 2,
+          "district": "Marienbrunn"
+        },
+        {
+          "value": 2,
+          "district": "Lößnig"
+        },
+        {
+          "value": 2,
+          "district": "Dölitz-Dösen"
+        },
+        {
+          "value": 1,
+          "district": "Schleußig"
+        },
+        {
+          "value": 2,
+          "district": "Plagwitz"
+        },
+        {
+          "value": 2,
+          "district": "Kleinzschocher"
+        },
+        {
+          "value": 2,
+          "district": "Großzschocher"
+        },
+        {
+          "value": 2,
+          "district": "Knautkleeberg-Knauthain"
+        },
+        {
+          "value": 2,
+          "district": "Hartmannsdorf-Knautnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Siedlung"
+        },
+        {
+          "value": 2,
+          "district": "Lausen-Grünau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Miltitz"
+        },
+        {
+          "value": 2,
+          "district": "Lindenau"
+        },
+        {
+          "value": 2,
+          "district": "Altlindenau"
+        },
+        {
+          "value": 2,
+          "district": "Neulindenau"
+        },
+        {
+          "value": 2,
+          "district": "Leutzsch"
+        },
+        {
+          "value": 2,
+          "district": "Böhlitz-Ehrenberg"
+        },
+        {
+          "value": 2,
+          "district": "Burghausen-Rückmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Möckern"
+        },
+        {
+          "value": 2,
+          "district": "Wahren"
+        },
+        {
+          "value": 2,
+          "district": "Lützschena-Stahmeln"
+        },
+        {
+          "value": 2,
+          "district": "Lindenthal"
+        },
+        {
+          "value": 1,
+          "district": "Gohlis-Süd"
+        },
+        {
+          "value": 1,
+          "district": "Gohlis-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Eutritzsch"
+        },
+        {
+          "value": 2,
+          "district": "Seehausen"
+        },
+        {
+          "value": 1,
+          "district": "Wiederitzsch"
+        }
+      ],
+      "Wohnviertel": [
+        {
+          "value": 2,
+          "district": "Zentrum"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Südost"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-Süd"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-West"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-Nordwest"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Abtnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Thekla"
+        },
+        {
+          "value": 2,
+          "district": "Plaußig-Portitz"
+        },
+        {
+          "value": 2,
+          "district": "Neustadt-Neuschönefeld"
+        },
+        {
+          "value": 2,
+          "district": "Volkmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Anger-Crottendorf"
+        },
+        {
+          "value": 2,
+          "district": "Sellerhausen-Stünz"
+        },
+        {
+          "value": 2,
+          "district": "Paunsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Heiterblick"
+        },
+        {
+          "value": 1,
+          "district": "Mölkau"
+        },
+        {
+          "value": 1,
+          "district": "Engelsdorf"
+        },
+        {
+          "value": 1,
+          "district": "Baalsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Althen-Kleinpösna"
+        },
+        {
+          "value": 2,
+          "district": "Reudnitz-Thonberg"
+        },
+        {
+          "value": 2,
+          "district": "Stötteritz"
+        },
+        {
+          "value": 2,
+          "district": "Probstheida"
+        },
+        {
+          "value": 1,
+          "district": "Meusdorf"
+        },
+        {
+          "value": 2,
+          "district": "Liebertwolkwitz"
+        },
+        {
+          "value": 2,
+          "district": "Holzhausen"
+        },
+        {
+          "value": 1,
+          "district": "Südvorstadt"
+        },
+        {
+          "value": 2,
+          "district": "Connewitz"
+        },
+        {
+          "value": 1,
+          "district": "Marienbrunn"
+        },
+        {
+          "value": 2,
+          "district": "Lößnig"
+        },
+        {
+          "value": 2,
+          "district": "Dölitz-Dösen"
+        },
+        {
+          "value": 1,
+          "district": "Schleußig"
+        },
+        {
+          "value": 2,
+          "district": "Plagwitz"
+        },
+        {
+          "value": 2,
+          "district": "Kleinzschocher"
+        },
+        {
+          "value": 2,
+          "district": "Großzschocher"
+        },
+        {
+          "value": 1,
+          "district": "Knautkleeberg-Knauthain"
+        },
+        {
+          "value": 2,
+          "district": "Hartmannsdorf-Knautnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Siedlung"
+        },
+        {
+          "value": 2,
+          "district": "Lausen-Grünau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Nord"
+        },
+        {
+          "value": 1,
+          "district": "Miltitz"
+        },
+        {
+          "value": 2,
+          "district": "Lindenau"
+        },
+        {
+          "value": 2,
+          "district": "Altlindenau"
+        },
+        {
+          "value": 2,
+          "district": "Neulindenau"
+        },
+        {
+          "value": 2,
+          "district": "Leutzsch"
+        },
+        {
+          "value": 2,
+          "district": "Böhlitz-Ehrenberg"
+        },
+        {
+          "value": 1,
+          "district": "Burghausen-Rückmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Möckern"
+        },
+        {
+          "value": 2,
+          "district": "Wahren"
+        },
+        {
+          "value": 2,
+          "district": "Lützschena-Stahmeln"
+        },
+        {
+          "value": 2,
+          "district": "Lindenthal"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Eutritzsch"
+        },
+        {
+          "value": 2,
+          "district": "Seehausen"
+        },
+        {
+          "value": 1,
+          "district": "Wiederitzsch"
+        }
+      ],
+      "Zukunftsaussicht": [
+        {
+          "value": 2,
+          "district": "Zentrum"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Südost"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-West"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Nordwest"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Abtnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Thekla"
+        },
+        {
+          "value": 2,
+          "district": "Plaußig-Portitz"
+        },
+        {
+          "value": 2,
+          "district": "Neustadt-Neuschönefeld"
+        },
+        {
+          "value": 2,
+          "district": "Volkmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Anger-Crottendorf"
+        },
+        {
+          "value": 2,
+          "district": "Sellerhausen-Stünz"
+        },
+        {
+          "value": 2,
+          "district": "Paunsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Heiterblick"
+        },
+        {
+          "value": 2,
+          "district": "Mölkau"
+        },
+        {
+          "value": 2,
+          "district": "Engelsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Baalsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Althen-Kleinpösna"
+        },
+        {
+          "value": 2,
+          "district": "Reudnitz-Thonberg"
+        },
+        {
+          "value": 2,
+          "district": "Stötteritz"
+        },
+        {
+          "value": 2,
+          "district": "Probstheida"
+        },
+        {
+          "value": 2,
+          "district": "Meusdorf"
+        },
+        {
+          "value": 2,
+          "district": "Liebertwolkwitz"
+        },
+        {
+          "value": 2,
+          "district": "Holzhausen"
+        },
+        {
+          "value": 2,
+          "district": "Südvorstadt"
+        },
+        {
+          "value": 2,
+          "district": "Connewitz"
+        },
+        {
+          "value": 2,
+          "district": "Marienbrunn"
+        },
+        {
+          "value": 2,
+          "district": "Lößnig"
+        },
+        {
+          "value": 2,
+          "district": "Dölitz-Dösen"
+        },
+        {
+          "value": 1,
+          "district": "Schleußig"
+        },
+        {
+          "value": 2,
+          "district": "Plagwitz"
+        },
+        {
+          "value": 2,
+          "district": "Kleinzschocher"
+        },
+        {
+          "value": 2,
+          "district": "Großzschocher"
+        },
+        {
+          "value": 1,
+          "district": "Knautkleeberg-Knauthain"
+        },
+        {
+          "value": 2,
+          "district": "Hartmannsdorf-Knautnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Siedlung"
+        },
+        {
+          "value": 2,
+          "district": "Lausen-Grünau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Miltitz"
+        },
+        {
+          "value": 2,
+          "district": "Lindenau"
+        },
+        {
+          "value": 2,
+          "district": "Altlindenau"
+        },
+        {
+          "value": 2,
+          "district": "Neulindenau"
+        },
+        {
+          "value": 2,
+          "district": "Leutzsch"
+        },
+        {
+          "value": 2,
+          "district": "Böhlitz-Ehrenberg"
+        },
+        {
+          "value": 2,
+          "district": "Burghausen-Rückmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Möckern"
+        },
+        {
+          "value": 2,
+          "district": "Wahren"
+        },
+        {
+          "value": 2,
+          "district": "Lützschena-Stahmeln"
+        },
+        {
+          "value": 2,
+          "district": "Lindenthal"
+        },
+        {
+          "value": 1,
+          "district": "Gohlis-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Eutritzsch"
+        },
+        {
+          "value": 2,
+          "district": "Seehausen"
+        },
+        {
+          "value": 2,
+          "district": "Wiederitzsch"
+        }
+      ],
+      "Wirtschaftliche Lage": [
+        {
+          "value": 2,
+          "district": "Zentrum"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Südost"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-West"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Nordwest"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Abtnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Thekla"
+        },
+        {
+          "value": 2,
+          "district": "Plaußig-Portitz"
+        },
+        {
+          "value": 2,
+          "district": "Neustadt-Neuschönefeld"
+        },
+        {
+          "value": 2,
+          "district": "Volkmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Anger-Crottendorf"
+        },
+        {
+          "value": 2,
+          "district": "Sellerhausen-Stünz"
+        },
+        {
+          "value": 2,
+          "district": "Paunsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Heiterblick"
+        },
+        {
+          "value": 2,
+          "district": "Mölkau"
+        },
+        {
+          "value": 2,
+          "district": "Engelsdorf"
+        },
+        {
+          "value": 1,
+          "district": "Baalsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Althen-Kleinpösna"
+        },
+        {
+          "value": 2,
+          "district": "Reudnitz-Thonberg"
+        },
+        {
+          "value": 2,
+          "district": "Stötteritz"
+        },
+        {
+          "value": 2,
+          "district": "Probstheida"
+        },
+        {
+          "value": 2,
+          "district": "Meusdorf"
+        },
+        {
+          "value": 2,
+          "district": "Liebertwolkwitz"
+        },
+        {
+          "value": 2,
+          "district": "Holzhausen"
+        },
+        {
+          "value": 2,
+          "district": "Südvorstadt"
+        },
+        {
+          "value": 2,
+          "district": "Connewitz"
+        },
+        {
+          "value": 2,
+          "district": "Marienbrunn"
+        },
+        {
+          "value": 2,
+          "district": "Lößnig"
+        },
+        {
+          "value": 2,
+          "district": "Dölitz-Dösen"
+        },
+        {
+          "value": 2,
+          "district": "Schleußig"
+        },
+        {
+          "value": 2,
+          "district": "Plagwitz"
+        },
+        {
+          "value": 2,
+          "district": "Kleinzschocher"
+        },
+        {
+          "value": 2,
+          "district": "Großzschocher"
+        },
+        {
+          "value": 2,
+          "district": "Knautkleeberg-Knauthain"
+        },
+        {
+          "value": 2,
+          "district": "Hartmannsdorf-Knautnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Siedlung"
+        },
+        {
+          "value": 2,
+          "district": "Lausen-Grünau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Miltitz"
+        },
+        {
+          "value": 2,
+          "district": "Lindenau"
+        },
+        {
+          "value": 2,
+          "district": "Altlindenau"
+        },
+        {
+          "value": 2,
+          "district": "Neulindenau"
+        },
+        {
+          "value": 2,
+          "district": "Leutzsch"
+        },
+        {
+          "value": 2,
+          "district": "Böhlitz-Ehrenberg"
+        },
+        {
+          "value": 2,
+          "district": "Burghausen-Rückmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Möckern"
+        },
+        {
+          "value": 2,
+          "district": "Wahren"
+        },
+        {
+          "value": 2,
+          "district": "Lützschena-Stahmeln"
+        },
+        {
+          "value": 2,
+          "district": "Lindenthal"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Eutritzsch"
+        },
+        {
+          "value": 2,
+          "district": "Seehausen"
+        },
+        {
+          "value": 2,
+          "district": "Wiederitzsch"
+        }
+      ]
+    },
+    "2019": {
+      "Zukunftsaussicht": [
+        {
+          "value": 2,
+          "district": "Zentrum"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Südost"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-West"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-Nordwest"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Abtnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Thekla"
+        },
+        {
+          "value": 2,
+          "district": "Plaußig-Portitz"
+        },
+        {
+          "value": 2,
+          "district": "Neustadt-Neuschönefeld"
+        },
+        {
+          "value": 2,
+          "district": "Volkmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Anger-Crottendorf"
+        },
+        {
+          "value": 2,
+          "district": "Sellerhausen-Stünz"
+        },
+        {
+          "value": 2,
+          "district": "Paunsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Heiterblick"
+        },
+        {
+          "value": 2,
+          "district": "Mölkau"
+        },
+        {
+          "value": 2,
+          "district": "Engelsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Baalsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Althen-Kleinpösna"
+        },
+        {
+          "value": 2,
+          "district": "Reudnitz-Thonberg"
+        },
+        {
+          "value": 2,
+          "district": "Stötteritz"
+        },
+        {
+          "value": 2,
+          "district": "Probstheida"
+        },
+        {
+          "value": 2,
+          "district": "Meusdorf"
+        },
+        {
+          "value": 2,
+          "district": "Liebertwolkwitz"
+        },
+        {
+          "value": 2,
+          "district": "Holzhausen"
+        },
+        {
+          "value": 2,
+          "district": "Südvorstadt"
+        },
+        {
+          "value": 2,
+          "district": "Connewitz"
+        },
+        {
+          "value": 2,
+          "district": "Marienbrunn"
+        },
+        {
+          "value": 2,
+          "district": "Lößnig"
+        },
+        {
+          "value": 2,
+          "district": "Dölitz-Dösen"
+        },
+        {
+          "value": 1,
+          "district": "Schleußig"
+        },
+        {
+          "value": 2,
+          "district": "Plagwitz"
+        },
+        {
+          "value": 2,
+          "district": "Kleinzschocher"
+        },
+        {
+          "value": 2,
+          "district": "Großzschocher"
+        },
+        {
+          "value": 2,
+          "district": "Knautkleeberg-Knauthain"
+        },
+        {
+          "value": 2,
+          "district": "Hartmannsdorf-Knautnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Siedlung"
+        },
+        {
+          "value": 2,
+          "district": "Lausen-Grünau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Miltitz"
+        },
+        {
+          "value": 2,
+          "district": "Lindenau"
+        },
+        {
+          "value": 2,
+          "district": "Altlindenau"
+        },
+        {
+          "value": 2,
+          "district": "Neulindenau"
+        },
+        {
+          "value": 2,
+          "district": "Leutzsch"
+        },
+        {
+          "value": 2,
+          "district": "Böhlitz-Ehrenberg"
+        },
+        {
+          "value": 2,
+          "district": "Burghausen-Rückmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Möckern"
+        },
+        {
+          "value": 2,
+          "district": "Wahren"
+        },
+        {
+          "value": 2,
+          "district": "Lützschena-Stahmeln"
+        },
+        {
+          "value": 2,
+          "district": "Lindenthal"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Eutritzsch"
+        },
+        {
+          "value": 2,
+          "district": "Seehausen"
+        },
+        {
+          "value": 2,
+          "district": "Wiederitzsch"
+        }
+      ],
+      "Wirtschaftliche Lage": [
+        {
+          "value": 2,
+          "district": "Zentrum"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Südost"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-West"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-Nordwest"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Abtnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Thekla"
+        },
+        {
+          "value": 2,
+          "district": "Plaußig-Portitz"
+        },
+        {
+          "value": 2,
+          "district": "Neustadt-Neuschönefeld"
+        },
+        {
+          "value": 2,
+          "district": "Volkmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Anger-Crottendorf"
+        },
+        {
+          "value": 2,
+          "district": "Sellerhausen-Stünz"
+        },
+        {
+          "value": 2,
+          "district": "Paunsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Heiterblick"
+        },
+        {
+          "value": 2,
+          "district": "Mölkau"
+        },
+        {
+          "value": 2,
+          "district": "Engelsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Baalsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Althen-Kleinpösna"
+        },
+        {
+          "value": 2,
+          "district": "Reudnitz-Thonberg"
+        },
+        {
+          "value": 2,
+          "district": "Stötteritz"
+        },
+        {
+          "value": 2,
+          "district": "Probstheida"
+        },
+        {
+          "value": 2,
+          "district": "Meusdorf"
+        },
+        {
+          "value": 2,
+          "district": "Liebertwolkwitz"
+        },
+        {
+          "value": 2,
+          "district": "Holzhausen"
+        },
+        {
+          "value": 2,
+          "district": "Südvorstadt"
+        },
+        {
+          "value": 2,
+          "district": "Connewitz"
+        },
+        {
+          "value": 2,
+          "district": "Marienbrunn"
+        },
+        {
+          "value": 2,
+          "district": "Lößnig"
+        },
+        {
+          "value": 2,
+          "district": "Dölitz-Dösen"
+        },
+        {
+          "value": 2,
+          "district": "Schleußig"
+        },
+        {
+          "value": 2,
+          "district": "Plagwitz"
+        },
+        {
+          "value": 2,
+          "district": "Kleinzschocher"
+        },
+        {
+          "value": 2,
+          "district": "Großzschocher"
+        },
+        {
+          "value": 2,
+          "district": "Knautkleeberg-Knauthain"
+        },
+        {
+          "value": 2,
+          "district": "Hartmannsdorf-Knautnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Siedlung"
+        },
+        {
+          "value": 2,
+          "district": "Lausen-Grünau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Miltitz"
+        },
+        {
+          "value": 2,
+          "district": "Lindenau"
+        },
+        {
+          "value": 2,
+          "district": "Altlindenau"
+        },
+        {
+          "value": 2,
+          "district": "Neulindenau"
+        },
+        {
+          "value": 2,
+          "district": "Leutzsch"
+        },
+        {
+          "value": 2,
+          "district": "Böhlitz-Ehrenberg"
+        },
+        {
+          "value": 2,
+          "district": "Burghausen-Rückmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Möckern"
+        },
+        {
+          "value": 2,
+          "district": "Wahren"
+        },
+        {
+          "value": 2,
+          "district": "Lützschena-Stahmeln"
+        },
+        {
+          "value": 2,
+          "district": "Lindenthal"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Eutritzsch"
+        },
+        {
+          "value": 2,
+          "district": "Seehausen"
+        },
+        {
+          "value": 2,
+          "district": "Wiederitzsch"
+        }
+      ],
+      "Lebenszufriedenheit": [
+        {
+          "value": 1,
+          "district": "Zentrum"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Südost"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-West"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-Nordwest"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Abtnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Thekla"
+        },
+        {
+          "value": 2,
+          "district": "Plaußig-Portitz"
+        },
+        {
+          "value": 2,
+          "district": "Neustadt-Neuschönefeld"
+        },
+        {
+          "value": 2,
+          "district": "Volkmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Anger-Crottendorf"
+        },
+        {
+          "value": 2,
+          "district": "Sellerhausen-Stünz"
+        },
+        {
+          "value": 2,
+          "district": "Paunsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Heiterblick"
+        },
+        {
+          "value": 2,
+          "district": "Mölkau"
+        },
+        {
+          "value": 2,
+          "district": "Engelsdorf"
+        },
+        {
+          "value": 1,
+          "district": "Baalsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Althen-Kleinpösna"
+        },
+        {
+          "value": 2,
+          "district": "Reudnitz-Thonberg"
+        },
+        {
+          "value": 2,
+          "district": "Stötteritz"
+        },
+        {
+          "value": 2,
+          "district": "Probstheida"
+        },
+        {
+          "value": 2,
+          "district": "Meusdorf"
+        },
+        {
+          "value": 2,
+          "district": "Liebertwolkwitz"
+        },
+        {
+          "value": 2,
+          "district": "Holzhausen"
+        },
+        {
+          "value": 2,
+          "district": "Südvorstadt"
+        },
+        {
+          "value": 2,
+          "district": "Connewitz"
+        },
+        {
+          "value": 2,
+          "district": "Marienbrunn"
+        },
+        {
+          "value": 2,
+          "district": "Lößnig"
+        },
+        {
+          "value": 2,
+          "district": "Dölitz-Dösen"
+        },
+        {
+          "value": 1,
+          "district": "Schleußig"
+        },
+        {
+          "value": 1,
+          "district": "Plagwitz"
+        },
+        {
+          "value": 2,
+          "district": "Kleinzschocher"
+        },
+        {
+          "value": 2,
+          "district": "Großzschocher"
+        },
+        {
+          "value": 1,
+          "district": "Knautkleeberg-Knauthain"
+        },
+        {
+          "value": 2,
+          "district": "Hartmannsdorf-Knautnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Siedlung"
+        },
+        {
+          "value": 2,
+          "district": "Lausen-Grünau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Miltitz"
+        },
+        {
+          "value": 1,
+          "district": "Lindenau"
+        },
+        {
+          "value": 2,
+          "district": "Altlindenau"
+        },
+        {
+          "value": 2,
+          "district": "Neulindenau"
+        },
+        {
+          "value": 2,
+          "district": "Leutzsch"
+        },
+        {
+          "value": 2,
+          "district": "Böhlitz-Ehrenberg"
+        },
+        {
+          "value": 2,
+          "district": "Burghausen-Rückmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Möckern"
+        },
+        {
+          "value": 2,
+          "district": "Wahren"
+        },
+        {
+          "value": 2,
+          "district": "Lützschena-Stahmeln"
+        },
+        {
+          "value": 2,
+          "district": "Lindenthal"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Eutritzsch"
+        },
+        {
+          "value": 2,
+          "district": "Seehausen"
+        },
+        {
+          "value": 1,
+          "district": "Wiederitzsch"
+        }
+      ],
+      "Wohnviertel": [
+        {
+          "value": 2,
+          "district": "Zentrum"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Südost"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-Süd"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-West"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-Nordwest"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Abtnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Thekla"
+        },
+        {
+          "value": 2,
+          "district": "Plaußig-Portitz"
+        },
+        {
+          "value": 2,
+          "district": "Neustadt-Neuschönefeld"
+        },
+        {
+          "value": 3,
+          "district": "Volkmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Anger-Crottendorf"
+        },
+        {
+          "value": 2,
+          "district": "Sellerhausen-Stünz"
+        },
+        {
+          "value": 2,
+          "district": "Paunsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Heiterblick"
+        },
+        {
+          "value": 1,
+          "district": "Mölkau"
+        },
+        {
+          "value": 1,
+          "district": "Engelsdorf"
+        },
+        {
+          "value": 1,
+          "district": "Baalsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Althen-Kleinpösna"
+        },
+        {
+          "value": 2,
+          "district": "Reudnitz-Thonberg"
+        },
+        {
+          "value": 2,
+          "district": "Stötteritz"
+        },
+        {
+          "value": 2,
+          "district": "Probstheida"
+        },
+        {
+          "value": 1,
+          "district": "Meusdorf"
+        },
+        {
+          "value": 2,
+          "district": "Liebertwolkwitz"
+        },
+        {
+          "value": 2,
+          "district": "Holzhausen"
+        },
+        {
+          "value": 1,
+          "district": "Südvorstadt"
+        },
+        {
+          "value": 2,
+          "district": "Connewitz"
+        },
+        {
+          "value": 1,
+          "district": "Marienbrunn"
+        },
+        {
+          "value": 2,
+          "district": "Lößnig"
+        },
+        {
+          "value": 2,
+          "district": "Dölitz-Dösen"
+        },
+        {
+          "value": 1,
+          "district": "Schleußig"
+        },
+        {
+          "value": 1,
+          "district": "Plagwitz"
+        },
+        {
+          "value": 2,
+          "district": "Kleinzschocher"
+        },
+        {
+          "value": 2,
+          "district": "Großzschocher"
+        },
+        {
+          "value": 2,
+          "district": "Knautkleeberg-Knauthain"
+        },
+        {
+          "value": 2,
+          "district": "Hartmannsdorf-Knautnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Siedlung"
+        },
+        {
+          "value": 2,
+          "district": "Lausen-Grünau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Nord"
+        },
+        {
+          "value": 1,
+          "district": "Miltitz"
+        },
+        {
+          "value": 2,
+          "district": "Lindenau"
+        },
+        {
+          "value": 2,
+          "district": "Altlindenau"
+        },
+        {
+          "value": 2,
+          "district": "Neulindenau"
+        },
+        {
+          "value": 2,
+          "district": "Leutzsch"
+        },
+        {
+          "value": 1,
+          "district": "Böhlitz-Ehrenberg"
+        },
+        {
+          "value": 1,
+          "district": "Burghausen-Rückmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Möckern"
+        },
+        {
+          "value": 2,
+          "district": "Wahren"
+        },
+        {
+          "value": 2,
+          "district": "Lützschena-Stahmeln"
+        },
+        {
+          "value": 2,
+          "district": "Lindenthal"
+        },
+        {
+          "value": 1,
+          "district": "Gohlis-Süd"
+        },
+        {
+          "value": 1,
+          "district": "Gohlis-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Eutritzsch"
+        },
+        {
+          "value": 2,
+          "district": "Seehausen"
+        },
+        {
+          "value": 2,
+          "district": "Wiederitzsch"
+        }
+      ]
+    },
+    "2021": {
+      "Lebenszufriedenheit": [
+        {
+          "value": 2,
+          "district": "Zentrum"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Südost"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-West"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Nordwest"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Abtnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Thekla"
+        },
+        {
+          "value": 2,
+          "district": "Plaußig-Portitz"
+        },
+        {
+          "value": 2,
+          "district": "Neustadt-Neuschönefeld"
+        },
+        {
+          "value": 2,
+          "district": "Volkmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Anger-Crottendorf"
+        },
+        {
+          "value": 2,
+          "district": "Sellerhausen-Stünz"
+        },
+        {
+          "value": 2,
+          "district": "Paunsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Heiterblick"
+        },
+        {
+          "value": 2,
+          "district": "Mölkau"
+        },
+        {
+          "value": 2,
+          "district": "Engelsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Baalsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Althen-Kleinpösna"
+        },
+        {
+          "value": 2,
+          "district": "Reudnitz-Thonberg"
+        },
+        {
+          "value": 2,
+          "district": "Stötteritz"
+        },
+        {
+          "value": 2,
+          "district": "Probstheida"
+        },
+        {
+          "value": 2,
+          "district": "Meusdorf"
+        },
+        {
+          "value": 2,
+          "district": "Liebertwolkwitz"
+        },
+        {
+          "value": 2,
+          "district": "Holzhausen"
+        },
+        {
+          "value": 2,
+          "district": "Südvorstadt"
+        },
+        {
+          "value": 2,
+          "district": "Connewitz"
+        },
+        {
+          "value": 2,
+          "district": "Marienbrunn"
+        },
+        {
+          "value": 2,
+          "district": "Lößnig"
+        },
+        {
+          "value": 2,
+          "district": "Dölitz-Dösen"
+        },
+        {
+          "value": 2,
+          "district": "Schleußig"
+        },
+        {
+          "value": 2,
+          "district": "Plagwitz"
+        },
+        {
+          "value": 2,
+          "district": "Kleinzschocher"
+        },
+        {
+          "value": 2,
+          "district": "Großzschocher"
+        },
+        {
+          "value": 2,
+          "district": "Knautkleeberg-Knauthain"
+        },
+        {
+          "value": 2,
+          "district": "Hartmannsdorf-Knautnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Siedlung"
+        },
+        {
+          "value": 2,
+          "district": "Lausen-Grünau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Miltitz"
+        },
+        {
+          "value": 2,
+          "district": "Lindenau"
+        },
+        {
+          "value": 2,
+          "district": "Altlindenau"
+        },
+        {
+          "value": 2,
+          "district": "Neulindenau"
+        },
+        {
+          "value": 2,
+          "district": "Leutzsch"
+        },
+        {
+          "value": 2,
+          "district": "Böhlitz-Ehrenberg"
+        },
+        {
+          "value": 2,
+          "district": "Burghausen-Rückmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Möckern"
+        },
+        {
+          "value": 2,
+          "district": "Wahren"
+        },
+        {
+          "value": 2,
+          "district": "Lützschena-Stahmeln"
+        },
+        {
+          "value": 2,
+          "district": "Lindenthal"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Eutritzsch"
+        },
+        {
+          "value": 2,
+          "district": "Seehausen"
+        },
+        {
+          "value": 2,
+          "district": "Wiederitzsch"
+        }
+      ],
+      "Wohnviertel": [
+        {
+          "value": 2,
+          "district": "Zentrum"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Südost"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-Süd"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-West"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-Nordwest"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Abtnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Thekla"
+        },
+        {
+          "value": 2,
+          "district": "Plaußig-Portitz"
+        },
+        {
+          "value": 2,
+          "district": "Neustadt-Neuschönefeld"
+        },
+        {
+          "value": 2,
+          "district": "Volkmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Anger-Crottendorf"
+        },
+        {
+          "value": 2,
+          "district": "Sellerhausen-Stünz"
+        },
+        {
+          "value": 2,
+          "district": "Paunsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Heiterblick"
+        },
+        {
+          "value": 1,
+          "district": "Mölkau"
+        },
+        {
+          "value": 2,
+          "district": "Engelsdorf"
+        },
+        {
+          "value": 1,
+          "district": "Baalsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Althen-Kleinpösna"
+        },
+        {
+          "value": 2,
+          "district": "Reudnitz-Thonberg"
+        },
+        {
+          "value": 2,
+          "district": "Stötteritz"
+        },
+        {
+          "value": 2,
+          "district": "Probstheida"
+        },
+        {
+          "value": 1,
+          "district": "Meusdorf"
+        },
+        {
+          "value": 1,
+          "district": "Liebertwolkwitz"
+        },
+        {
+          "value": 2,
+          "district": "Holzhausen"
+        },
+        {
+          "value": 1,
+          "district": "Südvorstadt"
+        },
+        {
+          "value": 2,
+          "district": "Connewitz"
+        },
+        {
+          "value": 1,
+          "district": "Marienbrunn"
+        },
+        {
+          "value": 2,
+          "district": "Lößnig"
+        },
+        {
+          "value": 2,
+          "district": "Dölitz-Dösen"
+        },
+        {
+          "value": 1,
+          "district": "Schleußig"
+        },
+        {
+          "value": 1,
+          "district": "Plagwitz"
+        },
+        {
+          "value": 2,
+          "district": "Kleinzschocher"
+        },
+        {
+          "value": 2,
+          "district": "Großzschocher"
+        },
+        {
+          "value": 1,
+          "district": "Knautkleeberg-Knauthain"
+        },
+        {
+          "value": 2,
+          "district": "Hartmannsdorf-Knautnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Siedlung"
+        },
+        {
+          "value": 2,
+          "district": "Lausen-Grünau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Nord"
+        },
+        {
+          "value": 1,
+          "district": "Miltitz"
+        },
+        {
+          "value": 2,
+          "district": "Lindenau"
+        },
+        {
+          "value": 2,
+          "district": "Altlindenau"
+        },
+        {
+          "value": 2,
+          "district": "Neulindenau"
+        },
+        {
+          "value": 2,
+          "district": "Leutzsch"
+        },
+        {
+          "value": 2,
+          "district": "Böhlitz-Ehrenberg"
+        },
+        {
+          "value": 1,
+          "district": "Burghausen-Rückmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Möckern"
+        },
+        {
+          "value": 2,
+          "district": "Wahren"
+        },
+        {
+          "value": 2,
+          "district": "Lützschena-Stahmeln"
+        },
+        {
+          "value": 2,
+          "district": "Lindenthal"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Süd"
+        },
+        {
+          "value": 1,
+          "district": "Gohlis-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Eutritzsch"
+        },
+        {
+          "value": 2,
+          "district": "Seehausen"
+        },
+        {
+          "value": 2,
+          "district": "Wiederitzsch"
+        }
+      ],
+      "Zukunftsaussicht": [
+        {
+          "value": 2,
+          "district": "Zentrum"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Südost"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-West"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Nordwest"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Abtnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Thekla"
+        },
+        {
+          "value": 2,
+          "district": "Plaußig-Portitz"
+        },
+        {
+          "value": 2,
+          "district": "Neustadt-Neuschönefeld"
+        },
+        {
+          "value": 2,
+          "district": "Volkmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Anger-Crottendorf"
+        },
+        {
+          "value": 2,
+          "district": "Sellerhausen-Stünz"
+        },
+        {
+          "value": 2,
+          "district": "Paunsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Heiterblick"
+        },
+        {
+          "value": 2,
+          "district": "Mölkau"
+        },
+        {
+          "value": 2,
+          "district": "Engelsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Baalsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Althen-Kleinpösna"
+        },
+        {
+          "value": 2,
+          "district": "Reudnitz-Thonberg"
+        },
+        {
+          "value": 2,
+          "district": "Stötteritz"
+        },
+        {
+          "value": 2,
+          "district": "Probstheida"
+        },
+        {
+          "value": 2,
+          "district": "Meusdorf"
+        },
+        {
+          "value": 2,
+          "district": "Liebertwolkwitz"
+        },
+        {
+          "value": 2,
+          "district": "Holzhausen"
+        },
+        {
+          "value": 2,
+          "district": "Südvorstadt"
+        },
+        {
+          "value": 2,
+          "district": "Connewitz"
+        },
+        {
+          "value": 2,
+          "district": "Marienbrunn"
+        },
+        {
+          "value": 2,
+          "district": "Lößnig"
+        },
+        {
+          "value": 2,
+          "district": "Dölitz-Dösen"
+        },
+        {
+          "value": 2,
+          "district": "Schleußig"
+        },
+        {
+          "value": 2,
+          "district": "Plagwitz"
+        },
+        {
+          "value": 2,
+          "district": "Kleinzschocher"
+        },
+        {
+          "value": 2,
+          "district": "Großzschocher"
+        },
+        {
+          "value": 2,
+          "district": "Knautkleeberg-Knauthain"
+        },
+        {
+          "value": 2,
+          "district": "Hartmannsdorf-Knautnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Siedlung"
+        },
+        {
+          "value": 2,
+          "district": "Lausen-Grünau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Miltitz"
+        },
+        {
+          "value": 2,
+          "district": "Lindenau"
+        },
+        {
+          "value": 2,
+          "district": "Altlindenau"
+        },
+        {
+          "value": 2,
+          "district": "Neulindenau"
+        },
+        {
+          "value": 2,
+          "district": "Leutzsch"
+        },
+        {
+          "value": 2,
+          "district": "Böhlitz-Ehrenberg"
+        },
+        {
+          "value": 2,
+          "district": "Burghausen-Rückmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Möckern"
+        },
+        {
+          "value": 2,
+          "district": "Wahren"
+        },
+        {
+          "value": 2,
+          "district": "Lützschena-Stahmeln"
+        },
+        {
+          "value": 2,
+          "district": "Lindenthal"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Eutritzsch"
+        },
+        {
+          "value": 2,
+          "district": "Seehausen"
+        },
+        {
+          "value": 2,
+          "district": "Wiederitzsch"
+        }
+      ],
+      "Wirtschaftliche Lage": [
+        {
+          "value": 2,
+          "district": "Zentrum"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Südost"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-West"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Nordwest"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Abtnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Thekla"
+        },
+        {
+          "value": 2,
+          "district": "Plaußig-Portitz"
+        },
+        {
+          "value": 2,
+          "district": "Neustadt-Neuschönefeld"
+        },
+        {
+          "value": 2,
+          "district": "Volkmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Anger-Crottendorf"
+        },
+        {
+          "value": 2,
+          "district": "Sellerhausen-Stünz"
+        },
+        {
+          "value": 2,
+          "district": "Paunsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Heiterblick"
+        },
+        {
+          "value": 2,
+          "district": "Mölkau"
+        },
+        {
+          "value": 2,
+          "district": "Engelsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Baalsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Althen-Kleinpösna"
+        },
+        {
+          "value": 2,
+          "district": "Reudnitz-Thonberg"
+        },
+        {
+          "value": 2,
+          "district": "Stötteritz"
+        },
+        {
+          "value": 2,
+          "district": "Probstheida"
+        },
+        {
+          "value": 2,
+          "district": "Meusdorf"
+        },
+        {
+          "value": 2,
+          "district": "Liebertwolkwitz"
+        },
+        {
+          "value": 2,
+          "district": "Holzhausen"
+        },
+        {
+          "value": 2,
+          "district": "Südvorstadt"
+        },
+        {
+          "value": 2,
+          "district": "Connewitz"
+        },
+        {
+          "value": 2,
+          "district": "Marienbrunn"
+        },
+        {
+          "value": 2,
+          "district": "Lößnig"
+        },
+        {
+          "value": 2,
+          "district": "Dölitz-Dösen"
+        },
+        {
+          "value": 2,
+          "district": "Schleußig"
+        },
+        {
+          "value": 2,
+          "district": "Plagwitz"
+        },
+        {
+          "value": 2,
+          "district": "Kleinzschocher"
+        },
+        {
+          "value": 2,
+          "district": "Großzschocher"
+        },
+        {
+          "value": 2,
+          "district": "Knautkleeberg-Knauthain"
+        },
+        {
+          "value": 2,
+          "district": "Hartmannsdorf-Knautnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Siedlung"
+        },
+        {
+          "value": 2,
+          "district": "Lausen-Grünau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Miltitz"
+        },
+        {
+          "value": 2,
+          "district": "Lindenau"
+        },
+        {
+          "value": 2,
+          "district": "Altlindenau"
+        },
+        {
+          "value": 2,
+          "district": "Neulindenau"
+        },
+        {
+          "value": 2,
+          "district": "Leutzsch"
+        },
+        {
+          "value": 2,
+          "district": "Böhlitz-Ehrenberg"
+        },
+        {
+          "value": 2,
+          "district": "Burghausen-Rückmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Möckern"
+        },
+        {
+          "value": 2,
+          "district": "Wahren"
+        },
+        {
+          "value": 2,
+          "district": "Lützschena-Stahmeln"
+        },
+        {
+          "value": 2,
+          "district": "Lindenthal"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Eutritzsch"
+        },
+        {
+          "value": 2,
+          "district": "Seehausen"
+        },
+        {
+          "value": 2,
+          "district": "Wiederitzsch"
+        }
+      ]
+    },
+    "2023": {
+      "Zukunftsaussicht": [
+        {
+          "value": 2,
+          "district": "Zentrum"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Ost"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-Südost"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Süd"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-West"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-Nordwest"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Abtnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Thekla"
+        },
+        {
+          "value": 2,
+          "district": "Plaußig-Portitz"
+        },
+        {
+          "value": 2,
+          "district": "Neustadt-Neuschönefeld"
+        },
+        {
+          "value": 2,
+          "district": "Volkmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Anger-Crottendorf"
+        },
+        {
+          "value": 2,
+          "district": "Sellerhausen-Stünz"
+        },
+        {
+          "value": 2,
+          "district": "Paunsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Heiterblick"
+        },
+        {
+          "value": 2,
+          "district": "Mölkau"
+        },
+        {
+          "value": 2,
+          "district": "Engelsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Baalsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Althen-Kleinpösna"
+        },
+        {
+          "value": 2,
+          "district": "Reudnitz-Thonberg"
+        },
+        {
+          "value": 2,
+          "district": "Stötteritz"
+        },
+        {
+          "value": 2,
+          "district": "Probstheida"
+        },
+        {
+          "value": 2,
+          "district": "Meusdorf"
+        },
+        {
+          "value": 2,
+          "district": "Liebertwolkwitz"
+        },
+        {
+          "value": 2,
+          "district": "Holzhausen"
+        },
+        {
+          "value": 2,
+          "district": "Südvorstadt"
+        },
+        {
+          "value": 2,
+          "district": "Connewitz"
+        },
+        {
+          "value": 2,
+          "district": "Marienbrunn"
+        },
+        {
+          "value": 2,
+          "district": "Lößnig"
+        },
+        {
+          "value": 2,
+          "district": "Dölitz-Dösen"
+        },
+        {
+          "value": 2,
+          "district": "Schleußig"
+        },
+        {
+          "value": 2,
+          "district": "Plagwitz"
+        },
+        {
+          "value": 2,
+          "district": "Kleinzschocher"
+        },
+        {
+          "value": 2,
+          "district": "Großzschocher"
+        },
+        {
+          "value": 2,
+          "district": "Knautkleeberg-Knauthain"
+        },
+        {
+          "value": 2,
+          "district": "Hartmannsdorf-Knautnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Siedlung"
+        },
+        {
+          "value": 2,
+          "district": "Lausen-Grünau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Miltitz"
+        },
+        {
+          "value": 2,
+          "district": "Lindenau"
+        },
+        {
+          "value": 2,
+          "district": "Altlindenau"
+        },
+        {
+          "value": 2,
+          "district": "Neulindenau"
+        },
+        {
+          "value": 2,
+          "district": "Leutzsch"
+        },
+        {
+          "value": 2,
+          "district": "Böhlitz-Ehrenberg"
+        },
+        {
+          "value": 2,
+          "district": "Burghausen-Rückmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Möckern"
+        },
+        {
+          "value": 2,
+          "district": "Wahren"
+        },
+        {
+          "value": 2,
+          "district": "Lützschena-Stahmeln"
+        },
+        {
+          "value": 2,
+          "district": "Lindenthal"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Eutritzsch"
+        },
+        {
+          "value": 2,
+          "district": "Seehausen"
+        },
+        {
+          "value": 2,
+          "district": "Wiederitzsch"
+        }
+      ],
+      "Wirtschaftliche Lage": [
+        {
+          "value": 2,
+          "district": "Zentrum"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Südost"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-West"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Nordwest"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Abtnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Thekla"
+        },
+        {
+          "value": 2,
+          "district": "Plaußig-Portitz"
+        },
+        {
+          "value": 2,
+          "district": "Neustadt-Neuschönefeld"
+        },
+        {
+          "value": 2,
+          "district": "Volkmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Anger-Crottendorf"
+        },
+        {
+          "value": 2,
+          "district": "Sellerhausen-Stünz"
+        },
+        {
+          "value": 2,
+          "district": "Paunsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Heiterblick"
+        },
+        {
+          "value": 2,
+          "district": "Mölkau"
+        },
+        {
+          "value": 2,
+          "district": "Engelsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Baalsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Althen-Kleinpösna"
+        },
+        {
+          "value": 2,
+          "district": "Reudnitz-Thonberg"
+        },
+        {
+          "value": 2,
+          "district": "Stötteritz"
+        },
+        {
+          "value": 2,
+          "district": "Probstheida"
+        },
+        {
+          "value": 2,
+          "district": "Meusdorf"
+        },
+        {
+          "value": 2,
+          "district": "Liebertwolkwitz"
+        },
+        {
+          "value": 2,
+          "district": "Holzhausen"
+        },
+        {
+          "value": 2,
+          "district": "Südvorstadt"
+        },
+        {
+          "value": 2,
+          "district": "Connewitz"
+        },
+        {
+          "value": 2,
+          "district": "Marienbrunn"
+        },
+        {
+          "value": 2,
+          "district": "Lößnig"
+        },
+        {
+          "value": 2,
+          "district": "Dölitz-Dösen"
+        },
+        {
+          "value": 2,
+          "district": "Schleußig"
+        },
+        {
+          "value": 2,
+          "district": "Plagwitz"
+        },
+        {
+          "value": 2,
+          "district": "Kleinzschocher"
+        },
+        {
+          "value": 2,
+          "district": "Großzschocher"
+        },
+        {
+          "value": 2,
+          "district": "Knautkleeberg-Knauthain"
+        },
+        {
+          "value": 2,
+          "district": "Hartmannsdorf-Knautnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Siedlung"
+        },
+        {
+          "value": 2,
+          "district": "Lausen-Grünau"
+        },
+        {
+          "value": 3,
+          "district": "Grünau-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Miltitz"
+        },
+        {
+          "value": 2,
+          "district": "Lindenau"
+        },
+        {
+          "value": 2,
+          "district": "Altlindenau"
+        },
+        {
+          "value": 2,
+          "district": "Neulindenau"
+        },
+        {
+          "value": 2,
+          "district": "Leutzsch"
+        },
+        {
+          "value": 2,
+          "district": "Böhlitz-Ehrenberg"
+        },
+        {
+          "value": 2,
+          "district": "Burghausen-Rückmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Möckern"
+        },
+        {
+          "value": 2,
+          "district": "Wahren"
+        },
+        {
+          "value": 2,
+          "district": "Lützschena-Stahmeln"
+        },
+        {
+          "value": 2,
+          "district": "Lindenthal"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Eutritzsch"
+        },
+        {
+          "value": 2,
+          "district": "Seehausen"
+        },
+        {
+          "value": 2,
+          "district": "Wiederitzsch"
+        }
+      ],
+      "Lebenszufriedenheit": [
+        {
+          "value": 2,
+          "district": "Zentrum"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Südost"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Süd"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-West"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Nordwest"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Abtnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Thekla"
+        },
+        {
+          "value": 2,
+          "district": "Plaußig-Portitz"
+        },
+        {
+          "value": 2,
+          "district": "Neustadt-Neuschönefeld"
+        },
+        {
+          "value": 2,
+          "district": "Volkmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Anger-Crottendorf"
+        },
+        {
+          "value": 2,
+          "district": "Sellerhausen-Stünz"
+        },
+        {
+          "value": 2,
+          "district": "Paunsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Heiterblick"
+        },
+        {
+          "value": 2,
+          "district": "Mölkau"
+        },
+        {
+          "value": 2,
+          "district": "Engelsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Baalsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Althen-Kleinpösna"
+        },
+        {
+          "value": 2,
+          "district": "Reudnitz-Thonberg"
+        },
+        {
+          "value": 2,
+          "district": "Stötteritz"
+        },
+        {
+          "value": 2,
+          "district": "Probstheida"
+        },
+        {
+          "value": 2,
+          "district": "Meusdorf"
+        },
+        {
+          "value": 2,
+          "district": "Liebertwolkwitz"
+        },
+        {
+          "value": 2,
+          "district": "Holzhausen"
+        },
+        {
+          "value": 1,
+          "district": "Südvorstadt"
+        },
+        {
+          "value": 2,
+          "district": "Connewitz"
+        },
+        {
+          "value": 2,
+          "district": "Marienbrunn"
+        },
+        {
+          "value": 2,
+          "district": "Lößnig"
+        },
+        {
+          "value": 2,
+          "district": "Dölitz-Dösen"
+        },
+        {
+          "value": 2,
+          "district": "Schleußig"
+        },
+        {
+          "value": 2,
+          "district": "Plagwitz"
+        },
+        {
+          "value": 2,
+          "district": "Kleinzschocher"
+        },
+        {
+          "value": 2,
+          "district": "Großzschocher"
+        },
+        {
+          "value": 2,
+          "district": "Knautkleeberg-Knauthain"
+        },
+        {
+          "value": 2,
+          "district": "Hartmannsdorf-Knautnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Siedlung"
+        },
+        {
+          "value": 2,
+          "district": "Lausen-Grünau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Miltitz"
+        },
+        {
+          "value": 1,
+          "district": "Lindenau"
+        },
+        {
+          "value": 2,
+          "district": "Altlindenau"
+        },
+        {
+          "value": 2,
+          "district": "Neulindenau"
+        },
+        {
+          "value": 2,
+          "district": "Leutzsch"
+        },
+        {
+          "value": 2,
+          "district": "Böhlitz-Ehrenberg"
+        },
+        {
+          "value": 2,
+          "district": "Burghausen-Rückmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Möckern"
+        },
+        {
+          "value": 2,
+          "district": "Wahren"
+        },
+        {
+          "value": 2,
+          "district": "Lützschena-Stahmeln"
+        },
+        {
+          "value": 2,
+          "district": "Lindenthal"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Eutritzsch"
+        },
+        {
+          "value": 2,
+          "district": "Seehausen"
+        },
+        {
+          "value": 2,
+          "district": "Wiederitzsch"
+        }
+      ],
+      "Wohnviertel": [
+        {
+          "value": 1,
+          "district": "Zentrum"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Südost"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-Süd"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-West"
+        },
+        {
+          "value": 1,
+          "district": "Zentrum-Nordwest"
+        },
+        {
+          "value": 2,
+          "district": "Zentrum-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Abtnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönefeld-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Mockau-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Thekla"
+        },
+        {
+          "value": 2,
+          "district": "Plaußig-Portitz"
+        },
+        {
+          "value": 2,
+          "district": "Neustadt-Neuschönefeld"
+        },
+        {
+          "value": 2,
+          "district": "Volkmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Anger-Crottendorf"
+        },
+        {
+          "value": 2,
+          "district": "Sellerhausen-Stünz"
+        },
+        {
+          "value": 2,
+          "district": "Paunsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Heiterblick"
+        },
+        {
+          "value": 1,
+          "district": "Mölkau"
+        },
+        {
+          "value": 2,
+          "district": "Engelsdorf"
+        },
+        {
+          "value": 1,
+          "district": "Baalsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Althen-Kleinpösna"
+        },
+        {
+          "value": 2,
+          "district": "Reudnitz-Thonberg"
+        },
+        {
+          "value": 2,
+          "district": "Stötteritz"
+        },
+        {
+          "value": 2,
+          "district": "Probstheida"
+        },
+        {
+          "value": 1,
+          "district": "Meusdorf"
+        },
+        {
+          "value": 1,
+          "district": "Liebertwolkwitz"
+        },
+        {
+          "value": 1,
+          "district": "Holzhausen"
+        },
+        {
+          "value": 1,
+          "district": "Südvorstadt"
+        },
+        {
+          "value": 1,
+          "district": "Connewitz"
+        },
+        {
+          "value": 1,
+          "district": "Marienbrunn"
+        },
+        {
+          "value": 2,
+          "district": "Lößnig"
+        },
+        {
+          "value": 2,
+          "district": "Dölitz-Dösen"
+        },
+        {
+          "value": 1,
+          "district": "Schleußig"
+        },
+        {
+          "value": 1,
+          "district": "Plagwitz"
+        },
+        {
+          "value": 2,
+          "district": "Kleinzschocher"
+        },
+        {
+          "value": 2,
+          "district": "Großzschocher"
+        },
+        {
+          "value": 2,
+          "district": "Knautkleeberg-Knauthain"
+        },
+        {
+          "value": 2,
+          "district": "Hartmannsdorf-Knautnaundorf"
+        },
+        {
+          "value": 2,
+          "district": "Schönau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Ost"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Siedlung"
+        },
+        {
+          "value": 2,
+          "district": "Lausen-Grünau"
+        },
+        {
+          "value": 2,
+          "district": "Grünau-Nord"
+        },
+        {
+          "value": 1,
+          "district": "Miltitz"
+        },
+        {
+          "value": 2,
+          "district": "Lindenau"
+        },
+        {
+          "value": 2,
+          "district": "Altlindenau"
+        },
+        {
+          "value": 2,
+          "district": "Neulindenau"
+        },
+        {
+          "value": 2,
+          "district": "Leutzsch"
+        },
+        {
+          "value": 2,
+          "district": "Böhlitz-Ehrenberg"
+        },
+        {
+          "value": 1,
+          "district": "Burghausen-Rückmarsdorf"
+        },
+        {
+          "value": 2,
+          "district": "Möckern"
+        },
+        {
+          "value": 2,
+          "district": "Wahren"
+        },
+        {
+          "value": 2,
+          "district": "Lützschena-Stahmeln"
+        },
+        {
+          "value": 2,
+          "district": "Lindenthal"
+        },
+        {
+          "value": 1,
+          "district": "Gohlis-Süd"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Mitte"
+        },
+        {
+          "value": 2,
+          "district": "Gohlis-Nord"
+        },
+        {
+          "value": 2,
+          "district": "Eutritzsch"
+        },
+        {
+          "value": 2,
+          "district": "Seehausen"
+        },
+        {
+          "value": 2,
+          "district": "Wiederitzsch"
+        }
+      ]
+    }
+  }
+}

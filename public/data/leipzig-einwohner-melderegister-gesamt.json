@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=2&rubrik_nr=37&periode=y",
+    "title": "Einwohner (Melderegister)__gesamt"
+  },
+  "data": {
+    "2017": {
+      "Einwohner gesamt (Melderegister)": [
+        {
+          "value": 590337
+        }
+      ],
+      "evangelisch-lutherisch": [
+        {
+          "value": 67197
+        }
+      ],
+      "römisch-katholisch": [
+        {
+          "value": 26568
+        }
+      ],
+      "verschiedene oder ohne": [
+        {
+          "value": 496572
+        }
+      ]
+    },
+    "2018": {
+      "verschiedene oder ohne": [
+        {
+          "value": 502401
+        }
+      ],
+      "römisch-katholisch": [
+        {
+          "value": 26725
+        }
+      ],
+      "evangelisch-lutherisch": [
+        {
+          "value": 67391
+        }
+      ],
+      "Einwohner gesamt (Melderegister)": [
+        {
+          "value": 596517
+        }
+      ]
+    },
+    "2019": {
+      "Einwohner gesamt (Melderegister)": [
+        {
+          "value": 601668
+        }
+      ],
+      "evangelisch-lutherisch": [
+        {
+          "value": 66996
+        }
+      ],
+      "römisch-katholisch": [
+        {
+          "value": 26733
+        }
+      ],
+      "verschiedene oder ohne": [
+        {
+          "value": 507939
+        }
+      ]
+    },
+    "2020": {
+      "verschiedene oder ohne": [
+        {
+          "value": 512032
+        }
+      ],
+      "römisch-katholisch": [
+        {
+          "value": 26850
+        }
+      ],
+      "evangelisch-lutherisch": [
+        {
+          "value": 66525
+        }
+      ],
+      "Einwohner gesamt (Melderegister)": [
+        {
+          "value": 605407
+        }
+      ]
+    },
+    "2021": {
+      "Einwohner gesamt (Melderegister)": [
+        {
+          "value": 609869
+        }
+      ],
+      "evangelisch-lutherisch": [
+        {
+          "value": 65117
+        }
+      ],
+      "römisch-katholisch": [
+        {
+          "value": 26394
+        }
+      ],
+      "verschiedene oder ohne": [
+        {
+          "value": 518358
+        }
+      ]
+    },
+    "2022": {
+      "verschiedene oder ohne": [
+        {
+          "value": 535967
+        }
+      ],
+      "römisch-katholisch": [
+        {
+          "value": 25468
+        }
+      ],
+      "evangelisch-lutherisch": [
+        {
+          "value": 63254
+        }
+      ],
+      "Einwohner gesamt (Melderegister)": [
+        {
+          "value": 624689
+        }
+      ]
+    }
+  }
+}

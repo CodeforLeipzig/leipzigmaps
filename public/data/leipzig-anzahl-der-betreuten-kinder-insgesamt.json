@@ -1,0 +1,834 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=4&rubrik_nr=2&periode=y",
+    "title": "Anzahl der betreuten Kinder__insgesamt"
+  },
+  "data": {
+    "2011": {
+      "Insgesamt": [
+        {
+          "value": 2097
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 482
+        }
+      ],
+      "Mädchen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Jungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "unter 1": [
+        {
+          "value": 133
+        }
+      ],
+      "1 bis 3": [
+        {
+          "value": 1888
+        }
+      ],
+      "3 bis 6": [
+        {
+          "value": 71
+        }
+      ],
+      "6 und älter": [
+        {
+          "value": 5
+        }
+      ],
+      "Frauen": [
+        {
+          "value": null
+        }
+      ],
+      "Männer": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2012": {
+      "Insgesamt": [
+        {
+          "value": 2146
+        },
+        {
+          "value": 140
+        },
+        {
+          "value": 482
+        }
+      ],
+      "Mädchen": [
+        {
+          "value": 1068
+        },
+        {
+          "value": 70
+        }
+      ],
+      "Jungen": [
+        {
+          "value": 1078
+        },
+        {
+          "value": 70
+        }
+      ],
+      "unter 1": [
+        {
+          "value": 75
+        }
+      ],
+      "1 bis 3": [
+        {
+          "value": 1989
+        }
+      ],
+      "3 bis 6": [
+        {
+          "value": 77
+        }
+      ],
+      "6 und älter": [
+        {
+          "value": 5
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 438
+        }
+      ],
+      "Männer": [
+        {
+          "value": 44
+        }
+      ]
+    },
+    "2013": {
+      "Insgesamt": [
+        {
+          "value": 2399
+        },
+        {
+          "value": 179
+        },
+        {
+          "value": 534
+        }
+      ],
+      "Mädchen": [
+        {
+          "value": 1240
+        },
+        {
+          "value": 95
+        }
+      ],
+      "Jungen": [
+        {
+          "value": 1159
+        },
+        {
+          "value": 84
+        }
+      ],
+      "unter 1": [
+        {
+          "value": 89
+        }
+      ],
+      "1 bis 3": [
+        {
+          "value": 2218
+        }
+      ],
+      "3 bis 6": [
+        {
+          "value": 89
+        }
+      ],
+      "6 und älter": [
+        {
+          "value": 3
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 482
+        }
+      ],
+      "Männer": [
+        {
+          "value": 52
+        }
+      ]
+    },
+    "2014": {
+      "Insgesamt": [
+        {
+          "value": 2613
+        },
+        {
+          "value": 264
+        },
+        {
+          "value": 575
+        }
+      ],
+      "Mädchen": [
+        {
+          "value": 1291
+        },
+        {
+          "value": 118
+        }
+      ],
+      "Jungen": [
+        {
+          "value": 1322
+        },
+        {
+          "value": 146
+        }
+      ],
+      "unter 1": [
+        {
+          "value": 84
+        }
+      ],
+      "1 bis 3": [
+        {
+          "value": 2376
+        }
+      ],
+      "3 bis 6": [
+        {
+          "value": 153
+        }
+      ],
+      "6 und älter": [
+        {
+          "value": null
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 520
+        }
+      ],
+      "Männer": [
+        {
+          "value": 55
+        }
+      ]
+    },
+    "2015": {
+      "Insgesamt": [
+        {
+          "value": 2625
+        },
+        {
+          "value": 270
+        },
+        {
+          "value": 579
+        }
+      ],
+      "Mädchen": [
+        {
+          "value": 1290
+        },
+        {
+          "value": 131
+        }
+      ],
+      "Jungen": [
+        {
+          "value": 1335
+        },
+        {
+          "value": 139
+        }
+      ],
+      "unter 1": [
+        {
+          "value": 111
+        }
+      ],
+      "1 bis 3": [
+        {
+          "value": 2408
+        }
+      ],
+      "3 bis 6": [
+        {
+          "value": 106
+        }
+      ],
+      "6 und älter": [
+        {
+          "value": null
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 521
+        }
+      ],
+      "Männer": [
+        {
+          "value": 58
+        }
+      ]
+    },
+    "2016": {
+      "Insgesamt": [
+        {
+          "value": 2605
+        },
+        {
+          "value": 194
+        },
+        {
+          "value": 576
+        }
+      ],
+      "Mädchen": [
+        {
+          "value": 1270
+        },
+        {
+          "value": 94
+        }
+      ],
+      "Jungen": [
+        {
+          "value": 1335
+        },
+        {
+          "value": 100
+        }
+      ],
+      "unter 1": [
+        {
+          "value": 108
+        }
+      ],
+      "1 bis 3": [
+        {
+          "value": 2431
+        }
+      ],
+      "3 bis 6": [
+        {
+          "value": 66
+        }
+      ],
+      "6 und älter": [
+        {
+          "value": null
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 521
+        }
+      ],
+      "Männer": [
+        {
+          "value": 55
+        }
+      ]
+    },
+    "2017": {
+      "Insgesamt": [
+        {
+          "value": 2540
+        },
+        {
+          "value": 211
+        },
+        {
+          "value": 551
+        }
+      ],
+      "Mädchen": [
+        {
+          "value": 1214
+        },
+        {
+          "value": 99
+        }
+      ],
+      "Jungen": [
+        {
+          "value": 1326
+        },
+        {
+          "value": 112
+        }
+      ],
+      "unter 1": [
+        {
+          "value": 81
+        }
+      ],
+      "1 bis 3": [
+        {
+          "value": 2393
+        }
+      ],
+      "3 bis 6": [
+        {
+          "value": 66
+        }
+      ],
+      "6 und älter": [
+        {
+          "value": null
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 497
+        }
+      ],
+      "Männer": [
+        {
+          "value": 54
+        }
+      ]
+    },
+    "2018": {
+      "Insgesamt": [
+        {
+          "value": 2687
+        },
+        {
+          "value": 220
+        },
+        {
+          "value": 595
+        }
+      ],
+      "Mädchen": [
+        {
+          "value": 1174
+        },
+        {
+          "value": 91
+        }
+      ],
+      "Jungen": [
+        {
+          "value": 1513
+        },
+        {
+          "value": 129
+        }
+      ],
+      "unter 1": [
+        {
+          "value": 68
+        }
+      ],
+      "1 bis 3": [
+        {
+          "value": 2505
+        }
+      ],
+      "3 bis 6": [
+        {
+          "value": null
+        }
+      ],
+      "6 und älter": [
+        {
+          "value": null
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 532
+        }
+      ],
+      "Männer": [
+        {
+          "value": 63
+        }
+      ]
+    },
+    "2019": {
+      "Insgesamt": [
+        {
+          "value": 2782
+        },
+        {
+          "value": 254
+        },
+        {
+          "value": 600
+        }
+      ],
+      "Mädchen": [
+        {
+          "value": 1309
+        },
+        {
+          "value": 119
+        }
+      ],
+      "Jungen": [
+        {
+          "value": 1473
+        },
+        {
+          "value": 135
+        }
+      ],
+      "unter 1": [
+        {
+          "value": 91
+        }
+      ],
+      "1 bis 3": [
+        {
+          "value": 2557
+        }
+      ],
+      "3 bis 6": [
+        {
+          "value": 134
+        }
+      ],
+      "6 und älter": [
+        {
+          "value": null
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 541
+        }
+      ],
+      "Männer": [
+        {
+          "value": 59
+        }
+      ]
+    },
+    "2020": {
+      "Insgesamt": [
+        {
+          "value": 2746
+        },
+        {
+          "value": 368
+        },
+        {
+          "value": 605
+        }
+      ],
+      "Mädchen": [
+        {
+          "value": 1305
+        },
+        {
+          "value": 166
+        }
+      ],
+      "Jungen": [
+        {
+          "value": 1441
+        },
+        {
+          "value": 202
+        }
+      ],
+      "unter 1": [
+        {
+          "value": 98
+        }
+      ],
+      "1 bis 3": [
+        {
+          "value": 2520
+        }
+      ],
+      "3 bis 6": [
+        {
+          "value": null
+        }
+      ],
+      "6 und älter": [
+        {
+          "value": null
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 543
+        }
+      ],
+      "Männer": [
+        {
+          "value": 62
+        }
+      ]
+    },
+    "2021": {
+      "Insgesamt": [
+        {
+          "value": 2364
+        },
+        {
+          "value": 343
+        },
+        {
+          "value": 552
+        }
+      ],
+      "Mädchen": [
+        {
+          "value": 1114
+        },
+        {
+          "value": 151
+        }
+      ],
+      "Jungen": [
+        {
+          "value": 1250
+        },
+        {
+          "value": 192
+        }
+      ],
+      "unter 1": [
+        {
+          "value": 93
+        }
+      ],
+      "1 bis 3": [
+        {
+          "value": 2175
+        }
+      ],
+      "3 bis 6": [
+        {
+          "value": null
+        }
+      ],
+      "6 und älter": [
+        {
+          "value": null
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 499
+        }
+      ],
+      "Männer": [
+        {
+          "value": 53
+        }
+      ]
+    },
+    "2022": {
+      "Insgesamt": [
+        {
+          "value": 2139
+        },
+        {
+          "value": 310
+        },
+        {
+          "value": 486
+        }
+      ],
+      "Mädchen": [
+        {
+          "value": 1150
+        },
+        {
+          "value": 153
+        }
+      ],
+      "Jungen": [
+        {
+          "value": 989
+        },
+        {
+          "value": 157
+        }
+      ],
+      "unter 1": [
+        {
+          "value": 105
+        }
+      ],
+      "1 bis 3": [
+        {
+          "value": 1955
+        }
+      ],
+      "3 bis 6": [
+        {
+          "value": null
+        }
+      ],
+      "6 und älter": [
+        {
+          "value": null
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 443
+        }
+      ],
+      "Männer": [
+        {
+          "value": 43
+        }
+      ]
+    },
+    "2023": {
+      "Insgesamt": [
+        {
+          "value": 1929
+        },
+        {
+          "value": 300
+        },
+        {
+          "value": 437
+        }
+      ],
+      "Mädchen": [
+        {
+          "value": 899
+        },
+        {
+          "value": 165
+        }
+      ],
+      "Jungen": [
+        {
+          "value": 1030
+        },
+        {
+          "value": 135
+        }
+      ],
+      "unter 1": [
+        {
+          "value": 83
+        }
+      ],
+      "1 bis 3": [
+        {
+          "value": 1800
+        }
+      ],
+      "3 bis 6": [
+        {
+          "value": 46
+        }
+      ],
+      "6 und älter": [
+        {
+          "value": null
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 398
+        }
+      ],
+      "Männer": [
+        {
+          "value": 39
+        }
+      ]
+    },
+    "2024": {
+      "Insgesamt": [
+        {
+          "value": 1483
+        },
+        {
+          "value": 216
+        },
+        {
+          "value": 352
+        }
+      ],
+      "Mädchen": [
+        {
+          "value": 678
+        },
+        {
+          "value": 126
+        }
+      ],
+      "Jungen": [
+        {
+          "value": 805
+        },
+        {
+          "value": 90
+        }
+      ],
+      "unter 1": [
+        {
+          "value": 66
+        }
+      ],
+      "1 bis 3": [
+        {
+          "value": 1372
+        }
+      ],
+      "3 bis 6": [
+        {
+          "value": null
+        }
+      ],
+      "6 und älter": [
+        {
+          "value": null
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 319
+        }
+      ],
+      "Männer": [
+        {
+          "value": 33
+        }
+      ]
+    }
+  }
+}

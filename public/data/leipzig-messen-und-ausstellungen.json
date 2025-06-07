@@ -1,0 +1,492 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=8&rubrik_nr=11&periode=y",
+    "title": "Messen und Ausstellungen"
+  },
+  "data": {
+    "2001": {
+      "Messen und Ausstellungen": [
+        {
+          "value": 28
+        }
+      ],
+      "Anzahl der Aussteller": [
+        {
+          "value": 11443
+        }
+      ],
+      "Anzahl der Besucher (alle Veranstaltungen)": [
+        {
+          "value": 993850
+        }
+      ],
+      "Kongresse": [
+        {
+          "value": 75
+        }
+      ]
+    },
+    "2002": {
+      "Kongresse": [
+        {
+          "value": 60
+        }
+      ],
+      "Messen und Ausstellungen": [
+        {
+          "value": 35
+        }
+      ],
+      "Anzahl der Aussteller": [
+        {
+          "value": 11548
+        }
+      ],
+      "Anzahl der Besucher (alle Veranstaltungen)": [
+        {
+          "value": 1128890
+        }
+      ]
+    },
+    "2003": {
+      "Anzahl der Besucher (alle Veranstaltungen)": [
+        {
+          "value": 1131950
+        }
+      ],
+      "Anzahl der Aussteller": [
+        {
+          "value": 16026
+        }
+      ],
+      "Messen und Ausstellungen": [
+        {
+          "value": 38
+        }
+      ],
+      "Kongresse": [
+        {
+          "value": 85
+        }
+      ]
+    },
+    "2004": {
+      "Kongresse": [
+        {
+          "value": 95
+        }
+      ],
+      "Messen und Ausstellungen": [
+        {
+          "value": 37
+        }
+      ],
+      "Anzahl der Aussteller": [
+        {
+          "value": 17259
+        }
+      ],
+      "Anzahl der Besucher (alle Veranstaltungen)": [
+        {
+          "value": 1146510
+        }
+      ]
+    },
+    "2005": {
+      "Messen und Ausstellungen": [
+        {
+          "value": 44
+        }
+      ],
+      "Anzahl der Aussteller": [
+        {
+          "value": 18144
+        }
+      ],
+      "Anzahl der Besucher (alle Veranstaltungen)": [
+        {
+          "value": 1295290
+        }
+      ],
+      "Kongresse": [
+        {
+          "value": 79
+        }
+      ]
+    },
+    "2006": {
+      "Kongresse": [
+        {
+          "value": 84
+        }
+      ],
+      "Messen und Ausstellungen": [
+        {
+          "value": 25
+        }
+      ],
+      "Anzahl der Aussteller": [
+        {
+          "value": 9953
+        }
+      ],
+      "Anzahl der Besucher (alle Veranstaltungen)": [
+        {
+          "value": 1437300
+        }
+      ]
+    },
+    "2007": {
+      "Messen und Ausstellungen": [
+        {
+          "value": 31
+        }
+      ],
+      "Anzahl der Aussteller": [
+        {
+          "value": 12706
+        }
+      ],
+      "Anzahl der Besucher (alle Veranstaltungen)": [
+        {
+          "value": 1554790
+        }
+      ],
+      "Kongresse": [
+        {
+          "value": 98
+        }
+      ]
+    },
+    "2008": {
+      "Kongresse": [
+        {
+          "value": 103
+        }
+      ],
+      "Messen und Ausstellungen": [
+        {
+          "value": 26
+        }
+      ],
+      "Anzahl der Aussteller": [
+        {
+          "value": 10175
+        }
+      ],
+      "Anzahl der Besucher (alle Veranstaltungen)": [
+        {
+          "value": 1456630
+        }
+      ]
+    },
+    "2009": {
+      "Kongresse": [
+        {
+          "value": 98
+        }
+      ],
+      "Messen und Ausstellungen": [
+        {
+          "value": 30
+        }
+      ],
+      "Anzahl der Aussteller": [
+        {
+          "value": 10842
+        }
+      ],
+      "Anzahl der Besucher (alle Veranstaltungen)": [
+        {
+          "value": 1446480
+        }
+      ]
+    },
+    "2010": {
+      "Messen und Ausstellungen": [
+        {
+          "value": 29
+        }
+      ],
+      "Anzahl der Aussteller": [
+        {
+          "value": 9939
+        }
+      ],
+      "Anzahl der Besucher (alle Veranstaltungen)": [
+        {
+          "value": 1298640
+        }
+      ],
+      "Kongresse": [
+        {
+          "value": 108
+        }
+      ]
+    },
+    "2011": {
+      "Messen und Ausstellungen": [
+        {
+          "value": 36
+        }
+      ],
+      "Kongresse": [
+        {
+          "value": 93
+        }
+      ],
+      "Anzahl der Aussteller": [
+        {
+          "value": 11536
+        }
+      ],
+      "Anzahl der Besucher (alle Veranstaltungen)": [
+        {
+          "value": 1187130
+        }
+      ]
+    },
+    "2012": {
+      "Messen und Ausstellungen": [
+        {
+          "value": 33
+        }
+      ],
+      "Kongresse": [
+        {
+          "value": 98
+        }
+      ],
+      "Anzahl der Aussteller": [
+        {
+          "value": 9602
+        }
+      ],
+      "Anzahl der Besucher (alle Veranstaltungen)": [
+        {
+          "value": 1179670
+        }
+      ]
+    },
+    "2013": {
+      "Messen und Ausstellungen": [
+        {
+          "value": 37
+        }
+      ],
+      "Kongresse": [
+        {
+          "value": 94
+        }
+      ],
+      "Anzahl der Aussteller": [
+        {
+          "value": 11570
+        }
+      ],
+      "Anzahl der Besucher (alle Veranstaltungen)": [
+        {
+          "value": 1187130
+        }
+      ]
+    },
+    "2014": {
+      "Messen und Ausstellungen": [
+        {
+          "value": 36
+        }
+      ],
+      "Kongresse": [
+        {
+          "value": 88
+        }
+      ],
+      "Anzahl der Aussteller": [
+        {
+          "value": 9827
+        }
+      ],
+      "Anzahl der Besucher (alle Veranstaltungen)": [
+        {
+          "value": 1242310
+        }
+      ]
+    },
+    "2015": {
+      "Messen und Ausstellungen": [
+        {
+          "value": 36
+        }
+      ],
+      "Kongresse": [
+        {
+          "value": 142
+        }
+      ],
+      "Anzahl der Aussteller": [
+        {
+          "value": 11293
+        }
+      ],
+      "Anzahl der Besucher (alle Veranstaltungen)": [
+        {
+          "value": 1123340
+        }
+      ]
+    },
+    "2016": {
+      "Messen und Ausstellungen": [
+        {
+          "value": 35
+        }
+      ],
+      "Kongresse": [
+        {
+          "value": 195
+        }
+      ],
+      "Anzahl der Aussteller": [
+        {
+          "value": 9527
+        }
+      ],
+      "Anzahl der Besucher (alle Veranstaltungen)": [
+        {
+          "value": 1192930
+        }
+      ]
+    },
+    "2017": {
+      "Messen und Ausstellungen": [
+        {
+          "value": 29
+        }
+      ],
+      "Kongresse": [
+        {
+          "value": 178
+        }
+      ],
+      "Anzahl der Aussteller": [
+        {
+          "value": 15547
+        }
+      ],
+      "Anzahl der Besucher (alle Veranstaltungen)": [
+        {
+          "value": 1239100
+        }
+      ]
+    },
+    "2018": {
+      "Messen und Ausstellungen": [
+        {
+          "value": 23
+        }
+      ],
+      "Kongresse": [
+        {
+          "value": 175
+        }
+      ],
+      "Anzahl der Aussteller": [
+        {
+          "value": 15214
+        }
+      ],
+      "Anzahl der Besucher (alle Veranstaltungen)": [
+        {
+          "value": 1234900
+        }
+      ]
+    },
+    "2019": {
+      "Messen und Ausstellungen": [
+        {
+          "value": 32
+        }
+      ],
+      "Kongresse": [
+        {
+          "value": 188
+        }
+      ],
+      "Anzahl der Aussteller": [
+        {
+          "value": 15360
+        }
+      ],
+      "Anzahl der Besucher (alle Veranstaltungen)": [
+        {
+          "value": 1202430
+        }
+      ]
+    },
+    "2020": {
+      "Messen und Ausstellungen": [
+        {
+          "value": 12
+        }
+      ],
+      "Kongresse": [
+        {
+          "value": 94
+        }
+      ],
+      "Anzahl der Aussteller": [
+        {
+          "value": 3205
+        }
+      ],
+      "Anzahl der Besucher (alle Veranstaltungen)": [
+        {
+          "value": 350201
+        }
+      ]
+    },
+    "2021": {
+      "Messen und Ausstellungen": [
+        {
+          "value": 13
+        }
+      ],
+      "Kongresse": [
+        {
+          "value": 82
+        }
+      ],
+      "Anzahl der Aussteller": [
+        {
+          "value": 2508
+        }
+      ],
+      "Anzahl der Besucher (alle Veranstaltungen)": [
+        {
+          "value": 133272
+        }
+      ]
+    },
+    "2022": {
+      "Messen und Ausstellungen": [
+        {
+          "value": 20
+        }
+      ],
+      "Kongresse": [
+        {
+          "value": 157
+        }
+      ],
+      "Anzahl der Aussteller": [
+        {
+          "value": 7838
+        }
+      ],
+      "Anzahl der Besucher (alle Veranstaltungen)": [
+        {
+          "value": 436192
+        }
+      ]
+    }
+  }
+}

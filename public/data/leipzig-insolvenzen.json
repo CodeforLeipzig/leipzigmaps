@@ -1,0 +1,1016 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=8&rubrik_nr=7&periode=y",
+    "title": "Insolvenzen"
+  },
+  "data": {
+    "2001": {
+      "Insolvenzen": [
+        {
+          "value": 520
+        }
+      ],
+      "Unternehmen insgesamt": [
+        {
+          "value": 426
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": null
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": null
+        }
+      ],
+      "Dienstleistungen": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2002": {
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": null
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": null
+        }
+      ],
+      "Dienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "Insolvenzen": [
+        {
+          "value": 780
+        }
+      ],
+      "Unternehmen insgesamt": [
+        {
+          "value": 393
+        }
+      ]
+    },
+    "2003": {
+      "Insolvenzen": [
+        {
+          "value": 998
+        }
+      ],
+      "Unternehmen insgesamt": [
+        {
+          "value": 395
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": null
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": null
+        }
+      ],
+      "Dienstleistungen": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2004": {
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": null
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": null
+        }
+      ],
+      "Dienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "Insolvenzen": [
+        {
+          "value": 1134
+        }
+      ],
+      "Unternehmen insgesamt": [
+        {
+          "value": 342
+        }
+      ]
+    },
+    "2005": {
+      "Insolvenzen": [
+        {
+          "value": 1640
+        }
+      ],
+      "Unternehmen insgesamt": [
+        {
+          "value": 402
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": null
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": null
+        }
+      ],
+      "Dienstleistungen": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2006": {
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": null
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": null
+        }
+      ],
+      "Dienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "Insolvenzen": [
+        {
+          "value": 2056
+        }
+      ],
+      "Unternehmen insgesamt": [
+        {
+          "value": 378
+        }
+      ]
+    },
+    "2007": {
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": null
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": null
+        }
+      ],
+      "Dienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "Insolvenzen": [
+        {
+          "value": 2295
+        }
+      ],
+      "Unternehmen insgesamt": [
+        {
+          "value": 344
+        }
+      ]
+    },
+    "2008": {
+      "Insolvenzen": [
+        {
+          "value": 1950
+        }
+      ],
+      "Unternehmen insgesamt": [
+        {
+          "value": 369
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 11
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 75
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 68
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 38
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 13
+        }
+      ],
+      "Dienstleistungen": [
+        {
+          "value": 137
+        }
+      ]
+    },
+    "2009": {
+      "Insolvenzen": [
+        {
+          "value": 2185
+        }
+      ],
+      "Unternehmen insgesamt": [
+        {
+          "value": 400
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 15
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 87
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 60
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 38
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 18
+        }
+      ],
+      "Dienstleistungen": [
+        {
+          "value": 151
+        }
+      ]
+    },
+    "2010": {
+      "Insolvenzen": [
+        {
+          "value": 2062
+        }
+      ],
+      "Unternehmen insgesamt": [
+        {
+          "value": 361
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 20
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 67
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 54
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 32
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 14
+        }
+      ],
+      "Dienstleistungen": [
+        {
+          "value": 131
+        }
+      ]
+    },
+    "2011": {
+      "Insolvenzen": [
+        {
+          "value": 1928
+        }
+      ],
+      "Unternehmen insgesamt": [
+        {
+          "value": 352
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 19
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 68
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 43
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 30
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 17
+        }
+      ],
+      "Dienstleistungen": [
+        {
+          "value": 136
+        }
+      ]
+    },
+    "2012": {
+      "Insolvenzen": [
+        {
+          "value": 1607
+        }
+      ],
+      "Unternehmen insgesamt": [
+        {
+          "value": 288
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 11
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 53
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 42
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 18
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 12
+        }
+      ],
+      "Dienstleistungen": [
+        {
+          "value": 144
+        }
+      ]
+    },
+    "2013": {
+      "Insolvenzen": [
+        {
+          "value": 1535
+        }
+      ],
+      "Unternehmen insgesamt": [
+        {
+          "value": 262
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 15
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 54
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 48
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 19
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 13
+        }
+      ],
+      "Dienstleistungen": [
+        {
+          "value": 110
+        }
+      ]
+    },
+    "2014": {
+      "Insolvenzen": [
+        {
+          "value": 1488
+        }
+      ],
+      "Unternehmen insgesamt": [
+        {
+          "value": 248
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 13
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 49
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 36
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 29
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 6
+        }
+      ],
+      "Dienstleistungen": [
+        {
+          "value": 82
+        }
+      ]
+    },
+    "2015": {
+      "Insolvenzen": [
+        {
+          "value": 1381
+        }
+      ],
+      "Unternehmen insgesamt": [
+        {
+          "value": 200
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 7
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 42
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 32
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 19
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 6
+        }
+      ],
+      "Dienstleistungen": [
+        {
+          "value": 64
+        }
+      ]
+    },
+    "2016": {
+      "Insolvenzen": [
+        {
+          "value": 1237
+        }
+      ],
+      "Unternehmen insgesamt": [
+        {
+          "value": 212
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 9
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 38
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 29
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 20
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 7
+        }
+      ],
+      "Dienstleistungen": [
+        {
+          "value": 61
+        }
+      ]
+    },
+    "2017": {
+      "Insolvenzen": [
+        {
+          "value": 1283
+        }
+      ],
+      "Unternehmen insgesamt": [
+        {
+          "value": 197
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 3
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 26
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 25
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 28
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 13
+        }
+      ],
+      "Dienstleistungen": [
+        {
+          "value": 46
+        }
+      ]
+    },
+    "2018": {
+      "Insolvenzen": [
+        {
+          "value": 1305
+        }
+      ],
+      "Unternehmen insgesamt": [
+        {
+          "value": 176
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 5
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 36
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 33
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 21
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 8
+        }
+      ],
+      "Dienstleistungen": [
+        {
+          "value": 45
+        }
+      ]
+    },
+    "2019": {
+      "Insolvenzen": [
+        {
+          "value": 1274
+        }
+      ],
+      "Unternehmen insgesamt": [
+        {
+          "value": 156
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 5
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 25
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 26
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 23
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 5
+        }
+      ],
+      "Dienstleistungen": [
+        {
+          "value": 48
+        }
+      ]
+    },
+    "2020": {
+      "Insolvenzen": [
+        {
+          "value": 868
+        }
+      ],
+      "Unternehmen insgesamt": [
+        {
+          "value": 117
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 4
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 21
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 17
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 18
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 3
+        }
+      ],
+      "Dienstleistungen": [
+        {
+          "value": 18
+        }
+      ]
+    },
+    "2021": {
+      "Insolvenzen": [
+        {
+          "value": 1359
+        }
+      ],
+      "Unternehmen insgesamt": [
+        {
+          "value": 112
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 8
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 26
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 14
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 7
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 3
+        }
+      ],
+      "Dienstleistungen": [
+        {
+          "value": 16
+        }
+      ]
+    },
+    "2022": {
+      "Insolvenzen": [
+        {
+          "value": 1141
+        }
+      ],
+      "Unternehmen insgesamt": [
+        {
+          "value": 111
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 8
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 25
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 22
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 12
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 8
+        }
+      ],
+      "Dienstleistungen": [
+        {
+          "value": 28
+        }
+      ]
+    },
+    "2023": {
+      "Insolvenzen": [
+        {
+          "value": 1298
+        }
+      ],
+      "Unternehmen insgesamt": [
+        {
+          "value": 178
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 6
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 19
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 18
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 19
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 12
+        }
+      ],
+      "Dienstleistungen": [
+        {
+          "value": 58
+        }
+      ]
+    },
+    "2024": {
+      "Insolvenzen": [
+        {
+          "value": 1360
+        }
+      ],
+      "Unternehmen insgesamt": [
+        {
+          "value": 196
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 11
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 35
+        }
+      ],
+      "Handel; Instandhaltung und Reparatur von Kfz.": [
+        {
+          "value": 31
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 20
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 3
+        }
+      ],
+      "Dienstleistungen": [
+        {
+          "value": 64
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1020 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=8&rubrik_nr=8&periode=y",
+    "title": "Beherbergungsstätten__Geöffnete Betriebe"
+  },
+  "data": {
+    "2001": {
+      "Geöffnete Betriebe": [
+        {
+          "value": 88
+        },
+        {
+          "value": 45
+        },
+        {
+          "value": 20
+        },
+        {
+          "value": 13
+        }
+      ],
+      "Angebotene Betten": [
+        {
+          "value": 11166
+        },
+        {
+          "value": 8322
+        },
+        {
+          "value": 1762
+        },
+        {
+          "value": 324
+        }
+      ],
+      "Durchschnittliche Auslastung in %": [
+        {
+          "value": 35.8
+        },
+        {
+          "value": 35.9
+        },
+        {
+          "value": 38
+        },
+        {
+          "value": 27.5
+        }
+      ]
+    },
+    "2002": {
+      "Durchschnittliche Auslastung in %": [
+        {
+          "value": 26.6
+        },
+        {
+          "value": 37.7
+        },
+        {
+          "value": 38.6
+        },
+        {
+          "value": 36.8
+        }
+      ],
+      "Geöffnete Betriebe": [
+        {
+          "value": 87
+        },
+        {
+          "value": 45
+        },
+        {
+          "value": 20
+        },
+        {
+          "value": 13
+        }
+      ],
+      "Angebotene Betten": [
+        {
+          "value": 10820
+        },
+        {
+          "value": 8059
+        },
+        {
+          "value": 1758
+        },
+        {
+          "value": 301
+        }
+      ]
+    },
+    "2003": {
+      "Angebotene Betten": [
+        {
+          "value": 320
+        },
+        {
+          "value": 1951
+        },
+        {
+          "value": 8004
+        },
+        {
+          "value": 11170
+        }
+      ],
+      "Geöffnete Betriebe": [
+        {
+          "value": 12
+        },
+        {
+          "value": 23
+        },
+        {
+          "value": 43
+        },
+        {
+          "value": 90
+        }
+      ],
+      "Durchschnittliche Auslastung in %": [
+        {
+          "value": 40.5
+        },
+        {
+          "value": 41.1
+        },
+        {
+          "value": 40.4
+        },
+        {
+          "value": 30.3
+        }
+      ]
+    },
+    "2004": {
+      "Durchschnittliche Auslastung in %": [
+        {
+          "value": 32.1
+        },
+        {
+          "value": 43.1
+        },
+        {
+          "value": 44.2
+        },
+        {
+          "value": 44.4
+        }
+      ],
+      "Geöffnete Betriebe": [
+        {
+          "value": 89
+        },
+        {
+          "value": 43
+        },
+        {
+          "value": 21
+        },
+        {
+          "value": 12
+        }
+      ],
+      "Angebotene Betten": [
+        {
+          "value": 11272
+        },
+        {
+          "value": 7994
+        },
+        {
+          "value": 1810
+        },
+        {
+          "value": 330
+        }
+      ]
+    },
+    "2005": {
+      "Geöffnete Betriebe": [
+        {
+          "value": 92
+        },
+        {
+          "value": 42
+        },
+        {
+          "value": 23
+        },
+        {
+          "value": 14
+        }
+      ],
+      "Angebotene Betten": [
+        {
+          "value": 11253
+        },
+        {
+          "value": 7948
+        },
+        {
+          "value": 1842
+        },
+        {
+          "value": 360
+        }
+      ],
+      "Durchschnittliche Auslastung in %": [
+        {
+          "value": 42.8
+        },
+        {
+          "value": 44.4
+        },
+        {
+          "value": 43
+        },
+        {
+          "value": 30.6
+        }
+      ]
+    },
+    "2006": {
+      "Geöffnete Betriebe": [
+        {
+          "value": 93
+        },
+        {
+          "value": 39
+        },
+        {
+          "value": 23
+        },
+        {
+          "value": 19
+        }
+      ],
+      "Angebotene Betten": [
+        {
+          "value": 11177
+        },
+        {
+          "value": 7540
+        },
+        {
+          "value": 1899
+        },
+        {
+          "value": 447
+        }
+      ],
+      "Durchschnittliche Auslastung in %": [
+        {
+          "value": 46.5
+        },
+        {
+          "value": 47.9
+        },
+        {
+          "value": 47.8
+        },
+        {
+          "value": 31.7
+        }
+      ]
+    },
+    "2007": {
+      "Geöffnete Betriebe": [
+        {
+          "value": 92
+        },
+        {
+          "value": 38
+        },
+        {
+          "value": 23
+        },
+        {
+          "value": 19
+        }
+      ],
+      "Angebotene Betten": [
+        {
+          "value": 11113
+        },
+        {
+          "value": 7521
+        },
+        {
+          "value": 1811
+        },
+        {
+          "value": 457
+        }
+      ],
+      "Durchschnittliche Auslastung in %": [
+        {
+          "value": 45.6
+        },
+        {
+          "value": 47.8
+        },
+        {
+          "value": 44.8
+        },
+        {
+          "value": 32.3
+        }
+      ]
+    },
+    "2008": {
+      "Geöffnete Betriebe": [
+        {
+          "value": 98
+        },
+        {
+          "value": 38
+        },
+        {
+          "value": 26
+        },
+        {
+          "value": 21
+        }
+      ],
+      "Angebotene Betten": [
+        {
+          "value": 11595
+        },
+        {
+          "value": 7615
+        },
+        {
+          "value": 2122
+        },
+        {
+          "value": 522
+        }
+      ],
+      "Durchschnittliche Auslastung in %": [
+        {
+          "value": 44.3
+        },
+        {
+          "value": 46.9
+        },
+        {
+          "value": 42
+        },
+        {
+          "value": 32.4
+        }
+      ]
+    },
+    "2009": {
+      "Geöffnete Betriebe": [
+        {
+          "value": 99
+        },
+        {
+          "value": 40
+        },
+        {
+          "value": 28
+        },
+        {
+          "value": 20
+        }
+      ],
+      "Angebotene Betten": [
+        {
+          "value": 12304
+        },
+        {
+          "value": 7914
+        },
+        {
+          "value": 2937
+        },
+        {
+          "value": 449
+        }
+      ],
+      "Durchschnittliche Auslastung in %": [
+        {
+          "value": 42.2
+        },
+        {
+          "value": 44.5
+        },
+        {
+          "value": 40.6
+        },
+        {
+          "value": 32.4
+        }
+      ]
+    },
+    "2010": {
+      "Geöffnete Betriebe": [
+        {
+          "value": 105
+        },
+        {
+          "value": 40
+        },
+        {
+          "value": 27
+        },
+        {
+          "value": 25
+        }
+      ],
+      "Angebotene Betten": [
+        {
+          "value": 12521
+        },
+        {
+          "value": 7953
+        },
+        {
+          "value": 2972
+        },
+        {
+          "value": 576
+        }
+      ],
+      "Durchschnittliche Auslastung in %": [
+        {
+          "value": 44.7
+        },
+        {
+          "value": 47.5
+        },
+        {
+          "value": 42.4
+        },
+        {
+          "value": 32.8
+        }
+      ]
+    },
+    "2011": {
+      "Geöffnete Betriebe": [
+        {
+          "value": 106
+        },
+        {
+          "value": 41
+        },
+        {
+          "value": 26
+        },
+        {
+          "value": 25
+        }
+      ],
+      "Angebotene Betten": [
+        {
+          "value": 13065
+        },
+        {
+          "value": 8119
+        },
+        {
+          "value": 3148
+        },
+        {
+          "value": 595
+        }
+      ],
+      "Durchschnittliche Auslastung in %": [
+        {
+          "value": 45.3
+        },
+        {
+          "value": 48.2
+        },
+        {
+          "value": 42.9
+        },
+        {
+          "value": 34.9
+        }
+      ]
+    },
+    "2012": {
+      "Geöffnete Betriebe": [
+        {
+          "value": 107
+        },
+        {
+          "value": 42
+        },
+        {
+          "value": 25
+        },
+        {
+          "value": 24
+        }
+      ],
+      "Angebotene Betten": [
+        {
+          "value": 13367
+        },
+        {
+          "value": 8403
+        },
+        {
+          "value": 3160
+        },
+        {
+          "value": 582
+        }
+      ],
+      "Durchschnittliche Auslastung in %": [
+        {
+          "value": 49
+        },
+        {
+          "value": 50.8
+        },
+        {
+          "value": 49.7
+        },
+        {
+          "value": 40.2
+        }
+      ]
+    },
+    "2013": {
+      "Geöffnete Betriebe": [
+        {
+          "value": 116
+        },
+        {
+          "value": 45
+        },
+        {
+          "value": 28
+        },
+        {
+          "value": 24
+        }
+      ],
+      "Angebotene Betten": [
+        {
+          "value": 14525
+        },
+        {
+          "value": 9027
+        },
+        {
+          "value": 3567
+        },
+        {
+          "value": 560
+        }
+      ],
+      "Durchschnittliche Auslastung in %": [
+        {
+          "value": 50.7
+        },
+        {
+          "value": 52.1
+        },
+        {
+          "value": 52.3
+        },
+        {
+          "value": 40.5
+        }
+      ]
+    },
+    "2014": {
+      "Geöffnete Betriebe": [
+        {
+          "value": 114
+        },
+        {
+          "value": 44
+        },
+        {
+          "value": 26
+        },
+        {
+          "value": 27
+        }
+      ],
+      "Angebotene Betten": [
+        {
+          "value": 14509
+        },
+        {
+          "value": 8855
+        },
+        {
+          "value": 3702
+        },
+        {
+          "value": 631
+        }
+      ],
+      "Durchschnittliche Auslastung in %": [
+        {
+          "value": 50.8
+        },
+        {
+          "value": 51.9
+        },
+        {
+          "value": 53.2
+        },
+        {
+          "value": 40.7
+        }
+      ]
+    },
+    "2015": {
+      "Geöffnete Betriebe": [
+        {
+          "value": 118
+        },
+        {
+          "value": 43
+        },
+        {
+          "value": 25
+        },
+        {
+          "value": 30
+        }
+      ],
+      "Angebotene Betten": [
+        {
+          "value": 14992
+        },
+        {
+          "value": 9066
+        },
+        {
+          "value": 3700
+        },
+        {
+          "value": 715
+        }
+      ],
+      "Durchschnittliche Auslastung in %": [
+        {
+          "value": 51.1
+        },
+        {
+          "value": 52.5
+        },
+        {
+          "value": 53.2
+        },
+        {
+          "value": 39.3
+        }
+      ]
+    },
+    "2016": {
+      "Geöffnete Betriebe": [
+        {
+          "value": 121
+        },
+        {
+          "value": 43
+        },
+        {
+          "value": 25
+        },
+        {
+          "value": 28
+        }
+      ],
+      "Angebotene Betten": [
+        {
+          "value": 15033
+        },
+        {
+          "value": 8793
+        },
+        {
+          "value": 3600
+        },
+        {
+          "value": 677
+        }
+      ],
+      "Durchschnittliche Auslastung in %": [
+        {
+          "value": 51.3
+        },
+        {
+          "value": 53.2
+        },
+        {
+          "value": 53.6
+        },
+        {
+          "value": 42.2
+        }
+      ]
+    },
+    "2017": {
+      "Geöffnete Betriebe": [
+        {
+          "value": 128
+        },
+        {
+          "value": 44
+        },
+        {
+          "value": 27
+        },
+        {
+          "value": 28
+        }
+      ],
+      "Angebotene Betten": [
+        {
+          "value": 15780
+        },
+        {
+          "value": 8731
+        },
+        {
+          "value": 4130
+        },
+        {
+          "value": 707
+        }
+      ],
+      "Durchschnittliche Auslastung in %": [
+        {
+          "value": 54.1
+        },
+        {
+          "value": 55.1
+        },
+        {
+          "value": 58.3
+        },
+        {
+          "value": 41.1
+        }
+      ]
+    },
+    "2018": {
+      "Geöffnete Betriebe": [
+        {
+          "value": 133
+        },
+        {
+          "value": 46
+        },
+        {
+          "value": 31
+        },
+        {
+          "value": 27
+        }
+      ],
+      "Angebotene Betten": [
+        {
+          "value": 17686
+        },
+        {
+          "value": 9872
+        },
+        {
+          "value": 5176
+        },
+        {
+          "value": 670
+        }
+      ],
+      "Durchschnittliche Auslastung in %": [
+        {
+          "value": 50.9
+        },
+        {
+          "value": 51.4
+        },
+        {
+          "value": 53.7
+        },
+        {
+          "value": 43.3
+        }
+      ]
+    },
+    "2019": {
+      "Geöffnete Betriebe": [
+        {
+          "value": 142
+        },
+        {
+          "value": 50
+        },
+        {
+          "value": 32
+        },
+        {
+          "value": 26
+        }
+      ],
+      "Angebotene Betten": [
+        {
+          "value": 19929
+        },
+        {
+          "value": 11172
+        },
+        {
+          "value": 5297
+        },
+        {
+          "value": 782
+        }
+      ],
+      "Durchschnittliche Auslastung in %": [
+        {
+          "value": 49.2
+        },
+        {
+          "value": 49.4
+        },
+        {
+          "value": 52.6
+        },
+        {
+          "value": 41.3
+        }
+      ]
+    },
+    "2020": {
+      "Geöffnete Betriebe": [
+        {
+          "value": 142
+        },
+        {
+          "value": 51
+        },
+        {
+          "value": 31
+        },
+        {
+          "value": 26
+        }
+      ],
+      "Angebotene Betten": [
+        {
+          "value": 21124
+        },
+        {
+          "value": 12287
+        },
+        {
+          "value": 5137
+        },
+        {
+          "value": 754
+        }
+      ],
+      "Durchschnittliche Auslastung in %": [
+        {
+          "value": 27.6
+        },
+        {
+          "value": 27
+        },
+        {
+          "value": 32.4
+        },
+        {
+          "value": 26.7
+        }
+      ]
+    },
+    "2021": {
+      "Durchschnittliche Auslastung in %": [
+        {
+          "value": 27.4
+        },
+        {
+          "value": 26.7
+        },
+        {
+          "value": 30.3
+        },
+        {
+          "value": 28.4
+        }
+      ],
+      "Geöffnete Betriebe": [
+        {
+          "value": 52
+        },
+        {
+          "value": 31
+        },
+        {
+          "value": 22
+        },
+        {
+          "value": 135
+        }
+      ],
+      "Angebotene Betten": [
+        {
+          "value": 13273
+        },
+        {
+          "value": 5187
+        },
+        {
+          "value": 704
+        },
+        {
+          "value": 22088
+        }
+      ]
+    },
+    "2022": {
+      "Geöffnete Betriebe": [
+        {
+          "value": 135
+        },
+        {
+          "value": 51
+        },
+        {
+          "value": 30
+        },
+        {
+          "value": 22
+        }
+      ],
+      "Angebotene Betten": [
+        {
+          "value": 21615
+        },
+        {
+          "value": 13101
+        },
+        {
+          "value": 4736
+        },
+        {
+          "value": 719
+        }
+      ],
+      "Durchschnittliche Auslastung in %": [
+        {
+          "value": 42.1
+        },
+        {
+          "value": 42
+        },
+        {
+          "value": 45.8
+        },
+        {
+          "value": 36.9
+        }
+      ]
+    },
+    "2023": {
+      "Geöffnete Betriebe": [
+        {
+          "value": 142
+        },
+        {
+          "value": 55
+        },
+        {
+          "value": 31
+        },
+        {
+          "value": 21
+        }
+      ],
+      "Angebotene Betten": [
+        {
+          "value": 22564
+        },
+        {
+          "value": 13786
+        },
+        {
+          "value": 5053
+        },
+        {
+          "value": 628
+        }
+      ],
+      "Durchschnittliche Auslastung in %": [
+        {
+          "value": 45.7
+        },
+        {
+          "value": 45.8
+        },
+        {
+          "value": 49.1
+        },
+        {
+          "value": 41.3
+        }
+      ]
+    }
+  }
+}

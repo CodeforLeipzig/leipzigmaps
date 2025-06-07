@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=4&rubrik_nr=29&periode=y",
+    "title": "Finanzierung durch KSV Sachsen "
+  },
+  "data": {
+    "2017": {
+      "Finanzierung durch KSV Sachsen": [
+        {
+          "value": 210
+        }
+      ],
+      "Finanzierung durch Stadt Leipzig": [
+        {
+          "value": 134
+        }
+      ]
+    },
+    "2018": {
+      "Finanzierung durch Stadt Leipzig": [
+        {
+          "value": 361
+        }
+      ],
+      "Finanzierung durch KSV Sachsen": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2019": {
+      "Finanzierung durch KSV Sachsen": [
+        {
+          "value": null
+        }
+      ],
+      "Finanzierung durch Stadt Leipzig": [
+        {
+          "value": 371
+        }
+      ]
+    },
+    "2020": {
+      "Finanzierung durch Stadt Leipzig": [
+        {
+          "value": 375
+        }
+      ],
+      "Finanzierung durch KSV Sachsen": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2021": {
+      "Finanzierung durch KSV Sachsen": [
+        {
+          "value": null
+        }
+      ],
+      "Finanzierung durch Stadt Leipzig": [
+        {
+          "value": 401
+        }
+      ]
+    },
+    "2022": {
+      "Finanzierung durch KSV Sachsen": [
+        {
+          "value": null
+        }
+      ],
+      "Finanzierung durch Stadt Leipzig": [
+        {
+          "value": 443
+        }
+      ]
+    },
+    "2023": {
+      "Finanzierung durch KSV Sachsen": [
+        {
+          "value": null
+        }
+      ],
+      "Finanzierung durch Stadt Leipzig": [
+        {
+          "value": 511
+        }
+      ]
+    }
+  }
+}

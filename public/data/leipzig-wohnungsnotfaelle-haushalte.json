@@ -1,0 +1,431 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=4&rubrik_nr=15&periode=y",
+    "title": "Wohnungsnotfälle (Haushalte)"
+  },
+  "data": {
+    "2015": {
+      "Wohnungsnotfälle (Haushalte)": [
+        {
+          "value": 3373
+        }
+      ],
+      "laufende Wohnungsnotffälle": [
+        {
+          "value": 1400
+        }
+      ],
+      "neu bekannt gewordene Wohnungsnotfälle": [
+        {
+          "value": 1973
+        }
+      ],
+      "vor Kündigung": [
+        {
+          "value": 72
+        }
+      ],
+      "mit Kündigung": [
+        {
+          "value": 340
+        }
+      ],
+      "mit Räumungsklage": [
+        {
+          "value": 808
+        }
+      ],
+      "darunter abgeschlossene Wohnungsnotfälle": [
+        {
+          "value": null
+        }
+      ],
+      "mit Räumungstermin": [
+        {
+          "value": 323
+        }
+      ],
+      "Sonstige Gründe (z. B. Zeitpunkt unbekannt, direkte Unterbringung)": [
+        {
+          "value": 430
+        }
+      ]
+    },
+    "2016": {
+      "Sonstige Gründe (z. B. Zeitpunkt unbekannt, direkte Unterbringung)": [
+        {
+          "value": 386
+        }
+      ],
+      "mit Räumungstermin": [
+        {
+          "value": 310
+        }
+      ],
+      "darunter abgeschlossene Wohnungsnotfälle": [
+        {
+          "value": 2000
+        }
+      ],
+      "mit Räumungsklage": [
+        {
+          "value": 988
+        }
+      ],
+      "mit Kündigung": [
+        {
+          "value": 408
+        }
+      ],
+      "vor Kündigung": [
+        {
+          "value": 89
+        }
+      ],
+      "neu bekannt gewordene Wohnungsnotfälle": [
+        {
+          "value": 2181
+        }
+      ],
+      "laufende Wohnungsnotffälle": [
+        {
+          "value": 1305
+        }
+      ],
+      "Wohnungsnotfälle (Haushalte)": [
+        {
+          "value": 3486
+        }
+      ]
+    },
+    "2017": {
+      "Wohnungsnotfälle (Haushalte)": [
+        {
+          "value": 3510
+        }
+      ],
+      "laufende Wohnungsnotffälle": [
+        {
+          "value": 1532
+        }
+      ],
+      "neu bekannt gewordene Wohnungsnotfälle": [
+        {
+          "value": 1978
+        }
+      ],
+      "vor Kündigung": [
+        {
+          "value": 63
+        }
+      ],
+      "mit Kündigung": [
+        {
+          "value": 359
+        }
+      ],
+      "mit Räumungsklage": [
+        {
+          "value": 909
+        }
+      ],
+      "darunter abgeschlossene Wohnungsnotfälle": [
+        {
+          "value": 2174
+        }
+      ],
+      "mit Räumungstermin": [
+        {
+          "value": 282
+        }
+      ],
+      "Sonstige Gründe (z. B. Zeitpunkt unbekannt, direkte Unterbringung)": [
+        {
+          "value": 365
+        }
+      ]
+    },
+    "2018": {
+      "Sonstige Gründe (z. B. Zeitpunkt unbekannt, direkte Unterbringung)": [
+        {
+          "value": 272
+        }
+      ],
+      "mit Räumungstermin": [
+        {
+          "value": 219
+        }
+      ],
+      "darunter abgeschlossene Wohnungsnotfälle": [
+        {
+          "value": 2022
+        }
+      ],
+      "mit Räumungsklage": [
+        {
+          "value": 1014
+        }
+      ],
+      "mit Kündigung": [
+        {
+          "value": 573
+        }
+      ],
+      "vor Kündigung": [
+        {
+          "value": 224
+        }
+      ],
+      "neu bekannt gewordene Wohnungsnotfälle": [
+        {
+          "value": 2302
+        }
+      ],
+      "laufende Wohnungsnotffälle": [
+        {
+          "value": 1353
+        }
+      ],
+      "Wohnungsnotfälle (Haushalte)": [
+        {
+          "value": 3655
+        }
+      ]
+    },
+    "2019": {
+      "Wohnungsnotfälle (Haushalte)": [
+        {
+          "value": 3398
+        }
+      ],
+      "laufende Wohnungsnotffälle": [
+        {
+          "value": 1236
+        }
+      ],
+      "neu bekannt gewordene Wohnungsnotfälle": [
+        {
+          "value": 2162
+        }
+      ],
+      "vor Kündigung": [
+        {
+          "value": 282
+        }
+      ],
+      "mit Kündigung": [
+        {
+          "value": 485
+        }
+      ],
+      "mit Räumungsklage": [
+        {
+          "value": 1005
+        }
+      ],
+      "darunter abgeschlossene Wohnungsnotfälle": [
+        {
+          "value": 1979
+        }
+      ],
+      "mit Räumungstermin": [
+        {
+          "value": 179
+        }
+      ],
+      "Sonstige Gründe (z. B. Zeitpunkt unbekannt, direkte Unterbringung)": [
+        {
+          "value": 211
+        }
+      ]
+    },
+    "2020": {
+      "Sonstige Gründe (z. B. Zeitpunkt unbekannt, direkte Unterbringung)": [
+        {
+          "value": 203
+        }
+      ],
+      "mit Räumungstermin": [
+        {
+          "value": 185
+        }
+      ],
+      "darunter abgeschlossene Wohnungsnotfälle": [
+        {
+          "value": 2200
+        }
+      ],
+      "mit Räumungsklage": [
+        {
+          "value": 801
+        }
+      ],
+      "mit Kündigung": [
+        {
+          "value": 411
+        }
+      ],
+      "vor Kündigung": [
+        {
+          "value": 296
+        }
+      ],
+      "neu bekannt gewordene Wohnungsnotfälle": [
+        {
+          "value": 1896
+        }
+      ],
+      "laufende Wohnungsnotffälle": [
+        {
+          "value": 1715
+        }
+      ],
+      "Wohnungsnotfälle (Haushalte)": [
+        {
+          "value": 3611
+        }
+      ]
+    },
+    "2021": {
+      "Wohnungsnotfälle (Haushalte)": [
+        {
+          "value": 3120
+        }
+      ],
+      "laufende Wohnungsnotffälle": [
+        {
+          "value": 1431
+        }
+      ],
+      "neu bekannt gewordene Wohnungsnotfälle": [
+        {
+          "value": 1689
+        }
+      ],
+      "vor Kündigung": [
+        {
+          "value": 194
+        }
+      ],
+      "mit Kündigung": [
+        {
+          "value": 348
+        }
+      ],
+      "mit Räumungsklage": [
+        {
+          "value": 500
+        }
+      ],
+      "mit Räumungstermin": [
+        {
+          "value": 283
+        }
+      ],
+      "Sonstige Gründe (z. B. Zeitpunkt unbekannt, direkte Unterbringung)": [
+        {
+          "value": 364
+        }
+      ],
+      "darunter abgeschlossene Wohnungsnotfälle": [
+        {
+          "value": 2125
+        }
+      ]
+    },
+    "2022": {
+      "Sonstige Gründe (z. B. Zeitpunkt unbekannt, direkte Unterbringung)": [
+        {
+          "value": 200
+        }
+      ],
+      "darunter abgeschlossene Wohnungsnotfälle": [
+        {
+          "value": 1212
+        }
+      ],
+      "mit Räumungsklage": [
+        {
+          "value": 574
+        }
+      ],
+      "Wohnungsnotfälle (Haushalte)": [
+        {
+          "value": 2731
+        }
+      ],
+      "laufende Wohnungsnotffälle": [
+        {
+          "value": 1019
+        }
+      ],
+      "neu bekannt gewordene Wohnungsnotfälle": [
+        {
+          "value": 1712
+        }
+      ],
+      "vor Kündigung": [
+        {
+          "value": 310
+        }
+      ],
+      "mit Kündigung": [
+        {
+          "value": 390
+        }
+      ],
+      "mit Räumungstermin": [
+        {
+          "value": 238
+        }
+      ]
+    },
+    "2023": {
+      "Wohnungsnotfälle (Haushalte)": [
+        {
+          "value": 3357
+        }
+      ],
+      "laufende Wohnungsnotffälle": [
+        {
+          "value": 1481
+        }
+      ],
+      "neu bekannt gewordene Wohnungsnotfälle": [
+        {
+          "value": 1876
+        }
+      ],
+      "vor Kündigung": [
+        {
+          "value": 341
+        }
+      ],
+      "mit Kündigung": [
+        {
+          "value": 385
+        }
+      ],
+      "mit Räumungsklage": [
+        {
+          "value": 679
+        }
+      ],
+      "mit Räumungstermin": [
+        {
+          "value": 120
+        }
+      ],
+      "Sonstige Gründe (z. B. Zeitpunkt unbekannt, direkte Unterbringung)": [
+        {
+          "value": 351
+        }
+      ],
+      "darunter abgeschlossene Wohnungsnotfälle": [
+        {
+          "value": 2227
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=1&rubrik_nr=1&periode=y",
+    "title": "Nord-Süd-Ausdehnung"
+  },
+  "data": {
+    "2006": {
+      "Nord-Süd-Ausdehnung": [
+        {
+          "value": 22
+        }
+      ],
+      "Ost-West-Ausdehnung": [
+        {
+          "value": 21
+        }
+      ],
+      "Länge der Stadtgrenze": [
+        {
+          "value": 129.1
+        }
+      ]
+    },
+    "2007": {
+      "Nord-Süd-Ausdehnung": [
+        {
+          "value": 23.4
+        }
+      ],
+      "Ost-West-Ausdehnung": [
+        {
+          "value": 21.3
+        }
+      ],
+      "Länge der Stadtgrenze": [
+        {
+          "value": 128.7
+        }
+      ]
+    },
+    "2008": {
+      "Nord-Süd-Ausdehnung": [
+        {
+          "value": 23.4
+        }
+      ],
+      "Ost-West-Ausdehnung": [
+        {
+          "value": 21.3
+        }
+      ],
+      "Länge der Stadtgrenze": [
+        {
+          "value": 128.7
+        }
+      ]
+    },
+    "2009": {
+      "Nord-Süd-Ausdehnung": [
+        {
+          "value": 23.4
+        }
+      ],
+      "Ost-West-Ausdehnung": [
+        {
+          "value": 21.3
+        }
+      ],
+      "Länge der Stadtgrenze": [
+        {
+          "value": 128.7
+        }
+      ]
+    },
+    "2010": {
+      "Nord-Süd-Ausdehnung": [
+        {
+          "value": 23.4
+        }
+      ],
+      "Ost-West-Ausdehnung": [
+        {
+          "value": 21.3
+        }
+      ],
+      "Länge der Stadtgrenze": [
+        {
+          "value": 128.7
+        }
+      ]
+    },
+    "2011": {
+      "Nord-Süd-Ausdehnung": [
+        {
+          "value": 23.4
+        }
+      ],
+      "Ost-West-Ausdehnung": [
+        {
+          "value": 21.3
+        }
+      ],
+      "Länge der Stadtgrenze": [
+        {
+          "value": 128.7
+        }
+      ]
+    },
+    "2012": {
+      "Nord-Süd-Ausdehnung": [
+        {
+          "value": 23.4
+        }
+      ],
+      "Ost-West-Ausdehnung": [
+        {
+          "value": 21.3
+        }
+      ],
+      "Länge der Stadtgrenze": [
+        {
+          "value": 128.7
+        }
+      ]
+    },
+    "2013": {
+      "Nord-Süd-Ausdehnung": [
+        {
+          "value": 23.4
+        }
+      ],
+      "Ost-West-Ausdehnung": [
+        {
+          "value": 21.3
+        }
+      ],
+      "Länge der Stadtgrenze": [
+        {
+          "value": 128.7
+        }
+      ]
+    },
+    "2014": {
+      "Nord-Süd-Ausdehnung": [
+        {
+          "value": 23.4
+        }
+      ],
+      "Ost-West-Ausdehnung": [
+        {
+          "value": 21.3
+        }
+      ],
+      "Länge der Stadtgrenze": [
+        {
+          "value": 128.7
+        }
+      ]
+    },
+    "2015": {
+      "Nord-Süd-Ausdehnung": [
+        {
+          "value": 23.4
+        }
+      ],
+      "Ost-West-Ausdehnung": [
+        {
+          "value": 21.3
+        }
+      ],
+      "Länge der Stadtgrenze": [
+        {
+          "value": 128.7
+        }
+      ]
+    },
+    "2016": {
+      "Nord-Süd-Ausdehnung": [
+        {
+          "value": 23.4
+        }
+      ],
+      "Ost-West-Ausdehnung": [
+        {
+          "value": 21.3
+        }
+      ],
+      "Länge der Stadtgrenze": [
+        {
+          "value": 128.7
+        }
+      ]
+    },
+    "2017": {
+      "Nord-Süd-Ausdehnung": [
+        {
+          "value": 23.4
+        }
+      ],
+      "Ost-West-Ausdehnung": [
+        {
+          "value": 21.3
+        }
+      ],
+      "Länge der Stadtgrenze": [
+        {
+          "value": 128.7
+        }
+      ]
+    },
+    "2018": {
+      "Nord-Süd-Ausdehnung": [
+        {
+          "value": 23.4
+        }
+      ],
+      "Ost-West-Ausdehnung": [
+        {
+          "value": 21.3
+        }
+      ],
+      "Länge der Stadtgrenze": [
+        {
+          "value": 128.7
+        }
+      ]
+    },
+    "2019": {
+      "Nord-Süd-Ausdehnung": [
+        {
+          "value": 22.9
+        }
+      ],
+      "Ost-West-Ausdehnung": [
+        {
+          "value": 21.3
+        }
+      ],
+      "Länge der Stadtgrenze": [
+        {
+          "value": 128.9
+        }
+      ]
+    },
+    "2020": {
+      "Nord-Süd-Ausdehnung": [
+        {
+          "value": 22.9
+        }
+      ],
+      "Ost-West-Ausdehnung": [
+        {
+          "value": 21.3
+        }
+      ],
+      "Länge der Stadtgrenze": [
+        {
+          "value": 128.9
+        }
+      ]
+    },
+    "2021": {
+      "Nord-Süd-Ausdehnung": [
+        {
+          "value": 22.9
+        }
+      ],
+      "Ost-West-Ausdehnung": [
+        {
+          "value": 21.3
+        }
+      ],
+      "Länge der Stadtgrenze": [
+        {
+          "value": 128.9
+        }
+      ]
+    },
+    "2022": {
+      "Nord-Süd-Ausdehnung": [
+        {
+          "value": 22.9
+        }
+      ],
+      "Ost-West-Ausdehnung": [
+        {
+          "value": 21.3
+        }
+      ],
+      "Länge der Stadtgrenze": [
+        {
+          "value": 128.9
+        }
+      ]
+    },
+    "2023": {
+      "Nord-Süd-Ausdehnung": [
+        {
+          "value": 22.9
+        }
+      ],
+      "Ost-West-Ausdehnung": [
+        {
+          "value": 21.3
+        }
+      ],
+      "Länge der Stadtgrenze": [
+        {
+          "value": 128.9
+        }
+      ]
+    }
+  }
+}

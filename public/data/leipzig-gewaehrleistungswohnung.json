@@ -1,0 +1,267 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=4&rubrik_nr=32&periode=y",
+    "title": "Gewährleistungswohnung"
+  },
+  "data": {
+    "2015": {
+      "Gewährleistungswohnung": [
+        {
+          "value": null
+        }
+      ],
+      "Wohngemeinschaft mit Tier": [
+        {
+          "value": null
+        }
+      ],
+      "Notschlafstelle": [
+        {
+          "value": null
+        }
+      ],
+      "Übernachtungshaus für Männer": [
+        {
+          "value": 24
+        }
+      ],
+      "Übernachtungshaus für Frauen": [
+        {
+          "value": 49
+        }
+      ],
+      "Unterkunft mit sozialpsychiatrischer Hilfe": [
+        {
+          "value": 86
+        }
+      ],
+      "Übernachtungshaus mit Suchthilfe": [
+        {
+          "value": 90
+        }
+      ]
+    },
+    "2018": {
+      "Gewährleistungswohnung": [
+        {
+          "value": 202.961
+        }
+      ],
+      "Übernachtungshaus für Männer": [
+        {
+          "value": 23.5606
+        }
+      ],
+      "Übernachtungshaus für Frauen": [
+        {
+          "value": 42.6754
+        }
+      ],
+      "Übernachtungshaus mit Suchthilfe": [
+        {
+          "value": 76.0737
+        }
+      ],
+      "Unterkunft mit sozialpsychiatrischer Hilfe": [
+        {
+          "value": 114.571
+        }
+      ],
+      "Wohngemeinschaft mit Tier": [
+        {
+          "value": null
+        }
+      ],
+      "Notschlafstelle": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2019": {
+      "Gewährleistungswohnung": [
+        {
+          "value": 209
+        }
+      ],
+      "Wohngemeinschaft mit Tier": [
+        {
+          "value": null
+        }
+      ],
+      "Notschlafstelle": [
+        {
+          "value": null
+        }
+      ],
+      "Unterkunft mit sozialpsychiatrischer Hilfe": [
+        {
+          "value": 112
+        }
+      ],
+      "Übernachtungshaus für Frauen": [
+        {
+          "value": 38
+        }
+      ],
+      "Übernachtungshaus für Männer": [
+        {
+          "value": 22
+        }
+      ],
+      "Übernachtungshaus mit Suchthilfe": [
+        {
+          "value": 94
+        }
+      ]
+    },
+    "2020": {
+      "Übernachtungshaus mit Suchthilfe": [
+        {
+          "value": 96
+        }
+      ],
+      "Übernachtungshaus für Männer": [
+        {
+          "value": 38
+        }
+      ],
+      "Übernachtungshaus für Frauen": [
+        {
+          "value": 43
+        }
+      ],
+      "Unterkunft mit sozialpsychiatrischer Hilfe": [
+        {
+          "value": 134
+        }
+      ],
+      "Gewährleistungswohnung": [
+        {
+          "value": 212
+        }
+      ],
+      "Wohngemeinschaft mit Tier": [
+        {
+          "value": null
+        }
+      ],
+      "Notschlafstelle": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2021": {
+      "Gewährleistungswohnung": [
+        {
+          "value": 160
+        }
+      ],
+      "Wohngemeinschaft mit Tier": [
+        {
+          "value": null
+        }
+      ],
+      "Notschlafstelle": [
+        {
+          "value": null
+        }
+      ],
+      "Übernachtungshaus für Frauen": [
+        {
+          "value": 51
+        }
+      ],
+      "Übernachtungshaus mit Suchthilfe": [
+        {
+          "value": 67
+        }
+      ],
+      "Unterkunft mit sozialpsychiatrischer Hilfe": [
+        {
+          "value": 116
+        }
+      ],
+      "Übernachtungshaus für Männer": [
+        {
+          "value": 51
+        }
+      ]
+    },
+    "2022": {
+      "Übernachtungshaus für Männer": [
+        {
+          "value": 60
+        }
+      ],
+      "Übernachtungshaus für Frauen": [
+        {
+          "value": 49
+        }
+      ],
+      "Übernachtungshaus mit Suchthilfe": [
+        {
+          "value": 99
+        }
+      ],
+      "Unterkunft mit sozialpsychiatrischer Hilfe": [
+        {
+          "value": 116
+        }
+      ],
+      "Gewährleistungswohnung": [
+        {
+          "value": 236
+        }
+      ],
+      "Wohngemeinschaft mit Tier": [
+        {
+          "value": 195
+        }
+      ],
+      "Notschlafstelle": [
+        {
+          "value": 8
+        }
+      ]
+    },
+    "2023": {
+      "Gewährleistungswohnung": [
+        {
+          "value": 234
+        }
+      ],
+      "Übernachtungshaus für Männer": [
+        {
+          "value": 50.2139
+        }
+      ],
+      "Übernachtungshaus für Frauen": [
+        {
+          "value": 44.779
+        }
+      ],
+      "Übernachtungshaus mit Suchthilfe": [
+        {
+          "value": 96.4756
+        }
+      ],
+      "Unterkunft mit sozialpsychiatrischer Hilfe": [
+        {
+          "value": 152
+        }
+      ],
+      "Wohngemeinschaft mit Tier": [
+        {
+          "value": 273.833
+        }
+      ],
+      "Notschlafstelle": [
+        {
+          "value": 11.1261
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,974 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=10&rubrik_nr=4&periode=y",
+    "title": "Straßenbahn__Linien"
+  },
+  "data": {
+    "2001": {
+      "Linien": [
+        {
+          "value": 15
+        },
+        {
+          "value": 59
+        }
+      ],
+      "Linienlänge": [
+        {
+          "value": 216
+        },
+        {
+          "value": 1189
+        }
+      ],
+      "Fahrzeuge": [
+        {
+          "value": 440
+        },
+        {
+          "value": 196
+        }
+      ],
+      "Fahrgäste": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Zugkilometer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2002": {
+      "Zugkilometer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Linien": [
+        {
+          "value": 15
+        },
+        {
+          "value": 58
+        }
+      ],
+      "Linienlänge": [
+        {
+          "value": 217
+        },
+        {
+          "value": 1156
+        }
+      ],
+      "Fahrzeuge": [
+        {
+          "value": 440
+        },
+        {
+          "value": 118
+        }
+      ],
+      "Fahrgäste": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2003": {
+      "Linien": [
+        {
+          "value": 14
+        },
+        {
+          "value": 60
+        }
+      ],
+      "Linienlänge": [
+        {
+          "value": 217
+        },
+        {
+          "value": 1160
+        }
+      ],
+      "Fahrzeuge": [
+        {
+          "value": 423
+        },
+        {
+          "value": 105
+        }
+      ],
+      "Fahrgäste": [
+        {
+          "value": 94890
+        },
+        {
+          "value": 23426
+        }
+      ],
+      "Zugkilometer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2004": {
+      "Zugkilometer": [
+        {
+          "value": 13.193
+        },
+        {
+          "value": 11.135
+        }
+      ],
+      "Linien": [
+        {
+          "value": 14
+        },
+        {
+          "value": 62
+        }
+      ],
+      "Linienlänge": [
+        {
+          "value": 217
+        },
+        {
+          "value": 1200
+        }
+      ],
+      "Fahrzeuge": [
+        {
+          "value": 413
+        },
+        {
+          "value": 105
+        }
+      ],
+      "Fahrgäste": [
+        {
+          "value": 99863
+        },
+        {
+          "value": 23383
+        }
+      ]
+    },
+    "2005": {
+      "Zugkilometer": [
+        {
+          "value": 10.796
+        },
+        {
+          "value": 13.148
+        }
+      ],
+      "Linien": [
+        {
+          "value": 14
+        },
+        {
+          "value": 62
+        }
+      ],
+      "Linienlänge": [
+        {
+          "value": 217
+        },
+        {
+          "value": 1204
+        }
+      ],
+      "Fahrzeuge": [
+        {
+          "value": 401
+        },
+        {
+          "value": 103
+        }
+      ],
+      "Fahrgäste": [
+        {
+          "value": 99597
+        },
+        {
+          "value": 23756
+        }
+      ]
+    },
+    "2006": {
+      "Zugkilometer": [
+        {
+          "value": 13.079
+        },
+        {
+          "value": 10.781
+        }
+      ],
+      "Linien": [
+        {
+          "value": 14
+        },
+        {
+          "value": 60
+        }
+      ],
+      "Linienlänge": [
+        {
+          "value": 212
+        },
+        {
+          "value": 1211
+        }
+      ],
+      "Fahrzeuge": [
+        {
+          "value": 357
+        },
+        {
+          "value": 103
+        }
+      ],
+      "Fahrgäste": [
+        {
+          "value": 101637
+        },
+        {
+          "value": 23571
+        }
+      ]
+    },
+    "2007": {
+      "Zugkilometer": [
+        {
+          "value": 10.772
+        },
+        {
+          "value": 12.901
+        }
+      ],
+      "Linien": [
+        {
+          "value": 14
+        },
+        {
+          "value": 60
+        }
+      ],
+      "Linienlänge": [
+        {
+          "value": 212
+        },
+        {
+          "value": 1116
+        }
+      ],
+      "Fahrzeuge": [
+        {
+          "value": 338
+        },
+        {
+          "value": 110
+        }
+      ],
+      "Fahrgäste": [
+        {
+          "value": 100235
+        },
+        {
+          "value": 23836
+        }
+      ]
+    },
+    "2008": {
+      "Linien": [
+        {
+          "value": 14
+        },
+        {
+          "value": 60
+        }
+      ],
+      "Linienlänge": [
+        {
+          "value": 209
+        },
+        {
+          "value": 1096
+        }
+      ],
+      "Fahrzeuge": [
+        {
+          "value": 325
+        },
+        {
+          "value": 109
+        }
+      ],
+      "Zugkilometer": [
+        {
+          "value": 12.948
+        },
+        {
+          "value": 10.944
+        }
+      ],
+      "Fahrgäste": [
+        {
+          "value": 103152
+        },
+        {
+          "value": 23378
+        }
+      ]
+    },
+    "2009": {
+      "Linien": [
+        {
+          "value": 14
+        },
+        {
+          "value": 61
+        }
+      ],
+      "Linienlänge": [
+        {
+          "value": 209
+        },
+        {
+          "value": 1050
+        }
+      ],
+      "Fahrzeuge": [
+        {
+          "value": 325
+        },
+        {
+          "value": 111
+        }
+      ],
+      "Zugkilometer": [
+        {
+          "value": 12.826
+        },
+        {
+          "value": 11.029
+        }
+      ],
+      "Fahrgäste": [
+        {
+          "value": 103102
+        },
+        {
+          "value": 23633
+        }
+      ]
+    },
+    "2010": {
+      "Linien": [
+        {
+          "value": 13
+        },
+        {
+          "value": 60
+        }
+      ],
+      "Linienlänge": [
+        {
+          "value": 212
+        },
+        {
+          "value": 1071
+        }
+      ],
+      "Fahrzeuge": [
+        {
+          "value": 331
+        },
+        {
+          "value": 114
+        }
+      ],
+      "Zugkilometer": [
+        {
+          "value": 12.9
+        },
+        {
+          "value": 11.2
+        }
+      ],
+      "Fahrgäste": [
+        {
+          "value": 110134
+        },
+        {
+          "value": 24212
+        }
+      ]
+    },
+    "2011": {
+      "Linien": [
+        {
+          "value": 13
+        },
+        {
+          "value": 60
+        }
+      ],
+      "Linienlänge": [
+        {
+          "value": 212
+        },
+        {
+          "value": 1071
+        }
+      ],
+      "Fahrzeuge": [
+        {
+          "value": 331
+        },
+        {
+          "value": 114
+        }
+      ],
+      "Zugkilometer": [
+        {
+          "value": 12.9
+        },
+        {
+          "value": 11.2
+        }
+      ],
+      "Fahrgäste": [
+        {
+          "value": 109187
+        },
+        {
+          "value": 25387
+        }
+      ]
+    },
+    "2012": {
+      "Linien": [
+        {
+          "value": 13
+        },
+        {
+          "value": 61
+        }
+      ],
+      "Linienlänge": [
+        {
+          "value": 218
+        },
+        {
+          "value": 1096
+        }
+      ],
+      "Fahrzeuge": [
+        {
+          "value": 314
+        },
+        {
+          "value": 131
+        }
+      ],
+      "Zugkilometer": [
+        {
+          "value": 12.7
+        },
+        {
+          "value": 12.2
+        }
+      ],
+      "Fahrgäste": [
+        {
+          "value": 112205
+        },
+        {
+          "value": 26860
+        }
+      ]
+    },
+    "2013": {
+      "Linien": [
+        {
+          "value": 13
+        },
+        {
+          "value": 61
+        }
+      ],
+      "Linienlänge": [
+        {
+          "value": 218
+        },
+        {
+          "value": 1096
+        }
+      ],
+      "Fahrzeuge": [
+        {
+          "value": 308
+        },
+        {
+          "value": 148
+        }
+      ],
+      "Zugkilometer": [
+        {
+          "value": 12.8
+        },
+        {
+          "value": 12.2
+        }
+      ],
+      "Fahrgäste": [
+        {
+          "value": 114672
+        },
+        {
+          "value": 27488
+        }
+      ]
+    },
+    "2014": {
+      "Linien": [
+        {
+          "value": 13
+        },
+        {
+          "value": 46
+        }
+      ],
+      "Linienlänge": [
+        {
+          "value": 218
+        },
+        {
+          "value": 735
+        }
+      ],
+      "Fahrzeuge": [
+        {
+          "value": 299
+        },
+        {
+          "value": 131
+        }
+      ],
+      "Zugkilometer": [
+        {
+          "value": 12.7
+        },
+        {
+          "value": 10
+        }
+      ],
+      "Fahrgäste": [
+        {
+          "value": 110992
+        },
+        {
+          "value": 25257
+        }
+      ]
+    },
+    "2015": {
+      "Linien": [
+        {
+          "value": 13
+        },
+        {
+          "value": 46
+        }
+      ],
+      "Linienlänge": [
+        {
+          "value": 215
+        },
+        {
+          "value": 737
+        }
+      ],
+      "Fahrzeuge": [
+        {
+          "value": 294
+        },
+        {
+          "value": 160
+        }
+      ],
+      "Zugkilometer": [
+        {
+          "value": 12.3
+        },
+        {
+          "value": 10.3
+        }
+      ],
+      "Fahrgäste": [
+        {
+          "value": 111291
+        },
+        {
+          "value": 26853
+        }
+      ]
+    },
+    "2016": {
+      "Linien": [
+        {
+          "value": 13
+        },
+        {
+          "value": 46
+        }
+      ],
+      "Linienlänge": [
+        {
+          "value": 215
+        },
+        {
+          "value": 749
+        }
+      ],
+      "Fahrzeuge": [
+        {
+          "value": 293
+        },
+        {
+          "value": 157
+        }
+      ],
+      "Zugkilometer": [
+        {
+          "value": 12.7
+        },
+        {
+          "value": 10.7
+        }
+      ],
+      "Fahrgäste": [
+        {
+          "value": 120382
+        },
+        {
+          "value": 27858
+        }
+      ]
+    },
+    "2017": {
+      "Linien": [
+        {
+          "value": 13
+        },
+        {
+          "value": 46
+        }
+      ],
+      "Linienlänge": [
+        {
+          "value": 215
+        },
+        {
+          "value": 752
+        }
+      ],
+      "Fahrzeuge": [
+        {
+          "value": 296
+        },
+        {
+          "value": 159
+        }
+      ],
+      "Zugkilometer": [
+        {
+          "value": 12.6
+        },
+        {
+          "value": 10.6
+        }
+      ],
+      "Fahrgäste": [
+        {
+          "value": 126445
+        },
+        {
+          "value": 29555
+        }
+      ]
+    },
+    "2018": {
+      "Linien": [
+        {
+          "value": 13
+        },
+        {
+          "value": 46
+        }
+      ],
+      "Linienlänge": [
+        {
+          "value": 215
+        },
+        {
+          "value": 740
+        }
+      ],
+      "Fahrzeuge": [
+        {
+          "value": 291
+        },
+        {
+          "value": 166
+        }
+      ],
+      "Zugkilometer": [
+        {
+          "value": 12.5
+        },
+        {
+          "value": 10.8
+        }
+      ],
+      "Fahrgäste": [
+        {
+          "value": 127140
+        },
+        {
+          "value": 29232
+        }
+      ]
+    },
+    "2019": {
+      "Linien": [
+        {
+          "value": 13
+        },
+        {
+          "value": 46
+        }
+      ],
+      "Linienlänge": [
+        {
+          "value": 215
+        },
+        {
+          "value": 725
+        }
+      ],
+      "Fahrzeuge": [
+        {
+          "value": 290
+        },
+        {
+          "value": 165
+        }
+      ],
+      "Zugkilometer": [
+        {
+          "value": 12.2
+        },
+        {
+          "value": 10.8
+        }
+      ],
+      "Fahrgäste": [
+        {
+          "value": 123746
+        },
+        {
+          "value": 28758
+        }
+      ]
+    },
+    "2020": {
+      "Linien": [
+        {
+          "value": 13
+        },
+        {
+          "value": 46
+        }
+      ],
+      "Linienlänge": [
+        {
+          "value": 215
+        },
+        {
+          "value": 725
+        }
+      ],
+      "Fahrzeuge": [
+        {
+          "value": 276
+        },
+        {
+          "value": 158
+        }
+      ],
+      "Zugkilometer": [
+        {
+          "value": 11.3
+        },
+        {
+          "value": 10.9
+        }
+      ],
+      "Fahrgäste": [
+        {
+          "value": 81822
+        },
+        {
+          "value": 22393
+        }
+      ]
+    },
+    "2021": {
+      "Linien": [
+        {
+          "value": 13
+        },
+        {
+          "value": 47
+        }
+      ],
+      "Linienlänge": [
+        {
+          "value": 215
+        },
+        {
+          "value": 736
+        }
+      ],
+      "Fahrzeuge": [
+        {
+          "value": 265
+        },
+        {
+          "value": 175
+        }
+      ],
+      "Zugkilometer": [
+        {
+          "value": 11.5
+        },
+        {
+          "value": 11.2
+        }
+      ],
+      "Fahrgäste": [
+        {
+          "value": 81239
+        },
+        {
+          "value": 21513
+        }
+      ]
+    },
+    "2022": {
+      "Linien": [
+        {
+          "value": 13
+        },
+        {
+          "value": 47
+        }
+      ],
+      "Linienlänge": [
+        {
+          "value": 215
+        },
+        {
+          "value": 715
+        }
+      ],
+      "Fahrzeuge": [
+        {
+          "value": 271
+        },
+        {
+          "value": 168
+        }
+      ],
+      "Zugkilometer": [
+        {
+          "value": 12.1
+        },
+        {
+          "value": 11
+        }
+      ],
+      "Fahrgäste": [
+        {
+          "value": 108305
+        },
+        {
+          "value": 26663
+        }
+      ]
+    },
+    "2023": {
+      "Linien": [
+        {
+          "value": 13
+        },
+        {
+          "value": 47
+        }
+      ],
+      "Linienlänge": [
+        {
+          "value": 215
+        },
+        {
+          "value": 715
+        }
+      ],
+      "Fahrzeuge": [
+        {
+          "value": 267
+        },
+        {
+          "value": 170
+        }
+      ],
+      "Zugkilometer": [
+        {
+          "value": 12.1
+        },
+        {
+          "value": 11.1
+        }
+      ],
+      "Fahrgäste": [
+        {
+          "value": 123005
+        },
+        {
+          "value": 30059
+        }
+      ]
+    }
+  }
+}

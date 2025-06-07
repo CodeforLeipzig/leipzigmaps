@@ -1,0 +1,305 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=4&rubrik_nr=39&periode=y",
+    "title": "Leistungsbereiche nach SGB VIII__§ 11 Jugendarbeit"
+  },
+  "data": {
+    "2005": {
+      "§ 11 Jugendarbeit": [
+        {
+          "value": 66.2
+        }
+      ],
+      "§ 12 Jugendverbandsarbeit": [
+        {
+          "value": 3.7
+        }
+      ],
+      "§ 13 Jugendsozialarbeit": [
+        {
+          "value": 21
+        }
+      ],
+      "§ 14 Kinder- und Jugendschutz": [
+        {
+          "value": 4
+        }
+      ],
+      "§ 16 Familienbildung": [
+        {
+          "value": 5.1
+        }
+      ]
+    },
+    "2010": {
+      "§ 16 Familienbildung": [
+        {
+          "value": 5.2
+        }
+      ],
+      "§ 14 Kinder- und Jugendschutz": [
+        {
+          "value": 4.1
+        }
+      ],
+      "§ 13 Jugendsozialarbeit": [
+        {
+          "value": 29.3
+        }
+      ],
+      "§ 12 Jugendverbandsarbeit": [
+        {
+          "value": 2.7
+        }
+      ],
+      "§ 11 Jugendarbeit": [
+        {
+          "value": 58.7
+        }
+      ]
+    },
+    "2015": {
+      "§ 11 Jugendarbeit": [
+        {
+          "value": 64.9
+        }
+      ],
+      "§ 12 Jugendverbandsarbeit": [
+        {
+          "value": 3.1
+        }
+      ],
+      "§ 13 Jugendsozialarbeit": [
+        {
+          "value": 19.3
+        }
+      ],
+      "§ 14 Kinder- und Jugendschutz": [
+        {
+          "value": 5.8
+        }
+      ],
+      "§ 16 Familienbildung": [
+        {
+          "value": 6.9
+        }
+      ]
+    },
+    "2016": {
+      "§ 16 Familienbildung": [
+        {
+          "value": 6.6
+        }
+      ],
+      "§ 14 Kinder- und Jugendschutz": [
+        {
+          "value": 6.1
+        }
+      ],
+      "§ 13 Jugendsozialarbeit": [
+        {
+          "value": 19
+        }
+      ],
+      "§ 12 Jugendverbandsarbeit": [
+        {
+          "value": 3.1
+        }
+      ],
+      "§ 11 Jugendarbeit": [
+        {
+          "value": 65.2
+        }
+      ]
+    },
+    "2017": {
+      "§ 11 Jugendarbeit": [
+        {
+          "value": 64.6
+        }
+      ],
+      "§ 12 Jugendverbandsarbeit": [
+        {
+          "value": 3.1
+        }
+      ],
+      "§ 13 Jugendsozialarbeit": [
+        {
+          "value": 20.4
+        }
+      ],
+      "§ 14 Kinder- und Jugendschutz": [
+        {
+          "value": 5.7
+        }
+      ],
+      "§ 16 Familienbildung": [
+        {
+          "value": 6.1
+        }
+      ]
+    },
+    "2018": {
+      "§ 16 Familienbildung": [
+        {
+          "value": 6.6
+        }
+      ],
+      "§ 14 Kinder- und Jugendschutz": [
+        {
+          "value": 5.7
+        }
+      ],
+      "§ 13 Jugendsozialarbeit": [
+        {
+          "value": 20.1
+        }
+      ],
+      "§ 12 Jugendverbandsarbeit": [
+        {
+          "value": 3
+        }
+      ],
+      "§ 11 Jugendarbeit": [
+        {
+          "value": 64.5
+        }
+      ]
+    },
+    "2019": {
+      "§ 11 Jugendarbeit": [
+        {
+          "value": 62.1
+        }
+      ],
+      "§ 12 Jugendverbandsarbeit": [
+        {
+          "value": 2.7
+        }
+      ],
+      "§ 13 Jugendsozialarbeit": [
+        {
+          "value": 20.9
+        }
+      ],
+      "§ 14 Kinder- und Jugendschutz": [
+        {
+          "value": 5.2
+        }
+      ],
+      "§ 16 Familienbildung": [
+        {
+          "value": 9.1
+        }
+      ]
+    },
+    "2020": {
+      "§ 16 Familienbildung": [
+        {
+          "value": 9.5
+        }
+      ],
+      "§ 14 Kinder- und Jugendschutz": [
+        {
+          "value": 5.2
+        }
+      ],
+      "§ 13 Jugendsozialarbeit": [
+        {
+          "value": 16.6
+        }
+      ],
+      "§ 12 Jugendverbandsarbeit": [
+        {
+          "value": 2.7
+        }
+      ],
+      "§ 11 Jugendarbeit": [
+        {
+          "value": 66.1
+        }
+      ]
+    },
+    "2021": {
+      "§ 11 Jugendarbeit": [
+        {
+          "value": 65.9
+        }
+      ],
+      "§ 12 Jugendverbandsarbeit": [
+        {
+          "value": 2.9
+        }
+      ],
+      "§ 13 Jugendsozialarbeit": [
+        {
+          "value": 16.2
+        }
+      ],
+      "§ 14 Kinder- und Jugendschutz": [
+        {
+          "value": 4.9
+        }
+      ],
+      "§ 16 Familienbildung": [
+        {
+          "value": 10
+        }
+      ]
+    },
+    "2022": {
+      "§ 16 Familienbildung": [
+        {
+          "value": 10.3
+        }
+      ],
+      "§ 14 Kinder- und Jugendschutz": [
+        {
+          "value": 5.2
+        }
+      ],
+      "§ 13 Jugendsozialarbeit": [
+        {
+          "value": 15.8
+        }
+      ],
+      "§ 12 Jugendverbandsarbeit": [
+        {
+          "value": 3
+        }
+      ],
+      "§ 11 Jugendarbeit": [
+        {
+          "value": 65.6
+        }
+      ]
+    },
+    "2023": {
+      "§ 11 Jugendarbeit": [
+        {
+          "value": 65.7
+        }
+      ],
+      "§ 12 Jugendverbandsarbeit": [
+        {
+          "value": 2.8
+        }
+      ],
+      "§ 13 Jugendsozialarbeit": [
+        {
+          "value": 14.5
+        }
+      ],
+      "§ 14 Kinder- und Jugendschutz": [
+        {
+          "value": 5.3
+        }
+      ],
+      "§ 16 Familienbildung": [
+        {
+          "value": 11.7
+        }
+      ]
+    }
+  }
+}

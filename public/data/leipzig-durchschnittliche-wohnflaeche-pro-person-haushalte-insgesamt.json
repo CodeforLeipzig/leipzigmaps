@@ -1,0 +1,3090 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=6&rubrik_nr=2&periode=y",
+    "title": "Durchschnittliche Wohnfläche pro Person__Haushalte__insgesamt"
+  },
+  "data": {
+    "2000": {
+      "Haushalte insgesamt": [
+        {
+          "value": 39.8
+        },
+        {
+          "value": 1.7
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 52.8
+        },
+        {
+          "value": 2.2
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 35.1
+        },
+        {
+          "value": 1.5
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 28.6
+        },
+        {
+          "value": 1.2
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 24.2
+        },
+        {
+          "value": 1
+        }
+      ],
+      "18 bis unter 35 Jahre": [
+        {
+          "value": 39.6
+        },
+        {
+          "value": 1.6
+        }
+      ],
+      "35 bis unter 55 Jahre": [
+        {
+          "value": 37.5
+        },
+        {
+          "value": 1.6
+        }
+      ],
+      "über 55 Jahre": [
+        {
+          "value": 42
+        },
+        {
+          "value": 1.8
+        }
+      ],
+      "Singles": [
+        {
+          "value": 52.2
+        },
+        {
+          "value": 2.1
+        }
+      ],
+      "Alleinstehende Rentner": [
+        {
+          "value": 54.2
+        },
+        {
+          "value": 2.3
+        }
+      ],
+      "Alleinerziehende": [
+        {
+          "value": 32.3
+        },
+        {
+          "value": 1.4
+        }
+      ],
+      "Paare mit Kindern": [
+        {
+          "value": 27
+        },
+        {
+          "value": 1.1
+        }
+      ],
+      "Paare ohne Kinder": [
+        {
+          "value": 36.3
+        },
+        {
+          "value": 1.5
+        }
+      ],
+      "Rentnerpaare": [
+        {
+          "value": 33.2
+        },
+        {
+          "value": 1.5
+        }
+      ],
+      "Mietwohnung oder gemietetes Haus": [
+        {
+          "value": 87
+        }
+      ],
+      "Eigentumswohnung": [
+        {
+          "value": 3
+        }
+      ],
+      "Eigenes Haus": [
+        {
+          "value": 10
+        }
+      ],
+      "Sonstiges": [
+        {
+          "value": 1
+        }
+      ]
+    },
+    "2001": {
+      "Sonstiges": [
+        {
+          "value": 0
+        }
+      ],
+      "Eigenes Haus": [
+        {
+          "value": 11
+        }
+      ],
+      "Eigentumswohnung": [
+        {
+          "value": 2
+        }
+      ],
+      "Mietwohnung oder gemietetes Haus": [
+        {
+          "value": 88
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 41.4
+        },
+        {
+          "value": 1.6
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 54.3
+        },
+        {
+          "value": 2.1
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 37.1
+        },
+        {
+          "value": 1.5
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 27.9
+        },
+        {
+          "value": 1.2
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 23.8
+        },
+        {
+          "value": 1
+        }
+      ],
+      "18 bis unter 35 Jahre": [
+        {
+          "value": 43.6
+        },
+        {
+          "value": 1.6
+        }
+      ],
+      "35 bis unter 55 Jahre": [
+        {
+          "value": 38.6
+        },
+        {
+          "value": 1.5
+        }
+      ],
+      "über 55 Jahre": [
+        {
+          "value": 42.6
+        },
+        {
+          "value": 1.8
+        }
+      ],
+      "Singles": [
+        {
+          "value": 54.8
+        },
+        {
+          "value": 2
+        }
+      ],
+      "Alleinstehende Rentner": [
+        {
+          "value": 52.4
+        },
+        {
+          "value": 2.2
+        }
+      ],
+      "Alleinerziehende": [
+        {
+          "value": 30.8
+        },
+        {
+          "value": 1.4
+        }
+      ],
+      "Paare mit Kindern": [
+        {
+          "value": 26.3
+        },
+        {
+          "value": 1.1
+        }
+      ],
+      "Paare ohne Kinder": [
+        {
+          "value": 37.8
+        },
+        {
+          "value": 1.5
+        }
+      ],
+      "Rentnerpaare": [
+        {
+          "value": 34.4
+        },
+        {
+          "value": 1.4
+        }
+      ]
+    },
+    "2002": {
+      "Haushalte insgesamt": [
+        {
+          "value": 41.8
+        },
+        {
+          "value": 1.7
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 56
+        },
+        {
+          "value": 2.2
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 34
+        },
+        {
+          "value": 1.4
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 28
+        },
+        {
+          "value": 1.1
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 24.5
+        },
+        {
+          "value": 1
+        }
+      ],
+      "18 bis unter 35 Jahre": [
+        {
+          "value": 41.2
+        },
+        {
+          "value": 1.6
+        }
+      ],
+      "35 bis unter 55 Jahre": [
+        {
+          "value": 37.1
+        },
+        {
+          "value": 1.5
+        }
+      ],
+      "über 55 Jahre": [
+        {
+          "value": 43.8
+        },
+        {
+          "value": 1.8
+        }
+      ],
+      "Singles": [
+        {
+          "value": 56.3
+        },
+        {
+          "value": 2.2
+        }
+      ],
+      "Alleinstehende Rentner": [
+        {
+          "value": 55.6
+        },
+        {
+          "value": 2.2
+        }
+      ],
+      "Alleinerziehende": [
+        {
+          "value": 31.6
+        },
+        {
+          "value": 1.3
+        }
+      ],
+      "Paare mit Kindern": [
+        {
+          "value": 26.5
+        },
+        {
+          "value": 1.1
+        }
+      ],
+      "Paare ohne Kinder": [
+        {
+          "value": 35.3
+        },
+        {
+          "value": 1.4
+        }
+      ],
+      "Rentnerpaare": [
+        {
+          "value": 31.7
+        },
+        {
+          "value": 1.4
+        }
+      ],
+      "Mietwohnung oder gemietetes Haus": [
+        {
+          "value": null
+        }
+      ],
+      "Eigentumswohnung": [
+        {
+          "value": null
+        }
+      ],
+      "Eigenes Haus": [
+        {
+          "value": null
+        }
+      ],
+      "Sonstiges": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2003": {
+      "Sonstiges": [
+        {
+          "value": 2
+        }
+      ],
+      "Eigenes Haus": [
+        {
+          "value": 10
+        }
+      ],
+      "Eigentumswohnung": [
+        {
+          "value": 2
+        }
+      ],
+      "Mietwohnung oder gemietetes Haus": [
+        {
+          "value": 86
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 42.1
+        },
+        {
+          "value": 1.7
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 54.3
+        },
+        {
+          "value": 2.2
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 36.2
+        },
+        {
+          "value": 1.5
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 28.2
+        },
+        {
+          "value": 1.2
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 24.7
+        },
+        {
+          "value": 1
+        }
+      ],
+      "18 bis unter 35 Jahre": [
+        {
+          "value": 41.3
+        },
+        {
+          "value": 1.6
+        }
+      ],
+      "35 bis unter 55 Jahre": [
+        {
+          "value": 39.8
+        },
+        {
+          "value": 1.6
+        }
+      ],
+      "über 55 Jahre": [
+        {
+          "value": 44.5
+        },
+        {
+          "value": 1.9
+        }
+      ],
+      "Singles": [
+        {
+          "value": 53.9
+        },
+        {
+          "value": 2.1
+        }
+      ],
+      "Alleinstehende Rentner": [
+        {
+          "value": 54.8
+        },
+        {
+          "value": 2.3
+        }
+      ],
+      "Alleinerziehende": [
+        {
+          "value": 31.9
+        },
+        {
+          "value": 1.3
+        }
+      ],
+      "Paare mit Kindern": [
+        {
+          "value": 27.2
+        },
+        {
+          "value": 1.1
+        }
+      ],
+      "Paare ohne Kinder": [
+        {
+          "value": 38.7
+        },
+        {
+          "value": 1.5
+        }
+      ],
+      "Rentnerpaare": [
+        {
+          "value": 33.9
+        },
+        {
+          "value": 1.4
+        }
+      ]
+    },
+    "2005": {
+      "Haushalte insgesamt": [
+        {
+          "value": 41.6
+        },
+        {
+          "value": 1.7
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 52.7
+        },
+        {
+          "value": 2.1
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 35.1
+        },
+        {
+          "value": 1.4
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 28.6
+        },
+        {
+          "value": 1.2
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 25.8
+        },
+        {
+          "value": 1
+        }
+      ],
+      "18 bis unter 35 Jahre": [
+        {
+          "value": 40.9
+        },
+        {
+          "value": 1.6
+        }
+      ],
+      "35 bis unter 55 Jahre": [
+        {
+          "value": 40
+        },
+        {
+          "value": 1.5
+        }
+      ],
+      "über 55 Jahre": [
+        {
+          "value": 43.3
+        },
+        {
+          "value": 1.8
+        }
+      ],
+      "Singles": [
+        {
+          "value": 51.6
+        },
+        {
+          "value": 1.9
+        }
+      ],
+      "Alleinstehende Rentner": [
+        {
+          "value": 55.1
+        },
+        {
+          "value": 2.3
+        }
+      ],
+      "Alleinerziehende": [
+        {
+          "value": 28.8
+        },
+        {
+          "value": 1.2
+        }
+      ],
+      "Paare mit Kindern": [
+        {
+          "value": 27.7
+        },
+        {
+          "value": 1.1
+        }
+      ],
+      "Paare ohne Kinder": [
+        {
+          "value": 36
+        },
+        {
+          "value": 1.4
+        }
+      ],
+      "Rentnerpaare": [
+        {
+          "value": 34.4
+        },
+        {
+          "value": 1.5
+        }
+      ],
+      "Mietwohnung oder gemietetes Haus": [
+        {
+          "value": null
+        }
+      ],
+      "Eigentumswohnung": [
+        {
+          "value": null
+        }
+      ],
+      "Eigenes Haus": [
+        {
+          "value": null
+        }
+      ],
+      "Sonstiges": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2006": {
+      "Sonstiges": [
+        {
+          "value": 0
+        }
+      ],
+      "Eigenes Haus": [
+        {
+          "value": 11
+        }
+      ],
+      "Eigentumswohnung": [
+        {
+          "value": 3
+        }
+      ],
+      "Mietwohnung oder gemietetes Haus": [
+        {
+          "value": 86
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 44.3
+        },
+        {
+          "value": 1.8
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 55.9
+        },
+        {
+          "value": 2.2
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 36.4
+        },
+        {
+          "value": 1.5
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 28.7
+        },
+        {
+          "value": 1.2
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 25.9
+        },
+        {
+          "value": 1
+        }
+      ],
+      "18 bis unter 35 Jahre": [
+        {
+          "value": 41.8
+        },
+        {
+          "value": 1.6
+        }
+      ],
+      "35 bis unter 55 Jahre": [
+        {
+          "value": 42.8
+        },
+        {
+          "value": 1.7
+        }
+      ],
+      "über 55 Jahre": [
+        {
+          "value": 47.2
+        },
+        {
+          "value": 2
+        }
+      ],
+      "Singles": [
+        {
+          "value": 54.7
+        },
+        {
+          "value": 2.1
+        }
+      ],
+      "Alleinstehende Rentner": [
+        {
+          "value": 58.2
+        },
+        {
+          "value": 2.5
+        }
+      ],
+      "Alleinerziehende": [
+        {
+          "value": 33.8
+        },
+        {
+          "value": 1.4
+        }
+      ],
+      "Paare mit Kindern": [
+        {
+          "value": 27.3
+        },
+        {
+          "value": 1.1
+        }
+      ],
+      "Paare ohne Kinder": [
+        {
+          "value": 38.8
+        },
+        {
+          "value": 1.6
+        }
+      ],
+      "Rentnerpaare": [
+        {
+          "value": 33.8
+        },
+        {
+          "value": 1.5
+        }
+      ]
+    },
+    "2007": {
+      "Haushalte insgesamt": [
+        {
+          "value": 44.4
+        },
+        {
+          "value": 1.7
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 53.9
+        },
+        {
+          "value": 2.1
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 36.6
+        },
+        {
+          "value": 1.4
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 29.5
+        },
+        {
+          "value": 1.2
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 28.2
+        },
+        {
+          "value": 1.1
+        }
+      ],
+      "18 bis unter 35 Jahre": [
+        {
+          "value": 42.1
+        },
+        {
+          "value": 1.5
+        }
+      ],
+      "35 bis unter 55 Jahre": [
+        {
+          "value": 43.5
+        },
+        {
+          "value": 1.7
+        }
+      ],
+      "über 55 Jahre": [
+        {
+          "value": 46.8
+        },
+        {
+          "value": 1.9
+        }
+      ],
+      "Singles": [
+        {
+          "value": 52.6
+        },
+        {
+          "value": 2
+        }
+      ],
+      "Alleinstehende Rentner": [
+        {
+          "value": 56.4
+        },
+        {
+          "value": 2.3
+        }
+      ],
+      "Alleinerziehende": [
+        {
+          "value": 32.8
+        },
+        {
+          "value": 1.4
+        }
+      ],
+      "Paare mit Kindern": [
+        {
+          "value": 29.1
+        },
+        {
+          "value": 1.1
+        }
+      ],
+      "Paare ohne Kinder": [
+        {
+          "value": 40
+        },
+        {
+          "value": 1.5
+        }
+      ],
+      "Rentnerpaare": [
+        {
+          "value": 34
+        },
+        {
+          "value": 1.4
+        }
+      ],
+      "Mietwohnung oder gemietetes Haus": [
+        {
+          "value": 87
+        }
+      ],
+      "Eigentumswohnung": [
+        {
+          "value": 2
+        }
+      ],
+      "Eigenes Haus": [
+        {
+          "value": 9
+        }
+      ],
+      "Sonstiges": [
+        {
+          "value": 2
+        }
+      ]
+    },
+    "2008": {
+      "Sonstiges": [
+        {
+          "value": 1
+        }
+      ],
+      "Eigenes Haus": [
+        {
+          "value": 12
+        }
+      ],
+      "Eigentumswohnung": [
+        {
+          "value": 3
+        }
+      ],
+      "Mietwohnung oder gemietetes Haus": [
+        {
+          "value": 85
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 44.8
+        },
+        {
+          "value": 1.8
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 54.6
+        },
+        {
+          "value": 2.2
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 37.2
+        },
+        {
+          "value": 1.5
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 29.9
+        },
+        {
+          "value": 1.2
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 25.9
+        },
+        {
+          "value": 1
+        }
+      ],
+      "18 bis unter 35 Jahre": [
+        {
+          "value": 41.7
+        },
+        {
+          "value": 1.6
+        }
+      ],
+      "35 bis unter 55 Jahre": [
+        {
+          "value": 44.3
+        },
+        {
+          "value": 1.8
+        }
+      ],
+      "über 55 Jahre": [
+        {
+          "value": 47.6
+        },
+        {
+          "value": 2
+        }
+      ],
+      "Singles": [
+        {
+          "value": 53.2
+        },
+        {
+          "value": 2.1
+        }
+      ],
+      "Alleinstehende Rentner": [
+        {
+          "value": 57.7
+        },
+        {
+          "value": 2.4
+        }
+      ],
+      "Alleinerziehende": [
+        {
+          "value": 32.4
+        },
+        {
+          "value": 1.4
+        }
+      ],
+      "Paare mit Kindern": [
+        {
+          "value": 29.1
+        },
+        {
+          "value": 1.1
+        }
+      ],
+      "Paare ohne Kinder": [
+        {
+          "value": 38.6
+        },
+        {
+          "value": 1.5
+        }
+      ],
+      "Rentnerpaare": [
+        {
+          "value": 36.2
+        },
+        {
+          "value": 1.5
+        }
+      ]
+    },
+    "2009": {
+      "Haushalte insgesamt": [
+        {
+          "value": 45.6
+        },
+        {
+          "value": 1.8
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 55.4
+        },
+        {
+          "value": 2.2
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 37.6
+        },
+        {
+          "value": 1.5
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 30.6
+        },
+        {
+          "value": 1.2
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 24.9
+        },
+        {
+          "value": 1
+        }
+      ],
+      "18 bis unter 35 Jahre": [
+        {
+          "value": 40.2
+        },
+        {
+          "value": 1.6
+        }
+      ],
+      "35 bis unter 55 Jahre": [
+        {
+          "value": 48
+        },
+        {
+          "value": 1.8
+        }
+      ],
+      "über 55 Jahre": [
+        {
+          "value": 47.4
+        },
+        {
+          "value": 1.9
+        }
+      ],
+      "Singles": [
+        {
+          "value": 55.6
+        },
+        {
+          "value": 2.1
+        }
+      ],
+      "Alleinstehende Rentner": [
+        {
+          "value": 54.9
+        },
+        {
+          "value": 2.3
+        }
+      ],
+      "Alleinerziehende": [
+        {
+          "value": 33.9
+        },
+        {
+          "value": 1.4
+        }
+      ],
+      "Paare mit Kindern": [
+        {
+          "value": 27.8
+        },
+        {
+          "value": 1.1
+        }
+      ],
+      "Paare ohne Kinder": [
+        {
+          "value": 39.9
+        },
+        {
+          "value": 1.6
+        }
+      ],
+      "Rentnerpaare": [
+        {
+          "value": 35.5
+        },
+        {
+          "value": 1.5
+        }
+      ],
+      "Mietwohnung oder gemietetes Haus": [
+        {
+          "value": 84
+        }
+      ],
+      "Eigentumswohnung": [
+        {
+          "value": 3
+        }
+      ],
+      "Eigenes Haus": [
+        {
+          "value": 12
+        }
+      ],
+      "Sonstiges": [
+        {
+          "value": 1
+        }
+      ]
+    },
+    "2010": {
+      "Haushalte insgesamt": [
+        {
+          "value": 45.4
+        },
+        {
+          "value": 1.8
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 55.7
+        },
+        {
+          "value": 2.2
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 36.9
+        },
+        {
+          "value": 1.5
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 30
+        },
+        {
+          "value": 1.2
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 26.5
+        },
+        {
+          "value": 1.1
+        }
+      ],
+      "18 bis unter 35 Jahre": [
+        {
+          "value": 42.7
+        },
+        {
+          "value": 1.7
+        }
+      ],
+      "35 bis unter 55 Jahre": [
+        {
+          "value": 45.4
+        },
+        {
+          "value": 1.8
+        }
+      ],
+      "über 55 Jahre": [
+        {
+          "value": 47.4
+        },
+        {
+          "value": 2
+        }
+      ],
+      "Singles": [
+        {
+          "value": 56.3
+        },
+        {
+          "value": 2.2
+        }
+      ],
+      "Alleinstehende Rentner": [
+        {
+          "value": 54.1
+        },
+        {
+          "value": 2.3
+        }
+      ],
+      "Alleinerziehende": [
+        {
+          "value": null
+        },
+        {
+          "value": 0
+        }
+      ],
+      "Paare mit Kindern": [
+        {
+          "value": 28.5
+        },
+        {
+          "value": 1.1
+        }
+      ],
+      "Paare ohne Kinder": [
+        {
+          "value": 39.6
+        },
+        {
+          "value": 1.6
+        }
+      ],
+      "Rentnerpaare": [
+        {
+          "value": 35.3
+        },
+        {
+          "value": 1.5
+        }
+      ],
+      "Mietwohnung oder gemietetes Haus": [
+        {
+          "value": 86
+        }
+      ],
+      "Eigentumswohnung": [
+        {
+          "value": 2
+        }
+      ],
+      "Eigenes Haus": [
+        {
+          "value": 11
+        }
+      ],
+      "Sonstiges": [
+        {
+          "value": 1
+        }
+      ]
+    },
+    "2011": {
+      "Haushalte insgesamt": [
+        {
+          "value": 46.3
+        },
+        {
+          "value": 1.9
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 56.1
+        },
+        {
+          "value": 2.2
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 37.7
+        },
+        {
+          "value": 1.5
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 29.9
+        },
+        {
+          "value": 1.2
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 26.7
+        },
+        {
+          "value": 1
+        }
+      ],
+      "18 bis unter 35 Jahre": [
+        {
+          "value": 42.9
+        },
+        {
+          "value": 1.7
+        }
+      ],
+      "35 bis unter 55 Jahre": [
+        {
+          "value": 45.1
+        },
+        {
+          "value": 1.8
+        }
+      ],
+      "über 55 Jahre": [
+        {
+          "value": 50.1
+        },
+        {
+          "value": 2.1
+        }
+      ],
+      "Singles": [
+        {
+          "value": 54.9
+        },
+        {
+          "value": 2.1
+        }
+      ],
+      "Alleinstehende Rentner": [
+        {
+          "value": 58.9
+        },
+        {
+          "value": 2.5
+        }
+      ],
+      "Alleinerziehende": [
+        {
+          "value": 31.5
+        },
+        {
+          "value": 1.3
+        }
+      ],
+      "Paare mit Kindern": [
+        {
+          "value": 28.7
+        },
+        {
+          "value": 1.1
+        }
+      ],
+      "Paare ohne Kinder": [
+        {
+          "value": 39.3
+        },
+        {
+          "value": 1.5
+        }
+      ],
+      "Rentnerpaare": [
+        {
+          "value": 36.6
+        },
+        {
+          "value": 1.5
+        }
+      ],
+      "Mietwohnung oder gemietetes Haus": [
+        {
+          "value": 87
+        }
+      ],
+      "Eigentumswohnung": [
+        {
+          "value": 2
+        }
+      ],
+      "Eigenes Haus": [
+        {
+          "value": 10
+        }
+      ],
+      "Sonstiges": [
+        {
+          "value": 2
+        }
+      ]
+    },
+    "2012": {
+      "Mietwohnung oder gemietetes Haus": [
+        {
+          "value": 85
+        }
+      ],
+      "Eigentumswohnung": [
+        {
+          "value": 2
+        }
+      ],
+      "Eigenes Haus": [
+        {
+          "value": 11
+        }
+      ],
+      "Sonstiges": [
+        {
+          "value": 2
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 47
+        },
+        {
+          "value": 1.9
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 57.4
+        },
+        {
+          "value": 2.3
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 38.5
+        },
+        {
+          "value": 1.5
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 30.1
+        },
+        {
+          "value": 1.2
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 27.1
+        },
+        {
+          "value": 1
+        }
+      ],
+      "18 bis unter 35 Jahre": [
+        {
+          "value": 44.2
+        },
+        {
+          "value": 1.7
+        }
+      ],
+      "35 bis unter 55 Jahre": [
+        {
+          "value": 46.5
+        },
+        {
+          "value": 1.8
+        }
+      ],
+      "über 55 Jahre": [
+        {
+          "value": 49.9
+        },
+        {
+          "value": 2.1
+        }
+      ],
+      "Singles": [
+        {
+          "value": 56.4
+        },
+        {
+          "value": 2.2
+        }
+      ],
+      "Alleinstehende Rentner": [
+        {
+          "value": 60
+        },
+        {
+          "value": 2.5
+        }
+      ],
+      "Alleinerziehende": [
+        {
+          "value": 29.6
+        },
+        {
+          "value": 1.3
+        }
+      ],
+      "Paare mit Kindern": [
+        {
+          "value": 29.3
+        },
+        {
+          "value": 1.1
+        }
+      ],
+      "Paare ohne Kinder": [
+        {
+          "value": 41
+        },
+        {
+          "value": 1.5
+        }
+      ],
+      "Rentnerpaare": [
+        {
+          "value": 37.2
+        },
+        {
+          "value": 1.6
+        }
+      ]
+    },
+    "2013": {
+      "Mietwohnung oder gemietetes Haus": [
+        {
+          "value": 86
+        }
+      ],
+      "Eigentumswohnung": [
+        {
+          "value": 3
+        }
+      ],
+      "Eigenes Haus": [
+        {
+          "value": 10
+        }
+      ],
+      "Sonstiges": [
+        {
+          "value": 1
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 47.6
+        },
+        {
+          "value": 1.8
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 59.5
+        },
+        {
+          "value": 2.2
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 38.2
+        },
+        {
+          "value": 1.5
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 30.6
+        },
+        {
+          "value": 1.2
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 26.5
+        },
+        {
+          "value": 1
+        }
+      ],
+      "18 bis unter 35 Jahre": [
+        {
+          "value": 46
+        },
+        {
+          "value": 1.6
+        }
+      ],
+      "35 bis unter 55 Jahre": [
+        {
+          "value": 47.4
+        },
+        {
+          "value": 1.8
+        }
+      ],
+      "über 55 Jahre": [
+        {
+          "value": 49.2
+        },
+        {
+          "value": 2
+        }
+      ],
+      "Singles": [
+        {
+          "value": 59.9
+        },
+        {
+          "value": 2.1
+        }
+      ],
+      "Alleinstehende Rentner": [
+        {
+          "value": 58.6
+        },
+        {
+          "value": 2.4
+        }
+      ],
+      "Alleinerziehende": [
+        {
+          "value": 31.9
+        },
+        {
+          "value": 1.4
+        }
+      ],
+      "Paare mit Kindern": [
+        {
+          "value": 28.5
+        },
+        {
+          "value": 1.1
+        }
+      ],
+      "Paare ohne Kinder": [
+        {
+          "value": 40
+        },
+        {
+          "value": 1.5
+        }
+      ],
+      "Rentnerpaare": [
+        {
+          "value": 36.9
+        },
+        {
+          "value": 1.5
+        }
+      ]
+    },
+    "2014": {
+      "Mietwohnung oder gemietetes Haus": [
+        {
+          "value": 82.1648
+        }
+      ],
+      "Eigentumswohnung": [
+        {
+          "value": 4.89158
+        }
+      ],
+      "Eigenes Haus": [
+        {
+          "value": 11.8031
+        }
+      ],
+      "Sonstiges": [
+        {
+          "value": 1.14
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 45.5703
+        },
+        {
+          "value": 1.80829
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 54.1494
+        },
+        {
+          "value": 2.16277
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 38.6165
+        },
+        {
+          "value": 1.54119
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 33.1992
+        },
+        {
+          "value": 1.24485
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 27.2364
+        },
+        {
+          "value": 1.04837
+        }
+      ],
+      "18 bis unter 35 Jahre": [
+        {
+          "value": 40.0597
+        },
+        {
+          "value": 1.53575
+        }
+      ],
+      "35 bis unter 55 Jahre": [
+        {
+          "value": 46.3909
+        },
+        {
+          "value": 1.7864
+        }
+      ],
+      "über 55 Jahre": [
+        {
+          "value": 49.456
+        },
+        {
+          "value": 2.05841
+        }
+      ],
+      "Singles": [
+        {
+          "value": 52.633
+        },
+        {
+          "value": 2.06662
+        }
+      ],
+      "Alleinstehende Rentner": [
+        {
+          "value": 57.6151
+        },
+        {
+          "value": 2.38286
+        }
+      ],
+      "Alleinerziehende": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Paare mit Kindern": [
+        {
+          "value": 30.4805
+        },
+        {
+          "value": 1.11055
+        }
+      ],
+      "Paare ohne Kinder": [
+        {
+          "value": 39.7883
+        },
+        {
+          "value": 1.52827
+        }
+      ],
+      "Rentnerpaare": [
+        {
+          "value": 37.5223
+        },
+        {
+          "value": 1.58346
+        }
+      ]
+    },
+    "2015": {
+      "Mietwohnung oder gemietetes Haus": [
+        {
+          "value": 87.082
+        }
+      ],
+      "Sonstiges": [
+        {
+          "value": 0.642759
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 45.0479
+        },
+        {
+          "value": 1.77803
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 54.7496
+        },
+        {
+          "value": 2.1488
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 38.0106
+        },
+        {
+          "value": 1.52298
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 30.105
+        },
+        {
+          "value": 1.1903
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 25.9254
+        },
+        {
+          "value": 1.01769
+        }
+      ],
+      "18 bis unter 35 Jahre": [
+        {
+          "value": 38.9351
+        },
+        {
+          "value": 1.50039
+        }
+      ],
+      "35 bis unter 55 Jahre": [
+        {
+          "value": 45.2583
+        },
+        {
+          "value": 1.74716
+        }
+      ],
+      "über 55 Jahre": [
+        {
+          "value": 50.1592
+        },
+        {
+          "value": 2.04416
+        }
+      ],
+      "Singles": [
+        {
+          "value": 53.2496
+        },
+        {
+          "value": 2.0766
+        }
+      ],
+      "Alleinstehende Rentner": [
+        {
+          "value": 58.0747
+        },
+        {
+          "value": 2.30725
+        }
+      ],
+      "Alleinerziehende": [
+        {
+          "value": 31.9075
+        },
+        {
+          "value": 1.34451
+        }
+      ],
+      "Paare mit Kindern": [
+        {
+          "value": 28.6959
+        },
+        {
+          "value": 1.10827
+        }
+      ],
+      "Paare ohne Kinder": [
+        {
+          "value": 40.3278
+        },
+        {
+          "value": 1.54981
+        }
+      ],
+      "Rentnerpaare": [
+        {
+          "value": 37.2896
+        },
+        {
+          "value": 1.57269
+        }
+      ],
+      "Eigentumswohnung": [
+        {
+          "value": 3.03918
+        }
+      ],
+      "Eigenes Haus": [
+        {
+          "value": 9.23607
+        }
+      ]
+    },
+    "2016": {
+      "Mietwohnung oder gemietetes Haus": [
+        {
+          "value": 86
+        }
+      ],
+      "Eigentumswohnung": [
+        {
+          "value": 4
+        }
+      ],
+      "Eigenes Haus": [
+        {
+          "value": 9
+        }
+      ],
+      "Sonstiges": [
+        {
+          "value": 1
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 45.1
+        },
+        {
+          "value": 1.8
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 54.3
+        },
+        {
+          "value": 2.2
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 38.9
+        },
+        {
+          "value": 1.6
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 31.7
+        },
+        {
+          "value": 1.2
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 24.6
+        },
+        {
+          "value": 1
+        }
+      ],
+      "18 bis unter 35 Jahre": [
+        {
+          "value": 40.5
+        },
+        {
+          "value": 1.6
+        }
+      ],
+      "35 bis unter 55 Jahre": [
+        {
+          "value": 43
+        },
+        {
+          "value": 1.7
+        }
+      ],
+      "über 55 Jahre": [
+        {
+          "value": 50.2
+        },
+        {
+          "value": 2.1
+        }
+      ],
+      "Singles": [
+        {
+          "value": 52.6
+        },
+        {
+          "value": 2.1
+        }
+      ],
+      "Alleinstehende Rentner": [
+        {
+          "value": 58.6
+        },
+        {
+          "value": 2.4
+        }
+      ],
+      "Alleinerziehende": [
+        {
+          "value": 32.1
+        },
+        {
+          "value": 1.3
+        }
+      ],
+      "Paare mit Kindern": [
+        {
+          "value": 28.4
+        },
+        {
+          "value": 1.1
+        }
+      ],
+      "Paare ohne Kinder": [
+        {
+          "value": 41.7
+        },
+        {
+          "value": 1.6
+        }
+      ],
+      "Rentnerpaare": [
+        {
+          "value": 36.7
+        },
+        {
+          "value": 1.6
+        }
+      ]
+    },
+    "2017": {
+      "Mietwohnung oder gemietetes Haus": [
+        {
+          "value": 84.41
+        }
+      ],
+      "Eigentumswohnung": [
+        {
+          "value": 4.369
+        }
+      ],
+      "Eigenes Haus": [
+        {
+          "value": 9.36873
+        }
+      ],
+      "Sonstiges": [
+        {
+          "value": 1.85223
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 46.1581
+        },
+        {
+          "value": 1.8242
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 55.8583
+        },
+        {
+          "value": 2.20192
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 39.1099
+        },
+        {
+          "value": 1.5648
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 30.4234
+        },
+        {
+          "value": 1.19452
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 26.0178
+        },
+        {
+          "value": 0.993298
+        }
+      ],
+      "18 bis unter 35 Jahre": [
+        {
+          "value": 41.1659
+        },
+        {
+          "value": 1.53087
+        }
+      ],
+      "35 bis unter 55 Jahre": [
+        {
+          "value": 43.1988
+        },
+        {
+          "value": 1.67816
+        }
+      ],
+      "über 55 Jahre": [
+        {
+          "value": 52.1569
+        },
+        {
+          "value": 2.16027
+        }
+      ],
+      "Singles": [
+        {
+          "value": 53.9342
+        },
+        {
+          "value": 2.06174
+        }
+      ],
+      "Alleinstehende Rentner": [
+        {
+          "value": 59.9975
+        },
+        {
+          "value": 2.498
+        }
+      ],
+      "Alleinerziehende": [
+        {
+          "value": 32.2508
+        },
+        {
+          "value": 1.36331
+        }
+      ],
+      "Paare mit Kindern": [
+        {
+          "value": 29.0931
+        },
+        {
+          "value": 1.11265
+        }
+      ],
+      "Paare ohne Kinder": [
+        {
+          "value": 40.7214
+        },
+        {
+          "value": 1.5635
+        }
+      ],
+      "Rentnerpaare": [
+        {
+          "value": 39.2854
+        },
+        {
+          "value": 1.64666
+        }
+      ]
+    },
+    "2018": {
+      "18 bis unter 35 Jahre": [
+        {
+          "value": 39.8404
+        },
+        {
+          "value": 1.48343
+        }
+      ],
+      "35 bis unter 55 Jahre": [
+        {
+          "value": 46.3896
+        },
+        {
+          "value": 1.73391
+        }
+      ],
+      "über 55 Jahre": [
+        {
+          "value": 53.0662
+        },
+        {
+          "value": 2.1629
+        }
+      ],
+      "Singles": [
+        {
+          "value": 54.6885
+        },
+        {
+          "value": 2.06105
+        }
+      ],
+      "Alleinstehende Rentner": [
+        {
+          "value": 62.0651
+        },
+        {
+          "value": 2.54988
+        }
+      ],
+      "Alleinerziehende": [
+        {
+          "value": 33.9198
+        },
+        {
+          "value": 1.30381
+        }
+      ],
+      "Paare mit Kindern": [
+        {
+          "value": 28.9078
+        },
+        {
+          "value": 1.0953
+        }
+      ],
+      "Paare ohne Kinder": [
+        {
+          "value": 43.1888
+        },
+        {
+          "value": 1.60603
+        }
+      ],
+      "Rentnerpaare": [
+        {
+          "value": 39.8537
+        },
+        {
+          "value": 1.57226
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 1.80669
+        },
+        {
+          "value": 46.6756
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 2.20335
+        },
+        {
+          "value": 57.0533
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 1.57083
+        },
+        {
+          "value": 40.1083
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 1.14902
+        },
+        {
+          "value": 29.6944
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 1.04479
+        },
+        {
+          "value": 27.1855
+        }
+      ],
+      "Mietwohnung oder gemietetes Haus": [
+        {
+          "value": 84.4425
+        }
+      ],
+      "Eigentumswohnung": [
+        {
+          "value": 3.18896
+        }
+      ],
+      "Eigenes Haus": [
+        {
+          "value": 10.5198
+        }
+      ],
+      "Sonstiges": [
+        {
+          "value": 1.84878
+        }
+      ]
+    },
+    "2019": {
+      "Mietwohnung oder gemietetes Haus": [
+        {
+          "value": 86.1804
+        }
+      ],
+      "Eigentumswohnung": [
+        {
+          "value": 3.49071
+        }
+      ],
+      "Eigenes Haus": [
+        {
+          "value": 9.14614
+        }
+      ],
+      "Sonstiges": [
+        {
+          "value": 1.18279
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 47.2084
+        },
+        {
+          "value": 1.9
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 57.0896
+        },
+        {
+          "value": 2.2
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 38.9566
+        },
+        {
+          "value": 1.8
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 30.787
+        },
+        {
+          "value": 1.1
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 27.2391
+        },
+        {
+          "value": 1.1
+        }
+      ],
+      "18 bis unter 35 Jahre": [
+        {
+          "value": 40.8144
+        },
+        {
+          "value": 1.6
+        }
+      ],
+      "35 bis unter 55 Jahre": [
+        {
+          "value": 45.0846
+        },
+        {
+          "value": 1.8
+        }
+      ],
+      "über 55 Jahre": [
+        {
+          "value": 53.5352
+        },
+        {
+          "value": 2.2
+        }
+      ],
+      "Singles": [
+        {
+          "value": 54.5576
+        },
+        {
+          "value": 2.1
+        }
+      ],
+      "Alleinstehende Rentner": [
+        {
+          "value": 62.9549
+        },
+        {
+          "value": 2.5
+        }
+      ],
+      "Alleinerziehende": [
+        {
+          "value": 31.3923
+        },
+        {
+          "value": 1.4
+        }
+      ],
+      "Paare mit Kindern": [
+        {
+          "value": 29.6638
+        },
+        {
+          "value": 1.1
+        }
+      ],
+      "Paare ohne Kinder": [
+        {
+          "value": 40.6723
+        },
+        {
+          "value": 1.8
+        }
+      ],
+      "Rentnerpaare": [
+        {
+          "value": 38.7167
+        },
+        {
+          "value": 1.9
+        }
+      ]
+    },
+    "2020": {
+      "Mietwohnung oder gemietetes Haus": [
+        {
+          "value": 86.6466
+        }
+      ],
+      "Eigentumswohnung": [
+        {
+          "value": 2.97788
+        }
+      ],
+      "Eigenes Haus": [
+        {
+          "value": 8.82186
+        }
+      ],
+      "Sonstiges": [
+        {
+          "value": 1.55366
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 46.4376
+        },
+        {
+          "value": 1.83099
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 56.482
+        },
+        {
+          "value": 2.24785
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 38.7308
+        },
+        {
+          "value": 1.49717
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 30.6177
+        },
+        {
+          "value": 1.22351
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 24.5632
+        },
+        {
+          "value": 0.966824
+        }
+      ],
+      "18 bis unter 35 Jahre": [
+        {
+          "value": 38.37
+        },
+        {
+          "value": 1.49312
+        }
+      ],
+      "35 bis unter 55 Jahre": [
+        {
+          "value": 45.5517
+        },
+        {
+          "value": 1.7602
+        }
+      ],
+      "über 55 Jahre": [
+        {
+          "value": 52.3443
+        },
+        {
+          "value": 2.10417
+        }
+      ],
+      "Singles": [
+        {
+          "value": 54.3171
+        },
+        {
+          "value": 2.12962
+        }
+      ],
+      "Alleinstehende Rentner": [
+        {
+          "value": 59.6518
+        },
+        {
+          "value": 2.42414
+        }
+      ],
+      "Alleinerziehende": [
+        {
+          "value": 34.6578
+        },
+        {
+          "value": 1.50924
+        }
+      ],
+      "Paare mit Kindern": [
+        {
+          "value": 28.1481
+        },
+        {
+          "value": 1.11893
+        }
+      ],
+      "Paare ohne Kinder": [
+        {
+          "value": 40.1735
+        },
+        {
+          "value": 1.47968
+        }
+      ],
+      "Rentnerpaare": [
+        {
+          "value": 39.1703
+        },
+        {
+          "value": 1.56548
+        }
+      ]
+    },
+    "2021": {
+      "Mietwohnung oder gemietetes Haus": [
+        {
+          "value": 84.8488
+        }
+      ],
+      "Eigentumswohnung": [
+        {
+          "value": 4.23345
+        }
+      ],
+      "Eigenes Haus": [
+        {
+          "value": 9.60954
+        }
+      ],
+      "Sonstiges": [
+        {
+          "value": 1.30825
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 47.4892
+        },
+        {
+          "value": 1.87245
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 57.9604
+        },
+        {
+          "value": 2.28403
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 38.9371
+        },
+        {
+          "value": 1.53456
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 30.335
+        },
+        {
+          "value": 1.19628
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 26.5762
+        },
+        {
+          "value": 1.02855
+        }
+      ],
+      "18 bis unter 35 Jahre": [
+        {
+          "value": 41.1732
+        },
+        {
+          "value": 1.54271
+        }
+      ],
+      "35 bis unter 55 Jahre": [
+        {
+          "value": 45.9868
+        },
+        {
+          "value": 1.75303
+        }
+      ],
+      "über 55 Jahre": [
+        {
+          "value": 53.4719
+        },
+        {
+          "value": 2.2152
+        }
+      ],
+      "Singles": [
+        {
+          "value": 56.4616
+        },
+        {
+          "value": 2.15655
+        }
+      ],
+      "Alleinstehende Rentner": [
+        {
+          "value": 60.9077
+        },
+        {
+          "value": 2.5353
+        }
+      ],
+      "Alleinerziehende": [
+        {
+          "value": 32.7111
+        },
+        {
+          "value": 1.36377
+        }
+      ],
+      "Paare mit Kindern": [
+        {
+          "value": 29.2932
+        },
+        {
+          "value": 1.12542
+        }
+      ],
+      "Paare ohne Kinder": [
+        {
+          "value": 40.6551
+        },
+        {
+          "value": 1.52729
+        }
+      ],
+      "Rentnerpaare": [
+        {
+          "value": 39.3645
+        },
+        {
+          "value": 1.6287
+        }
+      ]
+    },
+    "2022": {
+      "Mietwohnung oder gemietetes Haus": [
+        {
+          "value": 83.7998
+        }
+      ],
+      "Eigentumswohnung": [
+        {
+          "value": 4.31409
+        }
+      ],
+      "Eigenes Haus": [
+        {
+          "value": 11.0393
+        }
+      ],
+      "Sonstiges": [
+        {
+          "value": 0.846803
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 48.4946
+        },
+        {
+          "value": 1.90615
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 59.0256
+        },
+        {
+          "value": 2.32401
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 39.1399
+        },
+        {
+          "value": 1.53308
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 31.0479
+        },
+        {
+          "value": 1.22213
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 26.3822
+        },
+        {
+          "value": 1.04234
+        }
+      ],
+      "18 bis unter 35 Jahre": [
+        {
+          "value": 43.3169
+        },
+        {
+          "value": 1.64035
+        }
+      ],
+      "35 bis unter 55 Jahre": [
+        {
+          "value": 45.7094
+        },
+        {
+          "value": 1.70911
+        }
+      ],
+      "über 55 Jahre": [
+        {
+          "value": 53.7352
+        },
+        {
+          "value": 2.22167
+        }
+      ],
+      "Singles": [
+        {
+          "value": 57.7053
+        },
+        {
+          "value": 2.1942
+        }
+      ],
+      "Alleinstehende Rentner": [
+        {
+          "value": 61.8193
+        },
+        {
+          "value": 2.59811
+        }
+      ],
+      "Alleinerziehende": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Paare mit Kindern": [
+        {
+          "value": 28.9526
+        },
+        {
+          "value": 1.1174
+        }
+      ],
+      "Paare ohne Kinder": [
+        {
+          "value": 40.717
+        },
+        {
+          "value": 1.51139
+        }
+      ],
+      "Rentnerpaare": [
+        {
+          "value": 39.1964
+        },
+        {
+          "value": 1.62412
+        }
+      ]
+    },
+    "2023": {
+      "Mietwohnung oder gemietetes Haus": [
+        {
+          "value": 85.1024
+        }
+      ],
+      "Eigentumswohnung": [
+        {
+          "value": 4.74531
+        }
+      ],
+      "Eigenes Haus": [
+        {
+          "value": 8.72899
+        }
+      ],
+      "Sonstiges": [
+        {
+          "value": 1.42333
+        }
+      ],
+      "Haushalte insgesamt": [
+        {
+          "value": 46.0556
+        },
+        {
+          "value": 1.76706
+        }
+      ],
+      "1-Personen-Haushalte": [
+        {
+          "value": 56.5366
+        },
+        {
+          "value": 2.16238
+        }
+      ],
+      "2-Personen-Haushalte": [
+        {
+          "value": 38.0234
+        },
+        {
+          "value": 1.47105
+        }
+      ],
+      "3-Personen-Haushalte": [
+        {
+          "value": 30.3853
+        },
+        {
+          "value": 1.2017
+        }
+      ],
+      "4- und Mehr-Personen-Haushalte": [
+        {
+          "value": 25.994
+        },
+        {
+          "value": 0.983959
+        }
+      ],
+      "18 bis unter 35 Jahre": [
+        {
+          "value": 40.1963
+        },
+        {
+          "value": 1.48274
+        }
+      ],
+      "35 bis unter 55 Jahre": [
+        {
+          "value": 42.4887
+        },
+        {
+          "value": 1.61963
+        }
+      ],
+      "über 55 Jahre": [
+        {
+          "value": 53.6215
+        },
+        {
+          "value": 2.11326
+        }
+      ],
+      "Singles": [
+        {
+          "value": 54.2144
+        },
+        {
+          "value": 2.01614
+        }
+      ],
+      "Alleinstehende Rentner": [
+        {
+          "value": 61.0585
+        },
+        {
+          "value": 2.44771
+        }
+      ],
+      "Alleinerziehende": [
+        {
+          "value": 31.1375
+        },
+        {
+          "value": 1.30398
+        }
+      ],
+      "Paare mit Kindern": [
+        {
+          "value": 29.1564
+        },
+        {
+          "value": 1.08973
+        }
+      ],
+      "Paare ohne Kinder": [
+        {
+          "value": 39.7174
+        },
+        {
+          "value": 1.46241
+        }
+      ],
+      "Rentnerpaare": [
+        {
+          "value": 38.6704
+        },
+        {
+          "value": 1.55171
+        }
+      ]
+    }
+  }
+}

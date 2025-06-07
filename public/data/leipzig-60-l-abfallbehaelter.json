@@ -1,0 +1,854 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=13&rubrik_nr=5&periode=y",
+    "title": "60-l-Abfallbehälter"
+  },
+  "data": {
+    "2005": {
+      "60-l-Abfallbehälter": [
+        {
+          "value": null
+        }
+      ],
+      "80-l-Abfallbehälter": [
+        {
+          "value": 9856
+        }
+      ],
+      "120-l-Abfallbehälter": [
+        {
+          "value": 47745
+        }
+      ],
+      "240-l-Abfallbehälter": [
+        {
+          "value": 24418
+        }
+      ],
+      "1100-l-Abfallbehälter": [
+        {
+          "value": 10301
+        }
+      ],
+      "Restabfallsammelfahrzeuge": [
+        {
+          "value": 20
+        }
+      ],
+      "Entsorgter Restabfall - Wohngrundstücke": [
+        {
+          "value": 85206
+        }
+      ],
+      "Entsorgter Sperrmüll": [
+        {
+          "value": 16563
+        }
+      ],
+      "Entsorgte Schadstoffe - Haushalt und Gewerbe": [
+        {
+          "value": 236
+        }
+      ]
+    },
+    "2006": {
+      "60-l-Abfallbehälter": [
+        {
+          "value": null
+        }
+      ],
+      "80-l-Abfallbehälter": [
+        {
+          "value": 10985
+        }
+      ],
+      "120-l-Abfallbehälter": [
+        {
+          "value": 44512
+        }
+      ],
+      "240-l-Abfallbehälter": [
+        {
+          "value": 25045
+        }
+      ],
+      "1100-l-Abfallbehälter": [
+        {
+          "value": 10016
+        }
+      ],
+      "Restabfallsammelfahrzeuge": [
+        {
+          "value": 20
+        }
+      ],
+      "Entsorgter Restabfall - Wohngrundstücke": [
+        {
+          "value": 82700
+        }
+      ],
+      "Entsorgter Sperrmüll": [
+        {
+          "value": 17546
+        }
+      ],
+      "Entsorgte Schadstoffe - Haushalt und Gewerbe": [
+        {
+          "value": 318
+        }
+      ]
+    },
+    "2007": {
+      "60-l-Abfallbehälter": [
+        {
+          "value": null
+        }
+      ],
+      "80-l-Abfallbehälter": [
+        {
+          "value": 10839
+        }
+      ],
+      "120-l-Abfallbehälter": [
+        {
+          "value": 44666
+        }
+      ],
+      "240-l-Abfallbehälter": [
+        {
+          "value": 24970
+        }
+      ],
+      "1100-l-Abfallbehälter": [
+        {
+          "value": 10025
+        }
+      ],
+      "Restabfallsammelfahrzeuge": [
+        {
+          "value": 19
+        }
+      ],
+      "Entsorgter Restabfall - Wohngrundstücke": [
+        {
+          "value": 79082
+        }
+      ],
+      "Entsorgter Sperrmüll": [
+        {
+          "value": 18513
+        }
+      ],
+      "Entsorgte Schadstoffe - Haushalt und Gewerbe": [
+        {
+          "value": 335
+        }
+      ]
+    },
+    "2008": {
+      "60-l-Abfallbehälter": [
+        {
+          "value": null
+        }
+      ],
+      "80-l-Abfallbehälter": [
+        {
+          "value": 12330
+        }
+      ],
+      "120-l-Abfallbehälter": [
+        {
+          "value": 42611
+        }
+      ],
+      "240-l-Abfallbehälter": [
+        {
+          "value": 26749
+        }
+      ],
+      "1100-l-Abfallbehälter": [
+        {
+          "value": 9744
+        }
+      ],
+      "Restabfallsammelfahrzeuge": [
+        {
+          "value": 19
+        }
+      ],
+      "Entsorgter Restabfall - Wohngrundstücke": [
+        {
+          "value": 76672
+        }
+      ],
+      "Entsorgter Sperrmüll": [
+        {
+          "value": 18144
+        }
+      ],
+      "Entsorgte Schadstoffe - Haushalt und Gewerbe": [
+        {
+          "value": 311
+        }
+      ]
+    },
+    "2009": {
+      "60-l-Abfallbehälter": [
+        {
+          "value": null
+        }
+      ],
+      "80-l-Abfallbehälter": [
+        {
+          "value": 12651
+        }
+      ],
+      "120-l-Abfallbehälter": [
+        {
+          "value": 42203
+        }
+      ],
+      "240-l-Abfallbehälter": [
+        {
+          "value": 27724
+        }
+      ],
+      "1100-l-Abfallbehälter": [
+        {
+          "value": 9758
+        }
+      ],
+      "Restabfallsammelfahrzeuge": [
+        {
+          "value": 19
+        }
+      ],
+      "Entsorgter Restabfall - Wohngrundstücke": [
+        {
+          "value": 76185
+        }
+      ],
+      "Entsorgter Sperrmüll": [
+        {
+          "value": 17933
+        }
+      ],
+      "Entsorgte Schadstoffe - Haushalt und Gewerbe": [
+        {
+          "value": 345
+        }
+      ]
+    },
+    "2010": {
+      "60-l-Abfallbehälter": [
+        {
+          "value": null
+        }
+      ],
+      "80-l-Abfallbehälter": [
+        {
+          "value": 13000
+        }
+      ],
+      "120-l-Abfallbehälter": [
+        {
+          "value": 41900
+        }
+      ],
+      "240-l-Abfallbehälter": [
+        {
+          "value": 28669
+        }
+      ],
+      "1100-l-Abfallbehälter": [
+        {
+          "value": 9773
+        }
+      ],
+      "Restabfallsammelfahrzeuge": [
+        {
+          "value": 19
+        }
+      ],
+      "Entsorgter Restabfall - Wohngrundstücke": [
+        {
+          "value": 77061
+        }
+      ],
+      "Entsorgter Sperrmüll": [
+        {
+          "value": 17930
+        }
+      ],
+      "Entsorgte Schadstoffe - Haushalt und Gewerbe": [
+        {
+          "value": 331
+        }
+      ]
+    },
+    "2011": {
+      "60-l-Abfallbehälter": [
+        {
+          "value": null
+        }
+      ],
+      "80-l-Abfallbehälter": [
+        {
+          "value": 13428
+        }
+      ],
+      "120-l-Abfallbehälter": [
+        {
+          "value": 41365
+        }
+      ],
+      "240-l-Abfallbehälter": [
+        {
+          "value": 29468
+        }
+      ],
+      "1100-l-Abfallbehälter": [
+        {
+          "value": 9821
+        }
+      ],
+      "Restabfallsammelfahrzeuge": [
+        {
+          "value": 19
+        }
+      ],
+      "Entsorgter Restabfall - Wohngrundstücke": [
+        {
+          "value": 77457
+        }
+      ],
+      "Entsorgter Sperrmüll": [
+        {
+          "value": 18777
+        }
+      ],
+      "Entsorgte Schadstoffe - Haushalt und Gewerbe": [
+        {
+          "value": 381
+        }
+      ]
+    },
+    "2012": {
+      "60-l-Abfallbehälter": [
+        {
+          "value": 968
+        }
+      ],
+      "80-l-Abfallbehälter": [
+        {
+          "value": 13114
+        }
+      ],
+      "120-l-Abfallbehälter": [
+        {
+          "value": 40786
+        }
+      ],
+      "240-l-Abfallbehälter": [
+        {
+          "value": 30712
+        }
+      ],
+      "1100-l-Abfallbehälter": [
+        {
+          "value": 9865
+        }
+      ],
+      "Restabfallsammelfahrzeuge": [
+        {
+          "value": 19
+        }
+      ],
+      "Entsorgter Restabfall - Wohngrundstücke": [
+        {
+          "value": 76246
+        }
+      ],
+      "Entsorgter Sperrmüll": [
+        {
+          "value": 19195
+        }
+      ],
+      "Entsorgte Schadstoffe - Haushalt und Gewerbe": [
+        {
+          "value": 351
+        }
+      ]
+    },
+    "2013": {
+      "60-l-Abfallbehälter": [
+        {
+          "value": 1165
+        }
+      ],
+      "80-l-Abfallbehälter": [
+        {
+          "value": 13020
+        }
+      ],
+      "120-l-Abfallbehälter": [
+        {
+          "value": 40529
+        }
+      ],
+      "240-l-Abfallbehälter": [
+        {
+          "value": 31301
+        }
+      ],
+      "1100-l-Abfallbehälter": [
+        {
+          "value": 9885
+        }
+      ],
+      "Restabfallsammelfahrzeuge": [
+        {
+          "value": 19
+        }
+      ],
+      "Entsorgter Restabfall - Wohngrundstücke": [
+        {
+          "value": 77198
+        }
+      ],
+      "Entsorgter Sperrmüll": [
+        {
+          "value": 18759
+        }
+      ],
+      "Entsorgte Schadstoffe - Haushalt und Gewerbe": [
+        {
+          "value": 399
+        }
+      ]
+    },
+    "2014": {
+      "60-l-Abfallbehälter": [
+        {
+          "value": 1597
+        }
+      ],
+      "80-l-Abfallbehälter": [
+        {
+          "value": 13071
+        }
+      ],
+      "120-l-Abfallbehälter": [
+        {
+          "value": 40252
+        }
+      ],
+      "240-l-Abfallbehälter": [
+        {
+          "value": 33161
+        }
+      ],
+      "1100-l-Abfallbehälter": [
+        {
+          "value": 10077
+        }
+      ],
+      "Restabfallsammelfahrzeuge": [
+        {
+          "value": 19
+        }
+      ],
+      "Entsorgter Restabfall - Wohngrundstücke": [
+        {
+          "value": 78312
+        }
+      ],
+      "Entsorgter Sperrmüll": [
+        {
+          "value": 19791
+        }
+      ],
+      "Entsorgte Schadstoffe - Haushalt und Gewerbe": [
+        {
+          "value": 397
+        }
+      ]
+    },
+    "2015": {
+      "60-l-Abfallbehälter": [
+        {
+          "value": 1944
+        }
+      ],
+      "80-l-Abfallbehälter": [
+        {
+          "value": 13134
+        }
+      ],
+      "120-l-Abfallbehälter": [
+        {
+          "value": 39981
+        }
+      ],
+      "240-l-Abfallbehälter": [
+        {
+          "value": 34651
+        }
+      ],
+      "1100-l-Abfallbehälter": [
+        {
+          "value": 10468
+        }
+      ],
+      "Restabfallsammelfahrzeuge": [
+        {
+          "value": 25
+        }
+      ],
+      "Entsorgter Restabfall - Wohngrundstücke": [
+        {
+          "value": 79141
+        }
+      ],
+      "Entsorgter Sperrmüll": [
+        {
+          "value": 21083
+        }
+      ],
+      "Entsorgte Schadstoffe - Haushalt und Gewerbe": [
+        {
+          "value": 419
+        }
+      ]
+    },
+    "2016": {
+      "60-l-Abfallbehälter": [
+        {
+          "value": 2244
+        }
+      ],
+      "80-l-Abfallbehälter": [
+        {
+          "value": 13134
+        }
+      ],
+      "120-l-Abfallbehälter": [
+        {
+          "value": 39873
+        }
+      ],
+      "240-l-Abfallbehälter": [
+        {
+          "value": 35660
+        }
+      ],
+      "1100-l-Abfallbehälter": [
+        {
+          "value": 10742
+        }
+      ],
+      "Restabfallsammelfahrzeuge": [
+        {
+          "value": 25
+        }
+      ],
+      "Entsorgter Restabfall - Wohngrundstücke": [
+        {
+          "value": 80211
+        }
+      ],
+      "Entsorgter Sperrmüll": [
+        {
+          "value": 21819
+        }
+      ],
+      "Entsorgte Schadstoffe - Haushalt und Gewerbe": [
+        {
+          "value": 402
+        }
+      ]
+    },
+    "2017": {
+      "60-l-Abfallbehälter": [
+        {
+          "value": 2502
+        }
+      ],
+      "80-l-Abfallbehälter": [
+        {
+          "value": 13053
+        }
+      ],
+      "120-l-Abfallbehälter": [
+        {
+          "value": 39490
+        }
+      ],
+      "240-l-Abfallbehälter": [
+        {
+          "value": 36845
+        }
+      ],
+      "1100-l-Abfallbehälter": [
+        {
+          "value": 11007
+        }
+      ],
+      "Restabfallsammelfahrzeuge": [
+        {
+          "value": 25
+        }
+      ],
+      "Entsorgter Restabfall - Wohngrundstücke": [
+        {
+          "value": 80165
+        }
+      ],
+      "Entsorgter Sperrmüll": [
+        {
+          "value": 23547
+        }
+      ],
+      "Entsorgte Schadstoffe - Haushalt und Gewerbe": [
+        {
+          "value": 414
+        }
+      ]
+    },
+    "2018": {
+      "60-l-Abfallbehälter": [
+        {
+          "value": 2677
+        }
+      ],
+      "80-l-Abfallbehälter": [
+        {
+          "value": 13044
+        }
+      ],
+      "120-l-Abfallbehälter": [
+        {
+          "value": 39333
+        }
+      ],
+      "240-l-Abfallbehälter": [
+        {
+          "value": 37771
+        }
+      ],
+      "1100-l-Abfallbehälter": [
+        {
+          "value": 11302
+        }
+      ],
+      "Restabfallsammelfahrzeuge": [
+        {
+          "value": 25
+        }
+      ],
+      "Entsorgter Restabfall - Wohngrundstücke": [
+        {
+          "value": 79680
+        }
+      ],
+      "Entsorgter Sperrmüll": [
+        {
+          "value": 24699
+        }
+      ],
+      "Entsorgte Schadstoffe - Haushalt und Gewerbe": [
+        {
+          "value": 434
+        }
+      ]
+    },
+    "2019": {
+      "60-l-Abfallbehälter": [
+        {
+          "value": 2840
+        }
+      ],
+      "80-l-Abfallbehälter": [
+        {
+          "value": 13046
+        }
+      ],
+      "120-l-Abfallbehälter": [
+        {
+          "value": 39228
+        }
+      ],
+      "240-l-Abfallbehälter": [
+        {
+          "value": 38771
+        }
+      ],
+      "1100-l-Abfallbehälter": [
+        {
+          "value": 11557
+        }
+      ],
+      "Restabfallsammelfahrzeuge": [
+        {
+          "value": 25
+        }
+      ],
+      "Entsorgter Restabfall - Wohngrundstücke": [
+        {
+          "value": 79858
+        }
+      ],
+      "Entsorgter Sperrmüll": [
+        {
+          "value": 25651
+        }
+      ],
+      "Entsorgte Schadstoffe - Haushalt und Gewerbe": [
+        {
+          "value": 496
+        }
+      ]
+    },
+    "2020": {
+      "60-l-Abfallbehälter": [
+        {
+          "value": 2978
+        }
+      ],
+      "80-l-Abfallbehälter": [
+        {
+          "value": 13005
+        }
+      ],
+      "120-l-Abfallbehälter": [
+        {
+          "value": 39046
+        }
+      ],
+      "240-l-Abfallbehälter": [
+        {
+          "value": 39584
+        }
+      ],
+      "1100-l-Abfallbehälter": [
+        {
+          "value": 11794
+        }
+      ],
+      "Restabfallsammelfahrzeuge": [
+        {
+          "value": 26
+        }
+      ],
+      "Entsorgter Restabfall - Wohngrundstücke": [
+        {
+          "value": 81655
+        }
+      ],
+      "Entsorgter Sperrmüll": [
+        {
+          "value": 25852
+        }
+      ],
+      "Entsorgte Schadstoffe - Haushalt und Gewerbe": [
+        {
+          "value": 478
+        }
+      ]
+    },
+    "2021": {
+      "60-l-Abfallbehälter": [
+        {
+          "value": 3095
+        }
+      ],
+      "80-l-Abfallbehälter": [
+        {
+          "value": 13022
+        }
+      ],
+      "120-l-Abfallbehälter": [
+        {
+          "value": 39057
+        }
+      ],
+      "240-l-Abfallbehälter": [
+        {
+          "value": 40200
+        }
+      ],
+      "1100-l-Abfallbehälter": [
+        {
+          "value": 12027
+        }
+      ],
+      "Restabfallsammelfahrzeuge": [
+        {
+          "value": 27
+        }
+      ],
+      "Entsorgter Restabfall - Wohngrundstücke": [
+        {
+          "value": 84609
+        }
+      ],
+      "Entsorgter Sperrmüll": [
+        {
+          "value": 28297
+        }
+      ],
+      "Entsorgte Schadstoffe - Haushalt und Gewerbe": [
+        {
+          "value": 522
+        }
+      ]
+    },
+    "2022": {
+      "60-l-Abfallbehälter": [
+        {
+          "value": 3187
+        }
+      ],
+      "80-l-Abfallbehälter": [
+        {
+          "value": 12970
+        }
+      ],
+      "120-l-Abfallbehälter": [
+        {
+          "value": 38956
+        }
+      ],
+      "240-l-Abfallbehälter": [
+        {
+          "value": 40557
+        }
+      ],
+      "1100-l-Abfallbehälter": [
+        {
+          "value": 12173
+        }
+      ],
+      "Restabfallsammelfahrzeuge": [
+        {
+          "value": 27
+        }
+      ],
+      "Entsorgter Restabfall - Wohngrundstücke": [
+        {
+          "value": 81328
+        }
+      ],
+      "Entsorgter Sperrmüll": [
+        {
+          "value": 27506
+        }
+      ],
+      "Entsorgte Schadstoffe - Haushalt und Gewerbe": [
+        {
+          "value": 437
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,2814 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=8&rubrik_nr=10&periode=y",
+    "title": "Ankünfte in Berhebungseinrichtungen__insgesamt"
+  },
+  "data": {
+    "2001": {
+      "Ankünfte in Berhebungseinrichtungen insgesamt": [
+        {
+          "value": 783959
+        }
+      ],
+      "Bundesrepublik Deutschland": [
+        {
+          "value": 701386
+        }
+      ],
+      "Europa (ohne BRD)": [
+        {
+          "value": 60256
+        }
+      ],
+      "Niederlande": [
+        {
+          "value": 5854
+        }
+      ],
+      "Schweiz": [
+        {
+          "value": 5763
+        }
+      ],
+      "Großbritannien": [
+        {
+          "value": 5661
+        }
+      ],
+      "Österreich": [
+        {
+          "value": 6446
+        }
+      ],
+      "Italien": [
+        {
+          "value": 6528
+        }
+      ],
+      "Asien": [
+        {
+          "value": 9626
+        }
+      ],
+      "Amerika": [
+        {
+          "value": 10227
+        }
+      ],
+      "darunter USA": [
+        {
+          "value": 8354
+        }
+      ],
+      "Australien und Ozeanien": [
+        {
+          "value": 629
+        }
+      ],
+      "Afrika": [
+        {
+          "value": 600
+        }
+      ],
+      "Arabische Golfstaaten": [
+        {
+          "value": null
+        }
+      ],
+      "Israel": [
+        {
+          "value": null
+        }
+      ],
+      "Korea, Republik": [
+        {
+          "value": null
+        }
+      ],
+      "China": [
+        {
+          "value": 1608
+        }
+      ],
+      "Spanien": [
+        {
+          "value": 2120
+        }
+      ],
+      "Polen": [
+        {
+          "value": 2816
+        }
+      ],
+      "Dänemark": [
+        {
+          "value": 2010
+        }
+      ],
+      "Frankreich": [
+        {
+          "value": 4418
+        }
+      ],
+      "Schweden": [
+        {
+          "value": 2767
+        }
+      ],
+      "Belgien": [
+        {
+          "value": 2144
+        }
+      ],
+      "Tschechische Republik": [
+        {
+          "value": 1679
+        }
+      ]
+    },
+    "2002": {
+      "Tschechische Republik": [
+        {
+          "value": 2217
+        }
+      ],
+      "Belgien": [
+        {
+          "value": null
+        }
+      ],
+      "Schweden": [
+        {
+          "value": 3054
+        }
+      ],
+      "Frankreich": [
+        {
+          "value": 4222
+        }
+      ],
+      "Dänemark": [
+        {
+          "value": 2353
+        }
+      ],
+      "Polen": [
+        {
+          "value": 2912
+        }
+      ],
+      "Spanien": [
+        {
+          "value": 2918
+        }
+      ],
+      "China": [
+        {
+          "value": 2038
+        }
+      ],
+      "Korea, Republik": [
+        {
+          "value": null
+        }
+      ],
+      "Israel": [
+        {
+          "value": null
+        }
+      ],
+      "Arabische Golfstaaten": [
+        {
+          "value": null
+        }
+      ],
+      "Ankünfte in Berhebungseinrichtungen insgesamt": [
+        {
+          "value": 798591
+        }
+      ],
+      "Bundesrepublik Deutschland": [
+        {
+          "value": 706914
+        }
+      ],
+      "Europa (ohne BRD)": [
+        {
+          "value": 67439
+        }
+      ],
+      "Niederlande": [
+        {
+          "value": 6976
+        }
+      ],
+      "Schweiz": [
+        {
+          "value": 6715
+        }
+      ],
+      "Großbritannien": [
+        {
+          "value": 6487
+        }
+      ],
+      "Österreich": [
+        {
+          "value": 6916
+        }
+      ],
+      "Italien": [
+        {
+          "value": 6828
+        }
+      ],
+      "Asien": [
+        {
+          "value": 10282
+        }
+      ],
+      "Amerika": [
+        {
+          "value": 11268
+        }
+      ],
+      "darunter USA": [
+        {
+          "value": 8990
+        }
+      ],
+      "Australien und Ozeanien": [
+        {
+          "value": 914
+        }
+      ],
+      "Afrika": [
+        {
+          "value": 662
+        }
+      ]
+    },
+    "2003": {
+      "Ankünfte in Berhebungseinrichtungen insgesamt": [
+        {
+          "value": 879191
+        }
+      ],
+      "Bundesrepublik Deutschland": [
+        {
+          "value": 776994
+        }
+      ],
+      "Europa (ohne BRD)": [
+        {
+          "value": 81706
+        }
+      ],
+      "Niederlande": [
+        {
+          "value": 8292
+        }
+      ],
+      "Schweiz": [
+        {
+          "value": 8139
+        }
+      ],
+      "Großbritannien": [
+        {
+          "value": 8290
+        }
+      ],
+      "Österreich": [
+        {
+          "value": 6933
+        }
+      ],
+      "Italien": [
+        {
+          "value": 7666
+        }
+      ],
+      "Asien": [
+        {
+          "value": 7331
+        }
+      ],
+      "Amerika": [
+        {
+          "value": 9601
+        }
+      ],
+      "darunter USA": [
+        {
+          "value": 7571
+        }
+      ],
+      "Australien und Ozeanien": [
+        {
+          "value": 750
+        }
+      ],
+      "Afrika": [
+        {
+          "value": 528
+        }
+      ],
+      "Arabische Golfstaaten": [
+        {
+          "value": null
+        }
+      ],
+      "Israel": [
+        {
+          "value": null
+        }
+      ],
+      "Korea, Republik": [
+        {
+          "value": null
+        }
+      ],
+      "China": [
+        {
+          "value": 1570
+        }
+      ],
+      "Spanien": [
+        {
+          "value": 3443
+        }
+      ],
+      "Polen": [
+        {
+          "value": 3818
+        }
+      ],
+      "Dänemark": [
+        {
+          "value": 3361
+        }
+      ],
+      "Frankreich": [
+        {
+          "value": 5388
+        }
+      ],
+      "Schweden": [
+        {
+          "value": 4271
+        }
+      ],
+      "Belgien": [
+        {
+          "value": 2323
+        }
+      ],
+      "Tschechische Republik": [
+        {
+          "value": 2682
+        }
+      ]
+    },
+    "2004": {
+      "Belgien": [
+        {
+          "value": 2719
+        }
+      ],
+      "Schweden": [
+        {
+          "value": 4190
+        }
+      ],
+      "Tschechische Republik": [
+        {
+          "value": 2870
+        }
+      ],
+      "Frankreich": [
+        {
+          "value": 4805
+        }
+      ],
+      "Dänemark": [
+        {
+          "value": 2347
+        }
+      ],
+      "Polen": [
+        {
+          "value": 4741
+        }
+      ],
+      "Spanien": [
+        {
+          "value": 3396
+        }
+      ],
+      "China": [
+        {
+          "value": 1649
+        }
+      ],
+      "Korea, Republik": [
+        {
+          "value": null
+        }
+      ],
+      "Israel": [
+        {
+          "value": null
+        }
+      ],
+      "Arabische Golfstaaten": [
+        {
+          "value": null
+        }
+      ],
+      "Ankünfte in Berhebungseinrichtungen insgesamt": [
+        {
+          "value": 954230
+        }
+      ],
+      "Bundesrepublik Deutschland": [
+        {
+          "value": 839424
+        }
+      ],
+      "Europa (ohne BRD)": [
+        {
+          "value": 87934
+        }
+      ],
+      "Niederlande": [
+        {
+          "value": 10522
+        }
+      ],
+      "Schweiz": [
+        {
+          "value": 9543
+        }
+      ],
+      "Großbritannien": [
+        {
+          "value": 9061
+        }
+      ],
+      "Österreich": [
+        {
+          "value": 8774
+        }
+      ],
+      "Italien": [
+        {
+          "value": 7304
+        }
+      ],
+      "Asien": [
+        {
+          "value": 10287
+        }
+      ],
+      "Amerika": [
+        {
+          "value": 10283
+        }
+      ],
+      "darunter USA": [
+        {
+          "value": 8293
+        }
+      ],
+      "Australien und Ozeanien": [
+        {
+          "value": 1252
+        }
+      ],
+      "Afrika": [
+        {
+          "value": 822
+        }
+      ]
+    },
+    "2005": {
+      "Ankünfte in Berhebungseinrichtungen insgesamt": [
+        {
+          "value": 926180
+        }
+      ],
+      "Bundesrepublik Deutschland": [
+        {
+          "value": 799410
+        }
+      ],
+      "Europa (ohne BRD)": [
+        {
+          "value": 98985
+        }
+      ],
+      "Niederlande": [
+        {
+          "value": 12737
+        }
+      ],
+      "Schweiz": [
+        {
+          "value": 10621
+        }
+      ],
+      "Großbritannien": [
+        {
+          "value": 10360
+        }
+      ],
+      "Österreich": [
+        {
+          "value": 8022
+        }
+      ],
+      "Italien": [
+        {
+          "value": 8647
+        }
+      ],
+      "Asien": [
+        {
+          "value": 11226
+        }
+      ],
+      "Amerika": [
+        {
+          "value": 12386
+        }
+      ],
+      "darunter USA": [
+        {
+          "value": 9696
+        }
+      ],
+      "Australien und Ozeanien": [
+        {
+          "value": 1403
+        }
+      ],
+      "Afrika": [
+        {
+          "value": 895
+        }
+      ],
+      "Arabische Golfstaaten": [
+        {
+          "value": null
+        }
+      ],
+      "Israel": [
+        {
+          "value": null
+        }
+      ],
+      "Korea, Republik": [
+        {
+          "value": null
+        }
+      ],
+      "China": [
+        {
+          "value": 1840
+        }
+      ],
+      "Spanien": [
+        {
+          "value": 4492
+        }
+      ],
+      "Polen": [
+        {
+          "value": 4982
+        }
+      ],
+      "Dänemark": [
+        {
+          "value": 3623
+        }
+      ],
+      "Frankreich": [
+        {
+          "value": 6359
+        }
+      ],
+      "Schweden": [
+        {
+          "value": 5045
+        }
+      ],
+      "Tschechische Republik": [
+        {
+          "value": 3266
+        }
+      ],
+      "Belgien": [
+        {
+          "value": 2933
+        }
+      ]
+    },
+    "2006": {
+      "Belgien": [
+        {
+          "value": 2898
+        }
+      ],
+      "Tschechische Republik": [
+        {
+          "value": 2977
+        }
+      ],
+      "Schweden": [
+        {
+          "value": 4582
+        }
+      ],
+      "Dänemark": [
+        {
+          "value": 2706
+        }
+      ],
+      "Frankreich": [
+        {
+          "value": 7740
+        }
+      ],
+      "Polen": [
+        {
+          "value": 4903
+        }
+      ],
+      "Spanien": [
+        {
+          "value": 5000
+        }
+      ],
+      "China": [
+        {
+          "value": 1707
+        }
+      ],
+      "Israel": [
+        {
+          "value": null
+        }
+      ],
+      "Arabische Golfstaaten": [
+        {
+          "value": null
+        }
+      ],
+      "Korea, Republik": [
+        {
+          "value": null
+        }
+      ],
+      "Ankünfte in Berhebungseinrichtungen insgesamt": [
+        {
+          "value": 997038
+        }
+      ],
+      "Bundesrepublik Deutschland": [
+        {
+          "value": 845420
+        }
+      ],
+      "Europa (ohne BRD)": [
+        {
+          "value": 109132
+        }
+      ],
+      "Niederlande": [
+        {
+          "value": 15956
+        }
+      ],
+      "Schweiz": [
+        {
+          "value": 9727
+        }
+      ],
+      "Großbritannien": [
+        {
+          "value": 13413
+        }
+      ],
+      "Österreich": [
+        {
+          "value": 10021
+        }
+      ],
+      "Italien": [
+        {
+          "value": 9163
+        }
+      ],
+      "Asien": [
+        {
+          "value": 12744
+        }
+      ],
+      "Amerika": [
+        {
+          "value": 24797
+        }
+      ],
+      "darunter USA": [
+        {
+          "value": 17905
+        }
+      ],
+      "Australien und Ozeanien": [
+        {
+          "value": 2027
+        }
+      ],
+      "Afrika": [
+        {
+          "value": 1185
+        }
+      ]
+    },
+    "2007": {
+      "Korea, Republik": [
+        {
+          "value": null
+        }
+      ],
+      "Arabische Golfstaaten": [
+        {
+          "value": null
+        }
+      ],
+      "Israel": [
+        {
+          "value": null
+        }
+      ],
+      "China": [
+        {
+          "value": 2055
+        }
+      ],
+      "Spanien": [
+        {
+          "value": 4200
+        }
+      ],
+      "Polen": [
+        {
+          "value": 4487
+        }
+      ],
+      "Dänemark": [
+        {
+          "value": 2901
+        }
+      ],
+      "Frankreich": [
+        {
+          "value": 6712
+        }
+      ],
+      "Schweden": [
+        {
+          "value": 5296
+        }
+      ],
+      "Tschechische Republik": [
+        {
+          "value": 2430
+        }
+      ],
+      "Belgien": [
+        {
+          "value": 3920
+        }
+      ],
+      "Ankünfte in Berhebungseinrichtungen insgesamt": [
+        {
+          "value": 991420
+        }
+      ],
+      "Bundesrepublik Deutschland": [
+        {
+          "value": 842396
+        }
+      ],
+      "Europa (ohne BRD)": [
+        {
+          "value": 104417
+        }
+      ],
+      "Niederlande": [
+        {
+          "value": 10960
+        }
+      ],
+      "Schweiz": [
+        {
+          "value": 10188
+        }
+      ],
+      "Großbritannien": [
+        {
+          "value": 11784
+        }
+      ],
+      "Österreich": [
+        {
+          "value": 9961
+        }
+      ],
+      "Italien": [
+        {
+          "value": 9861
+        }
+      ],
+      "Asien": [
+        {
+          "value": 11800
+        }
+      ],
+      "Amerika": [
+        {
+          "value": 29393
+        }
+      ],
+      "darunter USA": [
+        {
+          "value": 25676
+        }
+      ],
+      "Australien und Ozeanien": [
+        {
+          "value": 1744
+        }
+      ],
+      "Afrika": [
+        {
+          "value": 859
+        }
+      ]
+    },
+    "2008": {
+      "Ankünfte in Berhebungseinrichtungen insgesamt": [
+        {
+          "value": 1003700
+        }
+      ],
+      "Bundesrepublik Deutschland": [
+        {
+          "value": 828734
+        }
+      ],
+      "Europa (ohne BRD)": [
+        {
+          "value": 118584
+        }
+      ],
+      "Niederlande": [
+        {
+          "value": 12077
+        }
+      ],
+      "Schweiz": [
+        {
+          "value": 10511
+        }
+      ],
+      "Großbritannien": [
+        {
+          "value": 14188
+        }
+      ],
+      "Österreich": [
+        {
+          "value": 10808
+        }
+      ],
+      "Italien": [
+        {
+          "value": 7775
+        }
+      ],
+      "Asien": [
+        {
+          "value": 11432
+        }
+      ],
+      "Amerika": [
+        {
+          "value": 41001
+        }
+      ],
+      "darunter USA": [
+        {
+          "value": 37184
+        }
+      ],
+      "Australien und Ozeanien": [
+        {
+          "value": 2136
+        }
+      ],
+      "Afrika": [
+        {
+          "value": 776
+        }
+      ],
+      "Belgien": [
+        {
+          "value": 7754
+        }
+      ],
+      "Tschechische Republik": [
+        {
+          "value": 2869
+        }
+      ],
+      "Schweden": [
+        {
+          "value": 3788
+        }
+      ],
+      "Frankreich": [
+        {
+          "value": 7071
+        }
+      ],
+      "Dänemark": [
+        {
+          "value": 3627
+        }
+      ],
+      "Spanien": [
+        {
+          "value": 4233
+        }
+      ],
+      "Polen": [
+        {
+          "value": 6241
+        }
+      ],
+      "China": [
+        {
+          "value": 1658
+        }
+      ],
+      "Israel": [
+        {
+          "value": null
+        }
+      ],
+      "Arabische Golfstaaten": [
+        {
+          "value": null
+        }
+      ],
+      "Korea, Republik": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2009": {
+      "Korea, Republik": [
+        {
+          "value": null
+        }
+      ],
+      "Arabische Golfstaaten": [
+        {
+          "value": null
+        }
+      ],
+      "Israel": [
+        {
+          "value": null
+        }
+      ],
+      "China": [
+        {
+          "value": 2422
+        }
+      ],
+      "Polen": [
+        {
+          "value": 6301
+        }
+      ],
+      "Spanien": [
+        {
+          "value": 4993
+        }
+      ],
+      "Dänemark": [
+        {
+          "value": 3351
+        }
+      ],
+      "Frankreich": [
+        {
+          "value": 7448
+        }
+      ],
+      "Schweden": [
+        {
+          "value": 2736
+        }
+      ],
+      "Tschechische Republik": [
+        {
+          "value": 2767
+        }
+      ],
+      "Belgien": [
+        {
+          "value": 9202
+        }
+      ],
+      "Ankünfte in Berhebungseinrichtungen insgesamt": [
+        {
+          "value": 1026860
+        }
+      ],
+      "Bundesrepublik Deutschland": [
+        {
+          "value": 850105
+        }
+      ],
+      "Europa (ohne BRD)": [
+        {
+          "value": 114266
+        }
+      ],
+      "Niederlande": [
+        {
+          "value": 11591
+        }
+      ],
+      "Schweiz": [
+        {
+          "value": 10866
+        }
+      ],
+      "Großbritannien": [
+        {
+          "value": 11104
+        }
+      ],
+      "Österreich": [
+        {
+          "value": 10491
+        }
+      ],
+      "Italien": [
+        {
+          "value": 9535
+        }
+      ],
+      "Asien": [
+        {
+          "value": 11478
+        }
+      ],
+      "Amerika": [
+        {
+          "value": 46456
+        }
+      ],
+      "darunter USA": [
+        {
+          "value": 43065
+        }
+      ],
+      "Australien und Ozeanien": [
+        {
+          "value": 1823
+        }
+      ],
+      "Afrika": [
+        {
+          "value": 940
+        }
+      ]
+    },
+    "2010": {
+      "Ankünfte in Berhebungseinrichtungen insgesamt": [
+        {
+          "value": 1121260
+        }
+      ],
+      "Bundesrepublik Deutschland": [
+        {
+          "value": 921480
+        }
+      ],
+      "Europa (ohne BRD)": [
+        {
+          "value": 133439
+        }
+      ],
+      "Niederlande": [
+        {
+          "value": 13159
+        }
+      ],
+      "Großbritannien": [
+        {
+          "value": 14171
+        }
+      ],
+      "Schweiz": [
+        {
+          "value": 13058
+        }
+      ],
+      "Österreich": [
+        {
+          "value": 12307
+        }
+      ],
+      "Italien": [
+        {
+          "value": 9948
+        }
+      ],
+      "Amerika": [
+        {
+          "value": 45750
+        }
+      ],
+      "darunter USA": [
+        {
+          "value": 40721
+        }
+      ],
+      "Asien": [
+        {
+          "value": 15494
+        }
+      ],
+      "Australien und Ozeanien": [
+        {
+          "value": 2560
+        }
+      ],
+      "Afrika": [
+        {
+          "value": 1135
+        }
+      ],
+      "Belgien": [
+        {
+          "value": 10329
+        }
+      ],
+      "Tschechische Republik": [
+        {
+          "value": 3757
+        }
+      ],
+      "Schweden": [
+        {
+          "value": 3705
+        }
+      ],
+      "Frankreich": [
+        {
+          "value": 8594
+        }
+      ],
+      "Dänemark": [
+        {
+          "value": 4053
+        }
+      ],
+      "Spanien": [
+        {
+          "value": 6633
+        }
+      ],
+      "Polen": [
+        {
+          "value": 8072
+        }
+      ],
+      "China": [
+        {
+          "value": 3787
+        }
+      ],
+      "Israel": [
+        {
+          "value": null
+        }
+      ],
+      "Arabische Golfstaaten": [
+        {
+          "value": null
+        }
+      ],
+      "Korea, Republik": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2011": {
+      "Korea, Republik": [
+        {
+          "value": null
+        }
+      ],
+      "Arabische Golfstaaten": [
+        {
+          "value": null
+        }
+      ],
+      "Israel": [
+        {
+          "value": null
+        }
+      ],
+      "China": [
+        {
+          "value": 3844
+        }
+      ],
+      "Polen": [
+        {
+          "value": 8115
+        }
+      ],
+      "Spanien": [
+        {
+          "value": 5464
+        }
+      ],
+      "Dänemark": [
+        {
+          "value": 4435
+        }
+      ],
+      "Frankreich": [
+        {
+          "value": 7431
+        }
+      ],
+      "Schweden": [
+        {
+          "value": 3702
+        }
+      ],
+      "Tschechische Republik": [
+        {
+          "value": 4029
+        }
+      ],
+      "Ankünfte in Berhebungseinrichtungen insgesamt": [
+        {
+          "value": 1194540
+        }
+      ],
+      "Bundesrepublik Deutschland": [
+        {
+          "value": 1016040
+        }
+      ],
+      "Europa (ohne BRD)": [
+        {
+          "value": 125053
+        }
+      ],
+      "Großbritannien": [
+        {
+          "value": 14163
+        }
+      ],
+      "Niederlande": [
+        {
+          "value": 11823
+        }
+      ],
+      "Schweiz": [
+        {
+          "value": 12141
+        }
+      ],
+      "Österreich": [
+        {
+          "value": 11363
+        }
+      ],
+      "Belgien": [
+        {
+          "value": 6849
+        }
+      ],
+      "Italien": [
+        {
+          "value": 9057
+        }
+      ],
+      "Amerika": [
+        {
+          "value": 34055
+        }
+      ],
+      "darunter USA": [
+        {
+          "value": 29427
+        }
+      ],
+      "Asien": [
+        {
+          "value": 13860
+        }
+      ],
+      "Australien und Ozeanien": [
+        {
+          "value": 2420
+        }
+      ],
+      "Afrika": [
+        {
+          "value": 1030
+        }
+      ]
+    },
+    "2012": {
+      "Tschechische Republik": [
+        {
+          "value": 3763
+        }
+      ],
+      "Schweden": [
+        {
+          "value": 4644
+        }
+      ],
+      "Frankreich": [
+        {
+          "value": 7156
+        }
+      ],
+      "Dänemark": [
+        {
+          "value": 5352
+        }
+      ],
+      "Spanien": [
+        {
+          "value": 4915
+        }
+      ],
+      "Polen": [
+        {
+          "value": 6885
+        }
+      ],
+      "China": [
+        {
+          "value": 4328
+        }
+      ],
+      "Israel": [
+        {
+          "value": null
+        }
+      ],
+      "Arabische Golfstaaten": [
+        {
+          "value": null
+        }
+      ],
+      "Korea, Republik": [
+        {
+          "value": null
+        }
+      ],
+      "Ankünfte in Berhebungseinrichtungen insgesamt": [
+        {
+          "value": 1347820
+        }
+      ],
+      "Bundesrepublik Deutschland": [
+        {
+          "value": 1154150
+        }
+      ],
+      "Europa (ohne BRD)": [
+        {
+          "value": 136302
+        }
+      ],
+      "Großbritannien": [
+        {
+          "value": 18184
+        }
+      ],
+      "Schweiz": [
+        {
+          "value": 14905
+        }
+      ],
+      "Niederlande": [
+        {
+          "value": 14265
+        }
+      ],
+      "Österreich": [
+        {
+          "value": 13221
+        }
+      ],
+      "Belgien": [
+        {
+          "value": 6879
+        }
+      ],
+      "Italien": [
+        {
+          "value": 10354
+        }
+      ],
+      "Amerika": [
+        {
+          "value": 31374
+        }
+      ],
+      "darunter USA": [
+        {
+          "value": 26169
+        }
+      ],
+      "Asien": [
+        {
+          "value": 17108
+        }
+      ],
+      "Australien und Ozeanien": [
+        {
+          "value": 2456
+        }
+      ],
+      "Afrika": [
+        {
+          "value": 1369
+        }
+      ]
+    },
+    "2013": {
+      "Ankünfte in Berhebungseinrichtungen insgesamt": [
+        {
+          "value": 1453420
+        }
+      ],
+      "Bundesrepublik Deutschland": [
+        {
+          "value": 1245410
+        }
+      ],
+      "Europa (ohne BRD)": [
+        {
+          "value": 148407
+        }
+      ],
+      "Großbritannien": [
+        {
+          "value": 15716
+        }
+      ],
+      "Schweiz": [
+        {
+          "value": 16059
+        }
+      ],
+      "Niederlande": [
+        {
+          "value": 13799
+        }
+      ],
+      "Österreich": [
+        {
+          "value": 14433
+        }
+      ],
+      "Belgien": [
+        {
+          "value": 4948
+        }
+      ],
+      "Italien": [
+        {
+          "value": 11147
+        }
+      ],
+      "Amerika": [
+        {
+          "value": 30595
+        }
+      ],
+      "darunter USA": [
+        {
+          "value": 22440
+        }
+      ],
+      "Asien": [
+        {
+          "value": 23528
+        }
+      ],
+      "Australien und Ozeanien": [
+        {
+          "value": 3050
+        }
+      ],
+      "Afrika": [
+        {
+          "value": 1730
+        }
+      ],
+      "Korea, Republik": [
+        {
+          "value": null
+        }
+      ],
+      "Arabische Golfstaaten": [
+        {
+          "value": null
+        }
+      ],
+      "Israel": [
+        {
+          "value": null
+        }
+      ],
+      "China": [
+        {
+          "value": 5400
+        }
+      ],
+      "Polen": [
+        {
+          "value": 8782
+        }
+      ],
+      "Spanien": [
+        {
+          "value": 5990
+        }
+      ],
+      "Dänemark": [
+        {
+          "value": 5956
+        }
+      ],
+      "Frankreich": [
+        {
+          "value": 9248
+        }
+      ],
+      "Schweden": [
+        {
+          "value": 5387
+        }
+      ],
+      "Tschechische Republik": [
+        {
+          "value": 5450
+        }
+      ]
+    },
+    "2014": {
+      "Tschechische Republik": [
+        {
+          "value": 4710
+        }
+      ],
+      "Schweden": [
+        {
+          "value": 5002
+        }
+      ],
+      "Frankreich": [
+        {
+          "value": 8348
+        }
+      ],
+      "Dänemark": [
+        {
+          "value": 5827
+        }
+      ],
+      "Spanien": [
+        {
+          "value": 5604
+        }
+      ],
+      "Polen": [
+        {
+          "value": 9530
+        }
+      ],
+      "China": [
+        {
+          "value": 5185
+        }
+      ],
+      "Israel": [
+        {
+          "value": null
+        }
+      ],
+      "Arabische Golfstaaten": [
+        {
+          "value": null
+        }
+      ],
+      "Korea, Republik": [
+        {
+          "value": null
+        }
+      ],
+      "Ankünfte in Berhebungseinrichtungen insgesamt": [
+        {
+          "value": 1510370
+        }
+      ],
+      "Bundesrepublik Deutschland": [
+        {
+          "value": 1314130
+        }
+      ],
+      "Europa (ohne BRD)": [
+        {
+          "value": 145004
+        }
+      ],
+      "Großbritannien": [
+        {
+          "value": 15773
+        }
+      ],
+      "Schweiz": [
+        {
+          "value": 17256
+        }
+      ],
+      "Niederlande": [
+        {
+          "value": 14647
+        }
+      ],
+      "Österreich": [
+        {
+          "value": 15063
+        }
+      ],
+      "Belgien": [
+        {
+          "value": 5050
+        }
+      ],
+      "Italien": [
+        {
+          "value": 8721
+        }
+      ],
+      "Amerika": [
+        {
+          "value": 26040
+        }
+      ],
+      "darunter USA": [
+        {
+          "value": 20283
+        }
+      ],
+      "Asien": [
+        {
+          "value": 20280
+        }
+      ],
+      "Australien und Ozeanien": [
+        {
+          "value": 2534
+        }
+      ],
+      "Afrika": [
+        {
+          "value": 1711
+        }
+      ]
+    },
+    "2015": {
+      "Ankünfte in Berhebungseinrichtungen insgesamt": [
+        {
+          "value": 1535960
+        }
+      ],
+      "Bundesrepublik Deutschland": [
+        {
+          "value": 1326700
+        }
+      ],
+      "Europa (ohne BRD)": [
+        {
+          "value": 156771
+        }
+      ],
+      "Großbritannien": [
+        {
+          "value": 17439
+        }
+      ],
+      "Schweiz": [
+        {
+          "value": 17173
+        }
+      ],
+      "Niederlande": [
+        {
+          "value": 14628
+        }
+      ],
+      "Österreich": [
+        {
+          "value": 16254
+        }
+      ],
+      "Belgien": [
+        {
+          "value": 5866
+        }
+      ],
+      "Italien": [
+        {
+          "value": 8372
+        }
+      ],
+      "Amerika": [
+        {
+          "value": 25178
+        }
+      ],
+      "darunter USA": [
+        {
+          "value": 19217
+        }
+      ],
+      "Asien": [
+        {
+          "value": 20262
+        }
+      ],
+      "Australien und Ozeanien": [
+        {
+          "value": 2990
+        }
+      ],
+      "Afrika": [
+        {
+          "value": 1706
+        }
+      ],
+      "Korea, Republik": [
+        {
+          "value": null
+        }
+      ],
+      "Arabische Golfstaaten": [
+        {
+          "value": null
+        }
+      ],
+      "Israel": [
+        {
+          "value": null
+        }
+      ],
+      "China": [
+        {
+          "value": 5738
+        }
+      ],
+      "Polen": [
+        {
+          "value": 10385
+        }
+      ],
+      "Spanien": [
+        {
+          "value": 10470
+        }
+      ],
+      "Dänemark": [
+        {
+          "value": 7283
+        }
+      ],
+      "Frankreich": [
+        {
+          "value": 7655
+        }
+      ],
+      "Schweden": [
+        {
+          "value": 5938
+        }
+      ],
+      "Tschechische Republik": [
+        {
+          "value": 6460
+        }
+      ]
+    },
+    "2016": {
+      "Polen": [
+        {
+          "value": 10892
+        }
+      ],
+      "Dänemark": [
+        {
+          "value": 8016
+        }
+      ],
+      "Frankreich": [
+        {
+          "value": 7683
+        }
+      ],
+      "Schweden": [
+        {
+          "value": 6824
+        }
+      ],
+      "Tschechische Republik": [
+        {
+          "value": 5602
+        }
+      ],
+      "Ankünfte in Berhebungseinrichtungen insgesamt": [
+        {
+          "value": 1572070
+        }
+      ],
+      "Bundesrepublik Deutschland": [
+        {
+          "value": 1355170
+        }
+      ],
+      "Europa (ohne BRD)": [
+        {
+          "value": 162852
+        }
+      ],
+      "Großbritannien": [
+        {
+          "value": 19361
+        }
+      ],
+      "Schweiz": [
+        {
+          "value": 17645
+        }
+      ],
+      "Niederlande": [
+        {
+          "value": 16889
+        }
+      ],
+      "Österreich": [
+        {
+          "value": 16216
+        }
+      ],
+      "Belgien": [
+        {
+          "value": 6875
+        }
+      ],
+      "Italien": [
+        {
+          "value": 8268
+        }
+      ],
+      "Amerika": [
+        {
+          "value": 25344
+        }
+      ],
+      "darunter USA": [
+        {
+          "value": 19681
+        }
+      ],
+      "Asien": [
+        {
+          "value": 20114
+        }
+      ],
+      "Australien und Ozeanien": [
+        {
+          "value": 2905
+        }
+      ],
+      "Afrika": [
+        {
+          "value": 1642
+        }
+      ],
+      "Spanien": [
+        {
+          "value": 5926
+        }
+      ],
+      "China": [
+        {
+          "value": 5903
+        }
+      ],
+      "Israel": [
+        {
+          "value": null
+        }
+      ],
+      "Arabische Golfstaaten": [
+        {
+          "value": null
+        }
+      ],
+      "Korea, Republik": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2017": {
+      "Korea, Republik": [
+        {
+          "value": 2782
+        }
+      ],
+      "Arabische Golfstaaten": [
+        {
+          "value": 1339
+        }
+      ],
+      "Israel": [
+        {
+          "value": 1739
+        }
+      ],
+      "Ankünfte in Berhebungseinrichtungen insgesamt": [
+        {
+          "value": 1708910
+        }
+      ],
+      "Bundesrepublik Deutschland": [
+        {
+          "value": 1456870
+        }
+      ],
+      "Europa (ohne BRD)": [
+        {
+          "value": 184215
+        }
+      ],
+      "Großbritannien": [
+        {
+          "value": 19707
+        }
+      ],
+      "Schweiz": [
+        {
+          "value": 18486
+        }
+      ],
+      "Niederlande": [
+        {
+          "value": 19029
+        }
+      ],
+      "Österreich": [
+        {
+          "value": 18329
+        }
+      ],
+      "Belgien": [
+        {
+          "value": 6557
+        }
+      ],
+      "Italien": [
+        {
+          "value": 10164
+        }
+      ],
+      "Spanien": [
+        {
+          "value": 6478
+        }
+      ],
+      "Polen": [
+        {
+          "value": 13837
+        }
+      ],
+      "Dänemark": [
+        {
+          "value": 9371
+        }
+      ],
+      "Frankreich": [
+        {
+          "value": 9478
+        }
+      ],
+      "Schweden": [
+        {
+          "value": 8290
+        }
+      ],
+      "Tschechische Republik": [
+        {
+          "value": 7263
+        }
+      ],
+      "Amerika": [
+        {
+          "value": 33115
+        }
+      ],
+      "darunter USA": [
+        {
+          "value": 26428
+        }
+      ],
+      "Asien": [
+        {
+          "value": 21175
+        }
+      ],
+      "China": [
+        {
+          "value": 5603
+        }
+      ],
+      "Australien und Ozeanien": [
+        {
+          "value": 3157
+        }
+      ],
+      "Afrika": [
+        {
+          "value": 1848
+        }
+      ]
+    },
+    "2018": {
+      "Ankünfte in Berhebungseinrichtungen insgesamt": [
+        {
+          "value": 1836800
+        }
+      ],
+      "Bundesrepublik Deutschland": [
+        {
+          "value": 1567170
+        }
+      ],
+      "Europa (ohne BRD)": [
+        {
+          "value": 196846
+        }
+      ],
+      "Großbritannien": [
+        {
+          "value": 21778
+        }
+      ],
+      "Schweiz": [
+        {
+          "value": 19240
+        }
+      ],
+      "Niederlande": [
+        {
+          "value": 19380
+        }
+      ],
+      "Österreich": [
+        {
+          "value": 20602
+        }
+      ],
+      "Belgien": [
+        {
+          "value": 7272
+        }
+      ],
+      "Italien": [
+        {
+          "value": 9434
+        }
+      ],
+      "Spanien": [
+        {
+          "value": 7069
+        }
+      ],
+      "Polen": [
+        {
+          "value": 13379
+        }
+      ],
+      "Dänemark": [
+        {
+          "value": 10711
+        }
+      ],
+      "Frankreich": [
+        {
+          "value": 8580
+        }
+      ],
+      "Schweden": [
+        {
+          "value": 8405
+        }
+      ],
+      "Tschechische Republik": [
+        {
+          "value": 9352
+        }
+      ],
+      "Amerika": [
+        {
+          "value": 31251
+        }
+      ],
+      "darunter USA": [
+        {
+          "value": 24880
+        }
+      ],
+      "Asien": [
+        {
+          "value": 21973
+        }
+      ],
+      "China": [
+        {
+          "value": 6424
+        }
+      ],
+      "Australien und Ozeanien": [
+        {
+          "value": 3347
+        }
+      ],
+      "Afrika": [
+        {
+          "value": 1794
+        }
+      ],
+      "Israel": [
+        {
+          "value": 2067
+        }
+      ],
+      "Arabische Golfstaaten": [
+        {
+          "value": 1296
+        }
+      ],
+      "Korea, Republik": [
+        {
+          "value": 2521
+        }
+      ]
+    },
+    "2019": {
+      "Korea, Republik": [
+        {
+          "value": 1936
+        }
+      ],
+      "Arabische Golfstaaten": [
+        {
+          "value": 1141
+        }
+      ],
+      "Israel": [
+        {
+          "value": 1748
+        }
+      ],
+      "Ankünfte in Berhebungseinrichtungen insgesamt": [
+        {
+          "value": 1929690
+        }
+      ],
+      "Bundesrepublik Deutschland": [
+        {
+          "value": 1670050
+        }
+      ],
+      "Europa (ohne BRD)": [
+        {
+          "value": 192184
+        }
+      ],
+      "Großbritannien": [
+        {
+          "value": 16982
+        }
+      ],
+      "Schweiz": [
+        {
+          "value": 18547
+        }
+      ],
+      "Niederlande": [
+        {
+          "value": 19768
+        }
+      ],
+      "Österreich": [
+        {
+          "value": 19543
+        }
+      ],
+      "Belgien": [
+        {
+          "value": 6578
+        }
+      ],
+      "Italien": [
+        {
+          "value": 9325
+        }
+      ],
+      "Spanien": [
+        {
+          "value": 5964
+        }
+      ],
+      "Polen": [
+        {
+          "value": 13977
+        }
+      ],
+      "Dänemark": [
+        {
+          "value": 10404
+        }
+      ],
+      "Frankreich": [
+        {
+          "value": 8351
+        }
+      ],
+      "Schweden": [
+        {
+          "value": 8563
+        }
+      ],
+      "Tschechische Republik": [
+        {
+          "value": 10012
+        }
+      ],
+      "Amerika": [
+        {
+          "value": 28748
+        }
+      ],
+      "darunter USA": [
+        {
+          "value": 22497
+        }
+      ],
+      "Asien": [
+        {
+          "value": 19438
+        }
+      ],
+      "China": [
+        {
+          "value": 5499
+        }
+      ],
+      "Australien und Ozeanien": [
+        {
+          "value": 2981
+        }
+      ],
+      "Afrika": [
+        {
+          "value": 1787
+        }
+      ]
+    },
+    "2020": {
+      "Ankünfte in Berhebungseinrichtungen insgesamt": [
+        {
+          "value": 984503
+        }
+      ],
+      "Bundesrepublik Deutschland": [
+        {
+          "value": 890184
+        }
+      ],
+      "Europa (ohne BRD)": [
+        {
+          "value": 76065
+        }
+      ],
+      "Großbritannien": [
+        {
+          "value": 7801
+        }
+      ],
+      "Schweiz": [
+        {
+          "value": 8041
+        }
+      ],
+      "Niederlande": [
+        {
+          "value": 8662
+        }
+      ],
+      "Österreich": [
+        {
+          "value": 7710
+        }
+      ],
+      "Belgien": [
+        {
+          "value": 2950
+        }
+      ],
+      "Italien": [
+        {
+          "value": 2726
+        }
+      ],
+      "Spanien": [
+        {
+          "value": 2268
+        }
+      ],
+      "Polen": [
+        {
+          "value": 7849
+        }
+      ],
+      "Dänemark": [
+        {
+          "value": 4402
+        }
+      ],
+      "Frankreich": [
+        {
+          "value": 3122
+        }
+      ],
+      "Schweden": [
+        {
+          "value": 1885
+        }
+      ],
+      "Tschechische Republik": [
+        {
+          "value": 3038
+        }
+      ],
+      "Amerika": [
+        {
+          "value": 9300
+        }
+      ],
+      "darunter USA": [
+        {
+          "value": 7876
+        }
+      ],
+      "Asien": [
+        {
+          "value": 3387
+        }
+      ],
+      "China": [
+        {
+          "value": 575
+        }
+      ],
+      "Australien und Ozeanien": [
+        {
+          "value": 410
+        }
+      ],
+      "Afrika": [
+        {
+          "value": 579
+        }
+      ],
+      "Israel": [
+        {
+          "value": 386
+        }
+      ],
+      "Arabische Golfstaaten": [
+        {
+          "value": 279
+        }
+      ],
+      "Korea, Republik": [
+        {
+          "value": 296
+        }
+      ]
+    },
+    "2021": {
+      "Korea, Republik": [
+        {
+          "value": 123
+        }
+      ],
+      "Arabische Golfstaaten": [
+        {
+          "value": 315
+        }
+      ],
+      "Israel": [
+        {
+          "value": 482
+        }
+      ],
+      "Ankünfte in Berhebungseinrichtungen insgesamt": [
+        {
+          "value": 948014
+        }
+      ],
+      "Bundesrepublik Deutschland": [
+        {
+          "value": 855226
+        }
+      ],
+      "Europa (ohne BRD)": [
+        {
+          "value": 78843
+        }
+      ],
+      "Großbritannien": [
+        {
+          "value": 4695
+        }
+      ],
+      "Schweiz": [
+        {
+          "value": 6279
+        }
+      ],
+      "Niederlande": [
+        {
+          "value": 8999
+        }
+      ],
+      "Österreich": [
+        {
+          "value": 8323
+        }
+      ],
+      "Belgien": [
+        {
+          "value": 4603
+        }
+      ],
+      "Italien": [
+        {
+          "value": 2995
+        }
+      ],
+      "Spanien": [
+        {
+          "value": 2012
+        }
+      ],
+      "Polen": [
+        {
+          "value": 8682
+        }
+      ],
+      "Dänemark": [
+        {
+          "value": 5327
+        }
+      ],
+      "Frankreich": [
+        {
+          "value": 4302
+        }
+      ],
+      "Schweden": [
+        {
+          "value": 2504
+        }
+      ],
+      "Tschechische Republik": [
+        {
+          "value": 3528
+        }
+      ],
+      "Amerika": [
+        {
+          "value": 8398
+        }
+      ],
+      "darunter USA": [
+        {
+          "value": 7308
+        }
+      ],
+      "Asien": [
+        {
+          "value": 2758
+        }
+      ],
+      "China": [
+        {
+          "value": 300
+        }
+      ],
+      "Australien und Ozeanien": [
+        {
+          "value": 157
+        }
+      ],
+      "Afrika": [
+        {
+          "value": 692
+        }
+      ]
+    },
+    "2022": {
+      "Ankünfte in Berhebungseinrichtungen insgesamt": [
+        {
+          "value": 1703600
+        }
+      ],
+      "Bundesrepublik Deutschland": [
+        {
+          "value": 1495920
+        }
+      ],
+      "Europa (ohne BRD)": [
+        {
+          "value": 163547
+        }
+      ],
+      "Großbritannien": [
+        {
+          "value": 16896
+        }
+      ],
+      "Schweiz": [
+        {
+          "value": 14662
+        }
+      ],
+      "Niederlande": [
+        {
+          "value": 17048
+        }
+      ],
+      "Österreich": [
+        {
+          "value": 15506
+        }
+      ],
+      "Belgien": [
+        {
+          "value": 5498
+        }
+      ],
+      "Italien": [
+        {
+          "value": 7299
+        }
+      ],
+      "Spanien": [
+        {
+          "value": 5329
+        }
+      ],
+      "Polen": [
+        {
+          "value": 13984
+        }
+      ],
+      "Dänemark": [
+        {
+          "value": 11237
+        }
+      ],
+      "Frankreich": [
+        {
+          "value": 7429
+        }
+      ],
+      "Schweden": [
+        {
+          "value": 7148
+        }
+      ],
+      "Tschechische Republik": [
+        {
+          "value": 7831
+        }
+      ],
+      "Amerika": [
+        {
+          "value": 20572
+        }
+      ],
+      "darunter USA": [
+        {
+          "value": 15921
+        }
+      ],
+      "Asien": [
+        {
+          "value": 11136
+        }
+      ],
+      "Arabische Golfstaaten": [
+        {
+          "value": 1155
+        }
+      ],
+      "Israel": [
+        {
+          "value": 1393
+        }
+      ],
+      "Korea, Republik": [
+        {
+          "value": 1072
+        }
+      ],
+      "China": [
+        {
+          "value": 1032
+        }
+      ],
+      "Australien und Ozeanien": [
+        {
+          "value": 1728
+        }
+      ],
+      "Afrika": [
+        {
+          "value": 1846
+        }
+      ]
+    },
+    "2023": {
+      "Ankünfte in Berhebungseinrichtungen insgesamt": [
+        {
+          "value": 1979970
+        }
+      ],
+      "Bundesrepublik Deutschland": [
+        {
+          "value": 1735400
+        }
+      ],
+      "Europa (ohne BRD)": [
+        {
+          "value": 195506
+        }
+      ],
+      "Belgien": [
+        {
+          "value": 6148
+        }
+      ],
+      "Dänemark": [
+        {
+          "value": 13375
+        }
+      ],
+      "Frankreich": [
+        {
+          "value": 8113
+        }
+      ],
+      "Großbritannien": [
+        {
+          "value": 18842
+        }
+      ],
+      "Italien": [
+        {
+          "value": 7780
+        }
+      ],
+      "Niederlande": [
+        {
+          "value": 19561
+        }
+      ],
+      "Österreich": [
+        {
+          "value": 19554
+        }
+      ],
+      "Polen": [
+        {
+          "value": 18175
+        }
+      ],
+      "Schweden": [
+        {
+          "value": 8588
+        }
+      ],
+      "Schweiz": [
+        {
+          "value": 18416
+        }
+      ],
+      "Spanien": [
+        {
+          "value": 7350
+        }
+      ],
+      "Tschechische Republik": [
+        {
+          "value": 9471
+        }
+      ],
+      "Amerika": [
+        {
+          "value": 23549
+        }
+      ],
+      "darunter USA": [
+        {
+          "value": 17244
+        }
+      ],
+      "Asien": [
+        {
+          "value": 17275
+        }
+      ],
+      "Arabische Golfstaaten": [
+        {
+          "value": 2308
+        }
+      ],
+      "Israel": [
+        {
+          "value": 1351
+        }
+      ],
+      "Korea, Republik": [
+        {
+          "value": 1866
+        }
+      ],
+      "China": [
+        {
+          "value": 2898
+        }
+      ],
+      "Australien und Ozeanien": [
+        {
+          "value": 3047
+        }
+      ],
+      "Afrika": [
+        {
+          "value": 1640
+        }
+      ]
+    }
+  }
+}

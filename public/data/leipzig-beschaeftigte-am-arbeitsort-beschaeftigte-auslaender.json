@@ -1,0 +1,4784 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=7&rubrik_nr=1&periode=y",
+    "title": "Beschäftigte am Arbeitsort__Beschäftigte__Ausländer"
+  },
+  "data": {
+    "2001": {
+      "Ausländer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Bergbau, Energie- und Wasserversorgung, Entsorgungswirtschaft": [
+        {
+          "value": null
+        }
+      ],
+      "Immobilien, freiberufliche wissenschaftliche und technische Dienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "sonstige wirtschaftliche Dienstleistungen (einschließlich Arbeitnehmerüberlassung": [
+        {
+          "value": null
+        }
+      ],
+      "ohne beruflichen Ausbildungsabschluss": [
+        {
+          "value": null
+        }
+      ],
+      "mit anerkanntem Berufsabschluss": [
+        {
+          "value": null
+        }
+      ],
+      "mit akademischem Abschluss": [
+        {
+          "value": null
+        }
+      ],
+      "Beschäftigte insgesamt": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 204116
+        },
+        {
+          "value": 162446
+        },
+        {
+          "value": null
+        }
+      ],
+      "unter 25 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "25 bis unter 55 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "65 Jahre und älter": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Vollzeitbeschäftigte": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Männer": [
+        {
+          "value": 98698
+        },
+        {
+          "value": 81151
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 105418
+        },
+        {
+          "value": 81295
+        }
+      ],
+      "im Nebenjob": [
+        {
+          "value": null
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": null
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen": [
+        {
+          "value": null
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": null
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": null
+        }
+      ],
+      "Erbringung von Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "Öffentliche Verwaltung, Verteidigung; Sozialversicherung": [
+        {
+          "value": null
+        }
+      ],
+      "Erziehung und Unterricht": [
+        {
+          "value": null
+        }
+      ],
+      "Gesundheits- und Sozialwesen": [
+        {
+          "value": null
+        }
+      ],
+      "Kunst, Unterhaltung, Erholung und sonstige Dienstleister": [
+        {
+          "value": null
+        }
+      ],
+      "ausschließlich geringfügig entlohnt beschäftigt": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2002": {
+      "ausschließlich geringfügig entlohnt beschäftigt": [
+        {
+          "value": null
+        }
+      ],
+      "Beschäftigte insgesamt": [
+        {
+          "value": null
+        },
+        {
+          "value": 196239
+        },
+        {
+          "value": 155746
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": null
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen": [
+        {
+          "value": null
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": null
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": null
+        }
+      ],
+      "Erbringung von Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "Öffentliche Verwaltung, Verteidigung; Sozialversicherung": [
+        {
+          "value": null
+        }
+      ],
+      "Erziehung und Unterricht": [
+        {
+          "value": null
+        }
+      ],
+      "Gesundheits- und Sozialwesen": [
+        {
+          "value": null
+        }
+      ],
+      "Kunst, Unterhaltung, Erholung und sonstige Dienstleister": [
+        {
+          "value": null
+        }
+      ],
+      "im Nebenjob": [
+        {
+          "value": null
+        }
+      ],
+      "unter 25 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "25 bis unter 55 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 79172
+        },
+        {
+          "value": 103214
+        }
+      ],
+      "Männer": [
+        {
+          "value": 76574
+        },
+        {
+          "value": 93025
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "65 Jahre und älter": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Vollzeitbeschäftigte": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Bergbau, Energie- und Wasserversorgung, Entsorgungswirtschaft": [
+        {
+          "value": null
+        }
+      ],
+      "Immobilien, freiberufliche wissenschaftliche und technische Dienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "sonstige wirtschaftliche Dienstleistungen (einschließlich Arbeitnehmerüberlassung": [
+        {
+          "value": null
+        }
+      ],
+      "ohne beruflichen Ausbildungsabschluss": [
+        {
+          "value": null
+        }
+      ],
+      "mit anerkanntem Berufsabschluss": [
+        {
+          "value": null
+        }
+      ],
+      "mit akademischem Abschluss": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2003": {
+      "unter 25 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "25 bis unter 55 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "65 Jahre und älter": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Vollzeitbeschäftigte": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Bergbau, Energie- und Wasserversorgung, Entsorgungswirtschaft": [
+        {
+          "value": null
+        }
+      ],
+      "Immobilien, freiberufliche wissenschaftliche und technische Dienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "sonstige wirtschaftliche Dienstleistungen (einschließlich Arbeitnehmerüberlassung": [
+        {
+          "value": null
+        }
+      ],
+      "ohne beruflichen Ausbildungsabschluss": [
+        {
+          "value": null
+        }
+      ],
+      "mit anerkanntem Berufsabschluss": [
+        {
+          "value": null
+        }
+      ],
+      "mit akademischem Abschluss": [
+        {
+          "value": null
+        }
+      ],
+      "Beschäftigte insgesamt": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 151362
+        },
+        {
+          "value": 194235
+        },
+        {
+          "value": null
+        }
+      ],
+      "Männer": [
+        {
+          "value": 92148
+        },
+        {
+          "value": 73935
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 102087
+        },
+        {
+          "value": 77427
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": null
+        }
+      ],
+      "Erbringung von Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "Öffentliche Verwaltung, Verteidigung; Sozialversicherung": [
+        {
+          "value": null
+        }
+      ],
+      "Erziehung und Unterricht": [
+        {
+          "value": null
+        }
+      ],
+      "Gesundheits- und Sozialwesen": [
+        {
+          "value": null
+        }
+      ],
+      "Kunst, Unterhaltung, Erholung und sonstige Dienstleister": [
+        {
+          "value": null
+        }
+      ],
+      "im Nebenjob": [
+        {
+          "value": null
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": null
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen": [
+        {
+          "value": null
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": null
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "ausschließlich geringfügig entlohnt beschäftigt": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2004": {
+      "Beschäftigte insgesamt": [
+        {
+          "value": 40464
+        },
+        {
+          "value": 149289
+        },
+        {
+          "value": 191170
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "ausschließlich geringfügig entlohnt beschäftigt": [
+        {
+          "value": 33259
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": null
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen": [
+        {
+          "value": null
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": null
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": null
+        }
+      ],
+      "Erbringung von Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "Öffentliche Verwaltung, Verteidigung; Sozialversicherung": [
+        {
+          "value": null
+        }
+      ],
+      "Erziehung und Unterricht": [
+        {
+          "value": null
+        }
+      ],
+      "Gesundheits- und Sozialwesen": [
+        {
+          "value": null
+        }
+      ],
+      "Kunst, Unterhaltung, Erholung und sonstige Dienstleister": [
+        {
+          "value": null
+        }
+      ],
+      "im Nebenjob": [
+        {
+          "value": 7205
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 76568
+        },
+        {
+          "value": 100586
+        }
+      ],
+      "Männer": [
+        {
+          "value": 72721
+        },
+        {
+          "value": 90584
+        }
+      ],
+      "unter 25 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "25 bis unter 55 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "65 Jahre und älter": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Vollzeitbeschäftigte": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Bergbau, Energie- und Wasserversorgung, Entsorgungswirtschaft": [
+        {
+          "value": null
+        }
+      ],
+      "Immobilien, freiberufliche wissenschaftliche und technische Dienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "sonstige wirtschaftliche Dienstleistungen (einschließlich Arbeitnehmerüberlassung": [
+        {
+          "value": null
+        }
+      ],
+      "ohne beruflichen Ausbildungsabschluss": [
+        {
+          "value": null
+        }
+      ],
+      "mit anerkanntem Berufsabschluss": [
+        {
+          "value": null
+        }
+      ],
+      "mit akademischem Abschluss": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2005": {
+      "unter 25 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "25 bis unter 55 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "65 Jahre und älter": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Vollzeitbeschäftigte": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Bergbau, Energie- und Wasserversorgung, Entsorgungswirtschaft": [
+        {
+          "value": null
+        }
+      ],
+      "Immobilien, freiberufliche wissenschaftliche und technische Dienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "sonstige wirtschaftliche Dienstleistungen (einschließlich Arbeitnehmerüberlassung": [
+        {
+          "value": null
+        }
+      ],
+      "ohne beruflichen Ausbildungsabschluss": [
+        {
+          "value": null
+        }
+      ],
+      "mit anerkanntem Berufsabschluss": [
+        {
+          "value": null
+        }
+      ],
+      "mit akademischem Abschluss": [
+        {
+          "value": null
+        }
+      ],
+      "Beschäftigte insgesamt": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 146264
+        },
+        {
+          "value": 39489
+        },
+        {
+          "value": 188845
+        }
+      ],
+      "Männer": [
+        {
+          "value": 89179
+        },
+        {
+          "value": 70772
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 99666
+        },
+        {
+          "value": 75492
+        }
+      ],
+      "im Nebenjob": [
+        {
+          "value": 7732
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": null
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen": [
+        {
+          "value": null
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": null
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": null
+        }
+      ],
+      "Erbringung von Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "Öffentliche Verwaltung, Verteidigung; Sozialversicherung": [
+        {
+          "value": null
+        }
+      ],
+      "Erziehung und Unterricht": [
+        {
+          "value": null
+        }
+      ],
+      "Gesundheits- und Sozialwesen": [
+        {
+          "value": null
+        }
+      ],
+      "Kunst, Unterhaltung, Erholung und sonstige Dienstleister": [
+        {
+          "value": null
+        }
+      ],
+      "ausschließlich geringfügig entlohnt beschäftigt": [
+        {
+          "value": 33915
+        }
+      ]
+    },
+    "2006": {
+      "Beschäftigte insgesamt": [
+        {
+          "value": 42562
+        },
+        {
+          "value": 195672
+        },
+        {
+          "value": 151384
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "ausschließlich geringfügig entlohnt beschäftigt": [
+        {
+          "value": 33915
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": null
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen": [
+        {
+          "value": null
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": null
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": null
+        }
+      ],
+      "Erbringung von Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "Öffentliche Verwaltung, Verteidigung; Sozialversicherung": [
+        {
+          "value": null
+        }
+      ],
+      "Erziehung und Unterricht": [
+        {
+          "value": null
+        }
+      ],
+      "Gesundheits- und Sozialwesen": [
+        {
+          "value": null
+        }
+      ],
+      "Kunst, Unterhaltung, Erholung und sonstige Dienstleister": [
+        {
+          "value": null
+        }
+      ],
+      "im Nebenjob": [
+        {
+          "value": 8647
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 77160
+        },
+        {
+          "value": 101912
+        }
+      ],
+      "Männer": [
+        {
+          "value": 74224
+        },
+        {
+          "value": 93760
+        }
+      ],
+      "unter 25 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "25 bis unter 55 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "65 Jahre und älter": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Vollzeitbeschäftigte": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Bergbau, Energie- und Wasserversorgung, Entsorgungswirtschaft": [
+        {
+          "value": null
+        }
+      ],
+      "Immobilien, freiberufliche wissenschaftliche und technische Dienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "sonstige wirtschaftliche Dienstleistungen (einschließlich Arbeitnehmerüberlassung": [
+        {
+          "value": null
+        }
+      ],
+      "ohne beruflichen Ausbildungsabschluss": [
+        {
+          "value": null
+        }
+      ],
+      "mit anerkanntem Berufsabschluss": [
+        {
+          "value": null
+        }
+      ],
+      "mit akademischem Abschluss": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2007": {
+      "unter 25 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "25 bis unter 55 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "65 Jahre und älter": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Vollzeitbeschäftigte": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Bergbau, Energie- und Wasserversorgung, Entsorgungswirtschaft": [
+        {
+          "value": null
+        }
+      ],
+      "Immobilien, freiberufliche wissenschaftliche und technische Dienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "sonstige wirtschaftliche Dienstleistungen (einschließlich Arbeitnehmerüberlassung": [
+        {
+          "value": null
+        }
+      ],
+      "ohne beruflichen Ausbildungsabschluss": [
+        {
+          "value": null
+        }
+      ],
+      "mit anerkanntem Berufsabschluss": [
+        {
+          "value": null
+        }
+      ],
+      "mit akademischem Abschluss": [
+        {
+          "value": null
+        }
+      ],
+      "Beschäftigte insgesamt": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 200064
+        },
+        {
+          "value": 155098
+        },
+        {
+          "value": 43168
+        }
+      ],
+      "Männer": [
+        {
+          "value": 96547
+        },
+        {
+          "value": 76943
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 103517
+        },
+        {
+          "value": 78155
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 233
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 17698
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 11197
+        }
+      ],
+      "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen": [
+        {
+          "value": 22794
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 12279
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 6699
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 12436
+        }
+      ],
+      "Erbringung von Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 8498
+        }
+      ],
+      "Öffentliche Verwaltung, Verteidigung; Sozialversicherung": [
+        {
+          "value": 10890
+        }
+      ],
+      "Erziehung und Unterricht": [
+        {
+          "value": 18949
+        }
+      ],
+      "Gesundheits- und Sozialwesen": [
+        {
+          "value": 21378
+        }
+      ],
+      "Kunst, Unterhaltung, Erholung und sonstige Dienstleister": [
+        {
+          "value": 11512
+        }
+      ],
+      "ausschließlich geringfügig entlohnt beschäftigt": [
+        {
+          "value": 33755
+        }
+      ],
+      "im Nebenjob": [
+        {
+          "value": 9413
+        }
+      ]
+    },
+    "2008": {
+      "Beschäftigte insgesamt": [
+        {
+          "value": 205490
+        },
+        {
+          "value": 161918
+        },
+        {
+          "value": 41663
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "ausschließlich geringfügig entlohnt beschäftigt": [
+        {
+          "value": 32004
+        }
+      ],
+      "im Nebenjob": [
+        {
+          "value": 9659
+        }
+      ],
+      "Erbringung von Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 8351
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 247
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 18365
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 11093
+        }
+      ],
+      "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen": [
+        {
+          "value": 23227
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 12439
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 6888
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 12911
+        }
+      ],
+      "Öffentliche Verwaltung, Verteidigung; Sozialversicherung": [
+        {
+          "value": 11151
+        }
+      ],
+      "Erziehung und Unterricht": [
+        {
+          "value": 19224
+        }
+      ],
+      "Gesundheits- und Sozialwesen": [
+        {
+          "value": 22420
+        }
+      ],
+      "Kunst, Unterhaltung, Erholung und sonstige Dienstleister": [
+        {
+          "value": 10948
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 81313
+        },
+        {
+          "value": 105987
+        }
+      ],
+      "Männer": [
+        {
+          "value": 80605
+        },
+        {
+          "value": 99503
+        }
+      ],
+      "unter 25 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "25 bis unter 55 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "65 Jahre und älter": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Vollzeitbeschäftigte": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Bergbau, Energie- und Wasserversorgung, Entsorgungswirtschaft": [
+        {
+          "value": null
+        }
+      ],
+      "Immobilien, freiberufliche wissenschaftliche und technische Dienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "sonstige wirtschaftliche Dienstleistungen (einschließlich Arbeitnehmerüberlassung": [
+        {
+          "value": null
+        }
+      ],
+      "ohne beruflichen Ausbildungsabschluss": [
+        {
+          "value": null
+        }
+      ],
+      "mit anerkanntem Berufsabschluss": [
+        {
+          "value": null
+        }
+      ],
+      "mit akademischem Abschluss": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2009": {
+      "unter 25 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "25 bis unter 55 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "65 Jahre und älter": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Vollzeitbeschäftigte": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Bergbau, Energie- und Wasserversorgung, Entsorgungswirtschaft": [
+        {
+          "value": null
+        }
+      ],
+      "Immobilien, freiberufliche wissenschaftliche und technische Dienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "sonstige wirtschaftliche Dienstleistungen (einschließlich Arbeitnehmerüberlassung": [
+        {
+          "value": null
+        }
+      ],
+      "ohne beruflichen Ausbildungsabschluss": [
+        {
+          "value": null
+        }
+      ],
+      "mit anerkanntem Berufsabschluss": [
+        {
+          "value": null
+        }
+      ],
+      "mit akademischem Abschluss": [
+        {
+          "value": null
+        }
+      ],
+      "Beschäftigte insgesamt": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 205709
+        },
+        {
+          "value": 164372
+        },
+        {
+          "value": 42427
+        }
+      ],
+      "Männer": [
+        {
+          "value": 98093
+        },
+        {
+          "value": 80862
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 107616
+        },
+        {
+          "value": 83510
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 245
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 19008
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 10426
+        }
+      ],
+      "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen": [
+        {
+          "value": null
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": null
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 12962
+        }
+      ],
+      "Erbringung von Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 7985
+        }
+      ],
+      "Öffentliche Verwaltung, Verteidigung; Sozialversicherung": [
+        {
+          "value": null
+        }
+      ],
+      "Erziehung und Unterricht": [
+        {
+          "value": null
+        }
+      ],
+      "Gesundheits- und Sozialwesen": [
+        {
+          "value": null
+        }
+      ],
+      "Kunst, Unterhaltung, Erholung und sonstige Dienstleister": [
+        {
+          "value": 11398
+        }
+      ],
+      "ausschließlich geringfügig entlohnt beschäftigt": [
+        {
+          "value": 32209
+        }
+      ],
+      "im Nebenjob": [
+        {
+          "value": 10218
+        }
+      ]
+    },
+    "2010": {
+      "Beschäftigte insgesamt": [
+        {
+          "value": 211234
+        },
+        {
+          "value": 169862
+        },
+        {
+          "value": 42958
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 233
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 19169
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 10336
+        }
+      ],
+      "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen": [
+        {
+          "value": null
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": null
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 12650
+        }
+      ],
+      "Erbringung von Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 7829
+        }
+      ],
+      "Öffentliche Verwaltung, Verteidigung; Sozialversicherung": [
+        {
+          "value": null
+        }
+      ],
+      "Erziehung und Unterricht": [
+        {
+          "value": null
+        }
+      ],
+      "Gesundheits- und Sozialwesen": [
+        {
+          "value": null
+        }
+      ],
+      "Kunst, Unterhaltung, Erholung und sonstige Dienstleister": [
+        {
+          "value": 11449
+        }
+      ],
+      "ausschließlich geringfügig entlohnt beschäftigt": [
+        {
+          "value": 32118
+        }
+      ],
+      "im Nebenjob": [
+        {
+          "value": 10840
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 85714
+        },
+        {
+          "value": 109152
+        }
+      ],
+      "Männer": [
+        {
+          "value": 84148
+        },
+        {
+          "value": 102082
+        }
+      ],
+      "unter 25 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "25 bis unter 55 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "65 Jahre und älter": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Vollzeitbeschäftigte": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Bergbau, Energie- und Wasserversorgung, Entsorgungswirtschaft": [
+        {
+          "value": null
+        }
+      ],
+      "Immobilien, freiberufliche wissenschaftliche und technische Dienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "sonstige wirtschaftliche Dienstleistungen (einschließlich Arbeitnehmerüberlassung": [
+        {
+          "value": null
+        }
+      ],
+      "ohne beruflichen Ausbildungsabschluss": [
+        {
+          "value": null
+        }
+      ],
+      "mit anerkanntem Berufsabschluss": [
+        {
+          "value": null
+        }
+      ],
+      "mit akademischem Abschluss": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2011": {
+      "unter 25 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "25 bis unter 55 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "65 Jahre und älter": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Vollzeitbeschäftigte": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Bergbau, Energie- und Wasserversorgung, Entsorgungswirtschaft": [
+        {
+          "value": null
+        }
+      ],
+      "Immobilien, freiberufliche wissenschaftliche und technische Dienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "sonstige wirtschaftliche Dienstleistungen (einschließlich Arbeitnehmerüberlassung": [
+        {
+          "value": null
+        }
+      ],
+      "ohne beruflichen Ausbildungsabschluss": [
+        {
+          "value": null
+        }
+      ],
+      "mit anerkanntem Berufsabschluss": [
+        {
+          "value": null
+        }
+      ],
+      "mit akademischem Abschluss": [
+        {
+          "value": null
+        }
+      ],
+      "Beschäftigte insgesamt": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 215886
+        },
+        {
+          "value": 177640
+        },
+        {
+          "value": 43491
+        }
+      ],
+      "Männer": [
+        {
+          "value": 105100
+        },
+        {
+          "value": 88886
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 110786
+        },
+        {
+          "value": 88754
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 278
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 19423
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 10573
+        }
+      ],
+      "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen": [
+        {
+          "value": null
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": null
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 13140
+        }
+      ],
+      "Erbringung von Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 7869
+        }
+      ],
+      "Öffentliche Verwaltung, Verteidigung; Sozialversicherung": [
+        {
+          "value": null
+        }
+      ],
+      "Erziehung und Unterricht": [
+        {
+          "value": null
+        }
+      ],
+      "Gesundheits- und Sozialwesen": [
+        {
+          "value": null
+        }
+      ],
+      "Kunst, Unterhaltung, Erholung und sonstige Dienstleister": [
+        {
+          "value": 10238
+        }
+      ],
+      "ausschließlich geringfügig entlohnt beschäftigt": [
+        {
+          "value": 32082
+        }
+      ],
+      "im Nebenjob": [
+        {
+          "value": 11409
+        }
+      ]
+    },
+    "2012": {
+      "Beschäftigte insgesamt": [
+        {
+          "value": 186116
+        },
+        {
+          "value": 45895
+        },
+        {
+          "value": 222949
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "ausschließlich geringfügig entlohnt beschäftigt": [
+        {
+          "value": 32959
+        }
+      ],
+      "im Nebenjob": [
+        {
+          "value": 12936
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 261
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 20399
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 10234
+        }
+      ],
+      "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen": [
+        {
+          "value": null
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": null
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": null
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 13296
+        }
+      ],
+      "Erbringung von Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 7829
+        }
+      ],
+      "Öffentliche Verwaltung, Verteidigung; Sozialversicherung": [
+        {
+          "value": null
+        }
+      ],
+      "Erziehung und Unterricht": [
+        {
+          "value": null
+        }
+      ],
+      "Gesundheits- und Sozialwesen": [
+        {
+          "value": null
+        }
+      ],
+      "Kunst, Unterhaltung, Erholung und sonstige Dienstleister": [
+        {
+          "value": 9576
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 92523
+        },
+        {
+          "value": 114383
+        }
+      ],
+      "Männer": [
+        {
+          "value": 93593
+        },
+        {
+          "value": 108566
+        }
+      ],
+      "25 bis unter 55 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "65 Jahre und älter": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Vollzeitbeschäftigte": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Bergbau, Energie- und Wasserversorgung, Entsorgungswirtschaft": [
+        {
+          "value": null
+        }
+      ],
+      "Immobilien, freiberufliche wissenschaftliche und technische Dienstleistungen": [
+        {
+          "value": null
+        }
+      ],
+      "sonstige wirtschaftliche Dienstleistungen (einschließlich Arbeitnehmerüberlassung": [
+        {
+          "value": null
+        }
+      ],
+      "ohne beruflichen Ausbildungsabschluss": [
+        {
+          "value": null
+        }
+      ],
+      "mit anerkanntem Berufsabschluss": [
+        {
+          "value": null
+        }
+      ],
+      "mit akademischem Abschluss": [
+        {
+          "value": null
+        }
+      ],
+      "unter 25 Jahre": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2013": {
+      "unter 25 Jahre": [
+        {
+          "value": 20650
+        },
+        {
+          "value": 17822
+        }
+      ],
+      "25 bis unter 55 Jahre": [
+        {
+          "value": 171488
+        },
+        {
+          "value": null
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": 36704
+        },
+        {
+          "value": null
+        }
+      ],
+      "65 Jahre und älter": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "Vollzeitbeschäftigte": [
+        {
+          "value": 167476
+        },
+        {
+          "value": 141106
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": 60061
+        },
+        {
+          "value": 50960
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 223509
+        },
+        {
+          "value": 187583
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 6150
+        },
+        {
+          "value": 6181
+        }
+      ],
+      "Bergbau, Energie- und Wasserversorgung, Entsorgungswirtschaft": [
+        {
+          "value": 4412
+        }
+      ],
+      "Immobilien, freiberufliche wissenschaftliche und technische Dienstleistungen": [
+        {
+          "value": 21527
+        }
+      ],
+      "sonstige wirtschaftliche Dienstleistungen (einschließlich Arbeitnehmerüberlassung": [
+        {
+          "value": 32507
+        }
+      ],
+      "ohne beruflichen Ausbildungsabschluss": [
+        {
+          "value": 13156
+        }
+      ],
+      "mit anerkanntem Berufsabschluss": [
+        {
+          "value": 136299
+        }
+      ],
+      "mit akademischem Abschluss": [
+        {
+          "value": 48274
+        }
+      ],
+      "Beschäftigte insgesamt": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 228990
+        },
+        {
+          "value": 45871
+        },
+        {
+          "value": 192924
+        }
+      ],
+      "Männer": [
+        {
+          "value": 111395
+        },
+        {
+          "value": 96973
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 117595
+        },
+        {
+          "value": 95951
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 252
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 21054
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 9767
+        }
+      ],
+      "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen": [
+        {
+          "value": 28145
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 13124
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 7845
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 13571
+        }
+      ],
+      "Erbringung von Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 7786
+        }
+      ],
+      "Öffentliche Verwaltung, Verteidigung; Sozialversicherung": [
+        {
+          "value": 11486
+        }
+      ],
+      "Erziehung und Unterricht": [
+        {
+          "value": 14197
+        }
+      ],
+      "Gesundheits- und Sozialwesen": [
+        {
+          "value": 34823
+        }
+      ],
+      "Kunst, Unterhaltung, Erholung und sonstige Dienstleister": [
+        {
+          "value": 9336
+        }
+      ],
+      "ausschließlich geringfügig entlohnt beschäftigt": [
+        {
+          "value": 35677
+        }
+      ],
+      "im Nebenjob": [
+        {
+          "value": 10194
+        }
+      ]
+    },
+    "2014": {
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 23733
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 9826
+        }
+      ],
+      "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen": [
+        {
+          "value": 27872
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 13516
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 8291
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 13954
+        }
+      ],
+      "Erbringung von Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 7636
+        }
+      ],
+      "Öffentliche Verwaltung, Verteidigung; Sozialversicherung": [
+        {
+          "value": 11837
+        }
+      ],
+      "Erziehung und Unterricht": [
+        {
+          "value": 15763
+        }
+      ],
+      "Gesundheits- und Sozialwesen": [
+        {
+          "value": 33696
+        }
+      ],
+      "Kunst, Unterhaltung, Erholung und sonstige Dienstleister": [
+        {
+          "value": 9455
+        }
+      ],
+      "Beschäftigte insgesamt": [
+        {
+          "value": 203027
+        },
+        {
+          "value": 45856
+        },
+        {
+          "value": 241065
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "ausschließlich geringfügig entlohnt beschäftigt": [
+        {
+          "value": 35050
+        }
+      ],
+      "im Nebenjob": [
+        {
+          "value": 10806
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 230
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 100229
+        },
+        {
+          "value": 121534
+        }
+      ],
+      "Männer": [
+        {
+          "value": 102798
+        },
+        {
+          "value": 119531
+        }
+      ],
+      "unter 25 Jahre": [
+        {
+          "value": 19879
+        },
+        {
+          "value": 17103
+        }
+      ],
+      "25 bis unter 55 Jahre": [
+        {
+          "value": 180546
+        },
+        {
+          "value": 154527
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": 39542
+        },
+        {
+          "value": 30412
+        }
+      ],
+      "65 Jahre und älter": [
+        {
+          "value": 1098
+        },
+        {
+          "value": 985
+        }
+      ],
+      "Vollzeitbeschäftigte": [
+        {
+          "value": 174562
+        },
+        {
+          "value": 146444
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": 64341
+        },
+        {
+          "value": 54885
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 233627
+        },
+        {
+          "value": 195495
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 7270
+        },
+        {
+          "value": 7437
+        }
+      ],
+      "Bergbau, Energie- und Wasserversorgung, Entsorgungswirtschaft": [
+        {
+          "value": 4475
+        }
+      ],
+      "Immobilien, freiberufliche wissenschaftliche und technische Dienstleistungen": [
+        {
+          "value": 23852
+        }
+      ],
+      "sonstige wirtschaftliche Dienstleistungen (einschließlich Arbeitnehmerüberlassung": [
+        {
+          "value": 36929
+        }
+      ],
+      "ohne beruflichen Ausbildungsabschluss": [
+        {
+          "value": 13656
+        }
+      ],
+      "mit anerkanntem Berufsabschluss": [
+        {
+          "value": 146112
+        }
+      ],
+      "mit akademischem Abschluss": [
+        {
+          "value": 51553
+        }
+      ]
+    },
+    "2015": {
+      "unter 25 Jahre": [
+        {
+          "value": 18257
+        },
+        {
+          "value": 15926
+        }
+      ],
+      "25 bis unter 55 Jahre": [
+        {
+          "value": 188432
+        },
+        {
+          "value": 162532
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": 40945
+        },
+        {
+          "value": 31167
+        }
+      ],
+      "65 Jahre und älter": [
+        {
+          "value": 1341
+        },
+        {
+          "value": 1170
+        }
+      ],
+      "Vollzeitbeschäftigte": [
+        {
+          "value": 178939
+        },
+        {
+          "value": 150383
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": 69927
+        },
+        {
+          "value": 60312
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 240089
+        },
+        {
+          "value": 201822
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 8724
+        },
+        {
+          "value": 8892
+        }
+      ],
+      "Bergbau, Energie- und Wasserversorgung, Entsorgungswirtschaft": [
+        {
+          "value": 4534
+        }
+      ],
+      "Immobilien, freiberufliche wissenschaftliche und technische Dienstleistungen": [
+        {
+          "value": 24031
+        }
+      ],
+      "sonstige wirtschaftliche Dienstleistungen (einschließlich Arbeitnehmerüberlassung": [
+        {
+          "value": 38499
+        }
+      ],
+      "ohne beruflichen Ausbildungsabschluss": [
+        {
+          "value": 15908
+        }
+      ],
+      "mit anerkanntem Berufsabschluss": [
+        {
+          "value": 152701
+        }
+      ],
+      "mit akademischem Abschluss": [
+        {
+          "value": 53980
+        }
+      ],
+      "Beschäftigte insgesamt": [
+        {
+          "value": 2226
+        },
+        {
+          "value": 673
+        },
+        {
+          "value": 210795
+        },
+        {
+          "value": 37049
+        },
+        {
+          "value": 248952
+        }
+      ],
+      "Männer": [
+        {
+          "value": 124720
+        },
+        {
+          "value": 107037
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 124232
+        },
+        {
+          "value": 103758
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 9822
+        }
+      ],
+      "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen": [
+        {
+          "value": 28744
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 14974
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 9129
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 14329
+        }
+      ],
+      "Erbringung von Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 7430
+        }
+      ],
+      "Öffentliche Verwaltung, Verteidigung; Sozialversicherung": [
+        {
+          "value": 11863
+        }
+      ],
+      "Erziehung und Unterricht": [
+        {
+          "value": 15558
+        }
+      ],
+      "Gesundheits- und Sozialwesen": [
+        {
+          "value": 34497
+        }
+      ],
+      "Kunst, Unterhaltung, Erholung und sonstige Dienstleister": [
+        {
+          "value": 9848
+        }
+      ],
+      "ausschließlich geringfügig entlohnt beschäftigt": [
+        {
+          "value": 27485
+        }
+      ],
+      "im Nebenjob": [
+        {
+          "value": 9564
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 235
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 25481
+        }
+      ]
+    },
+    "2016": {
+      "Information und Kommunikation": [
+        {
+          "value": 14926
+        }
+      ],
+      "Erbringung von Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 7410
+        }
+      ],
+      "Beschäftigte insgesamt": [
+        {
+          "value": 255507
+        },
+        {
+          "value": 218189
+        },
+        {
+          "value": 35897
+        },
+        {
+          "value": 2237
+        },
+        {
+          "value": 772
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 234
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 25450
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 10679
+        }
+      ],
+      "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen": [
+        {
+          "value": 29678
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 15972
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 9797
+        }
+      ],
+      "Öffentliche Verwaltung, Verteidigung; Sozialversicherung": [
+        {
+          "value": 12202
+        }
+      ],
+      "Erziehung und Unterricht": [
+        {
+          "value": 16088
+        }
+      ],
+      "Gesundheits- und Sozialwesen": [
+        {
+          "value": 36003
+        }
+      ],
+      "Kunst, Unterhaltung, Erholung und sonstige Dienstleister": [
+        {
+          "value": 10511
+        }
+      ],
+      "ausschließlich geringfügig entlohnt beschäftigt": [
+        {
+          "value": 26114
+        }
+      ],
+      "im Nebenjob": [
+        {
+          "value": 9783
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 107157
+        },
+        {
+          "value": 127394
+        }
+      ],
+      "Männer": [
+        {
+          "value": 111032
+        },
+        {
+          "value": 128113
+        }
+      ],
+      "unter 25 Jahre": [
+        {
+          "value": 17344
+        },
+        {
+          "value": 14878
+        }
+      ],
+      "25 bis unter 55 Jahre": [
+        {
+          "value": 193882
+        },
+        {
+          "value": 169558
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": 43055
+        },
+        {
+          "value": 32736
+        }
+      ],
+      "65 Jahre und älter": [
+        {
+          "value": 1551
+        },
+        {
+          "value": 1274
+        }
+      ],
+      "Vollzeitbeschäftigte": [
+        {
+          "value": 180727
+        },
+        {
+          "value": 152958
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": 75104
+        },
+        {
+          "value": 65487
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 245169
+        },
+        {
+          "value": 207735
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 10507
+        },
+        {
+          "value": 10632
+        }
+      ],
+      "Bergbau, Energie- und Wasserversorgung, Entsorgungswirtschaft": [
+        {
+          "value": 4422
+        }
+      ],
+      "Immobilien, freiberufliche wissenschaftliche und technische Dienstleistungen": [
+        {
+          "value": 24784
+        }
+      ],
+      "sonstige wirtschaftliche Dienstleistungen (einschließlich Arbeitnehmerüberlassung": [
+        {
+          "value": 37676
+        }
+      ],
+      "ohne beruflichen Ausbildungsabschluss": [
+        {
+          "value": 17071
+        }
+      ],
+      "mit anerkanntem Berufsabschluss": [
+        {
+          "value": 156416
+        }
+      ],
+      "mit akademischem Abschluss": [
+        {
+          "value": 57170
+        }
+      ]
+    },
+    "2017": {
+      "unter 25 Jahre": [
+        {
+          "value": 18270
+        },
+        {
+          "value": 16251
+        }
+      ],
+      "25 bis unter 55 Jahre": [
+        {
+          "value": 197070
+        },
+        {
+          "value": 174370
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": 45414
+        },
+        {
+          "value": 34475
+        }
+      ],
+      "65 Jahre und älter": [
+        {
+          "value": 1783
+        },
+        {
+          "value": 1482
+        }
+      ],
+      "Vollzeitbeschäftigte": [
+        {
+          "value": 183556
+        },
+        {
+          "value": 156548
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": 78981
+        },
+        {
+          "value": 70030
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 249584
+        },
+        {
+          "value": 214043
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 12778
+        },
+        {
+          "value": 12436
+        }
+      ],
+      "Bergbau, Energie- und Wasserversorgung, Entsorgungswirtschaft": [
+        {
+          "value": 4335
+        }
+      ],
+      "Immobilien, freiberufliche wissenschaftliche und technische Dienstleistungen": [
+        {
+          "value": 25297
+        }
+      ],
+      "sonstige wirtschaftliche Dienstleistungen (einschließlich Arbeitnehmerüberlassung": [
+        {
+          "value": 39445
+        }
+      ],
+      "ohne beruflichen Ausbildungsabschluss": [
+        {
+          "value": 18512
+        }
+      ],
+      "mit anerkanntem Berufsabschluss": [
+        {
+          "value": 159742
+        }
+      ],
+      "mit akademischem Abschluss": [
+        {
+          "value": 59757
+        }
+      ],
+      "Beschäftigte insgesamt": [
+        {
+          "value": 2235
+        },
+        {
+          "value": 658
+        },
+        {
+          "value": 262537
+        },
+        {
+          "value": 226578
+        },
+        {
+          "value": 35757
+        }
+      ],
+      "Männer": [
+        {
+          "value": 132856
+        },
+        {
+          "value": 115959
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 129681
+        },
+        {
+          "value": 110619
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 243
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 25909
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 11026
+        }
+      ],
+      "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen": [
+        {
+          "value": 30198
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 16181
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 10417
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 15476
+        }
+      ],
+      "Erbringung von Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 7295
+        }
+      ],
+      "Öffentliche Verwaltung, Verteidigung; Sozialversicherung": [
+        {
+          "value": 12238
+        }
+      ],
+      "Erziehung und Unterricht": [
+        {
+          "value": 16748
+        }
+      ],
+      "Gesundheits- und Sozialwesen": [
+        {
+          "value": 37127
+        }
+      ],
+      "Kunst, Unterhaltung, Erholung und sonstige Dienstleister": [
+        {
+          "value": 10602
+        }
+      ],
+      "ausschließlich geringfügig entlohnt beschäftigt": [
+        {
+          "value": 25533
+        }
+      ],
+      "im Nebenjob": [
+        {
+          "value": 10224
+        }
+      ]
+    },
+    "2018": {
+      "Bergbau, Energie- und Wasserversorgung, Entsorgungswirtschaft": [
+        {
+          "value": 4305
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 114289
+        },
+        {
+          "value": 132301
+        }
+      ],
+      "Männer": [
+        {
+          "value": 121142
+        },
+        {
+          "value": 136708
+        }
+      ],
+      "unter 25 Jahre": [
+        {
+          "value": 19720
+        },
+        {
+          "value": 17902
+        }
+      ],
+      "25 bis unter 55 Jahre": [
+        {
+          "value": 199678
+        },
+        {
+          "value": 179282
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": 47544
+        },
+        {
+          "value": 36489
+        }
+      ],
+      "65 Jahre und älter": [
+        {
+          "value": 2067
+        },
+        {
+          "value": 1758
+        }
+      ],
+      "Vollzeitbeschäftigte": [
+        {
+          "value": 185404
+        },
+        {
+          "value": 159978
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": 83605
+        },
+        {
+          "value": 75453
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 253694
+        },
+        {
+          "value": 220553
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 15122
+        },
+        {
+          "value": 14762
+        }
+      ],
+      "Immobilien, freiberufliche wissenschaftliche und technische Dienstleistungen": [
+        {
+          "value": 26175
+        }
+      ],
+      "sonstige wirtschaftliche Dienstleistungen (einschließlich Arbeitnehmerüberlassung": [
+        {
+          "value": 39201
+        }
+      ],
+      "ohne beruflichen Ausbildungsabschluss": [
+        {
+          "value": 20145
+        }
+      ],
+      "mit anerkanntem Berufsabschluss": [
+        {
+          "value": 161903
+        }
+      ],
+      "mit akademischem Abschluss": [
+        {
+          "value": 63322
+        }
+      ],
+      "Beschäftigte insgesamt": [
+        {
+          "value": 2235
+        },
+        {
+          "value": 710
+        },
+        {
+          "value": 269009
+        },
+        {
+          "value": 235431
+        },
+        {
+          "value": 36442
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 244
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 25832
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 11460
+        }
+      ],
+      "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen": [
+        {
+          "value": 30973
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 16835
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 10758
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 16731
+        }
+      ],
+      "Erbringung von Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 7330
+        }
+      ],
+      "Öffentliche Verwaltung, Verteidigung; Sozialversicherung": [
+        {
+          "value": 12649
+        }
+      ],
+      "Erziehung und Unterricht": [
+        {
+          "value": 17151
+        }
+      ],
+      "Gesundheits- und Sozialwesen": [
+        {
+          "value": 38589
+        }
+      ],
+      "Kunst, Unterhaltung, Erholung und sonstige Dienstleister": [
+        {
+          "value": 10776
+        }
+      ],
+      "ausschließlich geringfügig entlohnt beschäftigt": [
+        {
+          "value": 25360
+        }
+      ],
+      "im Nebenjob": [
+        {
+          "value": 11082
+        }
+      ]
+    },
+    "2019": {
+      "Beschäftigte insgesamt": [
+        {
+          "value": 272873
+        },
+        {
+          "value": 37237
+        },
+        {
+          "value": 240794
+        },
+        {
+          "value": 2253
+        },
+        {
+          "value": 703
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 253
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 25761
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 12055
+        }
+      ],
+      "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen": [
+        {
+          "value": 31189
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 16793
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 11019
+        }
+      ],
+      "ausschließlich geringfügig entlohnt beschäftigt": [
+        {
+          "value": 25375
+        }
+      ],
+      "im Nebenjob": [
+        {
+          "value": 11862
+        }
+      ],
+      "25 bis unter 55 Jahre": [
+        {
+          "value": 180864
+        },
+        {
+          "value": 199600
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": 38233
+        },
+        {
+          "value": 49546
+        }
+      ],
+      "65 Jahre und älter": [
+        {
+          "value": 2055
+        },
+        {
+          "value": 2364
+        }
+      ],
+      "Vollzeitbeschäftigte": [
+        {
+          "value": 160808
+        },
+        {
+          "value": 184817
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": 79986
+        },
+        {
+          "value": 88056
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 223833
+        },
+        {
+          "value": 255527
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 16858
+        },
+        {
+          "value": 17177
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 17437
+        }
+      ],
+      "Erbringung von Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 7288
+        }
+      ],
+      "Öffentliche Verwaltung, Verteidigung; Sozialversicherung": [
+        {
+          "value": 12553
+        }
+      ],
+      "Erziehung und Unterricht": [
+        {
+          "value": 18342
+        }
+      ],
+      "Gesundheits- und Sozialwesen": [
+        {
+          "value": 38959
+        }
+      ],
+      "Kunst, Unterhaltung, Erholung und sonstige Dienstleister": [
+        {
+          "value": 11044
+        }
+      ],
+      "unter 25 Jahre": [
+        {
+          "value": 21363
+        },
+        {
+          "value": 19642
+        }
+      ],
+      "Bergbau, Energie- und Wasserversorgung, Entsorgungswirtschaft": [
+        {
+          "value": 4430
+        }
+      ],
+      "Immobilien, freiberufliche wissenschaftliche und technische Dienstleistungen": [
+        {
+          "value": 28075
+        }
+      ],
+      "sonstige wirtschaftliche Dienstleistungen (einschließlich Arbeitnehmerüberlassung": [
+        {
+          "value": 37675
+        }
+      ],
+      "ohne beruflichen Ausbildungsabschluss": [
+        {
+          "value": 22026
+        }
+      ],
+      "mit anerkanntem Berufsabschluss": [
+        {
+          "value": 162655
+        }
+      ],
+      "mit akademischem Abschluss": [
+        {
+          "value": 65396
+        }
+      ],
+      "Männer": [
+        {
+          "value": 139157
+        },
+        {
+          "value": 124583
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 133716
+        },
+        {
+          "value": 116211
+        }
+      ]
+    },
+    "2020": {
+      "Frauen": [
+        {
+          "value": 116827
+        },
+        {
+          "value": 134141
+        }
+      ],
+      "Männer": [
+        {
+          "value": 125911
+        },
+        {
+          "value": 139878
+        }
+      ],
+      "unter 25 Jahre": [
+        {
+          "value": 22080
+        },
+        {
+          "value": 20694
+        }
+      ],
+      "25 bis unter 55 Jahre": [
+        {
+          "value": 197920
+        },
+        {
+          "value": 180131
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": 51503
+        },
+        {
+          "value": 39759
+        }
+      ],
+      "65 Jahre und älter": [
+        {
+          "value": 2516
+        },
+        {
+          "value": 2154
+        }
+      ],
+      "Vollzeitbeschäftigte": [
+        {
+          "value": 184625
+        },
+        {
+          "value": 161373
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": 89394
+        },
+        {
+          "value": 81365
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 255689
+        },
+        {
+          "value": 224552
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 18327
+        },
+        {
+          "value": 18180
+        }
+      ],
+      "Bergbau, Energie- und Wasserversorgung, Entsorgungswirtschaft": [
+        {
+          "value": 4597
+        }
+      ],
+      "Immobilien, freiberufliche wissenschaftliche und technische Dienstleistungen": [
+        {
+          "value": 28472
+        }
+      ],
+      "sonstige wirtschaftliche Dienstleistungen (einschließlich Arbeitnehmerüberlassung": [
+        {
+          "value": 35742
+        }
+      ],
+      "ohne beruflichen Ausbildungsabschluss": [
+        {
+          "value": 22715
+        }
+      ],
+      "mit anerkanntem Berufsabschluss": [
+        {
+          "value": 162370
+        }
+      ],
+      "mit akademischem Abschluss": [
+        {
+          "value": 67360
+        }
+      ],
+      "Beschäftigte insgesamt": [
+        {
+          "value": 2238
+        },
+        {
+          "value": 760
+        },
+        {
+          "value": 274019
+        },
+        {
+          "value": 242738
+        },
+        {
+          "value": 33455
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 277
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 25404
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 12413
+        }
+      ],
+      "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen": [
+        {
+          "value": 31185
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 16932
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 10878
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 18083
+        }
+      ],
+      "Erbringung von Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 7470
+        }
+      ],
+      "Öffentliche Verwaltung, Verteidigung; Sozialversicherung": [
+        {
+          "value": 12401
+        }
+      ],
+      "Erziehung und Unterricht": [
+        {
+          "value": 18939
+        }
+      ],
+      "Gesundheits- und Sozialwesen": [
+        {
+          "value": 40132
+        }
+      ],
+      "Kunst, Unterhaltung, Erholung und sonstige Dienstleister": [
+        {
+          "value": 11094
+        }
+      ],
+      "ausschließlich geringfügig entlohnt beschäftigt": [
+        {
+          "value": 22338
+        }
+      ],
+      "im Nebenjob": [
+        {
+          "value": 11117
+        }
+      ]
+    },
+    "2021": {
+      "unter 25 Jahre": [
+        {
+          "value": 23494
+        },
+        {
+          "value": 21660
+        }
+      ],
+      "Männer": [
+        {
+          "value": 143154
+        },
+        {
+          "value": 129304
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 136176
+        },
+        {
+          "value": 119408
+        }
+      ],
+      "Beschäftigte insgesamt": [
+        {
+          "value": 279330
+        },
+        {
+          "value": 248712
+        },
+        {
+          "value": 34674
+        },
+        {
+          "value": 2238
+        },
+        {
+          "value": 712
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 279
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 24675
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 12101
+        }
+      ],
+      "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen": [
+        {
+          "value": 29990
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 19224
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 10096
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 18817
+        }
+      ],
+      "Erbringung von Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 7591
+        }
+      ],
+      "Öffentliche Verwaltung, Verteidigung; Sozialversicherung": [
+        {
+          "value": 12773
+        }
+      ],
+      "Erziehung und Unterricht": [
+        {
+          "value": 19054
+        }
+      ],
+      "Gesundheits- und Sozialwesen": [
+        {
+          "value": 41437
+        }
+      ],
+      "Kunst, Unterhaltung, Erholung und sonstige Dienstleister": [
+        {
+          "value": 11087
+        }
+      ],
+      "ausschließlich geringfügig entlohnt beschäftigt": [
+        {
+          "value": 22494
+        }
+      ],
+      "im Nebenjob": [
+        {
+          "value": 12180
+        }
+      ],
+      "25 bis unter 55 Jahre": [
+        {
+          "value": 199724
+        },
+        {
+          "value": 183641
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": 53327
+        },
+        {
+          "value": 41067
+        }
+      ],
+      "65 Jahre und älter": [
+        {
+          "value": 2785
+        },
+        {
+          "value": 2344
+        }
+      ],
+      "Vollzeitbeschäftigte": [
+        {
+          "value": 185806
+        },
+        {
+          "value": 163260
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": 93524
+        },
+        {
+          "value": 85452
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 257934
+        },
+        {
+          "value": 228129
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 21391
+        },
+        {
+          "value": 20572
+        }
+      ],
+      "Bergbau, Energie- und Wasserversorgung, Entsorgungswirtschaft": [
+        {
+          "value": 4751
+        }
+      ],
+      "Immobilien, freiberufliche wissenschaftliche und technische Dienstleistungen": [
+        {
+          "value": 29956
+        }
+      ],
+      "sonstige wirtschaftliche Dienstleistungen (einschließlich Arbeitnehmerüberlassung": [
+        {
+          "value": 37499
+        }
+      ],
+      "ohne beruflichen Ausbildungsabschluss": [
+        {
+          "value": 24534
+        }
+      ],
+      "mit anerkanntem Berufsabschluss": [
+        {
+          "value": 163235
+        }
+      ],
+      "mit akademischem Abschluss": [
+        {
+          "value": 70548
+        }
+      ]
+    },
+    "2022": {
+      "Beschäftigte insgesamt": [
+        {
+          "value": 286928
+        },
+        {
+          "value": 2197
+        },
+        {
+          "value": 673
+        },
+        {
+          "value": 36763
+        },
+        {
+          "value": 257058
+        }
+      ],
+      "Männer": [
+        {
+          "value": 147571
+        },
+        {
+          "value": 134151
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 139357
+        },
+        {
+          "value": 122907
+        }
+      ],
+      "unter 25 Jahre": [
+        {
+          "value": 25175
+        },
+        {
+          "value": 23462
+        }
+      ],
+      "25 bis unter 55 Jahre": [
+        {
+          "value": 203615
+        },
+        {
+          "value": 188335
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": 55027
+        },
+        {
+          "value": 42595
+        }
+      ],
+      "65 Jahre und älter": [
+        {
+          "value": 3111
+        },
+        {
+          "value": 2666
+        }
+      ],
+      "Vollzeitbeschäftigte": [
+        {
+          "value": 188018
+        },
+        {
+          "value": 166127
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": 98910
+        },
+        {
+          "value": 90931
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 261492
+        },
+        {
+          "value": 232532
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 25432
+        },
+        {
+          "value": 24517
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 287
+        }
+      ],
+      "Bergbau, Energie- und Wasserversorgung, Entsorgungswirtschaft": [
+        {
+          "value": 5031
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 24576
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 12211
+        }
+      ],
+      "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen": [
+        {
+          "value": 30105
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 19850
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 11184
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 20747
+        }
+      ],
+      "Erbringung von Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 7449
+        }
+      ],
+      "Immobilien, freiberufliche wissenschaftliche und technische Dienstleistungen": [
+        {
+          "value": 31243
+        }
+      ],
+      "sonstige wirtschaftliche Dienstleistungen (einschließlich Arbeitnehmerüberlassung": [
+        {
+          "value": 38038
+        }
+      ],
+      "Öffentliche Verwaltung, Verteidigung; Sozialversicherung": [
+        {
+          "value": 13154
+        }
+      ],
+      "Erziehung und Unterricht": [
+        {
+          "value": 19269
+        }
+      ],
+      "Gesundheits- und Sozialwesen": [
+        {
+          "value": 42592
+        }
+      ],
+      "Kunst, Unterhaltung, Erholung und sonstige Dienstleister": [
+        {
+          "value": 11192
+        }
+      ],
+      "ohne beruflichen Ausbildungsabschluss": [
+        {
+          "value": 26454
+        }
+      ],
+      "mit anerkanntem Berufsabschluss": [
+        {
+          "value": 164446
+        }
+      ],
+      "mit akademischem Abschluss": [
+        {
+          "value": 74784
+        }
+      ],
+      "ausschließlich geringfügig entlohnt beschäftigt": [
+        {
+          "value": 23526
+        }
+      ],
+      "im Nebenjob": [
+        {
+          "value": 13237
+        }
+      ]
+    },
+    "2023": {
+      "Beschäftigte insgesamt": [
+        {
+          "value": 291018
+        },
+        {
+          "value": 2194
+        },
+        {
+          "value": 721
+        },
+        {
+          "value": 38736
+        },
+        {
+          "value": 259869
+        }
+      ],
+      "Männer": [
+        {
+          "value": 150716
+        },
+        {
+          "value": 136128
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 140302
+        },
+        {
+          "value": 123741
+        }
+      ],
+      "unter 25 Jahre": [
+        {
+          "value": 26204
+        },
+        {
+          "value": 24053
+        }
+      ],
+      "25 bis unter 55 Jahre": [
+        {
+          "value": 205503
+        },
+        {
+          "value": 189325
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": 55868
+        },
+        {
+          "value": 43537
+        }
+      ],
+      "65 Jahre und älter": [
+        {
+          "value": 3443
+        },
+        {
+          "value": 2954
+        }
+      ],
+      "Vollzeitbeschäftigte": [
+        {
+          "value": 189314
+        },
+        {
+          "value": 166229
+        }
+      ],
+      "Teilzeitbeschäftigte": [
+        {
+          "value": 101704
+        },
+        {
+          "value": 93640
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 262553
+        },
+        {
+          "value": 232620
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 28465
+        },
+        {
+          "value": 27248
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 279
+        }
+      ],
+      "Bergbau, Energie- und Wasserversorgung, Entsorgungswirtschaft": [
+        {
+          "value": 5427
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 25596
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 11832
+        }
+      ],
+      "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen": [
+        {
+          "value": 29402
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 19636
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 11730
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 22165
+        }
+      ],
+      "Erbringung von Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 7534
+        }
+      ],
+      "Immobilien, freiberufliche wissenschaftliche und technische Dienstleistungen": [
+        {
+          "value": 32006
+        }
+      ],
+      "sonstige wirtschaftliche Dienstleistungen (einschließlich Arbeitnehmerüberlassung": [
+        {
+          "value": 37488
+        }
+      ],
+      "Öffentliche Verwaltung, Verteidigung; Sozialversicherung": [
+        {
+          "value": 12825
+        }
+      ],
+      "Erziehung und Unterricht": [
+        {
+          "value": 19653
+        }
+      ],
+      "Gesundheits- und Sozialwesen": [
+        {
+          "value": 43999
+        }
+      ],
+      "Kunst, Unterhaltung, Erholung und sonstige Dienstleister": [
+        {
+          "value": 11446
+        }
+      ],
+      "ohne beruflichen Ausbildungsabschluss": [
+        {
+          "value": 27922
+        }
+      ],
+      "mit anerkanntem Berufsabschluss": [
+        {
+          "value": 164245
+        }
+      ],
+      "mit akademischem Abschluss": [
+        {
+          "value": 77860
+        }
+      ],
+      "ausschließlich geringfügig entlohnt beschäftigt": [
+        {
+          "value": 24473
+        }
+      ],
+      "im Nebenjob": [
+        {
+          "value": 14263
+        }
+      ]
+    },
+    "2024": {
+      "Teilzeitbeschäftigte": [
+        {
+          "value": 96754
+        },
+        {
+          "value": 105006
+        }
+      ],
+      "Beschäftigte insgesamt": [
+        {
+          "value": 296635
+        },
+        {
+          "value": 2121
+        },
+        {
+          "value": 781
+        },
+        {
+          "value": 39222
+        },
+        {
+          "value": 264240
+        }
+      ],
+      "Männer": [
+        {
+          "value": 154803
+        },
+        {
+          "value": 138778
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 141832
+        },
+        {
+          "value": 125462
+        }
+      ],
+      "unter 25 Jahre": [
+        {
+          "value": 27514
+        },
+        {
+          "value": 24825
+        }
+      ],
+      "25 bis unter 55 Jahre": [
+        {
+          "value": 208279
+        },
+        {
+          "value": 191939
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": 56821
+        },
+        {
+          "value": 44077
+        }
+      ],
+      "65 Jahre und älter": [
+        {
+          "value": 4021
+        },
+        {
+          "value": 3399
+        }
+      ],
+      "Vollzeitbeschäftigte": [
+        {
+          "value": 191629
+        },
+        {
+          "value": 167486
+        }
+      ],
+      "Deutsche": [
+        {
+          "value": 264525
+        },
+        {
+          "value": 233200
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 32110
+        },
+        {
+          "value": 31038
+        }
+      ],
+      "Land- und Forstwirtschaft, Fischerei": [
+        {
+          "value": 265
+        }
+      ],
+      "Bergbau, Energie- und Wasserversorgung, Entsorgungswirtschaft": [
+        {
+          "value": 5712
+        }
+      ],
+      "Verarbeitendes Gewerbe": [
+        {
+          "value": 27077
+        }
+      ],
+      "Baugewerbe": [
+        {
+          "value": 11972
+        }
+      ],
+      "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen": [
+        {
+          "value": 29029
+        }
+      ],
+      "Verkehr und Lagerei": [
+        {
+          "value": 20753
+        }
+      ],
+      "Gastgewerbe": [
+        {
+          "value": 12209
+        }
+      ],
+      "Information und Kommunikation": [
+        {
+          "value": 21499
+        }
+      ],
+      "Erbringung von Finanz- und Versicherungsdienstleistungen": [
+        {
+          "value": 7710
+        }
+      ],
+      "Immobilien, freiberufliche wissenschaftliche und technische Dienstleistungen": [
+        {
+          "value": 32098
+        }
+      ],
+      "sonstige wirtschaftliche Dienstleistungen (einschließlich Arbeitnehmerüberlassung": [
+        {
+          "value": 38347
+        }
+      ],
+      "Öffentliche Verwaltung, Verteidigung; Sozialversicherung": [
+        {
+          "value": 13062
+        }
+      ],
+      "Erziehung und Unterricht": [
+        {
+          "value": 20095
+        }
+      ],
+      "Gesundheits- und Sozialwesen": [
+        {
+          "value": 45099
+        }
+      ],
+      "Kunst, Unterhaltung, Erholung und sonstige Dienstleister": [
+        {
+          "value": 11708
+        }
+      ],
+      "ohne beruflichen Ausbildungsabschluss": [
+        {
+          "value": 30229
+        }
+      ],
+      "mit anerkanntem Berufsabschluss": [
+        {
+          "value": 165070
+        }
+      ],
+      "mit akademischem Abschluss": [
+        {
+          "value": 80033
+        }
+      ],
+      "ausschließlich geringfügig entlohnt beschäftigt": [
+        {
+          "value": 24517
+        }
+      ],
+      "im Nebenjob": [
+        {
+          "value": 14705
+        }
+      ]
+    }
+  }
+}

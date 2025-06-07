@@ -1,0 +1,283 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=4&rubrik_nr=14&periode=y",
+    "title": "Anzahl der Haushalte mit Hauptwohnsitz__insgesamt"
+  },
+  "data": {
+    "2005": {
+      "Anzahl der Haushalte insgesamt mit Hauptwohnsitz": [
+        {
+          "value": 258668
+        }
+      ],
+      "Räumungsklage": [
+        {
+          "value": 1210
+        }
+      ],
+      "davon: Anteil an allen Haushalten mit Hauptwohnsitz in Prozent": [
+        {
+          "value": 0.47
+        },
+        {
+          "value": 0.32
+        }
+      ],
+      "durchgeführte Räumung": [
+        {
+          "value": 828
+        }
+      ]
+    },
+    "2010": {
+      "davon: Anteil an allen Haushalten mit Hauptwohnsitz in Prozent": [
+        {
+          "value": 0.29
+        },
+        {
+          "value": 0.43
+        }
+      ],
+      "durchgeführte Räumung": [
+        {
+          "value": 810
+        }
+      ],
+      "Räumungsklage": [
+        {
+          "value": 1178
+        }
+      ],
+      "Anzahl der Haushalte insgesamt mit Hauptwohnsitz": [
+        {
+          "value": 276775
+        }
+      ]
+    },
+    "2015": {
+      "Anzahl der Haushalte insgesamt mit Hauptwohnsitz": [
+        {
+          "value": 316618
+        }
+      ],
+      "Räumungsklage": [
+        {
+          "value": 1059
+        }
+      ],
+      "davon: Anteil an allen Haushalten mit Hauptwohnsitz in Prozent": [
+        {
+          "value": 0.33
+        },
+        {
+          "value": 0.3
+        }
+      ],
+      "durchgeführte Räumung": [
+        {
+          "value": 964
+        }
+      ]
+    },
+    "2016": {
+      "davon: Anteil an allen Haushalten mit Hauptwohnsitz in Prozent": [
+        {
+          "value": 0.31
+        },
+        {
+          "value": 0.36
+        }
+      ],
+      "durchgeführte Räumung": [
+        {
+          "value": 1000
+        }
+      ],
+      "Räumungsklage": [
+        {
+          "value": 1157
+        }
+      ],
+      "Anzahl der Haushalte insgesamt mit Hauptwohnsitz": [
+        {
+          "value": 322802
+        }
+      ]
+    },
+    "2017": {
+      "Anzahl der Haushalte insgesamt mit Hauptwohnsitz": [
+        {
+          "value": 330500
+        }
+      ],
+      "Räumungsklage": [
+        {
+          "value": 1127
+        }
+      ],
+      "davon: Anteil an allen Haushalten mit Hauptwohnsitz in Prozent": [
+        {
+          "value": 0.34
+        },
+        {
+          "value": 0.31
+        }
+      ],
+      "durchgeführte Räumung": [
+        {
+          "value": 1025
+        }
+      ]
+    },
+    "2018": {
+      "davon: Anteil an allen Haushalten mit Hauptwohnsitz in Prozent": [
+        {
+          "value": 0.28
+        },
+        {
+          "value": 0.3
+        }
+      ],
+      "durchgeführte Räumung": [
+        {
+          "value": 951
+        }
+      ],
+      "Räumungsklage": [
+        {
+          "value": 1014
+        }
+      ],
+      "Anzahl der Haushalte insgesamt mit Hauptwohnsitz": [
+        {
+          "value": 334411
+        }
+      ]
+    },
+    "2019": {
+      "Anzahl der Haushalte insgesamt mit Hauptwohnsitz": [
+        {
+          "value": 338286
+        }
+      ],
+      "Räumungsklage": [
+        {
+          "value": 1132
+        }
+      ],
+      "davon: Anteil an allen Haushalten mit Hauptwohnsitz in Prozent": [
+        {
+          "value": 0.33
+        },
+        {
+          "value": 0.29
+        }
+      ],
+      "durchgeführte Räumung": [
+        {
+          "value": 979
+        }
+      ]
+    },
+    "2020": {
+      "davon: Anteil an allen Haushalten mit Hauptwohnsitz in Prozent": [
+        {
+          "value": 0.28
+        },
+        {
+          "value": 0.26
+        }
+      ],
+      "durchgeführte Räumung": [
+        {
+          "value": 951
+        }
+      ],
+      "Räumungsklage": [
+        {
+          "value": 901
+        }
+      ],
+      "Anzahl der Haushalte insgesamt mit Hauptwohnsitz": [
+        {
+          "value": 340916
+        }
+      ]
+    },
+    "2021": {
+      "Anzahl der Haushalte insgesamt mit Hauptwohnsitz": [
+        {
+          "value": 344608
+        }
+      ],
+      "Räumungsklage": [
+        {
+          "value": 696
+        }
+      ],
+      "davon: Anteil an allen Haushalten mit Hauptwohnsitz in Prozent": [
+        {
+          "value": 0.2
+        },
+        {
+          "value": 0.21
+        }
+      ],
+      "durchgeführte Räumung": [
+        {
+          "value": 740
+        }
+      ]
+    },
+    "2022": {
+      "Anzahl der Haushalte insgesamt mit Hauptwohnsitz": [
+        {
+          "value": 352179
+        }
+      ],
+      "Räumungsklage": [
+        {
+          "value": 887
+        }
+      ],
+      "davon: Anteil an allen Haushalten mit Hauptwohnsitz in Prozent": [
+        {
+          "value": 0.251861
+        },
+        {
+          "value": 0.151627
+        }
+      ],
+      "durchgeführte Räumung": [
+        {
+          "value": 534
+        }
+      ]
+    },
+    "2023": {
+      "Anzahl der Haushalte insgesamt mit Hauptwohnsitz": [
+        {
+          "value": 360092
+        }
+      ],
+      "Räumungsklage": [
+        {
+          "value": 833
+        }
+      ],
+      "davon: Anteil an allen Haushalten mit Hauptwohnsitz in Prozent": [
+        {
+          "value": 0.23
+        },
+        {
+          "value": 0.15
+        }
+      ],
+      "durchgeführte Räumung": [
+        {
+          "value": 532
+        }
+      ]
+    }
+  }
+}

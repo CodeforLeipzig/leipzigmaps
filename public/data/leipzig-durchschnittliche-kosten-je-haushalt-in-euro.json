@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=4&rubrik_nr=16&periode=y",
+    "title": "durchschnittliche Kosten je Haushalt in Euro"
+  },
+  "data": {
+    "2005": {
+      "durchschnittliche Kosten je Haushalt in Euro": [
+        {
+          "value": 824
+        }
+      ],
+      "Haushalte, für die Mietschulden übernommen wurden": [
+        {
+          "value": 137
+        }
+      ]
+    },
+    "2010": {
+      "Haushalte, für die Mietschulden übernommen wurden": [
+        {
+          "value": 149
+        }
+      ],
+      "durchschnittliche Kosten je Haushalt in Euro": [
+        {
+          "value": 894
+        }
+      ]
+    },
+    "2011": {
+      "durchschnittliche Kosten je Haushalt in Euro": [
+        {
+          "value": 880
+        }
+      ],
+      "Haushalte, für die Mietschulden übernommen wurden": [
+        {
+          "value": 132
+        }
+      ]
+    },
+    "2012": {
+      "Haushalte, für die Mietschulden übernommen wurden": [
+        {
+          "value": 165
+        }
+      ],
+      "durchschnittliche Kosten je Haushalt in Euro": [
+        {
+          "value": 981
+        }
+      ]
+    },
+    "2013": {
+      "durchschnittliche Kosten je Haushalt in Euro": [
+        {
+          "value": 1111
+        }
+      ],
+      "Haushalte, für die Mietschulden übernommen wurden": [
+        {
+          "value": 238
+        }
+      ]
+    },
+    "2014": {
+      "Haushalte, für die Mietschulden übernommen wurden": [
+        {
+          "value": 179
+        }
+      ],
+      "durchschnittliche Kosten je Haushalt in Euro": [
+        {
+          "value": 1131
+        }
+      ]
+    },
+    "2015": {
+      "durchschnittliche Kosten je Haushalt in Euro": [
+        {
+          "value": 1454
+        }
+      ],
+      "Haushalte, für die Mietschulden übernommen wurden": [
+        {
+          "value": 170
+        }
+      ]
+    },
+    "2016": {
+      "Haushalte, für die Mietschulden übernommen wurden": [
+        {
+          "value": 210
+        }
+      ],
+      "durchschnittliche Kosten je Haushalt in Euro": [
+        {
+          "value": 1426
+        }
+      ]
+    },
+    "2017": {
+      "durchschnittliche Kosten je Haushalt in Euro": [
+        {
+          "value": 1486
+        }
+      ],
+      "Haushalte, für die Mietschulden übernommen wurden": [
+        {
+          "value": 157
+        }
+      ]
+    },
+    "2018": {
+      "Haushalte, für die Mietschulden übernommen wurden": [
+        {
+          "value": 216
+        }
+      ],
+      "durchschnittliche Kosten je Haushalt in Euro": [
+        {
+          "value": 1547
+        }
+      ]
+    },
+    "2019": {
+      "durchschnittliche Kosten je Haushalt in Euro": [
+        {
+          "value": 1727
+        }
+      ],
+      "Haushalte, für die Mietschulden übernommen wurden": [
+        {
+          "value": 224
+        }
+      ]
+    },
+    "2020": {
+      "Haushalte, für die Mietschulden übernommen wurden": [
+        {
+          "value": 227
+        }
+      ],
+      "durchschnittliche Kosten je Haushalt in Euro": [
+        {
+          "value": 2127
+        }
+      ]
+    },
+    "2021": {
+      "Haushalte, für die Mietschulden übernommen wurden": [
+        {
+          "value": 218
+        }
+      ],
+      "durchschnittliche Kosten je Haushalt in Euro": [
+        {
+          "value": 1905
+        }
+      ]
+    },
+    "2022": {
+      "Haushalte, für die Mietschulden übernommen wurden": [
+        {
+          "value": 242
+        }
+      ],
+      "durchschnittliche Kosten je Haushalt in Euro": [
+        {
+          "value": 2065
+        }
+      ]
+    },
+    "2023": {
+      "Haushalte, für die Mietschulden übernommen wurden": [
+        {
+          "value": 211
+        }
+      ],
+      "durchschnittliche Kosten je Haushalt in Euro": [
+        {
+          "value": 2627
+        }
+      ]
+    }
+  }
+}

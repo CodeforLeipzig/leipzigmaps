@@ -1,0 +1,212 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=4&rubrik_nr=43&periode=y",
+    "title": "Aufwendungen__Ertrag "
+  },
+  "data": {
+    "2012": {
+      "Ertrag": [
+        {
+          "value": 61.11
+        }
+      ],
+      "Aufwendungen": [
+        {
+          "value": 165.15
+        }
+      ],
+      "Zuschuss": [
+        {
+          "value": 104.04
+        }
+      ]
+    },
+    "2013": {
+      "Zuschuss": [
+        {
+          "value": 118.02
+        }
+      ],
+      "Aufwendungen": [
+        {
+          "value": 181.21
+        }
+      ],
+      "Ertrag": [
+        {
+          "value": 63.19
+        }
+      ]
+    },
+    "2014": {
+      "Ertrag": [
+        {
+          "value": 69.01
+        }
+      ],
+      "Aufwendungen": [
+        {
+          "value": 186.47
+        }
+      ],
+      "Zuschuss": [
+        {
+          "value": 117.46
+        }
+      ]
+    },
+    "2015": {
+      "Zuschuss": [
+        {
+          "value": 133.56
+        }
+      ],
+      "Aufwendungen": [
+        {
+          "value": 205.13
+        }
+      ],
+      "Ertrag": [
+        {
+          "value": 71.57
+        }
+      ]
+    },
+    "2016": {
+      "Ertrag": [
+        {
+          "value": 82.45
+        }
+      ],
+      "Aufwendungen": [
+        {
+          "value": 229.5
+        }
+      ],
+      "Zuschuss": [
+        {
+          "value": 147.05
+        }
+      ]
+    },
+    "2017": {
+      "Zuschuss": [
+        {
+          "value": 159
+        }
+      ],
+      "Aufwendungen": [
+        {
+          "value": 249.94
+        }
+      ],
+      "Ertrag": [
+        {
+          "value": 90.95
+        }
+      ]
+    },
+    "2018": {
+      "Ertrag": [
+        {
+          "value": 98.93
+        }
+      ],
+      "Aufwendungen": [
+        {
+          "value": 264.97
+        }
+      ],
+      "Zuschuss": [
+        {
+          "value": 166.05
+        }
+      ]
+    },
+    "2019": {
+      "Zuschuss": [
+        {
+          "value": 177.36
+        }
+      ],
+      "Aufwendungen": [
+        {
+          "value": 295.45
+        }
+      ],
+      "Ertrag": [
+        {
+          "value": 118.09
+        }
+      ]
+    },
+    "2020": {
+      "Ertrag": [
+        {
+          "value": 127.53
+        }
+      ],
+      "Aufwendungen": [
+        {
+          "value": 319.43
+        }
+      ],
+      "Zuschuss": [
+        {
+          "value": 191.9
+        }
+      ]
+    },
+    "2021": {
+      "Zuschuss": [
+        {
+          "value": 194.528
+        }
+      ],
+      "Aufwendungen": [
+        {
+          "value": 329.547
+        }
+      ],
+      "Ertrag": [
+        {
+          "value": 135.02
+        }
+      ]
+    },
+    "2022": {
+      "Ertrag": [
+        {
+          "value": 124.618
+        }
+      ],
+      "Aufwendungen": [
+        {
+          "value": 329.134
+        }
+      ],
+      "Zuschuss": [
+        {
+          "value": 204.516
+        }
+      ]
+    },
+    "2023": {
+      "Aufwendungen": [
+        {
+          "value": 338.299
+        }
+      ],
+      "Ertrag": [
+        {
+          "value": 133.209
+        }
+      ],
+      "Zuschuss": [
+        {
+          "value": 205.09
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,788 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=13&rubrik_nr=4&periode=y",
+    "title": "Endenergieverbrauch__Strom/Nahstrom (einschl. regenerativ)"
+  },
+  "data": {
+    "2000": {
+      "Strom/Nahstrom (einschl. regenerativ)": [
+        {
+          "value": 1799
+        }
+      ],
+      "Endenergieverbrauch insgesamt": [
+        {
+          "value": 7350
+        }
+      ],
+      "darunter Haushalte": [
+        {
+          "value": 3398
+        },
+        {
+          "value": 485
+        },
+        {
+          "value": 834
+        },
+        {
+          "value": 1112
+        },
+        {
+          "value": 316
+        },
+        {
+          "value": 306
+        }
+      ],
+      "Fernwärme/Nahwärme (einschl. regenerativ)": [
+        {
+          "value": 1669
+        }
+      ],
+      "Erdgas": [
+        {
+          "value": 2190
+        }
+      ],
+      "Kohle": [
+        {
+          "value": 353
+        }
+      ],
+      "Heizöl/Flüssiggas": [
+        {
+          "value": 1339
+        }
+      ]
+    },
+    "2001": {
+      "darunter Haushalte": [
+        {
+          "value": 304
+        },
+        {
+          "value": 295
+        },
+        {
+          "value": 1457
+        },
+        {
+          "value": 784
+        },
+        {
+          "value": 574
+        },
+        {
+          "value": 3564
+        }
+      ],
+      "Heizöl/Flüssiggas": [
+        {
+          "value": 330
+        }
+      ],
+      "Kohle": [
+        {
+          "value": 315
+        }
+      ],
+      "Erdgas": [
+        {
+          "value": 2396
+        }
+      ],
+      "Fernwärme/Nahwärme (einschl. regenerativ)": [
+        {
+          "value": 1779
+        }
+      ],
+      "Endenergieverbrauch insgesamt": [
+        {
+          "value": 6800
+        }
+      ],
+      "Strom/Nahstrom (einschl. regenerativ)": [
+        {
+          "value": 1980
+        }
+      ]
+    },
+    "2002": {
+      "Strom/Nahstrom (einschl. regenerativ)": [
+        {
+          "value": 2278
+        }
+      ],
+      "Endenergieverbrauch insgesamt": [
+        {
+          "value": 7080
+        }
+      ],
+      "darunter Haushalte": [
+        {
+          "value": 3392
+        },
+        {
+          "value": 574
+        },
+        {
+          "value": 671
+        },
+        {
+          "value": 1607
+        },
+        {
+          "value": 261
+        },
+        {
+          "value": 295
+        }
+      ],
+      "Fernwärme/Nahwärme (einschl. regenerativ)": [
+        {
+          "value": 1771
+        }
+      ],
+      "Erdgas": [
+        {
+          "value": 2431
+        }
+      ],
+      "Kohle": [
+        {
+          "value": 281
+        }
+      ],
+      "Heizöl/Flüssiggas": [
+        {
+          "value": 321
+        }
+      ]
+    },
+    "2003": {
+      "darunter Haushalte": [
+        {
+          "value": 312
+        },
+        {
+          "value": 255
+        },
+        {
+          "value": 1682
+        },
+        {
+          "value": 671
+        },
+        {
+          "value": 577
+        },
+        {
+          "value": 3497
+        }
+      ],
+      "Heizöl/Flüssiggas": [
+        {
+          "value": 330
+        }
+      ],
+      "Kohle": [
+        {
+          "value": 276
+        }
+      ],
+      "Erdgas": [
+        {
+          "value": 2484
+        }
+      ],
+      "Fernwärme/Nahwärme (einschl. regenerativ)": [
+        {
+          "value": 1616
+        }
+      ],
+      "Endenergieverbrauch insgesamt": [
+        {
+          "value": 6716
+        }
+      ],
+      "Strom/Nahstrom (einschl. regenerativ)": [
+        {
+          "value": 2010
+        }
+      ]
+    },
+    "2004": {
+      "Strom/Nahstrom (einschl. regenerativ)": [
+        {
+          "value": 2018
+        }
+      ],
+      "Endenergieverbrauch insgesamt": [
+        {
+          "value": 6990
+        }
+      ],
+      "darunter Haushalte": [
+        {
+          "value": 3455
+        },
+        {
+          "value": 580
+        },
+        {
+          "value": 649
+        },
+        {
+          "value": 1667
+        },
+        {
+          "value": 244
+        },
+        {
+          "value": 315
+        }
+      ],
+      "Fernwärme/Nahwärme (einschl. regenerativ)": [
+        {
+          "value": 1704
+        }
+      ],
+      "Erdgas": [
+        {
+          "value": 2663
+        }
+      ],
+      "Kohle": [
+        {
+          "value": 264
+        }
+      ],
+      "Heizöl/Flüssiggas": [
+        {
+          "value": 341
+        }
+      ]
+    },
+    "2005": {
+      "darunter Haushalte": [
+        {
+          "value": 321
+        },
+        {
+          "value": 206
+        },
+        {
+          "value": 1635
+        },
+        {
+          "value": 610
+        },
+        {
+          "value": 576
+        },
+        {
+          "value": 3348
+        }
+      ],
+      "Strom/Nahstrom (einschl. regenerativ)": [
+        {
+          "value": 2169
+        }
+      ],
+      "Heizöl/Flüssiggas": [
+        {
+          "value": 344
+        }
+      ],
+      "Kohle": [
+        {
+          "value": 226
+        }
+      ],
+      "Erdgas": [
+        {
+          "value": 2689
+        }
+      ],
+      "Fernwärme/Nahwärme (einschl. regenerativ)": [
+        {
+          "value": 1622
+        }
+      ],
+      "Endenergieverbrauch insgesamt": [
+        {
+          "value": 7050
+        }
+      ]
+    },
+    "2006": {
+      "Endenergieverbrauch insgesamt": [
+        {
+          "value": 7087
+        }
+      ],
+      "darunter Haushalte": [
+        {
+          "value": 3495
+        },
+        {
+          "value": 567
+        },
+        {
+          "value": 876
+        },
+        {
+          "value": 1599
+        },
+        {
+          "value": 188
+        },
+        {
+          "value": 265
+        }
+      ],
+      "Fernwärme/Nahwärme (einschl. regenerativ)": [
+        {
+          "value": 1583
+        }
+      ],
+      "Erdgas": [
+        {
+          "value": 2712
+        }
+      ],
+      "Kohle": [
+        {
+          "value": 193
+        }
+      ],
+      "Heizöl/Flüssiggas": [
+        {
+          "value": 284
+        }
+      ],
+      "Strom/Nahstrom (einschl. regenerativ)": [
+        {
+          "value": 2315
+        }
+      ]
+    },
+    "2007": {
+      "Endenergieverbrauch insgesamt": [
+        {
+          "value": 6390
+        }
+      ],
+      "darunter Haushalte": [
+        {
+          "value": 3390
+        },
+        {
+          "value": 544
+        },
+        {
+          "value": 817
+        },
+        {
+          "value": 1597
+        },
+        {
+          "value": 176
+        },
+        {
+          "value": 256
+        }
+      ],
+      "Strom/Nahstrom (einschl. regenerativ)": [
+        {
+          "value": 2135
+        }
+      ],
+      "Fernwärme/Nahwärme (einschl. regenerativ)": [
+        {
+          "value": 1284
+        }
+      ],
+      "Erdgas": [
+        {
+          "value": 2516
+        }
+      ],
+      "Kohle": [
+        {
+          "value": 181
+        }
+      ],
+      "Heizöl/Flüssiggas": [
+        {
+          "value": 274
+        }
+      ]
+    },
+    "2008": {
+      "Endenergieverbrauch insgesamt": [
+        {
+          "value": 6622
+        }
+      ],
+      "darunter Haushalte": [
+        {
+          "value": 3381
+        },
+        {
+          "value": 524
+        },
+        {
+          "value": 835
+        },
+        {
+          "value": 1583
+        },
+        {
+          "value": 178
+        },
+        {
+          "value": 261
+        }
+      ],
+      "Strom/Nahstrom (einschl. regenerativ)": [
+        {
+          "value": 2165
+        }
+      ],
+      "Fernwärme/Nahwärme (einschl. regenerativ)": [
+        {
+          "value": 1313
+        }
+      ],
+      "Erdgas": [
+        {
+          "value": 2682
+        }
+      ],
+      "Kohle": [
+        {
+          "value": 183
+        }
+      ],
+      "Heizöl/Flüssiggas": [
+        {
+          "value": 280
+        }
+      ]
+    },
+    "2009": {
+      "Endenergieverbrauch insgesamt": [
+        {
+          "value": 6296
+        }
+      ],
+      "darunter Haushalte": [
+        {
+          "value": 3178
+        },
+        {
+          "value": 507
+        },
+        {
+          "value": 881
+        },
+        {
+          "value": 1348
+        },
+        {
+          "value": 194
+        },
+        {
+          "value": 253
+        }
+      ],
+      "Strom/Nahstrom (einschl. regenerativ)": [
+        {
+          "value": 2094
+        }
+      ],
+      "Fernwärme/Nahwärme (einschl. regenerativ)": [
+        {
+          "value": 1367
+        }
+      ],
+      "Erdgas": [
+        {
+          "value": 2369
+        }
+      ],
+      "Kohle": [
+        {
+          "value": 194
+        }
+      ],
+      "Heizöl/Flüssiggas": [
+        {
+          "value": 272
+        }
+      ]
+    },
+    "2010": {
+      "Endenergieverbrauch insgesamt": [
+        {
+          "value": 6879
+        }
+      ],
+      "darunter Haushalte": [
+        {
+          "value": 2598
+        },
+        {
+          "value": 503
+        },
+        {
+          "value": 956
+        },
+        {
+          "value": 1280
+        },
+        {
+          "value": 208
+        },
+        {
+          "value": 258
+        }
+      ],
+      "Strom/Nahstrom (einschl. regenerativ)": [
+        {
+          "value": 2079
+        }
+      ],
+      "Fernwärme/Nahwärme (einschl. regenerativ)": [
+        {
+          "value": 1611
+        }
+      ],
+      "Erdgas": [
+        {
+          "value": 2698
+        }
+      ],
+      "Kohle": [
+        {
+          "value": 213
+        }
+      ],
+      "Heizöl/Flüssiggas": [
+        {
+          "value": 277
+        }
+      ]
+    },
+    "2011": {
+      "Endenergieverbrauch insgesamt": [
+        {
+          "value": 6403
+        }
+      ],
+      "darunter Haushalte": [
+        {
+          "value": 2791
+        },
+        {
+          "value": 515
+        },
+        {
+          "value": 830
+        },
+        {
+          "value": 1051
+        },
+        {
+          "value": 175
+        },
+        {
+          "value": 220
+        }
+      ],
+      "Strom/Nahstrom (einschl. regenerativ)": [
+        {
+          "value": 2129
+        }
+      ],
+      "Fernwärme/Nahwärme (einschl. regenerativ)": [
+        {
+          "value": 1325
+        }
+      ],
+      "Erdgas": [
+        {
+          "value": 2532
+        }
+      ],
+      "Kohle": [
+        {
+          "value": 181
+        }
+      ],
+      "Heizöl/Flüssiggas": [
+        {
+          "value": 236
+        }
+      ]
+    },
+    "2012": {
+      "Endenergieverbrauch insgesamt": [
+        {
+          "value": 6609
+        }
+      ],
+      "darunter Haushalte": [
+        {
+          "value": 2912
+        },
+        {
+          "value": 521
+        },
+        {
+          "value": 988
+        },
+        {
+          "value": 1010
+        },
+        {
+          "value": 173
+        },
+        {
+          "value": 221
+        }
+      ],
+      "Strom/Nahstrom (einschl. regenerativ)": [
+        {
+          "value": 2154
+        }
+      ],
+      "Fernwärme/Nahwärme (einschl. regenerativ)": [
+        {
+          "value": 1424
+        }
+      ],
+      "Erdgas": [
+        {
+          "value": 2615
+        }
+      ],
+      "Kohle": [
+        {
+          "value": 179
+        }
+      ],
+      "Heizöl/Flüssiggas": [
+        {
+          "value": 237
+        }
+      ]
+    },
+    "2013": {
+      "Endenergieverbrauch insgesamt": [
+        {
+          "value": 7286
+        }
+      ],
+      "darunter Haushalte": [
+        {
+          "value": 3065
+        },
+        {
+          "value": 528
+        },
+        {
+          "value": 1002
+        },
+        {
+          "value": 1113
+        },
+        {
+          "value": 188
+        },
+        {
+          "value": 233
+        }
+      ],
+      "Strom/Nahstrom (einschl. regenerativ)": [
+        {
+          "value": 2184
+        }
+      ],
+      "Fernwärme/Nahwärme (einschl. regenerativ)": [
+        {
+          "value": 1546
+        }
+      ],
+      "Erdgas": [
+        {
+          "value": 3111
+        }
+      ],
+      "Kohle": [
+        {
+          "value": 195
+        }
+      ],
+      "Heizöl/Flüssiggas": [
+        {
+          "value": 250
+        }
+      ]
+    },
+    "2014": {
+      "Endenergieverbrauch insgesamt": [
+        {
+          "value": 6370
+        }
+      ],
+      "darunter Haushalte": [
+        {
+          "value": 2625
+        },
+        {
+          "value": 546
+        },
+        {
+          "value": 825
+        },
+        {
+          "value": 920
+        },
+        {
+          "value": 134
+        },
+        {
+          "value": 201
+        }
+      ],
+      "Strom/Nahstrom (einschl. regenerativ)": [
+        {
+          "value": 2256
+        }
+      ],
+      "Fernwärme/Nahwärme (einschl. regenerativ)": [
+        {
+          "value": 1268
+        }
+      ],
+      "Erdgas": [
+        {
+          "value": 2492
+        }
+      ],
+      "Kohle": [
+        {
+          "value": 139
+        }
+      ],
+      "Heizöl/Flüssiggas": [
+        {
+          "value": 216
+        }
+      ]
+    }
+  }
+}

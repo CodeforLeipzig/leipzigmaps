@@ -1,0 +1,504 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=15&rubrik_nr=4&periode=d",
+    "title": "Anteil an den gültigen Stimmen ...__Wahlbeteiligung__Die PARTEI"
+  },
+  "data": {
+    "06.05.1990": {
+      "Die PARTEI": [
+        {
+          "value": null
+        }
+      ],
+      "BSW": [
+        {
+          "value": null
+        }
+      ],
+      "Freie Wähler": [
+        {
+          "value": null
+        }
+      ],
+      "PIRATEN": [
+        {
+          "value": null
+        }
+      ],
+      "Wahlbeteiligung": [
+        {
+          "value": 70.3275
+        }
+      ],
+      "CDU": [
+        {
+          "value": 26.8066
+        }
+      ],
+      "DIE LINKE": [
+        {
+          "value": 12.9584
+        }
+      ],
+      "SPD": [
+        {
+          "value": 35.257
+        }
+      ],
+      "FDP": [
+        {
+          "value": 1.15329
+        }
+      ],
+      "GRÜNE": [
+        {
+          "value": 3.68447
+        }
+      ],
+      "Sonstige": [
+        {
+          "value": 20.1402
+        }
+      ],
+      "AfD": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "12.06.1994": {
+      "AfD": [
+        {
+          "value": null
+        }
+      ],
+      "Die PARTEI": [
+        {
+          "value": null
+        }
+      ],
+      "Wahlbeteiligung": [
+        {
+          "value": 57.9541
+        }
+      ],
+      "CDU": [
+        {
+          "value": 23.3569
+        }
+      ],
+      "DIE LINKE": [
+        {
+          "value": 22.9258
+        }
+      ],
+      "SPD": [
+        {
+          "value": 29.9249
+        }
+      ],
+      "FDP": [
+        {
+          "value": 3.43864
+        }
+      ],
+      "GRÜNE": [
+        {
+          "value": 13.7846
+        }
+      ],
+      "Sonstige": [
+        {
+          "value": 6.56917
+        }
+      ],
+      "PIRATEN": [
+        {
+          "value": null
+        }
+      ],
+      "Freie Wähler": [
+        {
+          "value": null
+        }
+      ],
+      "BSW": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "13.06.1999": {
+      "BSW": [
+        {
+          "value": null
+        }
+      ],
+      "Freie Wähler": [
+        {
+          "value": null
+        }
+      ],
+      "PIRATEN": [
+        {
+          "value": null
+        }
+      ],
+      "AfD": [
+        {
+          "value": null
+        }
+      ],
+      "Wahlbeteiligung": [
+        {
+          "value": 42.1591
+        }
+      ],
+      "CDU": [
+        {
+          "value": 32.0358
+        }
+      ],
+      "DIE LINKE": [
+        {
+          "value": 25.7146
+        }
+      ],
+      "SPD": [
+        {
+          "value": 26.1561
+        }
+      ],
+      "FDP": [
+        {
+          "value": 2.57019
+        }
+      ],
+      "GRÜNE": [
+        {
+          "value": 7.45266
+        }
+      ],
+      "Sonstige": [
+        {
+          "value": 6.07063
+        }
+      ],
+      "Die PARTEI": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "13.06.2004": {
+      "Wahlbeteiligung": [
+        {
+          "value": 38.5727
+        }
+      ],
+      "CDU": [
+        {
+          "value": 25.5337
+        }
+      ],
+      "DIE LINKE": [
+        {
+          "value": 26.0645
+        }
+      ],
+      "SPD": [
+        {
+          "value": 26.8638
+        }
+      ],
+      "FDP": [
+        {
+          "value": 4.50374
+        }
+      ],
+      "GRÜNE": [
+        {
+          "value": 10.0432
+        }
+      ],
+      "Sonstige": [
+        {
+          "value": 6.9911
+        }
+      ],
+      "AfD": [
+        {
+          "value": null
+        }
+      ],
+      "PIRATEN": [
+        {
+          "value": null
+        }
+      ],
+      "Freie Wähler": [
+        {
+          "value": null
+        }
+      ],
+      "BSW": [
+        {
+          "value": null
+        }
+      ],
+      "Die PARTEI": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "07.06.2009": {
+      "Die PARTEI": [
+        {
+          "value": null
+        }
+      ],
+      "BSW": [
+        {
+          "value": null
+        }
+      ],
+      "Freie Wähler": [
+        {
+          "value": 2.94679
+        }
+      ],
+      "PIRATEN": [
+        {
+          "value": null
+        }
+      ],
+      "AfD": [
+        {
+          "value": null
+        }
+      ],
+      "Wahlbeteiligung": [
+        {
+          "value": 41.3955
+        }
+      ],
+      "CDU": [
+        {
+          "value": 23.6789
+        }
+      ],
+      "DIE LINKE": [
+        {
+          "value": 23.1824
+        }
+      ],
+      "SPD": [
+        {
+          "value": 20.3575
+        }
+      ],
+      "FDP": [
+        {
+          "value": 9.59726
+        }
+      ],
+      "GRÜNE": [
+        {
+          "value": 14.6183
+        }
+      ],
+      "Sonstige": [
+        {
+          "value": 5.61889
+        }
+      ]
+    },
+    "25.05.2014": {
+      "Wahlbeteiligung": [
+        {
+          "value": 40.7555
+        }
+      ],
+      "CDU": [
+        {
+          "value": 24.9851
+        }
+      ],
+      "DIE LINKE": [
+        {
+          "value": 24.1593
+        }
+      ],
+      "SPD": [
+        {
+          "value": 18.2259
+        }
+      ],
+      "GRÜNE": [
+        {
+          "value": 14.9856
+        }
+      ],
+      "FDP": [
+        {
+          "value": 2.88918
+        }
+      ],
+      "Sonstige": [
+        {
+          "value": 3.54925
+        }
+      ],
+      "AfD": [
+        {
+          "value": 6.38048
+        }
+      ],
+      "PIRATEN": [
+        {
+          "value": 1.97187
+        }
+      ],
+      "Freie Wähler": [
+        {
+          "value": 1.69563
+        }
+      ],
+      "BSW": [
+        {
+          "value": null
+        }
+      ],
+      "Die PARTEI": [
+        {
+          "value": 1.15769
+        }
+      ]
+    },
+    "26.05.2019": {
+      "BSW": [
+        {
+          "value": null
+        }
+      ],
+      "Freie Wähler": [
+        {
+          "value": 2.54056
+        }
+      ],
+      "PIRATEN": [
+        {
+          "value": 1.43586
+        }
+      ],
+      "Wahlbeteiligung": [
+        {
+          "value": 59.7431
+        }
+      ],
+      "CDU": [
+        {
+          "value": 17.5347
+        }
+      ],
+      "DIE LINKE": [
+        {
+          "value": 21.3811
+        }
+      ],
+      "SPD": [
+        {
+          "value": 12.3507
+        }
+      ],
+      "GRÜNE": [
+        {
+          "value": 20.6651
+        }
+      ],
+      "FDP": [
+        {
+          "value": 4.79961
+        }
+      ],
+      "Sonstige": [
+        {
+          "value": 0.535951
+        }
+      ],
+      "AfD": [
+        {
+          "value": 14.9193
+        }
+      ],
+      "Die PARTEI": [
+        {
+          "value": 3.8371
+        }
+      ]
+    },
+    "09.06.2024": {
+      "Wahlbeteiligung": [
+        {
+          "value": 67.392
+        }
+      ],
+      "CDU": [
+        {
+          "value": 18.9314
+        }
+      ],
+      "DIE LINKE": [
+        {
+          "value": 17.5277
+        }
+      ],
+      "SPD": [
+        {
+          "value": 12.0703
+        }
+      ],
+      "GRÜNE": [
+        {
+          "value": 15.0293
+        }
+      ],
+      "Sonstige": [
+        {
+          "value": 1.45494
+        }
+      ],
+      "AfD": [
+        {
+          "value": 16.9834
+        }
+      ],
+      "Die PARTEI": [
+        {
+          "value": 3.48752
+        }
+      ],
+      "BSW": [
+        {
+          "value": 9.62674
+        }
+      ],
+      "Freie Wähler": [
+        {
+          "value": 1.10371
+        }
+      ],
+      "PIRATEN": [
+        {
+          "value": 1.06582
+        }
+      ],
+      "FDP": [
+        {
+          "value": 2.7192
+        }
+      ]
+    }
+  }
+}

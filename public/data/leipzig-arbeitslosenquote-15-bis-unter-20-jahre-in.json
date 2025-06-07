@@ -1,0 +1,1988 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=7&rubrik_nr=3&periode=y",
+    "title": "Arbeitslosenquote__15 bis unter 20 Jahre (in %)"
+  },
+  "data": {
+    "2003": {
+      "15 bis unter 20 Jahre (in %)": [
+        {
+          "value": null
+        }
+      ],
+      "Arbeitslosenquote insgesamt (in %)": [
+        {
+          "value": 18.2
+        },
+        {
+          "value": 19.7
+        }
+      ],
+      "Männer (in %)": [
+        {
+          "value": null
+        }
+      ],
+      "Frauen (in %)": [
+        {
+          "value": null
+        }
+      ],
+      "nach SGB III": [
+        {
+          "value": null
+        }
+      ],
+      "nach SGB II": [
+        {
+          "value": null
+        }
+      ],
+      "Arbeitslose insgesamt": [
+        {
+          "value": 44627
+        }
+      ],
+      "Männer": [
+        {
+          "value": 24664
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 19963
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 538
+        }
+      ],
+      "15 bis unter 25 Jahre": [
+        {
+          "value": 4218
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": 4850
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 2450
+        }
+      ],
+      "Schwerbehinderte": [
+        {
+          "value": 1411
+        }
+      ],
+      "15 bis unter 25 Jahre (in %)": [
+        {
+          "value": null
+        }
+      ],
+      "55 bis unter 65 Jahre (in %)": [
+        {
+          "value": null
+        }
+      ],
+      "Langzeitarbeitslose": [
+        {
+          "value": 21162
+        }
+      ]
+    },
+    "2004": {
+      "Langzeitarbeitslose": [
+        {
+          "value": 20213
+        }
+      ],
+      "55 bis unter 65 Jahre (in %)": [
+        {
+          "value": null
+        }
+      ],
+      "15 bis unter 25 Jahre (in %)": [
+        {
+          "value": null
+        }
+      ],
+      "Arbeitslosenquote insgesamt (in %)": [
+        {
+          "value": 19.8
+        },
+        {
+          "value": 18
+        }
+      ],
+      "Schwerbehinderte": [
+        {
+          "value": 1442
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 2452
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": 4904
+        }
+      ],
+      "15 bis unter 25 Jahre": [
+        {
+          "value": 4434
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 507
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 19586
+        }
+      ],
+      "Männer": [
+        {
+          "value": 24371
+        }
+      ],
+      "Arbeitslose insgesamt": [
+        {
+          "value": 43957
+        }
+      ],
+      "nach SGB II": [
+        {
+          "value": null
+        }
+      ],
+      "nach SGB III": [
+        {
+          "value": null
+        }
+      ],
+      "Frauen (in %)": [
+        {
+          "value": null
+        }
+      ],
+      "Männer (in %)": [
+        {
+          "value": null
+        }
+      ],
+      "15 bis unter 20 Jahre (in %)": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2005": {
+      "15 bis unter 20 Jahre (in %)": [
+        {
+          "value": null
+        }
+      ],
+      "Arbeitslosenquote insgesamt (in %)": [
+        {
+          "value": 19.2
+        },
+        {
+          "value": 21.3
+        }
+      ],
+      "Männer (in %)": [
+        {
+          "value": null
+        }
+      ],
+      "Frauen (in %)": [
+        {
+          "value": null
+        }
+      ],
+      "Arbeitslose insgesamt": [
+        {
+          "value": 46870
+        }
+      ],
+      "Männer": [
+        {
+          "value": 25863
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 21007
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 924
+        }
+      ],
+      "15 bis unter 25 Jahre": [
+        {
+          "value": 5602
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": 5189
+        }
+      ],
+      "nach SGB III": [
+        {
+          "value": 13220
+        }
+      ],
+      "Langzeitarbeitslose": [
+        {
+          "value": 19898
+        }
+      ],
+      "nach SGB II": [
+        {
+          "value": 33650
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 3382
+        }
+      ],
+      "Schwerbehinderte": [
+        {
+          "value": 1652
+        }
+      ],
+      "15 bis unter 25 Jahre (in %)": [
+        {
+          "value": null
+        }
+      ],
+      "55 bis unter 65 Jahre (in %)": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2006": {
+      "55 bis unter 65 Jahre (in %)": [
+        {
+          "value": null
+        }
+      ],
+      "15 bis unter 25 Jahre (in %)": [
+        {
+          "value": null
+        }
+      ],
+      "Schwerbehinderte": [
+        {
+          "value": 1753
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 3417
+        }
+      ],
+      "nach SGB II": [
+        {
+          "value": 31974
+        }
+      ],
+      "Arbeitslosenquote insgesamt (in %)": [
+        {
+          "value": 18.9
+        },
+        {
+          "value": 16.9
+        }
+      ],
+      "Langzeitarbeitslose": [
+        {
+          "value": 20025
+        }
+      ],
+      "nach SGB III": [
+        {
+          "value": 10299
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": 4793
+        }
+      ],
+      "15 bis unter 25 Jahre": [
+        {
+          "value": 4916
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 819
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 19520
+        }
+      ],
+      "Männer": [
+        {
+          "value": 22753
+        }
+      ],
+      "Arbeitslose insgesamt": [
+        {
+          "value": 42273
+        }
+      ],
+      "Frauen (in %)": [
+        {
+          "value": null
+        }
+      ],
+      "Männer (in %)": [
+        {
+          "value": null
+        }
+      ],
+      "15 bis unter 20 Jahre (in %)": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2007": {
+      "15 bis unter 20 Jahre (in %)": [
+        {
+          "value": null
+        }
+      ],
+      "Arbeitslosenquote insgesamt (in %)": [
+        {
+          "value": 15.5
+        },
+        {
+          "value": 17.4
+        }
+      ],
+      "Männer (in %)": [
+        {
+          "value": null
+        }
+      ],
+      "Frauen (in %)": [
+        {
+          "value": null
+        }
+      ],
+      "Arbeitslose insgesamt": [
+        {
+          "value": 39089
+        }
+      ],
+      "Männer": [
+        {
+          "value": 21107
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 17982
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 653
+        }
+      ],
+      "15 bis unter 25 Jahre": [
+        {
+          "value": 4293
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": 4110
+        }
+      ],
+      "nach SGB III": [
+        {
+          "value": 7635
+        }
+      ],
+      "Langzeitarbeitslose": [
+        {
+          "value": 17701
+        }
+      ],
+      "nach SGB II": [
+        {
+          "value": 31454
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 3388
+        }
+      ],
+      "Schwerbehinderte": [
+        {
+          "value": 1676
+        }
+      ],
+      "15 bis unter 25 Jahre (in %)": [
+        {
+          "value": null
+        }
+      ],
+      "55 bis unter 65 Jahre (in %)": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2008": {
+      "55 bis unter 65 Jahre (in %)": [
+        {
+          "value": null
+        }
+      ],
+      "15 bis unter 25 Jahre (in %)": [
+        {
+          "value": null
+        }
+      ],
+      "Frauen (in %)": [
+        {
+          "value": null
+        }
+      ],
+      "Männer (in %)": [
+        {
+          "value": null
+        }
+      ],
+      "Arbeitslosenquote insgesamt (in %)": [
+        {
+          "value": 14.6
+        },
+        {
+          "value": 16.4
+        }
+      ],
+      "Arbeitslose insgesamt": [
+        {
+          "value": 36808
+        }
+      ],
+      "nach SGB III": [
+        {
+          "value": 7878
+        }
+      ],
+      "nach SGB II": [
+        {
+          "value": 28930
+        }
+      ],
+      "Männer": [
+        {
+          "value": 20215
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 16593
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 566
+        }
+      ],
+      "15 bis unter 25 Jahre": [
+        {
+          "value": 4002
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": 4865
+        }
+      ],
+      "Langzeitarbeitslose": [
+        {
+          "value": 15865
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 3034
+        }
+      ],
+      "Schwerbehinderte": [
+        {
+          "value": 1630
+        }
+      ],
+      "15 bis unter 20 Jahre (in %)": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2009": {
+      "Arbeitslose insgesamt": [
+        {
+          "value": 34609
+        }
+      ],
+      "nach SGB III": [
+        {
+          "value": 6674
+        }
+      ],
+      "nach SGB II": [
+        {
+          "value": 27935
+        }
+      ],
+      "Männer": [
+        {
+          "value": 19478
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 15131
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 445
+        }
+      ],
+      "15 bis unter 25 Jahre": [
+        {
+          "value": 3449
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": 5068
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 2957
+        }
+      ],
+      "Langzeitarbeitslose": [
+        {
+          "value": 13441
+        }
+      ],
+      "Arbeitslosenquote insgesamt (in %)": [
+        {
+          "value": 13.6
+        },
+        {
+          "value": 15.2
+        }
+      ],
+      "Männer (in %)": [
+        {
+          "value": 14.8
+        }
+      ],
+      "Frauen (in %)": [
+        {
+          "value": 12.3
+        }
+      ],
+      "15 bis unter 20 Jahre (in %)": [
+        {
+          "value": 6.9
+        }
+      ],
+      "15 bis unter 25 Jahre (in %)": [
+        {
+          "value": 11.5
+        }
+      ],
+      "55 bis unter 65 Jahre (in %)": [
+        {
+          "value": 14.7
+        }
+      ],
+      "Schwerbehinderte": [
+        {
+          "value": 1589
+        }
+      ]
+    },
+    "2010": {
+      "Arbeitslose insgesamt": [
+        {
+          "value": 33127
+        }
+      ],
+      "nach SGB III": [
+        {
+          "value": 6169
+        }
+      ],
+      "nach SGB II": [
+        {
+          "value": 26958
+        }
+      ],
+      "Männer": [
+        {
+          "value": 18419
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 14708
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 425
+        }
+      ],
+      "15 bis unter 25 Jahre": [
+        {
+          "value": 3111
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": 5245
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 3026
+        }
+      ],
+      "Langzeitarbeitslose": [
+        {
+          "value": 12553
+        }
+      ],
+      "Schwerbehinderte": [
+        {
+          "value": 1637
+        }
+      ],
+      "Arbeitslosenquote insgesamt (in %)": [
+        {
+          "value": 12.9
+        },
+        {
+          "value": 14.4
+        }
+      ],
+      "Männer (in %)": [
+        {
+          "value": 13.8
+        }
+      ],
+      "Frauen (in %)": [
+        {
+          "value": 11.9
+        }
+      ],
+      "15 bis unter 20 Jahre (in %)": [
+        {
+          "value": 7.3
+        }
+      ],
+      "15 bis unter 25 Jahre (in %)": [
+        {
+          "value": 10.5
+        }
+      ],
+      "55 bis unter 65 Jahre (in %)": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2011": {
+      "Arbeitslose insgesamt": [
+        {
+          "value": 30141
+        }
+      ],
+      "nach SGB III": [
+        {
+          "value": 5477
+        }
+      ],
+      "nach SGB II": [
+        {
+          "value": 24664
+        }
+      ],
+      "Männer": [
+        {
+          "value": 16731
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 13410
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 395
+        }
+      ],
+      "15 bis unter 25 Jahre": [
+        {
+          "value": 2817
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": 5380
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 2841
+        }
+      ],
+      "Langzeitarbeitslose": [
+        {
+          "value": 11380
+        }
+      ],
+      "Schwerbehinderte": [
+        {
+          "value": 1666
+        }
+      ],
+      "Arbeitslosenquote insgesamt (in %)": [
+        {
+          "value": 11.6
+        },
+        {
+          "value": 12.9
+        }
+      ],
+      "Männer (in %)": [
+        {
+          "value": 12.3
+        }
+      ],
+      "Frauen (in %)": [
+        {
+          "value": 10.7
+        }
+      ],
+      "15 bis unter 20 Jahre (in %)": [
+        {
+          "value": 8.3
+        }
+      ],
+      "15 bis unter 25 Jahre (in %)": [
+        {
+          "value": 9.6
+        }
+      ],
+      "55 bis unter 65 Jahre (in %)": [
+        {
+          "value": 14.1
+        }
+      ]
+    },
+    "2012": {
+      "Arbeitslose insgesamt": [
+        {
+          "value": 28663
+        }
+      ],
+      "nach SGB III": [
+        {
+          "value": 5988
+        }
+      ],
+      "nach SGB II": [
+        {
+          "value": 22675
+        }
+      ],
+      "Männer": [
+        {
+          "value": 16129
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 12534
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 354
+        }
+      ],
+      "15 bis unter 25 Jahre": [
+        {
+          "value": 2492
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": 5227
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 2669
+        }
+      ],
+      "Langzeitarbeitslose": [
+        {
+          "value": 9677
+        }
+      ],
+      "Schwerbehinderte": [
+        {
+          "value": 1580
+        }
+      ],
+      "Arbeitslosenquote insgesamt (in %)": [
+        {
+          "value": 10.8
+        },
+        {
+          "value": 12
+        }
+      ],
+      "Männer (in %)": [
+        {
+          "value": 11.6
+        }
+      ],
+      "Frauen (in %)": [
+        {
+          "value": 9.8
+        }
+      ],
+      "15 bis unter 20 Jahre (in %)": [
+        {
+          "value": 9.1
+        }
+      ],
+      "15 bis unter 25 Jahre (in %)": [
+        {
+          "value": 8.8
+        }
+      ],
+      "55 bis unter 65 Jahre (in %)": [
+        {
+          "value": 13.1
+        }
+      ]
+    },
+    "2013": {
+      "Arbeitslose insgesamt": [
+        {
+          "value": 28085
+        }
+      ],
+      "nach SGB III": [
+        {
+          "value": 6017
+        }
+      ],
+      "nach SGB II": [
+        {
+          "value": 22068
+        }
+      ],
+      "Männer": [
+        {
+          "value": 15878
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 12207
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 399
+        }
+      ],
+      "15 bis unter 25 Jahre": [
+        {
+          "value": 2507
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": 5277
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 2785
+        }
+      ],
+      "Langzeitarbeitslose": [
+        {
+          "value": 9053
+        }
+      ],
+      "Schwerbehinderte": [
+        {
+          "value": 1497
+        }
+      ],
+      "Arbeitslosenquote insgesamt (in %)": [
+        {
+          "value": 10.3
+        },
+        {
+          "value": 11.5
+        }
+      ],
+      "Männer (in %)": [
+        {
+          "value": 11.1
+        }
+      ],
+      "Frauen (in %)": [
+        {
+          "value": 9.4
+        }
+      ],
+      "15 bis unter 20 Jahre (in %)": [
+        {
+          "value": 10.4
+        }
+      ],
+      "15 bis unter 25 Jahre (in %)": [
+        {
+          "value": 8.8
+        }
+      ],
+      "55 bis unter 65 Jahre (in %)": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2014": {
+      "Arbeitslose insgesamt": [
+        {
+          "value": 26241
+        }
+      ],
+      "nach SGB III": [
+        {
+          "value": 5571
+        }
+      ],
+      "nach SGB II": [
+        {
+          "value": 20670
+        }
+      ],
+      "Männer": [
+        {
+          "value": 14452
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 11789
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 308
+        }
+      ],
+      "15 bis unter 25 Jahre": [
+        {
+          "value": 1922
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": 5029
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 2990
+        }
+      ],
+      "Langzeitarbeitslose": [
+        {
+          "value": 8930
+        }
+      ],
+      "Schwerbehinderte": [
+        {
+          "value": 1424
+        }
+      ],
+      "Arbeitslosenquote insgesamt (in %)": [
+        {
+          "value": 9.4
+        },
+        {
+          "value": 10.5
+        }
+      ],
+      "Männer (in %)": [
+        {
+          "value": 9.9
+        }
+      ],
+      "Frauen (in %)": [
+        {
+          "value": 8.8
+        }
+      ],
+      "15 bis unter 20 Jahre (in %)": [
+        {
+          "value": 7.8
+        }
+      ],
+      "15 bis unter 25 Jahre (in %)": [
+        {
+          "value": 7.1
+        }
+      ],
+      "55 bis unter 65 Jahre (in %)": [
+        {
+          "value": 11.7
+        }
+      ]
+    },
+    "2015": {
+      "Arbeitslose insgesamt": [
+        {
+          "value": 25460
+        }
+      ],
+      "nach SGB III": [
+        {
+          "value": 5451
+        }
+      ],
+      "nach SGB II": [
+        {
+          "value": 20009
+        }
+      ],
+      "Männer": [
+        {
+          "value": 14356
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 11104
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 341
+        }
+      ],
+      "15 bis unter 25 Jahre": [
+        {
+          "value": 1753
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": 4811
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 3441
+        }
+      ],
+      "Langzeitarbeitslose": [
+        {
+          "value": 8655
+        }
+      ],
+      "Schwerbehinderte": [
+        {
+          "value": 1318
+        }
+      ],
+      "Arbeitslosenquote insgesamt (in %)": [
+        {
+          "value": 8.8
+        },
+        {
+          "value": 9.8
+        }
+      ],
+      "Männer (in %)": [
+        {
+          "value": 9.6
+        }
+      ],
+      "Frauen (in %)": [
+        {
+          "value": 8.1
+        }
+      ],
+      "15 bis unter 20 Jahre (in %)": [
+        {
+          "value": 7.9
+        }
+      ],
+      "15 bis unter 25 Jahre (in %)": [
+        {
+          "value": 6.6
+        }
+      ],
+      "55 bis unter 65 Jahre (in %)": [
+        {
+          "value": 10.7
+        }
+      ]
+    },
+    "2016": {
+      "Arbeitslose insgesamt": [
+        {
+          "value": 23117
+        }
+      ],
+      "nach SGB III": [
+        {
+          "value": 5081
+        }
+      ],
+      "nach SGB II": [
+        {
+          "value": 18036
+        }
+      ],
+      "Männer": [
+        {
+          "value": 13157
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 9960
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 369
+        }
+      ],
+      "15 bis unter 25 Jahre": [
+        {
+          "value": 1783
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": 4161
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 4347
+        }
+      ],
+      "Langzeitarbeitslose": [
+        {
+          "value": 7360
+        }
+      ],
+      "Schwerbehinderte": [
+        {
+          "value": 1165
+        }
+      ],
+      "Arbeitslosenquote insgesamt (in %)": [
+        {
+          "value": 7.9
+        },
+        {
+          "value": 8.7
+        }
+      ],
+      "Männer (in %)": [
+        {
+          "value": 8.6
+        }
+      ],
+      "Frauen (in %)": [
+        {
+          "value": 7.1
+        }
+      ],
+      "15 bis unter 20 Jahre (in %)": [
+        {
+          "value": 7.9
+        }
+      ],
+      "15 bis unter 25 Jahre (in %)": [
+        {
+          "value": 7.2
+        }
+      ],
+      "55 bis unter 65 Jahre (in %)": [
+        {
+          "value": 9
+        }
+      ]
+    },
+    "2017": {
+      "Arbeitslose insgesamt": [
+        {
+          "value": 20921
+        }
+      ],
+      "nach SGB III": [
+        {
+          "value": 5882
+        }
+      ],
+      "nach SGB II": [
+        {
+          "value": 15039
+        }
+      ],
+      "Männer": [
+        {
+          "value": 12048
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 8873
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 398
+        }
+      ],
+      "15 bis unter 25 Jahre": [
+        {
+          "value": 1732
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": 3761
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 4013
+        }
+      ],
+      "Langzeitarbeitslose": [
+        {
+          "value": 6151
+        }
+      ],
+      "Schwerbehinderte": [
+        {
+          "value": 976
+        }
+      ],
+      "Arbeitslosenquote insgesamt (in %)": [
+        {
+          "value": 7
+        },
+        {
+          "value": 7.7
+        }
+      ],
+      "Männer (in %)": [
+        {
+          "value": 7.7
+        }
+      ],
+      "Frauen (in %)": [
+        {
+          "value": 6.2
+        }
+      ],
+      "15 bis unter 20 Jahre (in %)": [
+        {
+          "value": 8
+        }
+      ],
+      "15 bis unter 25 Jahre (in %)": [
+        {
+          "value": 7.2
+        }
+      ],
+      "55 bis unter 65 Jahre (in %)": [
+        {
+          "value": 8
+        }
+      ]
+    },
+    "2018": {
+      "Arbeitslose insgesamt": [
+        {
+          "value": 18822
+        }
+      ],
+      "nach SGB III": [
+        {
+          "value": 5951
+        }
+      ],
+      "nach SGB II": [
+        {
+          "value": 12871
+        }
+      ],
+      "Männer": [
+        {
+          "value": 10966
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 7856
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 400
+        }
+      ],
+      "15 bis unter 25 Jahre": [
+        {
+          "value": 1695
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": 3519
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 3643
+        }
+      ],
+      "Langzeitarbeitslose": [
+        {
+          "value": 4760
+        }
+      ],
+      "Schwerbehinderte": [
+        {
+          "value": 955
+        }
+      ],
+      "Arbeitslosenquote insgesamt (in %)": [
+        {
+          "value": 6.1
+        },
+        {
+          "value": 6.8
+        }
+      ],
+      "Männer (in %)": [
+        {
+          "value": 6.8
+        }
+      ],
+      "Frauen (in %)": [
+        {
+          "value": 5.4
+        }
+      ],
+      "15 bis unter 20 Jahre (in %)": [
+        {
+          "value": 7.1
+        }
+      ],
+      "15 bis unter 25 Jahre (in %)": [
+        {
+          "value": 6.5
+        }
+      ],
+      "55 bis unter 65 Jahre (in %)": [
+        {
+          "value": 7.2
+        }
+      ]
+    },
+    "2019": {
+      "Arbeitslose insgesamt": [
+        {
+          "value": 18637
+        }
+      ],
+      "nach SGB III": [
+        {
+          "value": 6266
+        }
+      ],
+      "nach SGB II": [
+        {
+          "value": 12371
+        }
+      ],
+      "Männer": [
+        {
+          "value": 10869
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 7768
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 364
+        }
+      ],
+      "15 bis unter 25 Jahre": [
+        {
+          "value": 1612
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": 3603
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 4060
+        }
+      ],
+      "Langzeitarbeitslose": [
+        {
+          "value": 4412
+        }
+      ],
+      "Schwerbehinderte": [
+        {
+          "value": 1011
+        }
+      ],
+      "Arbeitslosenquote insgesamt (in %)": [
+        {
+          "value": 5.9
+        },
+        {
+          "value": 6.5
+        }
+      ],
+      "Männer (in %)": [
+        {
+          "value": 6.6
+        }
+      ],
+      "Frauen (in %)": [
+        {
+          "value": 5.2
+        }
+      ],
+      "15 bis unter 20 Jahre (in %)": [
+        {
+          "value": 5.9
+        }
+      ],
+      "15 bis unter 25 Jahre (in %)": [
+        {
+          "value": 5.6
+        }
+      ],
+      "55 bis unter 65 Jahre (in %)": [
+        {
+          "value": 7
+        }
+      ]
+    },
+    "2020": {
+      "Arbeitslose insgesamt": [
+        {
+          "value": 24364
+        }
+      ],
+      "nach SGB III": [
+        {
+          "value": 8969
+        }
+      ],
+      "nach SGB II": [
+        {
+          "value": 15395
+        }
+      ],
+      "Männer": [
+        {
+          "value": 14062
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 10302
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 410
+        }
+      ],
+      "15 bis unter 25 Jahre": [
+        {
+          "value": 2164
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": 4456
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 5492
+        }
+      ],
+      "Langzeitarbeitslose": [
+        {
+          "value": 7262
+        }
+      ],
+      "Schwerbehinderte": [
+        {
+          "value": 1196
+        }
+      ],
+      "Arbeitslosenquote insgesamt (in %)": [
+        {
+          "value": 7.7
+        },
+        {
+          "value": 8.4
+        }
+      ],
+      "Männer (in %)": [
+        {
+          "value": 8.4
+        }
+      ],
+      "Frauen (in %)": [
+        {
+          "value": 6.9
+        }
+      ],
+      "15 bis unter 20 Jahre (in %)": [
+        {
+          "value": 6.3
+        }
+      ],
+      "15 bis unter 25 Jahre (in %)": [
+        {
+          "value": 7
+        }
+      ],
+      "55 bis unter 65 Jahre (in %)": [
+        {
+          "value": 8.4
+        }
+      ]
+    },
+    "2021": {
+      "Arbeitslose insgesamt": [
+        {
+          "value": 19812
+        }
+      ],
+      "nach SGB III": [
+        {
+          "value": 6105
+        }
+      ],
+      "nach SGB II": [
+        {
+          "value": 13707
+        }
+      ],
+      "Männer": [
+        {
+          "value": 11370
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 8442
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 333
+        }
+      ],
+      "15 bis unter 25 Jahre": [
+        {
+          "value": 1601
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": 3984
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 4546
+        }
+      ],
+      "Langzeitarbeitslose": [
+        {
+          "value": 7400
+        }
+      ],
+      "Schwerbehinderte": [
+        {
+          "value": 1115
+        }
+      ],
+      "Arbeitslosenquote insgesamt (in %)": [
+        {
+          "value": 6.1
+        },
+        {
+          "value": 6.7
+        }
+      ],
+      "Männer (in %)": [
+        {
+          "value": 6.6
+        }
+      ],
+      "Frauen (in %)": [
+        {
+          "value": 5.6
+        }
+      ],
+      "15 bis unter 20 Jahre (in %)": [
+        {
+          "value": 5.4
+        }
+      ],
+      "15 bis unter 25 Jahre (in %)": [
+        {
+          "value": 5.1
+        }
+      ],
+      "55 bis unter 65 Jahre (in %)": [
+        {
+          "value": 7.2
+        }
+      ]
+    },
+    "2022": {
+      "Arbeitslose insgesamt": [
+        {
+          "value": 21324
+        }
+      ],
+      "nach SGB III": [
+        {
+          "value": 6935
+        }
+      ],
+      "nach SGB II": [
+        {
+          "value": 14389
+        }
+      ],
+      "Männer": [
+        {
+          "value": 11863
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 9461
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 383
+        }
+      ],
+      "15 bis unter 25 Jahre": [
+        {
+          "value": 1850
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": 4103
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 6222
+        }
+      ],
+      "Langzeitarbeitslose": [
+        {
+          "value": 6238
+        }
+      ],
+      "Schwerbehinderte": [
+        {
+          "value": 1134
+        }
+      ],
+      "Arbeitslosenquote insgesamt (in %)": [
+        {
+          "value": 6.5
+        },
+        {
+          "value": 7.1
+        }
+      ],
+      "Männer (in %)": [
+        {
+          "value": 6.9
+        }
+      ],
+      "Frauen (in %)": [
+        {
+          "value": 6.1
+        }
+      ],
+      "15 bis unter 20 Jahre (in %)": [
+        {
+          "value": 6.3
+        }
+      ],
+      "15 bis unter 25 Jahre (in %)": [
+        {
+          "value": 5.6
+        }
+      ],
+      "55 bis unter 65 Jahre (in %)": [
+        {
+          "value": 7.3
+        }
+      ]
+    },
+    "2023": {
+      "Arbeitslose insgesamt": [
+        {
+          "value": 23479
+        }
+      ],
+      "nach SGB III": [
+        {
+          "value": 7921
+        }
+      ],
+      "nach SGB II": [
+        {
+          "value": 15558
+        }
+      ],
+      "Männer": [
+        {
+          "value": 12993
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 10486
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 496
+        }
+      ],
+      "15 bis unter 25 Jahre": [
+        {
+          "value": 2306
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": 4474
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 7133
+        }
+      ],
+      "Langzeitarbeitslose": [
+        {
+          "value": 6428
+        }
+      ],
+      "Schwerbehinderte": [
+        {
+          "value": 1243
+        }
+      ],
+      "Arbeitslosenquote insgesamt (in %)": [
+        {
+          "value": 7
+        },
+        {
+          "value": 7.6
+        }
+      ],
+      "Männer (in %)": [
+        {
+          "value": 7.4
+        }
+      ],
+      "Frauen (in %)": [
+        {
+          "value": 6.7
+        }
+      ],
+      "15 bis unter 20 Jahre (in %)": [
+        {
+          "value": 6.9
+        }
+      ],
+      "15 bis unter 25 Jahre (in %)": [
+        {
+          "value": 6.5
+        }
+      ],
+      "55 bis unter 65 Jahre (in %)": [
+        {
+          "value": 7.6
+        }
+      ]
+    },
+    "2024": {
+      "Arbeitslose insgesamt": [
+        {
+          "value": 27169
+        }
+      ],
+      "nach SGB III": [
+        {
+          "value": 9275
+        }
+      ],
+      "nach SGB II": [
+        {
+          "value": 17894
+        }
+      ],
+      "Männer": [
+        {
+          "value": 14941
+        }
+      ],
+      "Frauen": [
+        {
+          "value": 12228
+        }
+      ],
+      "15 bis unter 20 Jahre": [
+        {
+          "value": 626
+        }
+      ],
+      "15 bis unter 25 Jahre": [
+        {
+          "value": 2626
+        }
+      ],
+      "55 bis unter 65 Jahre": [
+        {
+          "value": 5170
+        }
+      ],
+      "Ausländer": [
+        {
+          "value": 8468
+        }
+      ],
+      "Langzeitarbeitslose": [
+        {
+          "value": 7726
+        }
+      ],
+      "Schwerbehinderte": [
+        {
+          "value": 1431
+        }
+      ],
+      "Arbeitslosenquote insgesamt (in %)": [
+        {
+          "value": 7.9
+        },
+        {
+          "value": 8.6
+        }
+      ],
+      "Männer (in %)": [
+        {
+          "value": 8.2
+        }
+      ],
+      "Frauen (in %)": [
+        {
+          "value": 7.6
+        }
+      ],
+      "15 bis unter 20 Jahre (in %)": [
+        {
+          "value": 8
+        }
+      ],
+      "15 bis unter 25 Jahre (in %)": [
+        {
+          "value": 7
+        }
+      ],
+      "55 bis unter 65 Jahre (in %)": [
+        {
+          "value": 8.5
+        }
+      ]
+    }
+  }
+}

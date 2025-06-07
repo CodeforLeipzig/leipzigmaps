@@ -34,8 +34,8 @@ const DataOverlay = ({
   return (
     <>
       {cache.districts.features.filter((district) => showTotal ? district.properties.title === "Gesamt" : district.properties.title !== "Gesamt").map(f => {
-          let item = showTotal ? null : databasis.find(d => d.district === f.properties.title)
-          const district = showTotal ? "Gesamt" : item.district
+          let item = showTotal ? null : databasis.find(d => !d.district || d.district === f.properties.title)
+          const district = (showTotal || !item) ? "Gesamt" : item.district
           const value = showTotal ? totalValue : item.value
           return (
             <MapPolygon

@@ -1,0 +1,3128 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=5&rubrik_nr=5&periode=y",
+    "title": "Veranstaltungen__Kursveranstaltungen__Sprachen__darunter Englisch"
+  },
+  "data": {
+    "2000": {
+      "darunter Englisch": [
+        {
+          "value": 436
+        },
+        {
+          "value": 5325
+        }
+      ],
+      "Arbeit/Beruf": [
+        {
+          "value": 532
+        },
+        {
+          "value": 5382
+        }
+      ],
+      "darunter IT- und Mediengrundlagen": [
+        {
+          "value": 271
+        },
+        {
+          "value": 2911
+        }
+      ],
+      "Grundbildung/Schulabschlüsse": [
+        {
+          "value": 77
+        },
+        {
+          "value": 652
+        }
+      ],
+      "Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 125
+        }
+      ],
+      "Studienfahrten und Exkursionen": [
+        {
+          "value": 4
+        }
+      ],
+      "Teilnehmer an Kursveranstaltungen": [
+        {
+          "value": 25852
+        }
+      ],
+      "offen angebotene Kurse": [
+        {
+          "value": 24768
+        },
+        {
+          "value": 2053
+        }
+      ],
+      "Auftrags-/Vertragsmaßnahmen": [
+        {
+          "value": 1084
+        },
+        {
+          "value": 102
+        }
+      ],
+      "Gesellschaft/Politik/Umwelt": [
+        {
+          "value": 4997
+        },
+        {
+          "value": 373
+        }
+      ],
+      "Kultur/Gestalten": [
+        {
+          "value": 2905
+        },
+        {
+          "value": 240
+        }
+      ],
+      "Gesundheit": [
+        {
+          "value": 3178
+        },
+        {
+          "value": 219
+        }
+      ],
+      "darunter Bewegung, Fitness": [
+        {
+          "value": 2427
+        },
+        {
+          "value": 149
+        }
+      ],
+      "Sprachen": [
+        {
+          "value": 8738
+        },
+        {
+          "value": 714
+        }
+      ],
+      "Teilnehmer an Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 6429
+        }
+      ],
+      "Teilnehmer an Studienfahrten und Exkursionen": [
+        {
+          "value": 69
+        }
+      ],
+      "Neben- und freiberufliche Leiter von Kursen und Lehrgängen": [
+        {
+          "value": 780
+        }
+      ],
+      "Hauptberufliches Personal": [
+        {
+          "value": 27
+        }
+      ],
+      "Kursveranstaltungen": [
+        {
+          "value": 2155
+        }
+      ]
+    },
+    "2001": {
+      "offen angebotene Kurse": [
+        {
+          "value": 1940
+        },
+        {
+          "value": 23252
+        }
+      ],
+      "Auftrags-/Vertragsmaßnahmen": [
+        {
+          "value": 55
+        },
+        {
+          "value": 303
+        }
+      ],
+      "Gesellschaft/Politik/Umwelt": [
+        {
+          "value": 263
+        },
+        {
+          "value": 3370
+        }
+      ],
+      "Kultur/Gestalten": [
+        {
+          "value": 214
+        },
+        {
+          "value": 2665
+        }
+      ],
+      "Gesundheit": [
+        {
+          "value": 227
+        },
+        {
+          "value": 3195
+        }
+      ],
+      "darunter Bewegung, Fitness": [
+        {
+          "value": 153
+        },
+        {
+          "value": 2395
+        }
+      ],
+      "Sprachen": [
+        {
+          "value": 736
+        },
+        {
+          "value": 8941
+        }
+      ],
+      "darunter Englisch": [
+        {
+          "value": 432
+        },
+        {
+          "value": 5163
+        }
+      ],
+      "Arbeit/Beruf": [
+        {
+          "value": 470
+        },
+        {
+          "value": 4665
+        }
+      ],
+      "darunter IT- und Mediengrundlagen": [
+        {
+          "value": 288
+        },
+        {
+          "value": 3040
+        }
+      ],
+      "Grundbildung/Schulabschlüsse": [
+        {
+          "value": 85
+        },
+        {
+          "value": 719
+        }
+      ],
+      "Studienfahrten und Exkursionen": [
+        {
+          "value": 11
+        }
+      ],
+      "Teilnehmer an Studienfahrten und Exkursionen": [
+        {
+          "value": 150
+        }
+      ],
+      "Teilnehmer an Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 8592
+        }
+      ],
+      "Kursveranstaltungen": [
+        {
+          "value": 1955
+        }
+      ],
+      "Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 349
+        }
+      ],
+      "Teilnehmer an Kursveranstaltungen": [
+        {
+          "value": 23555
+        }
+      ],
+      "Neben- und freiberufliche Leiter von Kursen und Lehrgängen": [
+        {
+          "value": 814
+        }
+      ],
+      "Hauptberufliches Personal": [
+        {
+          "value": 27
+        }
+      ]
+    },
+    "2002": {
+      "Teilnehmer an Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 6312
+        }
+      ],
+      "offen angebotene Kurse": [
+        {
+          "value": 2024
+        },
+        {
+          "value": 23597
+        }
+      ],
+      "Auftrags-/Vertragsmaßnahmen": [
+        {
+          "value": 100
+        },
+        {
+          "value": 1136
+        }
+      ],
+      "Gesellschaft/Politik/Umwelt": [
+        {
+          "value": 376
+        },
+        {
+          "value": 4802
+        }
+      ],
+      "Kultur/Gestalten": [
+        {
+          "value": 230
+        },
+        {
+          "value": 2817
+        }
+      ],
+      "Gesundheit": [
+        {
+          "value": 236
+        },
+        {
+          "value": 3233
+        }
+      ],
+      "darunter Bewegung, Fitness": [
+        {
+          "value": 168
+        },
+        {
+          "value": 2441
+        }
+      ],
+      "Sprachen": [
+        {
+          "value": 741
+        },
+        {
+          "value": 8917
+        }
+      ],
+      "darunter Englisch": [
+        {
+          "value": 406
+        },
+        {
+          "value": 4665
+        }
+      ],
+      "Arbeit/Beruf": [
+        {
+          "value": 462
+        },
+        {
+          "value": 4320
+        }
+      ],
+      "darunter IT- und Mediengrundlagen": [
+        {
+          "value": 249
+        },
+        {
+          "value": 2398
+        }
+      ],
+      "Grundbildung/Schulabschlüsse": [
+        {
+          "value": 79
+        },
+        {
+          "value": 644
+        }
+      ],
+      "Studienfahrten und Exkursionen": [
+        {
+          "value": 11
+        }
+      ],
+      "Teilnehmer an Studienfahrten und Exkursionen": [
+        {
+          "value": 96
+        }
+      ],
+      "Hauptberufliches Personal": [
+        {
+          "value": 27
+        }
+      ],
+      "Kursveranstaltungen": [
+        {
+          "value": 2124
+        }
+      ],
+      "Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 132
+        }
+      ],
+      "Teilnehmer an Kursveranstaltungen": [
+        {
+          "value": 24733
+        }
+      ],
+      "Neben- und freiberufliche Leiter von Kursen und Lehrgängen": [
+        {
+          "value": 722
+        }
+      ]
+    },
+    "2003": {
+      "Neben- und freiberufliche Leiter von Kursen und Lehrgängen": [
+        {
+          "value": 636
+        }
+      ],
+      "Teilnehmer an Kursveranstaltungen": [
+        {
+          "value": 24571
+        }
+      ],
+      "Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 182
+        }
+      ],
+      "Kursveranstaltungen": [
+        {
+          "value": 2130
+        }
+      ],
+      "Hauptberufliches Personal": [
+        {
+          "value": 30
+        }
+      ],
+      "offen angebotene Kurse": [
+        {
+          "value": 2068
+        },
+        {
+          "value": 23805
+        }
+      ],
+      "Auftrags-/Vertragsmaßnahmen": [
+        {
+          "value": 62
+        },
+        {
+          "value": 766
+        }
+      ],
+      "Gesellschaft/Politik/Umwelt": [
+        {
+          "value": 352
+        },
+        {
+          "value": 4394
+        }
+      ],
+      "Kultur/Gestalten": [
+        {
+          "value": 253
+        },
+        {
+          "value": 2927
+        }
+      ],
+      "Gesundheit": [
+        {
+          "value": 246
+        },
+        {
+          "value": 3416
+        }
+      ],
+      "darunter Bewegung, Fitness": [
+        {
+          "value": 182
+        },
+        {
+          "value": 2717
+        }
+      ],
+      "Sprachen": [
+        {
+          "value": 765
+        },
+        {
+          "value": 9222
+        }
+      ],
+      "darunter Englisch": [
+        {
+          "value": 380
+        },
+        {
+          "value": 4332
+        }
+      ],
+      "Arbeit/Beruf": [
+        {
+          "value": 437
+        },
+        {
+          "value": 3963
+        }
+      ],
+      "darunter IT- und Mediengrundlagen": [
+        {
+          "value": 226
+        },
+        {
+          "value": 1952
+        }
+      ],
+      "Grundbildung/Schulabschlüsse": [
+        {
+          "value": 77
+        },
+        {
+          "value": 649
+        }
+      ],
+      "Studienfahrten und Exkursionen": [
+        {
+          "value": 27
+        }
+      ],
+      "Teilnehmer an Studienfahrten und Exkursionen": [
+        {
+          "value": 514
+        }
+      ],
+      "Teilnehmer an Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 6301
+        }
+      ]
+    },
+    "2004": {
+      "Teilnehmer an Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 6256
+        }
+      ],
+      "offen angebotene Kurse": [
+        {
+          "value": 2208
+        },
+        {
+          "value": 25311
+        }
+      ],
+      "Auftrags-/Vertragsmaßnahmen": [
+        {
+          "value": 64
+        },
+        {
+          "value": 752
+        }
+      ],
+      "Gesellschaft/Politik/Umwelt": [
+        {
+          "value": 339
+        },
+        {
+          "value": 4797
+        }
+      ],
+      "Kultur/Gestalten": [
+        {
+          "value": 283
+        },
+        {
+          "value": 2901
+        }
+      ],
+      "Gesundheit": [
+        {
+          "value": 325
+        },
+        {
+          "value": 4375
+        }
+      ],
+      "Hauptberufliches Personal": [
+        {
+          "value": 30
+        }
+      ],
+      "Kursveranstaltungen": [
+        {
+          "value": 2272
+        }
+      ],
+      "Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 196
+        }
+      ],
+      "Teilnehmer an Kursveranstaltungen": [
+        {
+          "value": 26063
+        }
+      ],
+      "Neben- und freiberufliche Leiter von Kursen und Lehrgängen": [
+        {
+          "value": 547
+        }
+      ],
+      "darunter Bewegung, Fitness": [
+        {
+          "value": 223
+        },
+        {
+          "value": 3293
+        }
+      ],
+      "Sprachen": [
+        {
+          "value": 857
+        },
+        {
+          "value": 9661
+        }
+      ],
+      "darunter Englisch": [
+        {
+          "value": 355
+        },
+        {
+          "value": 3980
+        }
+      ],
+      "Arbeit/Beruf": [
+        {
+          "value": 436
+        },
+        {
+          "value": 3979
+        }
+      ],
+      "darunter IT- und Mediengrundlagen": [
+        {
+          "value": 221
+        },
+        {
+          "value": 1938
+        }
+      ],
+      "Grundbildung/Schulabschlüsse": [
+        {
+          "value": 32
+        },
+        {
+          "value": 350
+        }
+      ],
+      "Studienfahrten und Exkursionen": [
+        {
+          "value": 39
+        }
+      ],
+      "Teilnehmer an Studienfahrten und Exkursionen": [
+        {
+          "value": 595
+        }
+      ]
+    },
+    "2005": {
+      "offen angebotene Kurse": [
+        {
+          "value": 2208
+        },
+        {
+          "value": 25421
+        }
+      ],
+      "Auftrags-/Vertragsmaßnahmen": [
+        {
+          "value": 106
+        },
+        {
+          "value": 1207
+        }
+      ],
+      "Gesellschaft/Politik/Umwelt": [
+        {
+          "value": 266
+        },
+        {
+          "value": 3799
+        }
+      ],
+      "Kultur/Gestalten": [
+        {
+          "value": 311
+        },
+        {
+          "value": 3342
+        }
+      ],
+      "Gesundheit": [
+        {
+          "value": 433
+        },
+        {
+          "value": 5577
+        }
+      ],
+      "darunter Bewegung, Fitness": [
+        {
+          "value": 251
+        },
+        {
+          "value": 3691
+        }
+      ],
+      "Sprachen": [
+        {
+          "value": 870
+        },
+        {
+          "value": 9844
+        }
+      ],
+      "darunter Englisch": [
+        {
+          "value": 345
+        },
+        {
+          "value": 3948
+        }
+      ],
+      "Arbeit/Beruf": [
+        {
+          "value": 400
+        },
+        {
+          "value": 3669
+        }
+      ],
+      "darunter IT- und Mediengrundlagen": [
+        {
+          "value": 210
+        },
+        {
+          "value": 1772
+        }
+      ],
+      "Grundbildung/Schulabschlüsse": [
+        {
+          "value": 34
+        },
+        {
+          "value": 397
+        }
+      ],
+      "Studienfahrten und Exkursionen": [
+        {
+          "value": 51
+        }
+      ],
+      "Teilnehmer an Studienfahrten und Exkursionen": [
+        {
+          "value": 831
+        }
+      ],
+      "Teilnehmer an Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 5256
+        }
+      ],
+      "Kursveranstaltungen": [
+        {
+          "value": 2314
+        }
+      ],
+      "Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 191
+        }
+      ],
+      "Teilnehmer an Kursveranstaltungen": [
+        {
+          "value": 26628
+        }
+      ],
+      "Neben- und freiberufliche Leiter von Kursen und Lehrgängen": [
+        {
+          "value": 602
+        }
+      ],
+      "Hauptberufliches Personal": [
+        {
+          "value": 30
+        }
+      ]
+    },
+    "2006": {
+      "Teilnehmer an Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 4049
+        }
+      ],
+      "Kursveranstaltungen": [
+        {
+          "value": 2314
+        }
+      ],
+      "Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 151
+        }
+      ],
+      "Teilnehmer an Kursveranstaltungen": [
+        {
+          "value": 27064
+        }
+      ],
+      "Neben- und freiberufliche Leiter von Kursen und Lehrgängen": [
+        {
+          "value": 828
+        }
+      ],
+      "Hauptberufliches Personal": [
+        {
+          "value": 25
+        }
+      ],
+      "offen angebotene Kurse": [
+        {
+          "value": 2215
+        },
+        {
+          "value": 25875
+        }
+      ],
+      "Auftrags-/Vertragsmaßnahmen": [
+        {
+          "value": 99
+        },
+        {
+          "value": 1189
+        }
+      ],
+      "Gesellschaft/Politik/Umwelt": [
+        {
+          "value": 270
+        },
+        {
+          "value": 4098
+        }
+      ],
+      "Kultur/Gestalten": [
+        {
+          "value": 302
+        },
+        {
+          "value": 3296
+        }
+      ],
+      "Gesundheit": [
+        {
+          "value": 426
+        },
+        {
+          "value": 5761
+        }
+      ],
+      "darunter Bewegung, Fitness": [
+        {
+          "value": 264
+        },
+        {
+          "value": 3929
+        }
+      ],
+      "Sprachen": [
+        {
+          "value": 911
+        },
+        {
+          "value": 10171
+        }
+      ],
+      "darunter Englisch": [
+        {
+          "value": 366
+        },
+        {
+          "value": 4156
+        }
+      ],
+      "Arbeit/Beruf": [
+        {
+          "value": 366
+        },
+        {
+          "value": 3327
+        }
+      ],
+      "darunter IT- und Mediengrundlagen": [
+        {
+          "value": 202
+        },
+        {
+          "value": 1660
+        }
+      ],
+      "Grundbildung/Schulabschlüsse": [
+        {
+          "value": 39
+        },
+        {
+          "value": 411
+        }
+      ],
+      "Studienfahrten und Exkursionen": [
+        {
+          "value": 28
+        }
+      ],
+      "Teilnehmer an Studienfahrten und Exkursionen": [
+        {
+          "value": 388
+        }
+      ]
+    },
+    "2007": {
+      "offen angebotene Kurse": [
+        {
+          "value": 2269
+        },
+        {
+          "value": 26362
+        }
+      ],
+      "Auftrags-/Vertragsmaßnahmen": [
+        {
+          "value": 5
+        },
+        {
+          "value": 64
+        }
+      ],
+      "Gesellschaft/Politik/Umwelt": [
+        {
+          "value": 289
+        },
+        {
+          "value": 3811
+        }
+      ],
+      "Kultur/Gestalten": [
+        {
+          "value": 295
+        },
+        {
+          "value": 3368
+        }
+      ],
+      "Gesundheit": [
+        {
+          "value": 460
+        },
+        {
+          "value": 6443
+        }
+      ],
+      "darunter Bewegung, Fitness": [
+        {
+          "value": 284
+        },
+        {
+          "value": 4420
+        }
+      ],
+      "Sprachen": [
+        {
+          "value": 899
+        },
+        {
+          "value": 9879
+        }
+      ],
+      "darunter Englisch": [
+        {
+          "value": 365
+        },
+        {
+          "value": 4168
+        }
+      ],
+      "Arbeit/Beruf": [
+        {
+          "value": 301
+        },
+        {
+          "value": 2575
+        }
+      ],
+      "darunter IT- und Mediengrundlagen": [
+        {
+          "value": 195
+        },
+        {
+          "value": 1574
+        }
+      ],
+      "Grundbildung/Schulabschlüsse": [
+        {
+          "value": 30
+        },
+        {
+          "value": 350
+        }
+      ],
+      "Studienfahrten und Exkursionen": [
+        {
+          "value": 20
+        }
+      ],
+      "Teilnehmer an Studienfahrten und Exkursionen": [
+        {
+          "value": 357
+        }
+      ],
+      "Kursveranstaltungen": [
+        {
+          "value": 2274
+        }
+      ],
+      "Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 141
+        }
+      ],
+      "Teilnehmer an Kursveranstaltungen": [
+        {
+          "value": 26426
+        }
+      ],
+      "Neben- und freiberufliche Leiter von Kursen und Lehrgängen": [
+        {
+          "value": 711
+        }
+      ],
+      "Hauptberufliches Personal": [
+        {
+          "value": 25
+        }
+      ],
+      "Teilnehmer an Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 2247
+        }
+      ]
+    },
+    "2008": {
+      "Teilnehmer an Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 5039
+        }
+      ],
+      "offen angebotene Kurse": [
+        {
+          "value": 2353
+        },
+        {
+          "value": 26656
+        }
+      ],
+      "Auftrags-/Vertragsmaßnahmen": [
+        {
+          "value": 80
+        },
+        {
+          "value": 838
+        }
+      ],
+      "Gesellschaft/Politik/Umwelt": [
+        {
+          "value": 306
+        },
+        {
+          "value": 4138
+        }
+      ],
+      "Kultur/Gestalten": [
+        {
+          "value": 318
+        },
+        {
+          "value": 3387
+        }
+      ],
+      "Gesundheit": [
+        {
+          "value": 508
+        },
+        {
+          "value": 6845
+        }
+      ],
+      "darunter Bewegung, Fitness": [
+        {
+          "value": 328
+        },
+        {
+          "value": 4848
+        }
+      ],
+      "Sprachen": [
+        {
+          "value": 828
+        },
+        {
+          "value": 9436
+        }
+      ],
+      "darunter Englisch": [
+        {
+          "value": 344
+        },
+        {
+          "value": 3873
+        }
+      ],
+      "Arbeit/Beruf": [
+        {
+          "value": 359
+        },
+        {
+          "value": 2972
+        }
+      ],
+      "darunter IT- und Mediengrundlagen": [
+        {
+          "value": 206
+        },
+        {
+          "value": 1636
+        }
+      ],
+      "Grundbildung/Schulabschlüsse": [
+        {
+          "value": 114
+        },
+        {
+          "value": 716
+        }
+      ],
+      "Studienfahrten und Exkursionen": [
+        {
+          "value": 13
+        }
+      ],
+      "Teilnehmer an Studienfahrten und Exkursionen": [
+        {
+          "value": 143
+        }
+      ],
+      "Kursveranstaltungen": [
+        {
+          "value": 2433
+        }
+      ],
+      "Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 183
+        }
+      ],
+      "Teilnehmer an Kursveranstaltungen": [
+        {
+          "value": 27494
+        }
+      ],
+      "Neben- und freiberufliche Leiter von Kursen und Lehrgängen": [
+        {
+          "value": 701
+        }
+      ],
+      "Hauptberufliches Personal": [
+        {
+          "value": 26
+        }
+      ]
+    },
+    "2009": {
+      "Kursveranstaltungen": [
+        {
+          "value": 2313
+        }
+      ],
+      "Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 231
+        }
+      ],
+      "Teilnehmer an Kursveranstaltungen": [
+        {
+          "value": 26425
+        }
+      ],
+      "Neben- und freiberufliche Leiter von Kursen und Lehrgängen": [
+        {
+          "value": 733
+        }
+      ],
+      "Hauptberufliches Personal": [
+        {
+          "value": 26
+        }
+      ],
+      "offen angebotene Kurse": [
+        {
+          "value": 2252
+        },
+        {
+          "value": 25502
+        }
+      ],
+      "Auftrags-/Vertragsmaßnahmen": [
+        {
+          "value": 61
+        },
+        {
+          "value": 923
+        }
+      ],
+      "Gesellschaft/Politik/Umwelt": [
+        {
+          "value": 262
+        },
+        {
+          "value": 3739
+        }
+      ],
+      "Kultur/Gestalten": [
+        {
+          "value": 321
+        },
+        {
+          "value": 3493
+        }
+      ],
+      "Gesundheit": [
+        {
+          "value": 525
+        },
+        {
+          "value": 6895
+        }
+      ],
+      "darunter Bewegung, Fitness": [
+        {
+          "value": 345
+        },
+        {
+          "value": 4965
+        }
+      ],
+      "Sprachen": [
+        {
+          "value": 783
+        },
+        {
+          "value": 9153
+        }
+      ],
+      "darunter Englisch": [
+        {
+          "value": 336
+        },
+        {
+          "value": 3715
+        }
+      ],
+      "Arbeit/Beruf": [
+        {
+          "value": 321
+        },
+        {
+          "value": 2577
+        }
+      ],
+      "darunter IT- und Mediengrundlagen": [
+        {
+          "value": 195
+        },
+        {
+          "value": 1511
+        }
+      ],
+      "Grundbildung/Schulabschlüsse": [
+        {
+          "value": 101
+        },
+        {
+          "value": 568
+        }
+      ],
+      "Studienfahrten und Exkursionen": [
+        {
+          "value": 12
+        }
+      ],
+      "Teilnehmer an Studienfahrten und Exkursionen": [
+        {
+          "value": 191
+        }
+      ],
+      "Teilnehmer an Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 4145
+        }
+      ]
+    },
+    "2010": {
+      "Kursveranstaltungen": [
+        {
+          "value": 2367
+        }
+      ],
+      "offen angebotene Kurse": [
+        {
+          "value": 2295
+        },
+        {
+          "value": 25450
+        }
+      ],
+      "Auftrags-/Vertragsmaßnahmen": [
+        {
+          "value": 72
+        },
+        {
+          "value": 922
+        }
+      ],
+      "Gesellschaft/Politik/Umwelt": [
+        {
+          "value": 279
+        },
+        {
+          "value": 3487
+        }
+      ],
+      "Kultur/Gestalten": [
+        {
+          "value": 350
+        },
+        {
+          "value": 3639
+        }
+      ],
+      "Gesundheit": [
+        {
+          "value": 572
+        },
+        {
+          "value": 7393
+        }
+      ],
+      "darunter Bewegung, Fitness": [
+        {
+          "value": 372
+        },
+        {
+          "value": 5306
+        }
+      ],
+      "Sprachen": [
+        {
+          "value": 762
+        },
+        {
+          "value": 8791
+        }
+      ],
+      "darunter Englisch": [
+        {
+          "value": 317
+        },
+        {
+          "value": 3558
+        }
+      ],
+      "Arbeit/Beruf": [
+        {
+          "value": 309
+        },
+        {
+          "value": 2497
+        }
+      ],
+      "darunter IT- und Mediengrundlagen": [
+        {
+          "value": 179
+        },
+        {
+          "value": 1379
+        }
+      ],
+      "Grundbildung/Schulabschlüsse": [
+        {
+          "value": 95
+        },
+        {
+          "value": 565
+        }
+      ],
+      "Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 239
+        }
+      ],
+      "Studienfahrten und Exkursionen": [
+        {
+          "value": 12
+        }
+      ],
+      "Teilnehmer an Kursveranstaltungen": [
+        {
+          "value": 26372
+        }
+      ],
+      "Teilnehmer an Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 4010
+        }
+      ],
+      "Teilnehmer an Studienfahrten und Exkursionen": [
+        {
+          "value": 188
+        }
+      ],
+      "Neben- und freiberufliche Leiter von Kursen und Lehrgängen": [
+        {
+          "value": 706
+        }
+      ],
+      "Hauptberufliches Personal": [
+        {
+          "value": 26
+        }
+      ]
+    },
+    "2011": {
+      "Kursveranstaltungen": [
+        {
+          "value": 2557
+        }
+      ],
+      "offen angebotene Kurse": [
+        {
+          "value": 2511
+        },
+        {
+          "value": 27417
+        }
+      ],
+      "Auftrags-/Vertragsmaßnahmen": [
+        {
+          "value": 46
+        },
+        {
+          "value": 840
+        }
+      ],
+      "Gesellschaft/Politik/Umwelt": [
+        {
+          "value": 322
+        },
+        {
+          "value": 4280
+        }
+      ],
+      "Kultur/Gestalten": [
+        {
+          "value": 366
+        },
+        {
+          "value": 3696
+        }
+      ],
+      "Gesundheit": [
+        {
+          "value": 703
+        },
+        {
+          "value": 8807
+        }
+      ],
+      "darunter Bewegung, Fitness": [
+        {
+          "value": 443
+        },
+        {
+          "value": 6156
+        }
+      ],
+      "Sprachen": [
+        {
+          "value": 782
+        },
+        {
+          "value": 8769
+        }
+      ],
+      "darunter Englisch": [
+        {
+          "value": 305
+        },
+        {
+          "value": 3314
+        }
+      ],
+      "Arbeit/Beruf": [
+        {
+          "value": 295
+        },
+        {
+          "value": 2180
+        }
+      ],
+      "darunter IT- und Mediengrundlagen": [
+        {
+          "value": 192
+        },
+        {
+          "value": 1417
+        }
+      ],
+      "Grundbildung/Schulabschlüsse": [
+        {
+          "value": 89
+        },
+        {
+          "value": 525
+        }
+      ],
+      "Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 230
+        }
+      ],
+      "Studienfahrten und Exkursionen": [
+        {
+          "value": 6
+        }
+      ],
+      "Teilnehmer an Kursveranstaltungen": [
+        {
+          "value": 28257
+        }
+      ],
+      "Teilnehmer an Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 3779
+        }
+      ],
+      "Teilnehmer an Studienfahrten und Exkursionen": [
+        {
+          "value": 65
+        }
+      ],
+      "Neben- und freiberufliche Leiter von Kursen und Lehrgängen": [
+        {
+          "value": 787
+        }
+      ],
+      "Hauptberufliches Personal": [
+        {
+          "value": 26
+        }
+      ]
+    },
+    "2012": {
+      "Kursveranstaltungen": [
+        {
+          "value": 2586
+        }
+      ],
+      "offen angebotene Kurse": [
+        {
+          "value": 2473
+        },
+        {
+          "value": 26693
+        }
+      ],
+      "Auftrags-/Vertragsmaßnahmen": [
+        {
+          "value": 113
+        },
+        {
+          "value": 1392
+        }
+      ],
+      "Gesellschaft/Politik/Umwelt": [
+        {
+          "value": 243
+        },
+        {
+          "value": 2954
+        }
+      ],
+      "Kultur/Gestalten": [
+        {
+          "value": 348
+        },
+        {
+          "value": 3650
+        }
+      ],
+      "Gesundheit": [
+        {
+          "value": 792
+        },
+        {
+          "value": 9679
+        }
+      ],
+      "darunter Bewegung, Fitness": [
+        {
+          "value": 483
+        },
+        {
+          "value": 6559
+        }
+      ],
+      "Sprachen": [
+        {
+          "value": 741
+        },
+        {
+          "value": 8235
+        }
+      ],
+      "darunter Englisch": [
+        {
+          "value": 298
+        },
+        {
+          "value": 3090
+        }
+      ],
+      "Arbeit/Beruf": [
+        {
+          "value": 365
+        },
+        {
+          "value": 3077
+        }
+      ],
+      "darunter IT- und Mediengrundlagen": [
+        {
+          "value": 199
+        },
+        {
+          "value": 1464
+        }
+      ],
+      "Grundbildung/Schulabschlüsse": [
+        {
+          "value": 97
+        },
+        {
+          "value": 490
+        }
+      ],
+      "Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 278
+        }
+      ],
+      "Studienfahrten und Exkursionen": [
+        {
+          "value": 4
+        }
+      ],
+      "Teilnehmer an Kursveranstaltungen": [
+        {
+          "value": 28085
+        }
+      ],
+      "Teilnehmer an Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 4863
+        }
+      ],
+      "Teilnehmer an Studienfahrten und Exkursionen": [
+        {
+          "value": 57
+        }
+      ],
+      "Neben- und freiberufliche Leiter von Kursen und Lehrgängen": [
+        {
+          "value": 714
+        }
+      ],
+      "Hauptberufliches Personal": [
+        {
+          "value": 26
+        }
+      ]
+    },
+    "2013": {
+      "Kursveranstaltungen": [
+        {
+          "value": 2640
+        }
+      ],
+      "offen angebotene Kurse": [
+        {
+          "value": 2496
+        },
+        {
+          "value": 26959
+        }
+      ],
+      "Auftrags-/Vertragsmaßnahmen": [
+        {
+          "value": 144
+        },
+        {
+          "value": 1819
+        }
+      ],
+      "Gesellschaft/Politik/Umwelt": [
+        {
+          "value": 249
+        },
+        {
+          "value": 3275
+        }
+      ],
+      "Kultur/Gestalten": [
+        {
+          "value": 348
+        },
+        {
+          "value": 3602
+        }
+      ],
+      "Gesundheit": [
+        {
+          "value": 875
+        },
+        {
+          "value": 10374
+        }
+      ],
+      "darunter Bewegung, Fitness": [
+        {
+          "value": 510
+        },
+        {
+          "value": 6867
+        }
+      ],
+      "Sprachen": [
+        {
+          "value": 724
+        },
+        {
+          "value": 7913
+        }
+      ],
+      "darunter Englisch": [
+        {
+          "value": 278
+        },
+        {
+          "value": 2857
+        }
+      ],
+      "Arbeit/Beruf": [
+        {
+          "value": 367
+        },
+        {
+          "value": 3239
+        }
+      ],
+      "darunter IT- und Mediengrundlagen": [
+        {
+          "value": 182
+        },
+        {
+          "value": 1407
+        }
+      ],
+      "Grundbildung/Schulabschlüsse": [
+        {
+          "value": 77
+        },
+        {
+          "value": 375
+        }
+      ],
+      "Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 253
+        }
+      ],
+      "Studienfahrten und Exkursionen": [
+        {
+          "value": 10
+        }
+      ],
+      "Teilnehmer an Kursveranstaltungen": [
+        {
+          "value": 28778
+        }
+      ],
+      "Teilnehmer an Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 5935
+        }
+      ],
+      "Teilnehmer an Studienfahrten und Exkursionen": [
+        {
+          "value": 157
+        }
+      ],
+      "Neben- und freiberufliche Leiter von Kursen und Lehrgängen": [
+        {
+          "value": 552
+        }
+      ],
+      "Hauptberufliches Personal": [
+        {
+          "value": 27
+        }
+      ]
+    },
+    "2014": {
+      "Kursveranstaltungen": [
+        {
+          "value": 2667
+        }
+      ],
+      "offen angebotene Kurse": [
+        {
+          "value": 2544
+        },
+        {
+          "value": 27527
+        }
+      ],
+      "Auftrags-/Vertragsmaßnahmen": [
+        {
+          "value": 123
+        },
+        {
+          "value": 1721
+        }
+      ],
+      "Gesellschaft/Politik/Umwelt": [
+        {
+          "value": 264
+        },
+        {
+          "value": 3757
+        }
+      ],
+      "Kultur/Gestalten": [
+        {
+          "value": 321
+        },
+        {
+          "value": 3309
+        }
+      ],
+      "Gesundheit": [
+        {
+          "value": 945
+        },
+        {
+          "value": 11056
+        }
+      ],
+      "darunter Bewegung, Fitness": [
+        {
+          "value": 561
+        },
+        {
+          "value": 7199
+        }
+      ],
+      "Sprachen": [
+        {
+          "value": 736
+        },
+        {
+          "value": 8131
+        }
+      ],
+      "darunter Englisch": [
+        {
+          "value": 275
+        },
+        {
+          "value": 2771
+        }
+      ],
+      "Arbeit/Beruf": [
+        {
+          "value": 320
+        },
+        {
+          "value": 2622
+        }
+      ],
+      "darunter IT- und Mediengrundlagen": [
+        {
+          "value": 186
+        },
+        {
+          "value": 1326
+        }
+      ],
+      "Grundbildung/Schulabschlüsse": [
+        {
+          "value": 81
+        },
+        {
+          "value": 373
+        }
+      ],
+      "Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 233
+        }
+      ],
+      "Studienfahrten und Exkursionen": [
+        {
+          "value": 7
+        }
+      ],
+      "Teilnehmer an Kursveranstaltungen": [
+        {
+          "value": 29248
+        }
+      ],
+      "Teilnehmer an Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 5897
+        }
+      ],
+      "Teilnehmer an Studienfahrten und Exkursionen": [
+        {
+          "value": 145
+        }
+      ],
+      "Neben- und freiberufliche Leiter von Kursen und Lehrgängen": [
+        {
+          "value": 464
+        }
+      ],
+      "Hauptberufliches Personal": [
+        {
+          "value": 27
+        }
+      ]
+    },
+    "2015": {
+      "Teilnehmer an Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 5469
+        }
+      ],
+      "Teilnehmer an Studienfahrten und Exkursionen": [
+        {
+          "value": 228
+        }
+      ],
+      "Neben- und freiberufliche Leiter von Kursen und Lehrgängen": [
+        {
+          "value": 527
+        }
+      ],
+      "Hauptberufliches Personal": [
+        {
+          "value": 27
+        }
+      ],
+      "Kursveranstaltungen": [
+        {
+          "value": 2670
+        }
+      ],
+      "offen angebotene Kurse": [
+        {
+          "value": 2621
+        },
+        {
+          "value": 28704
+        }
+      ],
+      "Auftrags-/Vertragsmaßnahmen": [
+        {
+          "value": 49
+        },
+        {
+          "value": 632
+        }
+      ],
+      "Gesellschaft/Politik/Umwelt": [
+        {
+          "value": 313
+        },
+        {
+          "value": 4423
+        }
+      ],
+      "Kultur/Gestalten": [
+        {
+          "value": 333
+        },
+        {
+          "value": 3279
+        }
+      ],
+      "Gesundheit": [
+        {
+          "value": 908
+        },
+        {
+          "value": 10908
+        }
+      ],
+      "darunter Bewegung, Fitness": [
+        {
+          "value": 510
+        },
+        {
+          "value": 6872
+        }
+      ],
+      "Sprachen": [
+        {
+          "value": 763
+        },
+        {
+          "value": 8355
+        }
+      ],
+      "darunter Englisch": [
+        {
+          "value": 273
+        },
+        {
+          "value": 2777
+        }
+      ],
+      "Arbeit/Beruf": [
+        {
+          "value": 276
+        },
+        {
+          "value": 2009
+        }
+      ],
+      "darunter IT- und Mediengrundlagen": [
+        {
+          "value": 163
+        },
+        {
+          "value": 1157
+        }
+      ],
+      "Grundbildung/Schulabschlüsse": [
+        {
+          "value": 77
+        },
+        {
+          "value": 362
+        }
+      ],
+      "Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 241
+        }
+      ],
+      "Studienfahrten und Exkursionen": [
+        {
+          "value": 13
+        }
+      ],
+      "Teilnehmer an Kursveranstaltungen": [
+        {
+          "value": 29336
+        }
+      ]
+    },
+    "2016": {
+      "Kursveranstaltungen": [
+        {
+          "value": 2737
+        }
+      ],
+      "offen angebotene Kurse": [
+        {
+          "value": 2659
+        },
+        {
+          "value": 28910
+        }
+      ],
+      "Auftrags-/Vertragsmaßnahmen": [
+        {
+          "value": 78
+        },
+        {
+          "value": 1286
+        }
+      ],
+      "Gesellschaft/Politik/Umwelt": [
+        {
+          "value": 314
+        },
+        {
+          "value": 4315
+        }
+      ],
+      "Kultur/Gestalten": [
+        {
+          "value": 312
+        },
+        {
+          "value": 3130
+        }
+      ],
+      "Gesundheit": [
+        {
+          "value": 952
+        },
+        {
+          "value": 11410
+        }
+      ],
+      "darunter Bewegung, Fitness": [
+        {
+          "value": 533
+        },
+        {
+          "value": 7146
+        }
+      ],
+      "Sprachen": [
+        {
+          "value": 840
+        },
+        {
+          "value": 9170
+        }
+      ],
+      "darunter Englisch": [
+        {
+          "value": 281
+        },
+        {
+          "value": 2841
+        }
+      ],
+      "Arbeit/Beruf": [
+        {
+          "value": 248
+        },
+        {
+          "value": 1821
+        }
+      ],
+      "darunter IT- und Mediengrundlagen": [
+        {
+          "value": 136
+        },
+        {
+          "value": 1013
+        }
+      ],
+      "Grundbildung/Schulabschlüsse": [
+        {
+          "value": 71
+        },
+        {
+          "value": 350
+        }
+      ],
+      "Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 291
+        }
+      ],
+      "Studienfahrten und Exkursionen": [
+        {
+          "value": 11
+        }
+      ],
+      "Teilnehmer an Kursveranstaltungen": [
+        {
+          "value": 30196
+        }
+      ],
+      "Teilnehmer an Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 7680
+        }
+      ],
+      "Teilnehmer an Studienfahrten und Exkursionen": [
+        {
+          "value": 185
+        }
+      ],
+      "Neben- und freiberufliche Leiter von Kursen und Lehrgängen": [
+        {
+          "value": 521
+        }
+      ],
+      "Hauptberufliches Personal": [
+        {
+          "value": 27
+        }
+      ]
+    },
+    "2017": {
+      "Kursveranstaltungen": [
+        {
+          "value": 2630
+        }
+      ],
+      "offen angebotene Kurse": [
+        {
+          "value": 2532
+        },
+        {
+          "value": 28197
+        }
+      ],
+      "Auftrags-/Vertragsmaßnahmen": [
+        {
+          "value": 98
+        },
+        {
+          "value": 1267
+        }
+      ],
+      "Gesellschaft/Politik/Umwelt": [
+        {
+          "value": 324
+        },
+        {
+          "value": 4048
+        }
+      ],
+      "Kultur/Gestalten": [
+        {
+          "value": 303
+        },
+        {
+          "value": 2903
+        }
+      ],
+      "Gesundheit": [
+        {
+          "value": 881
+        },
+        {
+          "value": 10434
+        }
+      ],
+      "darunter Bewegung, Fitness": [
+        {
+          "value": 446
+        },
+        {
+          "value": 6087
+        }
+      ],
+      "Sprachen": [
+        {
+          "value": 810
+        },
+        {
+          "value": 9966
+        }
+      ],
+      "darunter Englisch": [
+        {
+          "value": 280
+        },
+        {
+          "value": 2738
+        }
+      ],
+      "Arbeit/Beruf": [
+        {
+          "value": 267
+        },
+        {
+          "value": 1872
+        }
+      ],
+      "darunter IT- und Mediengrundlagen": [
+        {
+          "value": 120
+        },
+        {
+          "value": 881
+        }
+      ],
+      "Grundbildung/Schulabschlüsse": [
+        {
+          "value": 45
+        },
+        {
+          "value": 241
+        }
+      ],
+      "Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 221
+        }
+      ],
+      "Studienfahrten und Exkursionen": [
+        {
+          "value": 10
+        }
+      ],
+      "Teilnehmer an Kursveranstaltungen": [
+        {
+          "value": 29464
+        }
+      ],
+      "Teilnehmer an Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 4953
+        }
+      ],
+      "Teilnehmer an Studienfahrten und Exkursionen": [
+        {
+          "value": 200
+        }
+      ],
+      "Neben- und freiberufliche Leiter von Kursen und Lehrgängen": [
+        {
+          "value": 442
+        }
+      ],
+      "Hauptberufliches Personal": [
+        {
+          "value": 27
+        }
+      ]
+    },
+    "2018": {
+      "Kursveranstaltungen": [
+        {
+          "value": 2453
+        }
+      ],
+      "offen angebotene Kurse": [
+        {
+          "value": 2366
+        },
+        {
+          "value": 27676
+        }
+      ],
+      "Auftrags-/Vertragsmaßnahmen": [
+        {
+          "value": 87
+        },
+        {
+          "value": 1376
+        }
+      ],
+      "Gesellschaft/Politik/Umwelt": [
+        {
+          "value": 281
+        },
+        {
+          "value": 5018
+        }
+      ],
+      "Kultur/Gestalten": [
+        {
+          "value": 293
+        },
+        {
+          "value": 2856
+        }
+      ],
+      "Gesundheit": [
+        {
+          "value": 862
+        },
+        {
+          "value": 10136
+        }
+      ],
+      "darunter Bewegung, Fitness": [
+        {
+          "value": 439
+        },
+        {
+          "value": 5867
+        }
+      ],
+      "Sprachen": [
+        {
+          "value": 737
+        },
+        {
+          "value": 8768
+        }
+      ],
+      "darunter Englisch": [
+        {
+          "value": 240
+        },
+        {
+          "value": 2362
+        }
+      ],
+      "Arbeit/Beruf": [
+        {
+          "value": 241
+        },
+        {
+          "value": 2042
+        }
+      ],
+      "darunter IT- und Mediengrundlagen": [
+        {
+          "value": 158
+        },
+        {
+          "value": 1328
+        }
+      ],
+      "Grundbildung/Schulabschlüsse": [
+        {
+          "value": 39
+        },
+        {
+          "value": 232
+        }
+      ],
+      "Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 247
+        }
+      ],
+      "Studienfahrten und Exkursionen": [
+        {
+          "value": 4
+        }
+      ],
+      "Teilnehmer an Kursveranstaltungen": [
+        {
+          "value": 29052
+        }
+      ],
+      "Teilnehmer an Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 3963
+        }
+      ],
+      "Teilnehmer an Studienfahrten und Exkursionen": [
+        {
+          "value": 71
+        }
+      ],
+      "Neben- und freiberufliche Leiter von Kursen und Lehrgängen": [
+        {
+          "value": 410
+        }
+      ],
+      "Hauptberufliches Personal": [
+        {
+          "value": 28
+        }
+      ]
+    },
+    "2019": {
+      "Kursveranstaltungen": [
+        {
+          "value": 2452
+        }
+      ],
+      "offen angebotene Kurse": [
+        {
+          "value": 2379
+        },
+        {
+          "value": 26690
+        }
+      ],
+      "Auftrags-/Vertragsmaßnahmen": [
+        {
+          "value": 73
+        },
+        {
+          "value": 1085
+        }
+      ],
+      "Gesellschaft/Politik/Umwelt": [
+        {
+          "value": 273
+        },
+        {
+          "value": 4468
+        }
+      ],
+      "Kultur/Gestalten": [
+        {
+          "value": 320
+        },
+        {
+          "value": 3011
+        }
+      ],
+      "Gesundheit": [
+        {
+          "value": 882
+        },
+        {
+          "value": 10066
+        }
+      ],
+      "darunter Bewegung, Fitness": [
+        {
+          "value": 453
+        },
+        {
+          "value": 5800
+        }
+      ],
+      "Sprachen": [
+        {
+          "value": 733
+        },
+        {
+          "value": 8441
+        }
+      ],
+      "darunter Englisch": [
+        {
+          "value": 244
+        },
+        {
+          "value": 2392
+        }
+      ],
+      "Arbeit/Beruf": [
+        {
+          "value": 206
+        },
+        {
+          "value": 1579
+        }
+      ],
+      "darunter IT- und Mediengrundlagen": [
+        {
+          "value": 135
+        },
+        {
+          "value": 1108
+        }
+      ],
+      "Grundbildung/Schulabschlüsse": [
+        {
+          "value": 38
+        },
+        {
+          "value": 210
+        }
+      ],
+      "Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 235
+        }
+      ],
+      "Studienfahrten und Exkursionen": [
+        {
+          "value": 3
+        }
+      ],
+      "Teilnehmer an Kursveranstaltungen": [
+        {
+          "value": 27775
+        }
+      ],
+      "Teilnehmer an Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 4106
+        }
+      ],
+      "Teilnehmer an Studienfahrten und Exkursionen": [
+        {
+          "value": 31
+        }
+      ],
+      "Neben- und freiberufliche Leiter von Kursen und Lehrgängen": [
+        {
+          "value": 398
+        }
+      ],
+      "Hauptberufliches Personal": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2020": {
+      "Kursveranstaltungen": [
+        {
+          "value": 1709
+        }
+      ],
+      "offen angebotene Kurse": [
+        {
+          "value": 1654
+        },
+        {
+          "value": 14638
+        }
+      ],
+      "Auftrags-/Vertragsmaßnahmen": [
+        {
+          "value": 55
+        },
+        {
+          "value": 510
+        }
+      ],
+      "Gesellschaft/Politik/Umwelt": [
+        {
+          "value": 117
+        },
+        {
+          "value": 1497
+        }
+      ],
+      "Kultur/Gestalten": [
+        {
+          "value": 121
+        },
+        {
+          "value": 1066
+        }
+      ],
+      "Gesundheit": [
+        {
+          "value": 674
+        },
+        {
+          "value": 6022
+        }
+      ],
+      "darunter Bewegung, Fitness": [
+        {
+          "value": 373
+        },
+        {
+          "value": 3797
+        }
+      ],
+      "Sprachen": [
+        {
+          "value": 604
+        },
+        {
+          "value": 5292
+        }
+      ],
+      "darunter Englisch": [
+        {
+          "value": 182
+        },
+        {
+          "value": 1391
+        }
+      ],
+      "Arbeit/Beruf": [
+        {
+          "value": 153
+        },
+        {
+          "value": 1029
+        }
+      ],
+      "darunter IT- und Mediengrundlagen": [
+        {
+          "value": 94
+        },
+        {
+          "value": 657
+        }
+      ],
+      "Grundbildung/Schulabschlüsse": [
+        {
+          "value": 40
+        },
+        {
+          "value": 242
+        }
+      ],
+      "Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 228
+        }
+      ],
+      "Studienfahrten und Exkursionen": [
+        {
+          "value": 1
+        }
+      ],
+      "Teilnehmer an Kursveranstaltungen": [
+        {
+          "value": 15148
+        }
+      ],
+      "Teilnehmer an Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 3047
+        }
+      ],
+      "Teilnehmer an Studienfahrten und Exkursionen": [
+        {
+          "value": 9
+        }
+      ],
+      "Neben- und freiberufliche Leiter von Kursen und Lehrgängen": [
+        {
+          "value": 330
+        }
+      ],
+      "Hauptberufliches Personal": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2021": {
+      "Kursveranstaltungen": [
+        {
+          "value": 1197
+        }
+      ],
+      "offen angebotene Kurse": [
+        {
+          "value": 1109
+        },
+        {
+          "value": 425
+        }
+      ],
+      "Auftrags-/Vertragsmaßnahmen": [
+        {
+          "value": 88
+        },
+        {
+          "value": 763
+        }
+      ],
+      "Gesellschaft/Politik/Umwelt": [
+        {
+          "value": 100
+        },
+        {
+          "value": 1141
+        }
+      ],
+      "Kultur/Gestalten": [
+        {
+          "value": 80
+        },
+        {
+          "value": 593
+        }
+      ],
+      "Gesundheit": [
+        {
+          "value": 369
+        },
+        {
+          "value": 3154
+        }
+      ],
+      "darunter Bewegung, Fitness": [
+        {
+          "value": 224
+        },
+        {
+          "value": 2111
+        }
+      ],
+      "Sprachen": [
+        {
+          "value": 511
+        },
+        {
+          "value": 4379
+        }
+      ],
+      "darunter Englisch": [
+        {
+          "value": 125
+        },
+        {
+          "value": 857
+        }
+      ],
+      "Arbeit/Beruf": [
+        {
+          "value": 126
+        },
+        {
+          "value": 839
+        }
+      ],
+      "darunter IT- und Mediengrundlagen": [
+        {
+          "value": 72
+        },
+        {
+          "value": 561
+        }
+      ],
+      "Grundbildung/Schulabschlüsse": [
+        {
+          "value": 11
+        },
+        {
+          "value": 82
+        }
+      ],
+      "Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 145
+        }
+      ],
+      "Studienfahrten und Exkursionen": [
+        {
+          "value": null
+        }
+      ],
+      "Teilnehmer an Kursveranstaltungen": [
+        {
+          "value": 10188
+        }
+      ],
+      "Teilnehmer an Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 2179
+        }
+      ],
+      "Teilnehmer an Studienfahrten und Exkursionen": [
+        {
+          "value": null
+        }
+      ],
+      "Neben- und freiberufliche Leiter von Kursen und Lehrgängen": [
+        {
+          "value": 252
+        }
+      ],
+      "Hauptberufliches Personal": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2022": {
+      "Kursveranstaltungen": [
+        {
+          "value": 1776
+        }
+      ],
+      "offen angebotene Kurse": [
+        {
+          "value": 1617
+        },
+        {
+          "value": 15099
+        }
+      ],
+      "Auftrags-/Vertragsmaßnahmen": [
+        {
+          "value": 159
+        },
+        {
+          "value": 1501
+        }
+      ],
+      "Gesellschaft/Politik/Umwelt": [
+        {
+          "value": 134
+        },
+        {
+          "value": 1876
+        }
+      ],
+      "Kultur/Gestalten": [
+        {
+          "value": 179
+        },
+        {
+          "value": 1486
+        }
+      ],
+      "Gesundheit": [
+        {
+          "value": 630
+        },
+        {
+          "value": 5733
+        }
+      ],
+      "darunter Bewegung, Fitness": [
+        {
+          "value": 374
+        },
+        {
+          "value": 3865
+        }
+      ],
+      "Sprachen": [
+        {
+          "value": 591
+        },
+        {
+          "value": 5648
+        }
+      ],
+      "darunter Englisch": [
+        {
+          "value": 152
+        },
+        {
+          "value": 1166
+        }
+      ],
+      "Arbeit/Beruf": [
+        {
+          "value": 224
+        },
+        {
+          "value": 1758
+        }
+      ],
+      "darunter IT- und Mediengrundlagen": [
+        {
+          "value": 184
+        },
+        {
+          "value": 1508
+        }
+      ],
+      "Grundbildung/Schulabschlüsse": [
+        {
+          "value": 16
+        },
+        {
+          "value": 83
+        }
+      ],
+      "Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 137
+        }
+      ],
+      "Studienfahrten und Exkursionen": [
+        {
+          "value": 1
+        }
+      ],
+      "Teilnehmer an Kursveranstaltungen": [
+        {
+          "value": 16600
+        }
+      ],
+      "Teilnehmer an Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 2201
+        }
+      ],
+      "Teilnehmer an Studienfahrten und Exkursionen": [
+        {
+          "value": 8
+        }
+      ],
+      "Neben- und freiberufliche Leiter von Kursen und Lehrgängen": [
+        {
+          "value": 283
+        }
+      ],
+      "Hauptberufliches Personal": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2023": {
+      "Kursveranstaltungen": [
+        {
+          "value": 2221
+        }
+      ],
+      "offen angebotene Kurse": [
+        {
+          "value": 2185
+        },
+        {
+          "value": 21668
+        }
+      ],
+      "Auftrags-/Vertragsmaßnahmen": [
+        {
+          "value": 36
+        },
+        {
+          "value": 440
+        }
+      ],
+      "Gesellschaft/Politik/Umwelt": [
+        {
+          "value": 147
+        },
+        {
+          "value": 1807
+        }
+      ],
+      "Kultur/Gestalten": [
+        {
+          "value": 279
+        },
+        {
+          "value": 2083
+        }
+      ],
+      "Gesundheit": [
+        {
+          "value": 883
+        },
+        {
+          "value": 9226
+        }
+      ],
+      "darunter Bewegung, Fitness": [
+        {
+          "value": 437
+        },
+        {
+          "value": 5337
+        }
+      ],
+      "Sprachen": [
+        {
+          "value": 806
+        },
+        {
+          "value": 7933
+        }
+      ],
+      "darunter Englisch": [
+        {
+          "value": 234
+        },
+        {
+          "value": 2066
+        }
+      ],
+      "Arbeit/Beruf": [
+        {
+          "value": 88
+        },
+        {
+          "value": 573
+        }
+      ],
+      "darunter IT- und Mediengrundlagen": [
+        {
+          "value": 40
+        },
+        {
+          "value": 281
+        }
+      ],
+      "Grundbildung/Schulabschlüsse": [
+        {
+          "value": 18
+        },
+        {
+          "value": 119
+        }
+      ],
+      "Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 207
+        }
+      ],
+      "Studienfahrten und Exkursionen": [
+        {
+          "value": 1
+        }
+      ],
+      "Teilnehmer an Kursveranstaltungen": [
+        {
+          "value": 22108
+        }
+      ],
+      "Teilnehmer an Einzelveranstaltungen und Vortragsreihen": [
+        {
+          "value": 3462
+        }
+      ],
+      "Teilnehmer an Studienfahrten und Exkursionen": [
+        {
+          "value": 13
+        }
+      ],
+      "Neben- und freiberufliche Leiter von Kursen und Lehrgängen": [
+        {
+          "value": 624
+        }
+      ],
+      "Hauptberufliches Personal": [
+        {
+          "value": null
+        }
+      ]
+    }
+  }
+}

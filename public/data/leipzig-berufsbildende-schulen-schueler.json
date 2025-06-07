@@ -1,0 +1,1434 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=5&rubrik_nr=3&periode=y",
+    "title": "Berufsbildende Schulen__Schüler"
+  },
+  "data": {
+    "2001/02": {
+      "Schüler": [
+        {
+          "value": 25945
+        },
+        {
+          "value": 16655
+        },
+        {
+          "value": 468
+        },
+        {
+          "value": 5120
+        },
+        {
+          "value": 977
+        },
+        {
+          "value": 1540
+        }
+      ],
+      "Lehrpersonal insgesamt": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ],
+      "darunter hauptberuflich": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        }
+      ]
+    },
+    "2002/03": {
+      "Schüler": [
+        {
+          "value": 25812
+        },
+        {
+          "value": 15743
+        },
+        {
+          "value": 517
+        },
+        {
+          "value": 5485
+        },
+        {
+          "value": 1044
+        },
+        {
+          "value": 1763
+        }
+      ],
+      "Lehrpersonal insgesamt": [
+        {
+          "value": 1481
+        },
+        {
+          "value": 468
+        },
+        {
+          "value": 46
+        },
+        {
+          "value": 632
+        },
+        {
+          "value": 49
+        },
+        {
+          "value": 193
+        }
+      ],
+      "darunter hauptberuflich": [
+        {
+          "value": 972
+        },
+        {
+          "value": 445
+        },
+        {
+          "value": 46
+        },
+        {
+          "value": 268
+        },
+        {
+          "value": 47
+        },
+        {
+          "value": 77
+        }
+      ]
+    },
+    "2003/04": {
+      "Schüler": [
+        {
+          "value": 25777
+        },
+        {
+          "value": 14744
+        },
+        {
+          "value": 544
+        },
+        {
+          "value": 6010
+        },
+        {
+          "value": 1131
+        },
+        {
+          "value": 2007
+        }
+      ],
+      "Lehrpersonal insgesamt": [
+        {
+          "value": 1542
+        },
+        {
+          "value": 447
+        },
+        {
+          "value": 48
+        },
+        {
+          "value": 694
+        },
+        {
+          "value": 49
+        },
+        {
+          "value": 198
+        }
+      ],
+      "darunter hauptberuflich": [
+        {
+          "value": 1002
+        },
+        {
+          "value": 437
+        },
+        {
+          "value": 48
+        },
+        {
+          "value": 285
+        },
+        {
+          "value": 48
+        },
+        {
+          "value": 93
+        }
+      ]
+    },
+    "2004/05": {
+      "Schüler": [
+        {
+          "value": 26139
+        },
+        {
+          "value": 14433
+        },
+        {
+          "value": 534
+        },
+        {
+          "value": 6872
+        },
+        {
+          "value": 1170
+        },
+        {
+          "value": 1747
+        }
+      ],
+      "Lehrpersonal insgesamt": [
+        {
+          "value": 1541
+        },
+        {
+          "value": 441
+        },
+        {
+          "value": 49
+        },
+        {
+          "value": 748
+        },
+        {
+          "value": 55
+        },
+        {
+          "value": 151
+        }
+      ],
+      "darunter hauptberuflich": [
+        {
+          "value": 1013
+        },
+        {
+          "value": 423
+        },
+        {
+          "value": 49
+        },
+        {
+          "value": 313
+        },
+        {
+          "value": 52
+        },
+        {
+          "value": 82
+        }
+      ]
+    },
+    "2005/06": {
+      "Schüler": [
+        {
+          "value": 26611
+        },
+        {
+          "value": 14092
+        },
+        {
+          "value": 517
+        },
+        {
+          "value": 7572
+        },
+        {
+          "value": 1239
+        },
+        {
+          "value": 1476
+        }
+      ],
+      "Lehrpersonal insgesamt": [
+        {
+          "value": 1622
+        },
+        {
+          "value": 462
+        },
+        {
+          "value": 49
+        },
+        {
+          "value": 804
+        },
+        {
+          "value": 81
+        },
+        {
+          "value": 122
+        }
+      ],
+      "darunter hauptberuflich": [
+        {
+          "value": 1048
+        },
+        {
+          "value": 436
+        },
+        {
+          "value": 49
+        },
+        {
+          "value": 327
+        },
+        {
+          "value": 63
+        },
+        {
+          "value": 74
+        }
+      ]
+    },
+    "2006/07": {
+      "Schüler": [
+        {
+          "value": 26708
+        },
+        {
+          "value": 14030
+        },
+        {
+          "value": 516
+        },
+        {
+          "value": 7891
+        },
+        {
+          "value": 1292
+        },
+        {
+          "value": 1317
+        }
+      ],
+      "Lehrpersonal insgesamt": [
+        {
+          "value": 1754
+        },
+        {
+          "value": 457
+        },
+        {
+          "value": 50
+        },
+        {
+          "value": 919
+        },
+        {
+          "value": 94
+        },
+        {
+          "value": 132
+        }
+      ],
+      "darunter hauptberuflich": [
+        {
+          "value": 1061
+        },
+        {
+          "value": 433
+        },
+        {
+          "value": 50
+        },
+        {
+          "value": 338
+        },
+        {
+          "value": 69
+        },
+        {
+          "value": 74
+        }
+      ]
+    },
+    "2007/08": {
+      "Schüler": [
+        {
+          "value": 26022
+        },
+        {
+          "value": 13573
+        },
+        {
+          "value": 570
+        },
+        {
+          "value": 7735
+        },
+        {
+          "value": 1271
+        },
+        {
+          "value": 1253
+        }
+      ],
+      "Lehrpersonal insgesamt": [
+        {
+          "value": 1762
+        },
+        {
+          "value": 427
+        },
+        {
+          "value": 60
+        },
+        {
+          "value": 946
+        },
+        {
+          "value": 97
+        },
+        {
+          "value": 120
+        }
+      ],
+      "darunter hauptberuflich": [
+        {
+          "value": 1063
+        },
+        {
+          "value": 406
+        },
+        {
+          "value": 60
+        },
+        {
+          "value": 346
+        },
+        {
+          "value": 68
+        },
+        {
+          "value": 78
+        }
+      ]
+    },
+    "2008/09": {
+      "Schüler": [
+        {
+          "value": 24910
+        },
+        {
+          "value": 13141
+        },
+        {
+          "value": 561
+        },
+        {
+          "value": 7111
+        },
+        {
+          "value": 1254
+        },
+        {
+          "value": 1361
+        }
+      ],
+      "Lehrpersonal insgesamt": [
+        {
+          "value": 1715
+        },
+        {
+          "value": 427
+        },
+        {
+          "value": 58
+        },
+        {
+          "value": 890
+        },
+        {
+          "value": 91
+        },
+        {
+          "value": 140
+        }
+      ],
+      "darunter hauptberuflich": [
+        {
+          "value": 1031
+        },
+        {
+          "value": 409
+        },
+        {
+          "value": 58
+        },
+        {
+          "value": 318
+        },
+        {
+          "value": 60
+        },
+        {
+          "value": 83
+        }
+      ]
+    },
+    "2009/10": {
+      "darunter hauptberuflich": [
+        {
+          "value": 58
+        },
+        {
+          "value": 93
+        },
+        {
+          "value": 1008
+        },
+        {
+          "value": 399
+        },
+        {
+          "value": 47
+        },
+        {
+          "value": 310
+        }
+      ],
+      "Schüler": [
+        {
+          "value": 1772
+        },
+        {
+          "value": 24033
+        },
+        {
+          "value": 12363
+        },
+        {
+          "value": 537
+        },
+        {
+          "value": 6807
+        },
+        {
+          "value": 1288
+        }
+      ],
+      "Lehrpersonal insgesamt": [
+        {
+          "value": 170
+        },
+        {
+          "value": 1683
+        },
+        {
+          "value": 422
+        },
+        {
+          "value": 47
+        },
+        {
+          "value": 848
+        },
+        {
+          "value": 90
+        }
+      ]
+    },
+    "2010/11": {
+      "Schüler": [
+        {
+          "value": 22299
+        },
+        {
+          "value": 11061
+        },
+        {
+          "value": 521
+        },
+        {
+          "value": 6163
+        },
+        {
+          "value": 1347
+        },
+        {
+          "value": 2020
+        }
+      ],
+      "Lehrpersonal insgesamt": [
+        {
+          "value": 1747
+        },
+        {
+          "value": 408
+        },
+        {
+          "value": 50
+        },
+        {
+          "value": 855
+        },
+        {
+          "value": 121
+        },
+        {
+          "value": 211
+        }
+      ],
+      "darunter hauptberuflich": [
+        {
+          "value": 1019
+        },
+        {
+          "value": 384
+        },
+        {
+          "value": 50
+        },
+        {
+          "value": 309
+        },
+        {
+          "value": 73
+        },
+        {
+          "value": 100
+        }
+      ]
+    },
+    "2011/12": {
+      "Schüler": [
+        {
+          "value": 20602
+        },
+        {
+          "value": 9793
+        },
+        {
+          "value": 491
+        },
+        {
+          "value": 5732
+        },
+        {
+          "value": 1243
+        },
+        {
+          "value": 2255
+        }
+      ],
+      "Lehrpersonal insgesamt": [
+        {
+          "value": 1770
+        },
+        {
+          "value": 426
+        },
+        {
+          "value": 49
+        },
+        {
+          "value": 862
+        },
+        {
+          "value": 91
+        },
+        {
+          "value": 241
+        }
+      ],
+      "darunter hauptberuflich": [
+        {
+          "value": 1008
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 49
+        },
+        {
+          "value": 288
+        },
+        {
+          "value": 65
+        },
+        {
+          "value": 104
+        }
+      ]
+    },
+    "2012/13": {
+      "Schüler": [
+        {
+          "value": 19736
+        },
+        {
+          "value": 9089
+        },
+        {
+          "value": 521
+        },
+        {
+          "value": 5715
+        },
+        {
+          "value": 1101
+        },
+        {
+          "value": 2303
+        }
+      ],
+      "Lehrpersonal insgesamt": [
+        {
+          "value": 1775
+        },
+        {
+          "value": 377
+        },
+        {
+          "value": 67
+        },
+        {
+          "value": 910
+        },
+        {
+          "value": 87
+        },
+        {
+          "value": 237
+        }
+      ],
+      "darunter hauptberuflich": [
+        {
+          "value": 989
+        },
+        {
+          "value": 350
+        },
+        {
+          "value": 55
+        },
+        {
+          "value": 304
+        },
+        {
+          "value": 61
+        },
+        {
+          "value": 109
+        }
+      ]
+    },
+    "2013/14": {
+      "Schüler": [
+        {
+          "value": 18741
+        },
+        {
+          "value": 8799
+        },
+        {
+          "value": 516
+        },
+        {
+          "value": 5177
+        },
+        {
+          "value": 1016
+        },
+        {
+          "value": 2281
+        }
+      ],
+      "Lehrpersonal insgesamt": [
+        {
+          "value": 1680
+        },
+        {
+          "value": 346
+        },
+        {
+          "value": 69
+        },
+        {
+          "value": 815
+        },
+        {
+          "value": 84
+        },
+        {
+          "value": 262
+        }
+      ],
+      "darunter hauptberuflich": [
+        {
+          "value": 963
+        },
+        {
+          "value": 334
+        },
+        {
+          "value": 55
+        },
+        {
+          "value": 293
+        },
+        {
+          "value": 56
+        },
+        {
+          "value": 115
+        }
+      ]
+    },
+    "2014/15": {
+      "Schüler": [
+        {
+          "value": 1104
+        },
+        {
+          "value": 18535
+        },
+        {
+          "value": 8785
+        },
+        {
+          "value": 573
+        },
+        {
+          "value": 4941
+        },
+        {
+          "value": 2244
+        }
+      ],
+      "Lehrpersonal insgesamt": [
+        {
+          "value": 1608
+        },
+        {
+          "value": 346
+        },
+        {
+          "value": 62
+        },
+        {
+          "value": 782
+        },
+        {
+          "value": 86
+        },
+        {
+          "value": 241
+        }
+      ],
+      "darunter hauptberuflich": [
+        {
+          "value": 940
+        },
+        {
+          "value": 333
+        },
+        {
+          "value": 50
+        },
+        {
+          "value": 279
+        },
+        {
+          "value": 56
+        },
+        {
+          "value": 118
+        }
+      ]
+    },
+    "2015/16": {
+      "Schüler": [
+        {
+          "value": 18417
+        },
+        {
+          "value": 8822
+        },
+        {
+          "value": 627
+        },
+        {
+          "value": 4717
+        },
+        {
+          "value": 1193
+        },
+        {
+          "value": 2183
+        }
+      ],
+      "Lehrpersonal insgesamt": [
+        {
+          "value": 1526
+        },
+        {
+          "value": 356
+        },
+        {
+          "value": 56
+        },
+        {
+          "value": 701
+        },
+        {
+          "value": 88
+        },
+        {
+          "value": 233
+        }
+      ],
+      "darunter hauptberuflich": [
+        {
+          "value": 937
+        },
+        {
+          "value": 343
+        },
+        {
+          "value": 55
+        },
+        {
+          "value": 278
+        },
+        {
+          "value": 57
+        },
+        {
+          "value": 113
+        }
+      ]
+    },
+    "2016/17": {
+      "Schüler": [
+        {
+          "value": 18699
+        },
+        {
+          "value": 9117
+        },
+        {
+          "value": 633
+        },
+        {
+          "value": 4776
+        },
+        {
+          "value": 1285
+        },
+        {
+          "value": 2053
+        }
+      ],
+      "Lehrpersonal insgesamt": [
+        {
+          "value": 1543
+        },
+        {
+          "value": 379
+        },
+        {
+          "value": 60
+        },
+        {
+          "value": 648
+        },
+        {
+          "value": 84
+        },
+        {
+          "value": 294
+        }
+      ],
+      "darunter hauptberuflich": [
+        {
+          "value": 972
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 293
+        },
+        {
+          "value": 65
+        },
+        {
+          "value": 115
+        }
+      ]
+    },
+    "2017/18": {
+      "Schüler": [
+        {
+          "value": 18730
+        },
+        {
+          "value": 9088
+        },
+        {
+          "value": 697
+        },
+        {
+          "value": 4803
+        },
+        {
+          "value": 1365
+        },
+        {
+          "value": 2005
+        }
+      ],
+      "Lehrpersonal insgesamt": [
+        {
+          "value": 1509
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 69
+        },
+        {
+          "value": 667
+        },
+        {
+          "value": 88
+        },
+        {
+          "value": 251
+        }
+      ],
+      "darunter hauptberuflich": [
+        {
+          "value": 963
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 68
+        },
+        {
+          "value": 294
+        },
+        {
+          "value": 62
+        },
+        {
+          "value": 128
+        }
+      ]
+    },
+    "2018/19": {
+      "Schüler": [
+        {
+          "value": 19173
+        },
+        {
+          "value": 9869
+        },
+        {
+          "value": 710
+        },
+        {
+          "value": 5206
+        },
+        {
+          "value": 1391
+        },
+        {
+          "value": 1997
+        }
+      ],
+      "Lehrpersonal insgesamt": [
+        {
+          "value": 1314
+        },
+        {
+          "value": 403
+        },
+        {
+          "value": 69
+        },
+        {
+          "value": 524
+        },
+        {
+          "value": 91
+        },
+        {
+          "value": 222
+        }
+      ],
+      "darunter hauptberuflich": [
+        {
+          "value": 997
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 334
+        },
+        {
+          "value": 71
+        },
+        {
+          "value": 135
+        }
+      ]
+    },
+    "2019/20": {
+      "Schüler": [
+        {
+          "value": 19360
+        },
+        {
+          "value": 10004
+        },
+        {
+          "value": 696
+        },
+        {
+          "value": 5314
+        },
+        {
+          "value": 1335
+        },
+        {
+          "value": 2128
+        }
+      ],
+      "Lehrpersonal insgesamt": [
+        {
+          "value": 1279
+        },
+        {
+          "value": 401
+        },
+        {
+          "value": 75
+        },
+        {
+          "value": 525
+        },
+        {
+          "value": 95
+        },
+        {
+          "value": 168
+        }
+      ],
+      "darunter hauptberuflich": [
+        {
+          "value": 1047
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 351
+        },
+        {
+          "value": 77
+        },
+        {
+          "value": 144
+        }
+      ]
+    },
+    "2020/21": {
+      "Lehrpersonal insgesamt": [
+        {
+          "value": 1307
+        },
+        {
+          "value": 422
+        },
+        {
+          "value": 57
+        },
+        {
+          "value": 519
+        },
+        {
+          "value": 100
+        },
+        {
+          "value": 192
+        }
+      ],
+      "Schüler": [
+        {
+          "value": 19550
+        },
+        {
+          "value": 9725
+        },
+        {
+          "value": 716
+        },
+        {
+          "value": 5455
+        },
+        {
+          "value": 1428
+        },
+        {
+          "value": 2226
+        }
+      ],
+      "darunter hauptberuflich": [
+        {
+          "value": 1088
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 361
+        },
+        {
+          "value": 87
+        },
+        {
+          "value": 147
+        }
+      ]
+    },
+    "2021/22": {
+      "Schüler": [
+        {
+          "value": 19853
+        },
+        {
+          "value": 9735
+        },
+        {
+          "value": 758
+        },
+        {
+          "value": 5405
+        },
+        {
+          "value": 1613
+        },
+        {
+          "value": 2342
+        }
+      ],
+      "Lehrpersonal insgesamt": [
+        {
+          "value": 1306
+        },
+        {
+          "value": 425
+        },
+        {
+          "value": 64
+        },
+        {
+          "value": 501
+        },
+        {
+          "value": 108
+        },
+        {
+          "value": 193
+        }
+      ],
+      "darunter hauptberuflich": [
+        {
+          "value": 1099
+        },
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 377
+        },
+        {
+          "value": 94
+        },
+        {
+          "value": 157
+        }
+      ]
+    },
+    "2022/23": {
+      "Schüler": [
+        {
+          "value": 19617
+        },
+        {
+          "value": 9749
+        },
+        {
+          "value": 758
+        },
+        {
+          "value": 5236
+        },
+        {
+          "value": 1627
+        },
+        {
+          "value": 2247
+        }
+      ],
+      "Lehrpersonal insgesamt": [
+        {
+          "value": 1282
+        },
+        {
+          "value": 393
+        },
+        {
+          "value": 67
+        },
+        {
+          "value": 518
+        },
+        {
+          "value": 106
+        },
+        {
+          "value": 179
+        }
+      ],
+      "darunter hauptberuflich": [
+        {
+          "value": 1092
+        },
+        {
+          "value": 388
+        },
+        {
+          "value": 66
+        },
+        {
+          "value": 369
+        },
+        {
+          "value": 98
+        },
+        {
+          "value": 154
+        }
+      ]
+    },
+    "2023/24": {
+      "Schüler": [
+        {
+          "value": 19604
+        },
+        {
+          "value": 9885
+        },
+        {
+          "value": 719
+        },
+        {
+          "value": 5220
+        },
+        {
+          "value": 1621
+        },
+        {
+          "value": 2159
+        }
+      ],
+      "Lehrpersonal insgesamt": [
+        {
+          "value": 1287
+        },
+        {
+          "value": 390
+        },
+        {
+          "value": 61
+        },
+        {
+          "value": 535
+        },
+        {
+          "value": 105
+        },
+        {
+          "value": 179
+        }
+      ],
+      "darunter hauptberuflich": [
+        {
+          "value": 1084
+        },
+        {
+          "value": 381
+        },
+        {
+          "value": 61
+        },
+        {
+          "value": 381
+        },
+        {
+          "value": 95
+        },
+        {
+          "value": 149
+        }
+      ]
+    }
+  }
+}

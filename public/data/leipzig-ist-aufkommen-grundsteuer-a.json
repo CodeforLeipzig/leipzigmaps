@@ -1,0 +1,748 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=14&rubrik_nr=7&periode=y",
+    "title": "Ist-Aufkommen__Grundsteuer A"
+  },
+  "data": {
+    "2002": {
+      "Grundsteuer A": [
+        {
+          "value": null
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": null
+        }
+      ],
+      "Gewerbesteuer": [
+        {
+          "value": null
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 92
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 51
+        }
+      ],
+      "Realsteueraufbringungskraft": [
+        {
+          "value": 310
+        }
+      ],
+      "Steuereinnahmekraft": [
+        {
+          "value": 421
+        }
+      ]
+    },
+    "2003": {
+      "Grundsteuer A": [
+        {
+          "value": null
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": null
+        }
+      ],
+      "Gewerbesteuer": [
+        {
+          "value": null
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 93.28
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 50.35
+        }
+      ],
+      "Realsteueraufbringungskraft": [
+        {
+          "value": 355.43
+        }
+      ],
+      "Steuereinnahmekraft": [
+        {
+          "value": 453.21
+        }
+      ]
+    },
+    "2004": {
+      "Grundsteuer A": [
+        {
+          "value": 0.5
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 129.55
+        }
+      ],
+      "Gewerbesteuer": [
+        {
+          "value": 247.09
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 93.6
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 50.42
+        }
+      ],
+      "Realsteueraufbringungskraft": [
+        {
+          "value": 338.47
+        }
+      ],
+      "Steuereinnahmekraft": [
+        {
+          "value": 457.23
+        }
+      ]
+    },
+    "2005": {
+      "Grundsteuer A": [
+        {
+          "value": 0.46
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 129.2
+        }
+      ],
+      "Gewerbesteuer": [
+        {
+          "value": 290.63
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 93.96
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 50.99
+        }
+      ],
+      "Realsteueraufbringungskraft": [
+        {
+          "value": 382.76
+        }
+      ],
+      "Steuereinnahmekraft": [
+        {
+          "value": 499.51
+        }
+      ]
+    },
+    "2006": {
+      "Grundsteuer A": [
+        {
+          "value": 0.47
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 130.9
+        }
+      ],
+      "Gewerbesteuer": [
+        {
+          "value": 379.81
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 105.81
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 52.94
+        }
+      ],
+      "Realsteueraufbringungskraft": [
+        {
+          "value": 461.31
+        }
+      ],
+      "Steuereinnahmekraft": [
+        {
+          "value": 588.65
+        }
+      ]
+    },
+    "2007": {
+      "Grundsteuer A": [
+        {
+          "value": 0.49
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 131.43
+        }
+      ],
+      "Gewerbesteuer": [
+        {
+          "value": 324.57
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 131.52
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 58.84
+        }
+      ],
+      "Realsteueraufbringungskraft": [
+        {
+          "value": 406.5
+        }
+      ],
+      "Steuereinnahmekraft": [
+        {
+          "value": 570.04
+        }
+      ]
+    },
+    "2008": {
+      "Grundsteuer A": [
+        {
+          "value": 0.46
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 127.65
+        }
+      ],
+      "Gewerbesteuer": [
+        {
+          "value": 384.29
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 163.02
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 60.26
+        }
+      ],
+      "Realsteueraufbringungskraft": [
+        {
+          "value": 457.94
+        }
+      ],
+      "Steuereinnahmekraft": [
+        {
+          "value": 656.16
+        }
+      ]
+    },
+    "2009": {
+      "Grundsteuer A": [
+        {
+          "value": 0.49
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 132.28
+        }
+      ],
+      "Gewerbesteuer": [
+        {
+          "value": 364.61
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 157.09
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 56.63
+        }
+      ],
+      "Realsteueraufbringungskraft": [
+        {
+          "value": 444.3
+        }
+      ],
+      "Steuereinnahmekraft": [
+        {
+          "value": 632.66
+        }
+      ]
+    },
+    "2010": {
+      "Grundsteuer A": [
+        {
+          "value": 0.46
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 130.24
+        }
+      ],
+      "Gewerbesteuer": [
+        {
+          "value": 337.08
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 158.26
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 57.53
+        }
+      ],
+      "Realsteueraufbringungskraft": [
+        {
+          "value": 419.73
+        }
+      ],
+      "Steuereinnahmekraft": [
+        {
+          "value": 609.88
+        }
+      ]
+    },
+    "2011": {
+      "Grundsteuer A": [
+        {
+          "value": 0.47
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 169.14
+        }
+      ],
+      "Gewerbesteuer": [
+        {
+          "value": 368.15
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 170.1
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 59.77
+        }
+      ],
+      "Realsteueraufbringungskraft": [
+        {
+          "value": 457.31
+        }
+      ],
+      "Steuereinnahmekraft": [
+        {
+          "value": 659.17
+        }
+      ]
+    },
+    "2012": {
+      "Grundsteuer A": [
+        {
+          "value": 0.46
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 171.47
+        }
+      ],
+      "Gewerbesteuer": [
+        {
+          "value": 384.13
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 190.48
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 60.28
+        }
+      ],
+      "Realsteueraufbringungskraft": [
+        {
+          "value": 474.2
+        }
+      ],
+      "Steuereinnahmekraft": [
+        {
+          "value": 695.74
+        }
+      ]
+    },
+    "2013": {
+      "Grundsteuer A": [
+        {
+          "value": 0.63
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 148.51
+        }
+      ],
+      "Gewerbesteuer": [
+        {
+          "value": 450.01
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 210.62
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 59.74
+        }
+      ],
+      "Realsteueraufbringungskraft": [
+        {
+          "value": 506.23
+        }
+      ],
+      "Steuereinnahmekraft": [
+        {
+          "value": 744.87
+        }
+      ]
+    },
+    "2014": {
+      "Grundsteuer A": [
+        {
+          "value": 0.45
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 170.99
+        }
+      ],
+      "Gewerbesteuer": [
+        {
+          "value": 506.75
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 225.78
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 60.26
+        }
+      ],
+      "Realsteueraufbringungskraft": [
+        {
+          "value": 589.71
+        }
+      ],
+      "Steuereinnahmekraft": [
+        {
+          "value": 837.19
+        }
+      ]
+    },
+    "2015": {
+      "Grundsteuer A": [
+        {
+          "value": 0.43
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 171.33
+        }
+      ],
+      "Gewerbesteuer": [
+        {
+          "value": 442.38
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 255.31
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 65.97
+        }
+      ],
+      "Realsteueraufbringungskraft": [
+        {
+          "value": 531.31
+        }
+      ],
+      "Steuereinnahmekraft": [
+        {
+          "value": 818.93
+        }
+      ]
+    },
+    "2016": {
+      "Grundsteuer A": [
+        {
+          "value": 0.42
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 166.96
+        }
+      ],
+      "Gewerbesteuer": [
+        {
+          "value": 525.72
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 267.29
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 66.52
+        }
+      ],
+      "Realsteueraufbringungskraft": [
+        {
+          "value": 608.69
+        }
+      ],
+      "Steuereinnahmekraft": [
+        {
+          "value": 886.91
+        }
+      ]
+    },
+    "2017": {
+      "Grundsteuer A": [
+        {
+          "value": 0.4
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 163.39
+        }
+      ],
+      "Gewerbesteuer": [
+        {
+          "value": 504.56
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 273.32
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 80.69
+        }
+      ],
+      "Realsteueraufbringungskraft": [
+        {
+          "value": 587.77
+        }
+      ],
+      "Steuereinnahmekraft": [
+        {
+          "value": 983.97
+        }
+      ]
+    },
+    "2018": {
+      "Grundsteuer A": [
+        {
+          "value": 0.38
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 163.32
+        }
+      ],
+      "Gewerbesteuer": [
+        {
+          "value": 530.06
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 301.79
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 97.1
+        }
+      ],
+      "Realsteueraufbringungskraft": [
+        {
+          "value": 611.1
+        }
+      ],
+      "Steuereinnahmekraft": [
+        {
+          "value": 1052.33
+        }
+      ]
+    },
+    "2019": {
+      "Grundsteuer A": [
+        {
+          "value": 0.41
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 163.88
+        }
+      ],
+      "Gewerbesteuer": [
+        {
+          "value": 604.28
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 318.83
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 106.62
+        }
+      ],
+      "Realsteueraufbringungskraft": [
+        {
+          "value": 680.71
+        }
+      ],
+      "Steuereinnahmekraft": [
+        {
+          "value": 1148.03
+        }
+      ]
+    },
+    "2020": {
+      "Grundsteuer A": [
+        {
+          "value": 0.39
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 161.86
+        }
+      ],
+      "Gewerbesteuer": [
+        {
+          "value": 412.66
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 302.12
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 116.17
+        }
+      ],
+      "Realsteueraufbringungskraft": [
+        {
+          "value": 889.53
+        }
+      ],
+      "Steuereinnahmekraft": [
+        {
+          "value": 961.86
+        }
+      ]
+    },
+    "2021": {
+      "Grundsteuer A": [
+        {
+          "value": 0.4
+        }
+      ],
+      "Grundsteuer B": [
+        {
+          "value": 164.3
+        }
+      ],
+      "Gewerbesteuer": [
+        {
+          "value": 657.22
+        }
+      ],
+      "Gemeindeanteil an der Einkommensteuer": [
+        {
+          "value": 344.33
+        }
+      ],
+      "Gemeindeanteil an der Umsatzsteuer": [
+        {
+          "value": 118.92
+        }
+      ],
+      "Realsteueraufbringungskraft": [
+        {
+          "value": 730.58
+        }
+      ],
+      "Steuereinnahmekraft": [
+        {
+          "value": 1238.25
+        }
+      ]
+    }
+  }
+}

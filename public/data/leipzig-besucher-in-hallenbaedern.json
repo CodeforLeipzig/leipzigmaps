@@ -1,0 +1,859 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=11&rubrik_nr=5&periode=y",
+    "title": "Besucher in Hallenbädern"
+  },
+  "data": {
+    "2001": {
+      "Besucher in Hallenbädern": [
+        {
+          "value": 869164
+        }
+      ],
+      "Festnutzer (Sportvereine, Bildungseinrichtungen)": [
+        {
+          "value": 544647
+        }
+      ],
+      "Öffentliche Besucher": [
+        {
+          "value": 268565
+        }
+      ],
+      "Saunabesucher": [
+        {
+          "value": 55952
+        }
+      ],
+      "Besucher in Freibädern": [
+        {
+          "value": 164146
+        }
+      ],
+      "darunter Ermäßigt": [
+        {
+          "value": 58836
+        }
+      ],
+      "Außerdem: Besucher der Sachsen-Therme": [
+        {
+          "value": 327000
+        }
+      ]
+    },
+    "2002": {
+      "Besucher in Freibädern": [
+        {
+          "value": 140286
+        }
+      ],
+      "darunter Ermäßigt": [
+        {
+          "value": 55829
+        }
+      ],
+      "Besucher in Hallenbädern": [
+        {
+          "value": 875164
+        }
+      ],
+      "Festnutzer (Sportvereine, Bildungseinrichtungen)": [
+        {
+          "value": 531857
+        }
+      ],
+      "Öffentliche Besucher": [
+        {
+          "value": 281346
+        }
+      ],
+      "Saunabesucher": [
+        {
+          "value": 61961
+        }
+      ],
+      "Außerdem: Besucher der Sachsen-Therme": [
+        {
+          "value": 430000
+        }
+      ]
+    },
+    "2003": {
+      "Außerdem: Besucher der Sachsen-Therme": [
+        {
+          "value": 424000
+        }
+      ],
+      "Saunabesucher": [
+        {
+          "value": 61758
+        }
+      ],
+      "Öffentliche Besucher": [
+        {
+          "value": 282974
+        }
+      ],
+      "Festnutzer (Sportvereine, Bildungseinrichtungen)": [
+        {
+          "value": 527244
+        }
+      ],
+      "Besucher in Hallenbädern": [
+        {
+          "value": 871976
+        }
+      ],
+      "darunter Ermäßigt": [
+        {
+          "value": 66142
+        }
+      ],
+      "Besucher in Freibädern": [
+        {
+          "value": 203004
+        }
+      ]
+    },
+    "2004": {
+      "Besucher in Freibädern": [
+        {
+          "value": 111606
+        }
+      ],
+      "darunter Ermäßigt": [
+        {
+          "value": 31441
+        }
+      ],
+      "Besucher in Hallenbädern": [
+        {
+          "value": 859765
+        }
+      ],
+      "Festnutzer (Sportvereine, Bildungseinrichtungen)": [
+        {
+          "value": 526705
+        }
+      ],
+      "Öffentliche Besucher": [
+        {
+          "value": 286736
+        }
+      ],
+      "Saunabesucher": [
+        {
+          "value": 46324
+        }
+      ],
+      "Außerdem: Besucher der Sachsen-Therme": [
+        {
+          "value": 430000
+        }
+      ]
+    },
+    "2005": {
+      "Außerdem: Besucher der Sachsen-Therme": [
+        {
+          "value": 445000
+        }
+      ],
+      "Saunabesucher": [
+        {
+          "value": 23174
+        }
+      ],
+      "Öffentliche Besucher": [
+        {
+          "value": 254709
+        }
+      ],
+      "Festnutzer (Sportvereine, Bildungseinrichtungen)": [
+        {
+          "value": 522509
+        }
+      ],
+      "Besucher in Hallenbädern": [
+        {
+          "value": 800392
+        }
+      ],
+      "darunter Ermäßigt": [
+        {
+          "value": 42360
+        }
+      ],
+      "Besucher in Freibädern": [
+        {
+          "value": 134484
+        }
+      ]
+    },
+    "2006": {
+      "Besucher in Hallenbädern": [
+        {
+          "value": 811192
+        }
+      ],
+      "Festnutzer (Sportvereine, Bildungseinrichtungen)": [
+        {
+          "value": 541123
+        }
+      ],
+      "Öffentliche Besucher": [
+        {
+          "value": 250744
+        }
+      ],
+      "Saunabesucher": [
+        {
+          "value": 19325
+        }
+      ],
+      "Besucher in Freibädern": [
+        {
+          "value": 159157
+        }
+      ],
+      "darunter Ermäßigt": [
+        {
+          "value": 41174
+        }
+      ],
+      "Außerdem: Besucher der Sachsen-Therme": [
+        {
+          "value": 425000
+        }
+      ]
+    },
+    "2007": {
+      "Besucher in Hallenbädern": [
+        {
+          "value": 816802
+        }
+      ],
+      "Festnutzer (Sportvereine, Bildungseinrichtungen)": [
+        {
+          "value": 528551
+        }
+      ],
+      "Öffentliche Besucher": [
+        {
+          "value": 268388
+        }
+      ],
+      "Saunabesucher": [
+        {
+          "value": 19863
+        }
+      ],
+      "Besucher in Freibädern": [
+        {
+          "value": 102521
+        }
+      ],
+      "darunter Ermäßigt": [
+        {
+          "value": 34176
+        }
+      ],
+      "Außerdem: Besucher der Sachsen-Therme": [
+        {
+          "value": 547738
+        }
+      ]
+    },
+    "2008": {
+      "Besucher in Hallenbädern": [
+        {
+          "value": 892636
+        }
+      ],
+      "Festnutzer (Sportvereine, Bildungseinrichtungen)": [
+        {
+          "value": 586760
+        }
+      ],
+      "Öffentliche Besucher": [
+        {
+          "value": 283968
+        }
+      ],
+      "Saunabesucher": [
+        {
+          "value": 21908
+        }
+      ],
+      "Außerdem: Besucher der Sachsen-Therme": [
+        {
+          "value": 447000
+        }
+      ],
+      "Besucher in Freibädern": [
+        {
+          "value": 111658
+        }
+      ],
+      "darunter Ermäßigt": [
+        {
+          "value": 34752
+        }
+      ]
+    },
+    "2009": {
+      "Besucher in Hallenbädern": [
+        {
+          "value": 905126
+        }
+      ],
+      "Festnutzer (Sportvereine, Bildungseinrichtungen)": [
+        {
+          "value": 594616
+        }
+      ],
+      "Öffentliche Besucher": [
+        {
+          "value": 285897
+        }
+      ],
+      "Besucher in Freibädern": [
+        {
+          "value": 128312
+        }
+      ],
+      "darunter Ermäßigt": [
+        {
+          "value": 36444
+        }
+      ],
+      "Saunabesucher": [
+        {
+          "value": 24613
+        }
+      ],
+      "Außerdem: Besucher der Sachsen-Therme": [
+        {
+          "value": 463575
+        }
+      ]
+    },
+    "2010": {
+      "Besucher in Hallenbädern": [
+        {
+          "value": 883987
+        }
+      ],
+      "Festnutzer (Sportvereine, Bildungseinrichtungen)": [
+        {
+          "value": 579683
+        }
+      ],
+      "Öffentliche Besucher": [
+        {
+          "value": 276851
+        }
+      ],
+      "Saunabesucher": [
+        {
+          "value": 27453
+        }
+      ],
+      "Außerdem: Besucher der Sachsen-Therme": [
+        {
+          "value": 463413
+        }
+      ],
+      "Besucher in Freibädern": [
+        {
+          "value": 150149
+        }
+      ],
+      "darunter Ermäßigt": [
+        {
+          "value": 45318
+        }
+      ]
+    },
+    "2011": {
+      "Besucher in Hallenbädern": [
+        {
+          "value": 918107
+        }
+      ],
+      "Festnutzer (Sportvereine, Bildungseinrichtungen)": [
+        {
+          "value": 592580
+        }
+      ],
+      "Öffentliche Besucher": [
+        {
+          "value": 300600
+        }
+      ],
+      "Saunabesucher": [
+        {
+          "value": 24927
+        }
+      ],
+      "Außerdem: Besucher der Sachsen-Therme": [
+        {
+          "value": 481000
+        }
+      ],
+      "Besucher in Freibädern": [
+        {
+          "value": 98253
+        }
+      ],
+      "darunter Ermäßigt": [
+        {
+          "value": 35157
+        }
+      ]
+    },
+    "2012": {
+      "Besucher in Hallenbädern": [
+        {
+          "value": 994002
+        }
+      ],
+      "Festnutzer (Sportvereine, Bildungseinrichtungen)": [
+        {
+          "value": 634247
+        }
+      ],
+      "Öffentliche Besucher": [
+        {
+          "value": 334579
+        }
+      ],
+      "Saunabesucher": [
+        {
+          "value": 25176
+        }
+      ],
+      "Außerdem: Besucher der Sachsen-Therme": [
+        {
+          "value": 495000
+        }
+      ],
+      "Besucher in Freibädern": [
+        {
+          "value": 104388
+        }
+      ],
+      "darunter Ermäßigt": [
+        {
+          "value": 36375
+        }
+      ]
+    },
+    "2013": {
+      "Besucher in Hallenbädern": [
+        {
+          "value": 992396
+        }
+      ],
+      "Festnutzer (Sportvereine, Bildungseinrichtungen)": [
+        {
+          "value": 619664
+        }
+      ],
+      "Öffentliche Besucher": [
+        {
+          "value": 347092
+        }
+      ],
+      "Saunabesucher": [
+        {
+          "value": 25640
+        }
+      ],
+      "Außerdem: Besucher der Sachsen-Therme": [
+        {
+          "value": 484500
+        }
+      ],
+      "Besucher in Freibädern": [
+        {
+          "value": 127860
+        }
+      ],
+      "darunter Ermäßigt": [
+        {
+          "value": 47024
+        }
+      ]
+    },
+    "2014": {
+      "Besucher in Hallenbädern": [
+        {
+          "value": 998579
+        }
+      ],
+      "Festnutzer (Sportvereine, Bildungseinrichtungen)": [
+        {
+          "value": 633423
+        }
+      ],
+      "Öffentliche Besucher": [
+        {
+          "value": 341610
+        }
+      ],
+      "Saunabesucher": [
+        {
+          "value": 23546
+        }
+      ],
+      "Außerdem: Besucher der Sachsen-Therme": [
+        {
+          "value": 510200
+        }
+      ],
+      "Besucher in Freibädern": [
+        {
+          "value": 111978
+        }
+      ],
+      "darunter Ermäßigt": [
+        {
+          "value": 39045
+        }
+      ]
+    },
+    "2015": {
+      "Besucher in Hallenbädern": [
+        {
+          "value": 960291
+        }
+      ],
+      "Festnutzer (Sportvereine, Bildungseinrichtungen)": [
+        {
+          "value": 609198
+        }
+      ],
+      "Öffentliche Besucher": [
+        {
+          "value": 327029
+        }
+      ],
+      "Saunabesucher": [
+        {
+          "value": 24064
+        }
+      ],
+      "Außerdem: Besucher der Sachsen-Therme": [
+        {
+          "value": 510000
+        }
+      ],
+      "Besucher in Freibädern": [
+        {
+          "value": 177049
+        }
+      ],
+      "darunter Ermäßigt": [
+        {
+          "value": 64577
+        }
+      ]
+    },
+    "2016": {
+      "Besucher in Hallenbädern": [
+        {
+          "value": 978588
+        }
+      ],
+      "Festnutzer (Sportvereine, Bildungseinrichtungen)": [
+        {
+          "value": 653629
+        }
+      ],
+      "Öffentliche Besucher": [
+        {
+          "value": 304443
+        }
+      ],
+      "Saunabesucher": [
+        {
+          "value": 20516
+        }
+      ],
+      "Außerdem: Besucher der Sachsen-Therme": [
+        {
+          "value": 514000
+        }
+      ],
+      "Besucher in Freibädern": [
+        {
+          "value": 165571
+        }
+      ],
+      "darunter Ermäßigt": [
+        {
+          "value": 61457
+        }
+      ]
+    },
+    "2017": {
+      "Besucher in Hallenbädern": [
+        {
+          "value": 973220
+        }
+      ],
+      "Festnutzer (Sportvereine, Bildungseinrichtungen)": [
+        {
+          "value": 626395
+        }
+      ],
+      "Öffentliche Besucher": [
+        {
+          "value": 325726
+        }
+      ],
+      "Saunabesucher": [
+        {
+          "value": 21099
+        }
+      ],
+      "Außerdem: Besucher der Sachsen-Therme": [
+        {
+          "value": 519000
+        }
+      ],
+      "Besucher in Freibädern": [
+        {
+          "value": 138040
+        }
+      ],
+      "darunter Ermäßigt": [
+        {
+          "value": 53087
+        }
+      ]
+    },
+    "2018": {
+      "Besucher in Hallenbädern": [
+        {
+          "value": 957382
+        }
+      ],
+      "Festnutzer (Sportvereine, Bildungseinrichtungen)": [
+        {
+          "value": 596725
+        }
+      ],
+      "Öffentliche Besucher": [
+        {
+          "value": 340155
+        }
+      ],
+      "Saunabesucher": [
+        {
+          "value": 20502
+        }
+      ],
+      "Außerdem: Besucher der Sachsen-Therme": [
+        {
+          "value": 528000
+        }
+      ],
+      "Besucher in Freibädern": [
+        {
+          "value": 264828
+        }
+      ],
+      "darunter Ermäßigt": [
+        {
+          "value": 95822
+        }
+      ]
+    },
+    "2019": {
+      "Besucher in Hallenbädern": [
+        {
+          "value": 1034370
+        }
+      ],
+      "Festnutzer (Sportvereine, Bildungseinrichtungen)": [
+        {
+          "value": 634117
+        }
+      ],
+      "Öffentliche Besucher": [
+        {
+          "value": 379299
+        }
+      ],
+      "Saunabesucher": [
+        {
+          "value": 20954
+        }
+      ],
+      "Außerdem: Besucher der Sachsen-Therme": [
+        {
+          "value": 531000
+        }
+      ],
+      "Besucher in Freibädern": [
+        {
+          "value": 217528
+        }
+      ],
+      "darunter Ermäßigt": [
+        {
+          "value": 84217
+        }
+      ]
+    },
+    "2020": {
+      "Besucher in Hallenbädern": [
+        {
+          "value": 481238
+        }
+      ],
+      "Festnutzer (Sportvereine, Bildungseinrichtungen)": [
+        {
+          "value": 278048
+        }
+      ],
+      "Öffentliche Besucher": [
+        {
+          "value": 194502
+        }
+      ],
+      "Saunabesucher": [
+        {
+          "value": 8688
+        }
+      ],
+      "Außerdem: Besucher der Sachsen-Therme": [
+        {
+          "value": 287000
+        }
+      ],
+      "Besucher in Freibädern": [
+        {
+          "value": 141694
+        }
+      ],
+      "darunter Ermäßigt": [
+        {
+          "value": 55770
+        }
+      ]
+    },
+    "2021": {
+      "Besucher in Hallenbädern": [
+        {
+          "value": 374092
+        }
+      ],
+      "Festnutzer (Sportvereine, Bildungseinrichtungen)": [
+        {
+          "value": 280351
+        }
+      ],
+      "Öffentliche Besucher": [
+        {
+          "value": 89569
+        }
+      ],
+      "Saunabesucher": [
+        {
+          "value": 4172
+        }
+      ],
+      "Außerdem: Besucher der Sachsen-Therme": [
+        {
+          "value": 185192
+        }
+      ],
+      "Besucher in Freibädern": [
+        {
+          "value": 137005
+        }
+      ],
+      "darunter Ermäßigt": [
+        {
+          "value": 61926
+        }
+      ]
+    },
+    "2022": {
+      "Besucher in Hallenbädern": [
+        {
+          "value": 806728
+        }
+      ],
+      "Festnutzer (Sportvereine, Bildungseinrichtungen)": [
+        {
+          "value": 525922
+        }
+      ],
+      "Öffentliche Besucher": [
+        {
+          "value": 263325
+        }
+      ],
+      "Saunabesucher": [
+        {
+          "value": 17481
+        }
+      ],
+      "Außerdem: Besucher der Sachsen-Therme": [
+        {
+          "value": 405000
+        }
+      ],
+      "Besucher in Freibädern": [
+        {
+          "value": 198541
+        }
+      ],
+      "darunter Ermäßigt": [
+        {
+          "value": 79120
+        }
+      ]
+    },
+    "2023": {
+      "Besucher in Hallenbädern": [
+        {
+          "value": 949227
+        }
+      ],
+      "Festnutzer (Sportvereine, Bildungseinrichtungen)": [
+        {
+          "value": 578994
+        }
+      ],
+      "Öffentliche Besucher": [
+        {
+          "value": 349367
+        }
+      ],
+      "Saunabesucher": [
+        {
+          "value": 20866
+        }
+      ],
+      "Außerdem: Besucher der Sachsen-Therme": [
+        {
+          "value": null
+        }
+      ],
+      "Besucher in Freibädern": [
+        {
+          "value": 181646
+        }
+      ],
+      "darunter Ermäßigt": [
+        {
+          "value": 71395
+        }
+      ]
+    }
+  }
+}

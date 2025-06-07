@@ -1,0 +1,392 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=4&rubrik_nr=38&periode=y",
+    "title": "Anzahl Personen__Wohnungslose Personen"
+  },
+  "data": {
+    "2022": {
+      "Wohnungslose Personen": [
+        {
+          "value": 552
+        }
+      ],
+      "davon männlich": [
+        {
+          "value": 392
+        }
+      ],
+      "davon weiblich": [
+        {
+          "value": 157
+        }
+      ],
+      "davon divers": [
+        {
+          "value": 3
+        }
+      ],
+      "Staatsangehörigkeit Deutsch": [
+        {
+          "value": 370
+        }
+      ],
+      "Staatsangehörigkeit Ausland": [
+        {
+          "value": 182
+        }
+      ],
+      "davon EU": [
+        {
+          "value": 44
+        }
+      ],
+      "davon außerhalb EU": [
+        {
+          "value": 138
+        }
+      ],
+      "davon Ukraine": [
+        {
+          "value": null
+        }
+      ],
+      "davon Syrien": [
+        {
+          "value": 83
+        }
+      ],
+      "0-17 Jahre": [
+        {
+          "value": 96
+        }
+      ],
+      "0-10 Jahre": [
+        {
+          "value": 53
+        }
+      ],
+      "11-20 Jahre": [
+        {
+          "value": 69
+        }
+      ],
+      "21-30 Jahre": [
+        {
+          "value": 58
+        }
+      ],
+      "31-40 Jahre": [
+        {
+          "value": 126
+        }
+      ],
+      "41-50 Jahre": [
+        {
+          "value": 107
+        }
+      ],
+      "51-60 Jahre": [
+        {
+          "value": 15
+        }
+      ],
+      "61 Jahre und älter": [
+        {
+          "value": 124
+        }
+      ],
+      "unter 1 Woche": [
+        {
+          "value": 97
+        }
+      ],
+      "1 bis 2 Wochen": [
+        {
+          "value": 33
+        }
+      ],
+      "2 bis 4 Wochen": [
+        {
+          "value": 41
+        }
+      ],
+      "5 bis 8 Wochen": [
+        {
+          "value": 22
+        }
+      ],
+      "8 bis 12 Wochen": [
+        {
+          "value": 99
+        }
+      ],
+      "12 bis 26 Wochen": [
+        {
+          "value": 54
+        }
+      ],
+      "26 bis 52 Wochen": [
+        {
+          "value": 33
+        }
+      ],
+      "52 bis 78 Wochen": [
+        {
+          "value": 46
+        }
+      ],
+      "78 bis 104 Wochen": [
+        {
+          "value": 47
+        }
+      ],
+      "über 104 Wochen": [
+        {
+          "value": 80
+        }
+      ],
+      "Alleinstehend": [
+        {
+          "value": 317
+        }
+      ],
+      "Alleinerziehend": [
+        {
+          "value": 93
+        }
+      ],
+      "(Ehe-) Paar mit Kind(ern)": [
+        {
+          "value": 99
+        }
+      ],
+      "(Ehe-) Paar ohne Kind": [
+        {
+          "value": 32
+        }
+      ],
+      "unbekannt": [
+        {
+          "value": null
+        }
+      ],
+      "Sonstige Mehrpersonenhaushalte": [
+        {
+          "value": 11
+        }
+      ],
+      "Kurzfristiges Hilfsangebot": [
+        {
+          "value": 450
+        }
+      ],
+      "Sonstiges Angebot": [
+        {
+          "value": 53
+        }
+      ],
+      "Stationäres Angebot": [
+        {
+          "value": 35
+        }
+      ],
+      "Teilstationäres Angebot": [
+        {
+          "value": 14
+        }
+      ]
+    },
+    "2023": {
+      "Teilstationäres Angebot": [
+        {
+          "value": 13
+        }
+      ],
+      "Stationäres Angebot": [
+        {
+          "value": 35
+        }
+      ],
+      "Sonstiges Angebot": [
+        {
+          "value": 84
+        }
+      ],
+      "Kurzfristiges Hilfsangebot": [
+        {
+          "value": 672
+        }
+      ],
+      "Sonstige Mehrpersonenhaushalte": [
+        {
+          "value": 13
+        }
+      ],
+      "unbekannt": [
+        {
+          "value": null
+        }
+      ],
+      "(Ehe-) Paar ohne Kind": [
+        {
+          "value": 26
+        }
+      ],
+      "(Ehe-) Paar mit Kind(ern)": [
+        {
+          "value": 221
+        }
+      ],
+      "Alleinerziehend": [
+        {
+          "value": 155
+        }
+      ],
+      "Alleinstehend": [
+        {
+          "value": 389
+        }
+      ],
+      "über 104 Wochen": [
+        {
+          "value": 118
+        }
+      ],
+      "78 bis 104 Wochen": [
+        {
+          "value": 136
+        }
+      ],
+      "52 bis 78 Wochen": [
+        {
+          "value": 57
+        }
+      ],
+      "26 bis 52 Wochen": [
+        {
+          "value": 56
+        }
+      ],
+      "12 bis 26 Wochen": [
+        {
+          "value": 67
+        }
+      ],
+      "8 bis 12 Wochen": [
+        {
+          "value": 132
+        }
+      ],
+      "5 bis 8 Wochen": [
+        {
+          "value": 36
+        }
+      ],
+      "2 bis 4 Wochen": [
+        {
+          "value": 33
+        }
+      ],
+      "1 bis 2 Wochen": [
+        {
+          "value": 38
+        }
+      ],
+      "unter 1 Woche": [
+        {
+          "value": 131
+        }
+      ],
+      "61 Jahre und älter": [
+        {
+          "value": 53
+        }
+      ],
+      "51-60 Jahre": [
+        {
+          "value": 96
+        }
+      ],
+      "41-50 Jahre": [
+        {
+          "value": 139
+        }
+      ],
+      "31-40 Jahre": [
+        {
+          "value": 180
+        }
+      ],
+      "21-30 Jahre": [
+        {
+          "value": 88
+        }
+      ],
+      "11-20 Jahre": [
+        {
+          "value": 117
+        }
+      ],
+      "0-10 Jahre": [
+        {
+          "value": 131
+        }
+      ],
+      "0-17 Jahre": [
+        {
+          "value": 220
+        }
+      ],
+      "davon Syrien": [
+        {
+          "value": 152
+        }
+      ],
+      "davon Ukraine": [
+        {
+          "value": 5
+        }
+      ],
+      "davon außerhalb EU": [
+        {
+          "value": 254
+        }
+      ],
+      "davon EU": [
+        {
+          "value": 78
+        }
+      ],
+      "Staatsangehörigkeit Ausland": [
+        {
+          "value": 332
+        }
+      ],
+      "Staatsangehörigkeit Deutsch": [
+        {
+          "value": 472
+        }
+      ],
+      "davon divers": [
+        {
+          "value": null
+        }
+      ],
+      "davon weiblich": [
+        {
+          "value": 268
+        }
+      ],
+      "davon männlich": [
+        {
+          "value": 536
+        }
+      ],
+      "Wohnungslose Personen": [
+        {
+          "value": 804
+        }
+      ]
+    }
+  }
+}

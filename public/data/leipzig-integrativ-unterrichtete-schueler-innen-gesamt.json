@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=5&rubrik_nr=6&periode=y",
+    "title": "Integrativ unterrichtete Schüler/-innen__gesamt"
+  },
+  "data": {
+    "2017/18": {
+      "Gesamt": [
+        {
+          "value": 1757
+        }
+      ],
+      "Emotional/soziale Entwicklung": [
+        {
+          "value": 854
+        }
+      ],
+      "Geistige Entwicklung": [
+        {
+          "value": null
+        }
+      ],
+      "Hören": [
+        {
+          "value": 92
+        }
+      ],
+      "Körperliche/motorische Entwicklung": [
+        {
+          "value": 140
+        }
+      ],
+      "Lernen": [
+        {
+          "value": 44
+        }
+      ],
+      "Sehen": [
+        {
+          "value": 26
+        }
+      ],
+      "Sprache": [
+        {
+          "value": 581
+        }
+      ]
+    },
+    "2018/19": {
+      "Sprache": [
+        {
+          "value": 627
+        }
+      ],
+      "Sehen": [
+        {
+          "value": 30
+        }
+      ],
+      "Lernen": [
+        {
+          "value": 61
+        }
+      ],
+      "Körperliche/motorische Entwicklung": [
+        {
+          "value": 162
+        }
+      ],
+      "Hören": [
+        {
+          "value": 91
+        }
+      ],
+      "Geistige Entwicklung": [
+        {
+          "value": 24
+        }
+      ],
+      "Emotional/soziale Entwicklung": [
+        {
+          "value": 957
+        }
+      ],
+      "Gesamt": [
+        {
+          "value": 1952
+        }
+      ]
+    },
+    "2019/20": {
+      "Gesamt": [
+        {
+          "value": 2097
+        }
+      ],
+      "Emotional/soziale Entwicklung": [
+        {
+          "value": 1058
+        }
+      ],
+      "Geistige Entwicklung": [
+        {
+          "value": 30
+        }
+      ],
+      "Hören": [
+        {
+          "value": 101
+        }
+      ],
+      "Körperliche/motorische Entwicklung": [
+        {
+          "value": 173
+        }
+      ],
+      "Lernen": [
+        {
+          "value": 87
+        }
+      ],
+      "Sehen": [
+        {
+          "value": 24
+        }
+      ],
+      "Sprache": [
+        {
+          "value": 624
+        }
+      ]
+    },
+    "2020/21": {
+      "Sprache": [
+        {
+          "value": 640
+        }
+      ],
+      "Sehen": [
+        {
+          "value": 26
+        }
+      ],
+      "Lernen": [
+        {
+          "value": 115
+        }
+      ],
+      "Körperliche/motorische Entwicklung": [
+        {
+          "value": 179
+        }
+      ],
+      "Hören": [
+        {
+          "value": 101
+        }
+      ],
+      "Geistige Entwicklung": [
+        {
+          "value": 37
+        }
+      ],
+      "Emotional/soziale Entwicklung": [
+        {
+          "value": 1202
+        }
+      ],
+      "Gesamt": [
+        {
+          "value": 2300
+        }
+      ]
+    },
+    "2021/22": {
+      "Gesamt": [
+        {
+          "value": 2521
+        }
+      ],
+      "Emotional/soziale Entwicklung": [
+        {
+          "value": 1330
+        }
+      ],
+      "Geistige Entwicklung": [
+        {
+          "value": 44
+        }
+      ],
+      "Hören": [
+        {
+          "value": 103
+        }
+      ],
+      "Körperliche/motorische Entwicklung": [
+        {
+          "value": 183
+        }
+      ],
+      "Lernen": [
+        {
+          "value": 168
+        }
+      ],
+      "Sehen": [
+        {
+          "value": 23
+        }
+      ],
+      "Sprache": [
+        {
+          "value": 670
+        }
+      ]
+    },
+    "2022/23": {
+      "Sprache": [
+        {
+          "value": 685
+        }
+      ],
+      "Sehen": [
+        {
+          "value": 28
+        }
+      ],
+      "Lernen": [
+        {
+          "value": 186
+        }
+      ],
+      "Körperliche/motorische Entwicklung": [
+        {
+          "value": 204
+        }
+      ],
+      "Hören": [
+        {
+          "value": 120
+        }
+      ],
+      "Geistige Entwicklung": [
+        {
+          "value": 51
+        }
+      ],
+      "Emotional/soziale Entwicklung": [
+        {
+          "value": 1517
+        }
+      ],
+      "Gesamt": [
+        {
+          "value": 2791
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,2147 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=11&rubrik_nr=3&periode=y",
+    "title": "Leipziger Städtische Bibliotheken__Bestand__Belletristik"
+  },
+  "data": {
+    "2001": {
+      "Belletristik": [
+        {
+          "value": 225058
+        },
+        {
+          "value": 571249
+        }
+      ],
+      "Kinder- und Jugendliteratur": [
+        {
+          "value": 148344
+        },
+        {
+          "value": 316860
+        }
+      ],
+      "Sach- und Fachliteratur": [
+        {
+          "value": 403463
+        },
+        {
+          "value": 929640
+        }
+      ],
+      "Audiovisuelle Materialien": [
+        {
+          "value": 151557
+        },
+        {
+          "value": 750970
+        }
+      ],
+      "Bestand an Büchern, Periodika, Musikalien, Handschriften, Hochschulschriften, Karten": [
+        {
+          "value": 12153000
+        }
+      ],
+      "Benutzer des Lesesäle": [
+        {
+          "value": 203605
+        }
+      ],
+      "Entleihungen": [
+        {
+          "value": 395253
+        },
+        {
+          "value": 920333
+        },
+        {
+          "value": 2768060
+        },
+        {
+          "value": 98505
+        }
+      ],
+      "Bestand an Büchern, Zeitschriften, Zeitungen nach Buchbinderbänden": [
+        {
+          "value": 4078580
+        }
+      ],
+      "Eingeschriebene Benutzer": [
+        {
+          "value": 37317
+        }
+      ],
+      "Bestand insgesamt": [
+        {
+          "value": 1038530
+        }
+      ],
+      "Besucher": [
+        {
+          "value": 1012200
+        }
+      ],
+      "Bestand an Punktschriftenbänden und -noten": [
+        {
+          "value": 42204
+        }
+      ],
+      "Bestand an digitalen Hörbüchern": [
+        {
+          "value": 144994
+        }
+      ],
+      "Benutzer": [
+        {
+          "value": 4107
+        }
+      ]
+    },
+    "2002": {
+      "Audiovisuelle Materialien": [
+        {
+          "value": 790945
+        },
+        {
+          "value": 156130
+        }
+      ],
+      "Sach- und Fachliteratur": [
+        {
+          "value": 883690
+        },
+        {
+          "value": 411758
+        }
+      ],
+      "Kinder- und Jugendliteratur": [
+        {
+          "value": 318539
+        },
+        {
+          "value": 146613
+        }
+      ],
+      "Belletristik": [
+        {
+          "value": 580377
+        },
+        {
+          "value": 228680
+        }
+      ],
+      "Entleihungen": [
+        {
+          "value": 2778250
+        },
+        {
+          "value": 530635
+        },
+        {
+          "value": 806052
+        },
+        {
+          "value": 102353
+        }
+      ],
+      "Bestand an Punktschriftenbänden und -noten": [
+        {
+          "value": 41133
+        }
+      ],
+      "Bestand an digitalen Hörbüchern": [
+        {
+          "value": 152091
+        }
+      ],
+      "Benutzer": [
+        {
+          "value": 5095
+        }
+      ],
+      "Bestand an Büchern, Periodika, Musikalien, Handschriften, Hochschulschriften, Karten": [
+        {
+          "value": 12463300
+        }
+      ],
+      "Benutzer des Lesesäle": [
+        {
+          "value": 211161
+        }
+      ],
+      "Bestand an Büchern, Zeitschriften, Zeitungen nach Buchbinderbänden": [
+        {
+          "value": 4138370
+        }
+      ],
+      "Eingeschriebene Benutzer": [
+        {
+          "value": 26297
+        }
+      ],
+      "Bestand insgesamt": [
+        {
+          "value": 1051500
+        }
+      ],
+      "Besucher": [
+        {
+          "value": 984503
+        }
+      ]
+    },
+    "2003": {
+      "Entleihungen": [
+        {
+          "value": 110285
+        },
+        {
+          "value": 742840
+        },
+        {
+          "value": 516815
+        },
+        {
+          "value": 2885870
+        }
+      ],
+      "Besucher": [
+        {
+          "value": 962035
+        }
+      ],
+      "Bestand insgesamt": [
+        {
+          "value": 1065180
+        }
+      ],
+      "Eingeschriebene Benutzer": [
+        {
+          "value": 23513
+        }
+      ],
+      "Bestand an Büchern, Zeitschriften, Zeitungen nach Buchbinderbänden": [
+        {
+          "value": 4203930
+        }
+      ],
+      "Benutzer des Lesesäle": [
+        {
+          "value": 158640
+        }
+      ],
+      "Bestand an Büchern, Periodika, Musikalien, Handschriften, Hochschulschriften, Karten": [
+        {
+          "value": 12766800
+        }
+      ],
+      "Benutzer": [
+        {
+          "value": 5665
+        }
+      ],
+      "Bestand an digitalen Hörbüchern": [
+        {
+          "value": 153770
+        }
+      ],
+      "Bestand an Punktschriftenbänden und -noten": [
+        {
+          "value": 42353
+        }
+      ],
+      "Belletristik": [
+        {
+          "value": 230538
+        },
+        {
+          "value": 590262
+        }
+      ],
+      "Kinder- und Jugendliteratur": [
+        {
+          "value": 145404
+        },
+        {
+          "value": 323694
+        }
+      ],
+      "Sach- und Fachliteratur": [
+        {
+          "value": 414245
+        },
+        {
+          "value": 877791
+        }
+      ],
+      "Audiovisuelle Materialien": [
+        {
+          "value": 166589
+        },
+        {
+          "value": 893423
+        }
+      ]
+    },
+    "2004": {
+      "Audiovisuelle Materialien": [
+        {
+          "value": 990288
+        },
+        {
+          "value": 159360
+        }
+      ],
+      "Sach- und Fachliteratur": [
+        {
+          "value": 880616
+        },
+        {
+          "value": 387661
+        }
+      ],
+      "Kinder- und Jugendliteratur": [
+        {
+          "value": 342392
+        },
+        {
+          "value": 127297
+        }
+      ],
+      "Belletristik": [
+        {
+          "value": 602781
+        },
+        {
+          "value": 199593
+        }
+      ],
+      "Entleihungen": [
+        {
+          "value": 3018490
+        },
+        {
+          "value": 520876
+        },
+        {
+          "value": 782218
+        },
+        {
+          "value": 125191
+        }
+      ],
+      "Bestand an Punktschriftenbänden und -noten": [
+        {
+          "value": 43917
+        }
+      ],
+      "Bestand an digitalen Hörbüchern": [
+        {
+          "value": 157892
+        }
+      ],
+      "Benutzer": [
+        {
+          "value": 6723
+        }
+      ],
+      "Bestand an Büchern, Periodika, Musikalien, Handschriften, Hochschulschriften, Karten": [
+        {
+          "value": 13073900
+        }
+      ],
+      "Benutzer des Lesesäle": [
+        {
+          "value": 158717
+        }
+      ],
+      "Bestand an Büchern, Zeitschriften, Zeitungen nach Buchbinderbänden": [
+        {
+          "value": 4274870
+        }
+      ],
+      "Eingeschriebene Benutzer": [
+        {
+          "value": 25910
+        }
+      ],
+      "Bestand insgesamt": [
+        {
+          "value": 983906
+        }
+      ],
+      "Besucher": [
+        {
+          "value": 917807
+        }
+      ]
+    },
+    "2005": {
+      "Belletristik": [
+        {
+          "value": 197475
+        },
+        {
+          "value": 573928
+        }
+      ],
+      "Kinder- und Jugendliteratur": [
+        {
+          "value": 123755
+        },
+        {
+          "value": 326408
+        }
+      ],
+      "Sach- und Fachliteratur": [
+        {
+          "value": 375555
+        },
+        {
+          "value": 813600
+        }
+      ],
+      "Audiovisuelle Materialien": [
+        {
+          "value": 163034
+        },
+        {
+          "value": 1054820
+        }
+      ],
+      "Bestand an Büchern, Periodika, Musikalien, Handschriften, Hochschulschriften, Karten": [
+        {
+          "value": 13621800
+        }
+      ],
+      "Benutzer des Lesesäle": [
+        {
+          "value": 160479
+        }
+      ],
+      "Entleihungen": [
+        {
+          "value": 482486
+        },
+        {
+          "value": 852047
+        },
+        {
+          "value": 2968040
+        },
+        {
+          "value": 145774
+        }
+      ],
+      "Bestand an Büchern, Zeitschriften, Zeitungen nach Buchbinderbänden": [
+        {
+          "value": 4290820
+        }
+      ],
+      "Eingeschriebene Benutzer": [
+        {
+          "value": 25988
+        }
+      ],
+      "Bestand insgesamt": [
+        {
+          "value": 974564
+        }
+      ],
+      "Besucher": [
+        {
+          "value": 905037
+        }
+      ],
+      "Bestand an Punktschriftenbänden und -noten": [
+        {
+          "value": 45263
+        }
+      ],
+      "Bestand an digitalen Hörbüchern": [
+        {
+          "value": 137229
+        }
+      ],
+      "Benutzer": [
+        {
+          "value": 7370
+        }
+      ]
+    },
+    "2006": {
+      "Audiovisuelle Materialien": [
+        {
+          "value": 1138290
+        },
+        {
+          "value": 168585
+        }
+      ],
+      "Sach- und Fachliteratur": [
+        {
+          "value": 740810
+        },
+        {
+          "value": 359087
+        }
+      ],
+      "Kinder- und Jugendliteratur": [
+        {
+          "value": 328928
+        },
+        {
+          "value": 119747
+        }
+      ],
+      "Belletristik": [
+        {
+          "value": 559275
+        },
+        {
+          "value": 191687
+        }
+      ],
+      "Bestand an Büchern, Periodika, Musikalien, Handschriften, Hochschulschriften, Karten": [
+        {
+          "value": 13955000
+        }
+      ],
+      "Benutzer des Lesesäle": [
+        {
+          "value": 185695
+        }
+      ],
+      "Entleihungen": [
+        {
+          "value": 469167
+        },
+        {
+          "value": 858542
+        },
+        {
+          "value": 2951670
+        },
+        {
+          "value": 156931
+        }
+      ],
+      "Bestand an Büchern, Zeitschriften, Zeitungen nach Buchbinderbänden": [
+        {
+          "value": 4348440
+        }
+      ],
+      "Eingeschriebene Benutzer": [
+        {
+          "value": 26779
+        }
+      ],
+      "Bestand insgesamt": [
+        {
+          "value": 988922
+        }
+      ],
+      "Besucher": [
+        {
+          "value": 838757
+        }
+      ],
+      "Bestand an Punktschriftenbänden und -noten": [
+        {
+          "value": 46964
+        }
+      ],
+      "Bestand an digitalen Hörbüchern": [
+        {
+          "value": 135200
+        }
+      ],
+      "Benutzer": [
+        {
+          "value": 7849
+        }
+      ]
+    },
+    "2007": {
+      "Belletristik": [
+        {
+          "value": 173574
+        },
+        {
+          "value": 558178
+        }
+      ],
+      "Kinder- und Jugendliteratur": [
+        {
+          "value": 108893
+        },
+        {
+          "value": 359750
+        }
+      ],
+      "Sach- und Fachliteratur": [
+        {
+          "value": 324503
+        },
+        {
+          "value": 706374
+        }
+      ],
+      "Audiovisuelle Materialien": [
+        {
+          "value": 145532
+        },
+        {
+          "value": 1527010
+        }
+      ],
+      "Bestand an Büchern, Periodika, Musikalien, Handschriften, Hochschulschriften, Karten": [
+        {
+          "value": 14261800
+        }
+      ],
+      "Benutzer des Lesesäle": [
+        {
+          "value": 139640
+        }
+      ],
+      "Entleihungen": [
+        {
+          "value": 471886
+        },
+        {
+          "value": 920759
+        },
+        {
+          "value": 3341320
+        },
+        {
+          "value": 164362
+        }
+      ],
+      "Bestand an Büchern, Zeitschriften, Zeitungen nach Buchbinderbänden": [
+        {
+          "value": 5236610
+        }
+      ],
+      "Eingeschriebene Benutzer": [
+        {
+          "value": 26721
+        }
+      ],
+      "Bestand insgesamt": [
+        {
+          "value": 900087
+        }
+      ],
+      "Besucher": [
+        {
+          "value": 853001
+        }
+      ],
+      "Bestand an Punktschriftenbänden und -noten": [
+        {
+          "value": 48827
+        }
+      ],
+      "Bestand an digitalen Hörbüchern": [
+        {
+          "value": 122391
+        }
+      ],
+      "Benutzer": [
+        {
+          "value": 8351
+        }
+      ]
+    },
+    "2008": {
+      "Audiovisuelle Materialien": [
+        {
+          "value": 1773920
+        },
+        {
+          "value": 136530
+        }
+      ],
+      "Sach- und Fachliteratur": [
+        {
+          "value": 706015
+        },
+        {
+          "value": 305079
+        }
+      ],
+      "Kinder- und Jugendliteratur": [
+        {
+          "value": 413406
+        },
+        {
+          "value": 104725
+        }
+      ],
+      "Belletristik": [
+        {
+          "value": 587207
+        },
+        {
+          "value": 167661
+        }
+      ],
+      "Bestand an Büchern, Periodika, Musikalien, Handschriften, Hochschulschriften, Karten": [
+        {
+          "value": 14545100
+        }
+      ],
+      "Benutzer des Lesesäle": [
+        {
+          "value": 154907
+        }
+      ],
+      "Entleihungen": [
+        {
+          "value": 438232
+        },
+        {
+          "value": 964769
+        },
+        {
+          "value": 3687340
+        },
+        {
+          "value": 174156
+        }
+      ],
+      "Bestand an Büchern, Zeitschriften, Zeitungen nach Buchbinderbänden": [
+        {
+          "value": 5278750
+        }
+      ],
+      "Eingeschriebene Benutzer": [
+        {
+          "value": 26279
+        }
+      ],
+      "Bestand insgesamt": [
+        {
+          "value": 859522
+        }
+      ],
+      "Besucher": [
+        {
+          "value": 836311
+        }
+      ],
+      "Bestand an Punktschriftenbänden und -noten": [
+        {
+          "value": 51729
+        }
+      ],
+      "Bestand an digitalen Hörbüchern": [
+        {
+          "value": 122244
+        }
+      ],
+      "Benutzer": [
+        {
+          "value": 8754
+        }
+      ]
+    },
+    "2009": {
+      "Belletristik": [
+        {
+          "value": 159399
+        },
+        {
+          "value": 598398
+        }
+      ],
+      "Bestand an Büchern, Periodika, Musikalien, Handschriften, Hochschulschriften, Karten": [
+        {
+          "value": 14858900
+        }
+      ],
+      "Benutzer des Lesesäle": [
+        {
+          "value": 135722
+        }
+      ],
+      "Entleihungen": [
+        {
+          "value": 418226
+        },
+        {
+          "value": 1017930
+        },
+        {
+          "value": 3587170
+        },
+        {
+          "value": 180696
+        }
+      ],
+      "Bestand an Büchern, Zeitschriften, Zeitungen nach Buchbinderbänden": [
+        {
+          "value": 5320640
+        }
+      ],
+      "Eingeschriebene Benutzer": [
+        {
+          "value": 29565
+        }
+      ],
+      "Bestand insgesamt": [
+        {
+          "value": 822410
+        }
+      ],
+      "Besucher": [
+        {
+          "value": 803673
+        }
+      ],
+      "Bestand an Punktschriftenbänden und -noten": [
+        {
+          "value": 54304
+        }
+      ],
+      "Bestand an digitalen Hörbüchern": [
+        {
+          "value": 117771
+        }
+      ],
+      "Benutzer": [
+        {
+          "value": 9113
+        }
+      ],
+      "Kinder- und Jugendliteratur": [
+        {
+          "value": 103018
+        },
+        {
+          "value": 426950
+        }
+      ],
+      "Sach- und Fachliteratur": [
+        {
+          "value": 283139
+        },
+        {
+          "value": 629353
+        }
+      ],
+      "Audiovisuelle Materialien": [
+        {
+          "value": 131009
+        },
+        {
+          "value": 1740610
+        }
+      ]
+    },
+    "2010": {
+      "Bestand an Büchern, Periodika, Musikalien, Handschriften, Hochschulschriften, Karten": [
+        {
+          "value": 16229900
+        }
+      ],
+      "Benutzer des Lesesäle": [
+        {
+          "value": 99432
+        }
+      ],
+      "Entleihungen": [
+        {
+          "value": 337881
+        },
+        {
+          "value": 1092120
+        },
+        {
+          "value": 3583790
+        },
+        {
+          "value": 187488
+        }
+      ],
+      "Bestand an Büchern, Zeitschriften, Zeitungen nach Buchbinderbänden": [
+        {
+          "value": 5376420
+        }
+      ],
+      "Eingeschriebene Benutzer": [
+        {
+          "value": 29512
+        }
+      ],
+      "Bestand insgesamt": [
+        {
+          "value": 807806
+        }
+      ],
+      "Belletristik": [
+        {
+          "value": 157727
+        },
+        {
+          "value": 592638
+        }
+      ],
+      "Kinder- und Jugendliteratur": [
+        {
+          "value": 99894
+        },
+        {
+          "value": 441114
+        }
+      ],
+      "Sach- und Fachliteratur": [
+        {
+          "value": 267951
+        },
+        {
+          "value": 595237
+        }
+      ],
+      "Audiovisuelle Materialien": [
+        {
+          "value": 135726
+        },
+        {
+          "value": 1774830
+        }
+      ],
+      "Besucher": [
+        {
+          "value": 831145
+        }
+      ],
+      "Bestand an Punktschriftenbänden und -noten": [
+        {
+          "value": 55519
+        }
+      ],
+      "Bestand an digitalen Hörbüchern": [
+        {
+          "value": 36346
+        }
+      ],
+      "Benutzer": [
+        {
+          "value": 9429
+        }
+      ]
+    },
+    "2011": {
+      "Bestand an Büchern, Periodika, Musikalien, Handschriften, Hochschulschriften, Karten": [
+        {
+          "value": 16678800
+        }
+      ],
+      "Benutzer des Lesesäle": [
+        {
+          "value": 99639
+        }
+      ],
+      "Entleihungen": [
+        {
+          "value": 293775
+        },
+        {
+          "value": 1047330
+        },
+        {
+          "value": 3895740
+        },
+        {
+          "value": 189234
+        }
+      ],
+      "Bestand an Büchern, Zeitschriften, Zeitungen nach Buchbinderbänden": [
+        {
+          "value": 5417420
+        }
+      ],
+      "Eingeschriebene Benutzer": [
+        {
+          "value": 28992
+        }
+      ],
+      "Bestand insgesamt": [
+        {
+          "value": 798759
+        }
+      ],
+      "Belletristik": [
+        {
+          "value": 156199
+        },
+        {
+          "value": 618872
+        }
+      ],
+      "Kinder- und Jugendliteratur": [
+        {
+          "value": 94719
+        },
+        {
+          "value": 507626
+        }
+      ],
+      "Sach- und Fachliteratur": [
+        {
+          "value": 258939
+        },
+        {
+          "value": 621400
+        }
+      ],
+      "Audiovisuelle Materialien": [
+        {
+          "value": 130391
+        },
+        {
+          "value": 1937570
+        }
+      ],
+      "Besucher": [
+        {
+          "value": 908298
+        }
+      ],
+      "Bestand an Punktschriftenbänden und -noten": [
+        {
+          "value": 56152
+        }
+      ],
+      "Bestand an digitalen Hörbüchern": [
+        {
+          "value": 41734
+        }
+      ],
+      "Benutzer": [
+        {
+          "value": 9623
+        }
+      ]
+    },
+    "2012": {
+      "Bestand an Büchern, Periodika, Musikalien, Handschriften, Hochschulschriften, Karten": [
+        {
+          "value": 16779100
+        }
+      ],
+      "Benutzer des Lesesäle": [
+        {
+          "value": 90221
+        }
+      ],
+      "Entleihungen": [
+        {
+          "value": 285003
+        },
+        {
+          "value": 1045000
+        },
+        {
+          "value": 3787160
+        },
+        {
+          "value": 189966
+        }
+      ],
+      "Bestand an Büchern, Zeitschriften, Zeitungen nach Buchbinderbänden": [
+        {
+          "value": 5418560
+        }
+      ],
+      "Eingeschriebene Benutzer": [
+        {
+          "value": 29246
+        }
+      ],
+      "Bestand insgesamt": [
+        {
+          "value": 786863
+        }
+      ],
+      "Belletristik": [
+        {
+          "value": 158287
+        },
+        {
+          "value": 613943
+        }
+      ],
+      "Kinder- und Jugendliteratur": [
+        {
+          "value": 93711
+        },
+        {
+          "value": 508021
+        }
+      ],
+      "Sach- und Fachliteratur": [
+        {
+          "value": 248964
+        },
+        {
+          "value": 558877
+        }
+      ],
+      "Audiovisuelle Materialien": [
+        {
+          "value": 145382
+        },
+        {
+          "value": 1888950
+        }
+      ],
+      "Besucher": [
+        {
+          "value": 903199
+        }
+      ],
+      "Bestand an Punktschriftenbänden und -noten": [
+        {
+          "value": 56941
+        }
+      ],
+      "Bestand an digitalen Hörbüchern": [
+        {
+          "value": 41224
+        }
+      ],
+      "Benutzer": [
+        {
+          "value": 9790
+        }
+      ]
+    },
+    "2013": {
+      "Bestand an Büchern, Periodika, Musikalien, Handschriften, Hochschulschriften, Karten": [
+        {
+          "value": 17090600
+        }
+      ],
+      "Benutzer des Lesesäle": [
+        {
+          "value": 84673
+        }
+      ],
+      "Entleihungen": [
+        {
+          "value": 272590
+        },
+        {
+          "value": 964621
+        },
+        {
+          "value": 4499040
+        },
+        {
+          "value": 189685
+        }
+      ],
+      "Bestand an Büchern, Zeitschriften, Zeitungen nach Buchbinderbänden": [
+        {
+          "value": 5409720
+        }
+      ],
+      "Eingeschriebene Benutzer": [
+        {
+          "value": 29173
+        }
+      ],
+      "Bestand insgesamt": [
+        {
+          "value": 783451
+        }
+      ],
+      "Belletristik": [
+        {
+          "value": 155261
+        },
+        {
+          "value": 678887
+        }
+      ],
+      "Kinder- und Jugendliteratur": [
+        {
+          "value": 98568
+        },
+        {
+          "value": 589838
+        }
+      ],
+      "Sach- und Fachliteratur": [
+        {
+          "value": 238490
+        },
+        {
+          "value": 662916
+        }
+      ],
+      "Audiovisuelle Materialien": [
+        {
+          "value": 152336
+        },
+        {
+          "value": 2294850
+        }
+      ],
+      "Besucher": [
+        {
+          "value": 984160
+        }
+      ],
+      "Bestand an Punktschriftenbänden und -noten": [
+        {
+          "value": 57750
+        }
+      ],
+      "Bestand an digitalen Hörbüchern": [
+        {
+          "value": 45571
+        }
+      ],
+      "Benutzer": [
+        {
+          "value": 9802
+        }
+      ]
+    },
+    "2014": {
+      "Bestand an Büchern, Periodika, Musikalien, Handschriften, Hochschulschriften, Karten": [
+        {
+          "value": 17385400
+        }
+      ],
+      "Benutzer des Lesesäle": [
+        {
+          "value": 75373
+        }
+      ],
+      "Entleihungen": [
+        {
+          "value": 269801
+        },
+        {
+          "value": 851490
+        },
+        {
+          "value": 4694760
+        },
+        {
+          "value": 187877
+        }
+      ],
+      "Bestand an Büchern, Zeitschriften, Zeitungen nach Buchbinderbänden": [
+        {
+          "value": 5449160
+        }
+      ],
+      "Eingeschriebene Benutzer": [
+        {
+          "value": 29319
+        }
+      ],
+      "Bestand insgesamt": [
+        {
+          "value": 767296
+        }
+      ],
+      "Belletristik": [
+        {
+          "value": 151175
+        },
+        {
+          "value": 673198
+        }
+      ],
+      "Kinder- und Jugendliteratur": [
+        {
+          "value": 100541
+        },
+        {
+          "value": 627712
+        }
+      ],
+      "Sach- und Fachliteratur": [
+        {
+          "value": 221921
+        },
+        {
+          "value": 681880
+        }
+      ],
+      "Audiovisuelle Materialien": [
+        {
+          "value": 153375
+        },
+        {
+          "value": 2417940
+        }
+      ],
+      "Besucher": [
+        {
+          "value": 1076090
+        }
+      ],
+      "Bestand an Punktschriftenbänden und -noten": [
+        {
+          "value": 59155
+        }
+      ],
+      "Bestand an digitalen Hörbüchern": [
+        {
+          "value": 44892
+        }
+      ],
+      "Benutzer": [
+        {
+          "value": 9920
+        }
+      ]
+    },
+    "2015": {
+      "Bestand an Büchern, Periodika, Musikalien, Handschriften, Hochschulschriften, Karten": [
+        {
+          "value": 17671800
+        }
+      ],
+      "Benutzer des Lesesäle": [
+        {
+          "value": 68040
+        }
+      ],
+      "Entleihungen": [
+        {
+          "value": 227620
+        },
+        {
+          "value": 812574
+        },
+        {
+          "value": 4924750
+        },
+        {
+          "value": 173054
+        }
+      ],
+      "Bestand an Büchern, Zeitschriften, Zeitungen nach Buchbinderbänden": [
+        {
+          "value": 5465620
+        }
+      ],
+      "Eingeschriebene Benutzer": [
+        {
+          "value": 29576
+        }
+      ],
+      "Bestand insgesamt": [
+        {
+          "value": 753051
+        }
+      ],
+      "Belletristik": [
+        {
+          "value": 145259
+        },
+        {
+          "value": 676207
+        }
+      ],
+      "Kinder- und Jugendliteratur": [
+        {
+          "value": 100505
+        },
+        {
+          "value": 704993
+        }
+      ],
+      "Sach- und Fachliteratur": [
+        {
+          "value": 212753
+        },
+        {
+          "value": 704400
+        }
+      ],
+      "Audiovisuelle Materialien": [
+        {
+          "value": 155173
+        },
+        {
+          "value": 2531610
+        }
+      ],
+      "Besucher": [
+        {
+          "value": 1097320
+        }
+      ],
+      "Bestand an Punktschriftenbänden und -noten": [
+        {
+          "value": 60385
+        }
+      ],
+      "Bestand an digitalen Hörbüchern": [
+        {
+          "value": 33736
+        }
+      ],
+      "Benutzer": [
+        {
+          "value": 10082
+        }
+      ]
+    },
+    "2016": {
+      "Bestand an Büchern, Periodika, Musikalien, Handschriften, Hochschulschriften, Karten": [
+        {
+          "value": 17950600
+        }
+      ],
+      "Benutzer des Lesesäle": [
+        {
+          "value": 63888
+        }
+      ],
+      "Entleihungen": [
+        {
+          "value": 201511
+        },
+        {
+          "value": 844497
+        },
+        {
+          "value": 4684100
+        },
+        {
+          "value": 192195
+        }
+      ],
+      "Bestand an Büchern, Zeitschriften, Zeitungen nach Buchbinderbänden": [
+        {
+          "value": 5002510
+        }
+      ],
+      "Eingeschriebene Benutzer": [
+        {
+          "value": 29526
+        }
+      ],
+      "Bestand insgesamt": [
+        {
+          "value": 758765
+        }
+      ],
+      "Belletristik": [
+        {
+          "value": 143536
+        },
+        {
+          "value": 641256
+        }
+      ],
+      "Kinder- und Jugendliteratur": [
+        {
+          "value": 105366
+        },
+        {
+          "value": 707775
+        }
+      ],
+      "Sach- und Fachliteratur": [
+        {
+          "value": 209152
+        },
+        {
+          "value": 675489
+        }
+      ],
+      "Audiovisuelle Materialien": [
+        {
+          "value": 157624
+        },
+        {
+          "value": 2341060
+        }
+      ],
+      "Besucher": [
+        {
+          "value": 1029050
+        }
+      ],
+      "Bestand an Punktschriftenbänden und -noten": [
+        {
+          "value": 60189
+        }
+      ],
+      "Bestand an digitalen Hörbüchern": [
+        {
+          "value": 36974
+        }
+      ],
+      "Benutzer": [
+        {
+          "value": 10696
+        }
+      ]
+    },
+    "2017": {
+      "Bestand an Büchern, Periodika, Musikalien, Handschriften, Hochschulschriften, Karten": [
+        {
+          "value": 18226400
+        }
+      ],
+      "Benutzer des Lesesäle": [
+        {
+          "value": 57209
+        }
+      ],
+      "Entleihungen": [
+        {
+          "value": 182699
+        },
+        {
+          "value": 904215
+        },
+        {
+          "value": 4885040
+        },
+        {
+          "value": 211078
+        }
+      ],
+      "Bestand an Büchern, Zeitschriften, Zeitungen nach Buchbinderbänden": [
+        {
+          "value": 5023550
+        }
+      ],
+      "Eingeschriebene Benutzer": [
+        {
+          "value": 30226
+        }
+      ],
+      "Bestand insgesamt": [
+        {
+          "value": 763252
+        }
+      ],
+      "Belletristik": [
+        {
+          "value": 141026
+        },
+        {
+          "value": 650370
+        }
+      ],
+      "Kinder- und Jugendliteratur": [
+        {
+          "value": 108921
+        },
+        {
+          "value": 784085
+        }
+      ],
+      "Sach- und Fachliteratur": [
+        {
+          "value": 205143
+        },
+        {
+          "value": 699731
+        }
+      ],
+      "Audiovisuelle Materialien": [
+        {
+          "value": 164621
+        },
+        {
+          "value": 2391930
+        }
+      ],
+      "Besucher": [
+        {
+          "value": 1025810
+        }
+      ],
+      "Bestand an Punktschriftenbänden und -noten": [
+        {
+          "value": 61867
+        }
+      ],
+      "Bestand an digitalen Hörbüchern": [
+        {
+          "value": 40546
+        }
+      ],
+      "Benutzer": [
+        {
+          "value": 11261
+        }
+      ]
+    },
+    "2018": {
+      "Bestand an Büchern, Periodika, Musikalien, Handschriften, Hochschulschriften, Karten": [
+        {
+          "value": 18469100
+        }
+      ],
+      "Benutzer des Lesesäle": [
+        {
+          "value": 53418
+        }
+      ],
+      "Bestand an Büchern, Zeitschriften, Zeitungen nach Buchbinderbänden": [
+        {
+          "value": 5042280
+        }
+      ],
+      "Eingeschriebene Benutzer": [
+        {
+          "value": 30843
+        }
+      ],
+      "Entleihungen": [
+        {
+          "value": 878572
+        },
+        {
+          "value": 4973730
+        },
+        {
+          "value": 217733
+        },
+        {
+          "value": 169117
+        }
+      ],
+      "Bestand insgesamt": [
+        {
+          "value": 759392
+        }
+      ],
+      "Belletristik": [
+        {
+          "value": 139225
+        },
+        {
+          "value": 659068
+        }
+      ],
+      "Kinder- und Jugendliteratur": [
+        {
+          "value": 112199
+        },
+        {
+          "value": 856184
+        }
+      ],
+      "Sach- und Fachliteratur": [
+        {
+          "value": 196084
+        },
+        {
+          "value": 710841
+        }
+      ],
+      "Audiovisuelle Materialien": [
+        {
+          "value": 166790
+        },
+        {
+          "value": 2354430
+        }
+      ],
+      "Besucher": [
+        {
+          "value": 1136850
+        }
+      ],
+      "Bestand an Punktschriftenbänden und -noten": [
+        {
+          "value": 62294
+        }
+      ],
+      "Bestand an digitalen Hörbüchern": [
+        {
+          "value": 44368
+        }
+      ],
+      "Benutzer": [
+        {
+          "value": 11601
+        }
+      ]
+    },
+    "2019": {
+      "Entleihungen": [
+        {
+          "value": 223354
+        },
+        {
+          "value": 160327
+        },
+        {
+          "value": 917016
+        },
+        {
+          "value": 5065470
+        }
+      ],
+      "Bestand an digitalen Hörbüchern": [
+        {
+          "value": 48565
+        }
+      ],
+      "Bestand an Büchern, Periodika, Musikalien, Handschriften, Hochschulschriften, Karten": [
+        {
+          "value": 18862600
+        }
+      ],
+      "Benutzer des Lesesäle": [
+        {
+          "value": 52333
+        }
+      ],
+      "Bestand an Büchern, Zeitschriften, Zeitungen nach Buchbinderbänden": [
+        {
+          "value": 5066540
+        }
+      ],
+      "Eingeschriebene Benutzer": [
+        {
+          "value": 31345
+        }
+      ],
+      "Bestand insgesamt": [
+        {
+          "value": 773580
+        }
+      ],
+      "Belletristik": [
+        {
+          "value": 138285
+        },
+        {
+          "value": 671835
+        }
+      ],
+      "Kinder- und Jugendliteratur": [
+        {
+          "value": 116363
+        },
+        {
+          "value": 965714
+        }
+      ],
+      "Sach- und Fachliteratur": [
+        {
+          "value": 199895
+        },
+        {
+          "value": 726164
+        }
+      ],
+      "Audiovisuelle Materialien": [
+        {
+          "value": 170133
+        },
+        {
+          "value": 2266720
+        }
+      ],
+      "Besucher": [
+        {
+          "value": 1142460
+        }
+      ],
+      "Bestand an Punktschriftenbänden und -noten": [
+        {
+          "value": 64634
+        }
+      ],
+      "Benutzer": [
+        {
+          "value": null
+        }
+      ]
+    },
+    "2020": {
+      "Bestand an Büchern, Periodika, Musikalien, Handschriften, Hochschulschriften, Karten": [
+        {
+          "value": 19335800
+        }
+      ],
+      "Benutzer des Lesesäle": [
+        {
+          "value": 42745
+        }
+      ],
+      "Entleihungen": [
+        {
+          "value": 119294
+        },
+        {
+          "value": 1150820
+        },
+        {
+          "value": 3674550
+        },
+        {
+          "value": 237206
+        }
+      ],
+      "Bestand an Büchern, Zeitschriften, Zeitungen nach Buchbinderbänden": [
+        {
+          "value": 5067200
+        }
+      ],
+      "Eingeschriebene Benutzer": [
+        {
+          "value": 30895
+        }
+      ],
+      "Bestand insgesamt": [
+        {
+          "value": 777554
+        }
+      ],
+      "Belletristik": [
+        {
+          "value": 136712
+        },
+        {
+          "value": 590266
+        }
+      ],
+      "Kinder- und Jugendliteratur": [
+        {
+          "value": 121975
+        },
+        {
+          "value": 821776
+        }
+      ],
+      "Sach- und Fachliteratur": [
+        {
+          "value": 195834
+        },
+        {
+          "value": 587120
+        }
+      ],
+      "Audiovisuelle Materialien": [
+        {
+          "value": 174039
+        },
+        {
+          "value": 1231180
+        }
+      ],
+      "Besucher": [
+        {
+          "value": 885170
+        }
+      ],
+      "Bestand an Punktschriftenbänden und -noten": [
+        {
+          "value": 65827
+        }
+      ],
+      "Bestand an digitalen Hörbüchern": [
+        {
+          "value": 51675
+        }
+      ],
+      "Benutzer": [
+        {
+          "value": 5826
+        }
+      ]
+    },
+    "2021": {
+      "Bestand an Büchern, Periodika, Musikalien, Handschriften, Hochschulschriften, Karten": [
+        {
+          "value": 19813500
+        }
+      ],
+      "Benutzer des Lesesäle": [
+        {
+          "value": 37231
+        }
+      ],
+      "Entleihungen": [
+        {
+          "value": 104315
+        },
+        {
+          "value": 1011850
+        },
+        {
+          "value": 3203470
+        },
+        {
+          "value": 237712
+        }
+      ],
+      "Bestand an Büchern, Zeitschriften, Zeitungen nach Buchbinderbänden": [
+        {
+          "value": 5073120
+        }
+      ],
+      "Eingeschriebene Benutzer": [
+        {
+          "value": 29829
+        }
+      ],
+      "Bestand insgesamt": [
+        {
+          "value": 795872
+        }
+      ],
+      "Belletristik": [
+        {
+          "value": 138142
+        },
+        {
+          "value": 556294
+        }
+      ],
+      "Kinder- und Jugendliteratur": [
+        {
+          "value": 130331
+        },
+        {
+          "value": 842180
+        }
+      ],
+      "Sach- und Fachliteratur": [
+        {
+          "value": 196889
+        },
+        {
+          "value": 509573
+        }
+      ],
+      "Audiovisuelle Materialien": [
+        {
+          "value": 183452
+        },
+        {
+          "value": 839180
+        }
+      ],
+      "Besucher": [
+        {
+          "value": 785327
+        }
+      ],
+      "Bestand an Punktschriftenbänden und -noten": [
+        {
+          "value": 67092
+        }
+      ],
+      "Bestand an digitalen Hörbüchern": [
+        {
+          "value": 55996
+        }
+      ],
+      "Benutzer": [
+        {
+          "value": 5776
+        }
+      ]
+    },
+    "2022": {
+      "Bestand an Büchern, Periodika, Musikalien, Handschriften, Hochschulschriften, Karten": [
+        {
+          "value": 20301700
+        }
+      ],
+      "Benutzer des Lesesäle": [
+        {
+          "value": 35399
+        }
+      ],
+      "Entleihungen": [
+        {
+          "value": 129691
+        },
+        {
+          "value": 750160
+        },
+        {
+          "value": 3582190
+        },
+        {
+          "value": 240605
+        }
+      ],
+      "Bestand an Büchern, Zeitschriften, Zeitungen nach Buchbinderbänden": [
+        {
+          "value": 5081610
+        }
+      ],
+      "Eingeschriebene Benutzer": [
+        {
+          "value": 28193
+        }
+      ],
+      "Bestand insgesamt": [
+        {
+          "value": 782126
+        }
+      ],
+      "Belletristik": [
+        {
+          "value": 138375
+        },
+        {
+          "value": 595542
+        }
+      ],
+      "Kinder- und Jugendliteratur": [
+        {
+          "value": 134152
+        },
+        {
+          "value": 1009910
+        }
+      ],
+      "Sach- und Fachliteratur": [
+        {
+          "value": 201976
+        },
+        {
+          "value": 591070
+        }
+      ],
+      "Audiovisuelle Materialien": [
+        {
+          "value": 187265
+        },
+        {
+          "value": 924038
+        }
+      ],
+      "Besucher": [
+        {
+          "value": 1033750
+        }
+      ],
+      "Bestand an Punktschriftenbänden und -noten": [
+        {
+          "value": 68194
+        }
+      ],
+      "Bestand an digitalen Hörbüchern": [
+        {
+          "value": 60653
+        }
+      ],
+      "Benutzer": [
+        {
+          "value": 5731
+        }
+      ]
+    },
+    "2023": {
+      "Bestand an Büchern, Periodika, Musikalien, Handschriften, Hochschulschriften, Karten": [
+        {
+          "value": null
+        }
+      ],
+      "Benutzer des Lesesäle": [
+        {
+          "value": null
+        }
+      ],
+      "Entleihungen": [
+        {
+          "value": null
+        },
+        {
+          "value": null
+        },
+        {
+          "value": 4166090
+        },
+        {
+          "value": null
+        }
+      ],
+      "Bestand an Büchern, Zeitschriften, Zeitungen nach Buchbinderbänden": [
+        {
+          "value": null
+        }
+      ],
+      "Eingeschriebene Benutzer": [
+        {
+          "value": null
+        }
+      ],
+      "Bestand insgesamt": [
+        {
+          "value": 778443
+        }
+      ],
+      "Belletristik": [
+        {
+          "value": 139523
+        },
+        {
+          "value": 689149
+        }
+      ],
+      "Kinder- und Jugendliteratur": [
+        {
+          "value": 141814
+        },
+        {
+          "value": 1239530
+        }
+      ],
+      "Sach- und Fachliteratur": [
+        {
+          "value": 197634
+        },
+        {
+          "value": 666713
+        }
+      ],
+      "Audiovisuelle Materialien": [
+        {
+          "value": 187528
+        },
+        {
+          "value": 1065110
+        }
+      ],
+      "Besucher": [
+        {
+          "value": 1150170
+        }
+      ],
+      "Bestand an Punktschriftenbänden und -noten": [
+        {
+          "value": null
+        }
+      ],
+      "Bestand an digitalen Hörbüchern": [
+        {
+          "value": null
+        }
+      ],
+      "Benutzer": [
+        {
+          "value": null
+        }
+      ]
+    }
+  }
+}

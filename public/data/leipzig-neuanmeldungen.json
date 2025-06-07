@@ -1,0 +1,338 @@
+{
+  "meta": {
+    "source": "https://statistik.leipzig.de/opendata/api/values?format=json&kategorie_nr=4&rubrik_nr=40&periode=y",
+    "title": "Neuanmeldungen"
+  },
+  "data": {
+    "2005": {
+      "Neuanmeldungen": [
+        {
+          "value": 2618
+        }
+      ],
+      "Übernahmen aus Vorjahren": [
+        {
+          "value": 979
+        }
+      ],
+      "Gesamt": [
+        {
+          "value": 3597
+        }
+      ],
+      "darunter beendet": [
+        {
+          "value": 2197
+        }
+      ]
+    },
+    "2010": {
+      "darunter beendet": [
+        {
+          "value": 3392
+        }
+      ],
+      "Gesamt": [
+        {
+          "value": 4867
+        }
+      ],
+      "Übernahmen aus Vorjahren": [
+        {
+          "value": 1280
+        }
+      ],
+      "Neuanmeldungen": [
+        {
+          "value": 3587
+        }
+      ]
+    },
+    "2011": {
+      "Neuanmeldungen": [
+        {
+          "value": 3683
+        }
+      ],
+      "Übernahmen aus Vorjahren": [
+        {
+          "value": 1475
+        }
+      ],
+      "Gesamt": [
+        {
+          "value": 5158
+        }
+      ],
+      "darunter beendet": [
+        {
+          "value": 3679
+        }
+      ]
+    },
+    "2012": {
+      "darunter beendet": [
+        {
+          "value": 3809
+        }
+      ],
+      "Gesamt": [
+        {
+          "value": 5444
+        }
+      ],
+      "Übernahmen aus Vorjahren": [
+        {
+          "value": 1479
+        }
+      ],
+      "Neuanmeldungen": [
+        {
+          "value": 3965
+        }
+      ]
+    },
+    "2013": {
+      "Neuanmeldungen": [
+        {
+          "value": 3788
+        }
+      ],
+      "Übernahmen aus Vorjahren": [
+        {
+          "value": 1635
+        }
+      ],
+      "Gesamt": [
+        {
+          "value": 5423
+        }
+      ],
+      "darunter beendet": [
+        {
+          "value": 3904
+        }
+      ]
+    },
+    "2014": {
+      "darunter beendet": [
+        {
+          "value": 3616
+        }
+      ],
+      "Gesamt": [
+        {
+          "value": 5295
+        }
+      ],
+      "Übernahmen aus Vorjahren": [
+        {
+          "value": 1519
+        }
+      ],
+      "Neuanmeldungen": [
+        {
+          "value": 3776
+        }
+      ]
+    },
+    "2015": {
+      "Neuanmeldungen": [
+        {
+          "value": 4050
+        }
+      ],
+      "Übernahmen aus Vorjahren": [
+        {
+          "value": 1679
+        }
+      ],
+      "Gesamt": [
+        {
+          "value": 5729
+        }
+      ],
+      "darunter beendet": [
+        {
+          "value": 3943
+        }
+      ]
+    },
+    "2016": {
+      "darunter beendet": [
+        {
+          "value": 4163
+        }
+      ],
+      "Gesamt": [
+        {
+          "value": 6105
+        }
+      ],
+      "Übernahmen aus Vorjahren": [
+        {
+          "value": 1786
+        }
+      ],
+      "Neuanmeldungen": [
+        {
+          "value": 4319
+        }
+      ]
+    },
+    "2017": {
+      "Neuanmeldungen": [
+        {
+          "value": 4233
+        }
+      ],
+      "Übernahmen aus Vorjahren": [
+        {
+          "value": 1942
+        }
+      ],
+      "Gesamt": [
+        {
+          "value": 6175
+        }
+      ],
+      "darunter beendet": [
+        {
+          "value": 3978
+        }
+      ]
+    },
+    "2018": {
+      "darunter beendet": [
+        {
+          "value": 4464
+        }
+      ],
+      "Gesamt": [
+        {
+          "value": 6492
+        }
+      ],
+      "Übernahmen aus Vorjahren": [
+        {
+          "value": 2197
+        }
+      ],
+      "Neuanmeldungen": [
+        {
+          "value": 4295
+        }
+      ]
+    },
+    "2019": {
+      "Neuanmeldungen": [
+        {
+          "value": 4267
+        }
+      ],
+      "Übernahmen aus Vorjahren": [
+        {
+          "value": 2028
+        }
+      ],
+      "Gesamt": [
+        {
+          "value": 6295
+        }
+      ],
+      "darunter beendet": [
+        {
+          "value": 4098
+        }
+      ]
+    },
+    "2020": {
+      "darunter beendet": [
+        {
+          "value": 3968
+        }
+      ],
+      "Gesamt": [
+        {
+          "value": 6112
+        }
+      ],
+      "Übernahmen aus Vorjahren": [
+        {
+          "value": 2197
+        }
+      ],
+      "Neuanmeldungen": [
+        {
+          "value": 3915
+        }
+      ]
+    },
+    "2021": {
+      "Neuanmeldungen": [
+        {
+          "value": 4013
+        }
+      ],
+      "Übernahmen aus Vorjahren": [
+        {
+          "value": 2144
+        }
+      ],
+      "Gesamt": [
+        {
+          "value": 6157
+        }
+      ],
+      "darunter beendet": [
+        {
+          "value": 3899
+        }
+      ]
+    },
+    "2022": {
+      "darunter beendet": [
+        {
+          "value": 3879
+        }
+      ],
+      "Gesamt": [
+        {
+          "value": 6206
+        }
+      ],
+      "Übernahmen aus Vorjahren": [
+        {
+          "value": 2258
+        }
+      ],
+      "Neuanmeldungen": [
+        {
+          "value": 3948
+        }
+      ]
+    },
+    "2023": {
+      "Neuanmeldungen": [
+        {
+          "value": 3919
+        }
+      ],
+      "Übernahmen aus Vorjahren": [
+        {
+          "value": 2327
+        }
+      ],
+      "Gesamt": [
+        {
+          "value": 6246
+        }
+      ],
+      "darunter beendet": [
+        {
+          "value": 3957
+        }
+      ]
+    }
+  }
+}
