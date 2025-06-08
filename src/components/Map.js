@@ -18,153 +18,153 @@ import OwnLocationMarker from './OwnLocationMarker';
 import SwitchLine from "./SwitchLine";
 
 const dataOverlayEntries = {
-'1-raum': {
-    title: '1-raum',
+  '1-raum': {
+    title: 'Anzahl Wohnungen nach Raum-Anzahl',
     scale: chroma.scale('YlGnBu'),
     unit: '',
   },
-'60-l-abfallbehaelter': {
-    title: '60-l-abfallbehaelter',
+  '60-l-abfallbehaelter': {
+    title: 'Abfall',
     scale: chroma.scale('YlGnBu'),
     unit: '',
   },
-'abitur': {
-    title: 'Abitur',
+  'abitur': {
+    title: 'Anteil der Bevölkerung mit höchstem Ausbildungsabschluss',
+    scale: chroma.scale('YlGnBu'),
+    unit: '%',
+  },
+  'aerzte': {
+    title: 'Anzahl Ärzte',
+    scale: chroma.scale('PuRd'),
+    unit: 'Ärzte',
+  },
+  'alle-leipziger-buergerinnen-und-buerger-von-18-bis-85-jahre-angebot-an-arbeitsplaetzen': {
+    title: 'Anteil der befragten Leipziger:innen (18 bis 85 Jahre), die mit dem Angebot an Arbeitsplätzen zufrieden sind',
+    scale: chroma.scale('YlGnBu'),
+    unit: '%',
+  },
+  'alle-leipziger-buergerinnen-und-buerger-von-18-bis-85-jahre-fremdenfeindlichkeit': {
+    title: 'Anteil der befragten Leipziger:innen (18 bis 85 Jahre), die Fremdenfeindlichkeit als Problem sehen',
+    scale: chroma.scale('YlGnBu'),
+    unit: '%',
+  },
+  'alle-leipziger-buergerinnen-und-buerger-von-18-bis-85-jahre-kriminalitaet-und-sicherheit': {
+    title: 'Anteil der befragten Leipziger:innen (18 bis 85 Jahre), die Kriminalität und Sicherheit als Problem sehen',
+    scale: chroma.scale('YlGnBu'),
+    unit: '%',
+  },
+  'alle-leipziger-buergerinnen-und-buerger-von-18-bis-85-jahre-wirtschaftsfoerderung-ansiedlung-von-investoren-unternehmen': {
+    title: 'Anteil der befragten Leipziger:innen (18 bis 85 Jahre), dass dafür hauptsächlich Haushaltsmittel ausgegeben werden sollen',
+    scale: chroma.scale('YlGnBu'),
+    unit: '%',
+  },
+  'ankuenfte-in-berhebungseinrichtungen-insgesamt': {
+    title: 'Anzahl der Ankünfte in Berhebungseinrichtungen',
     scale: chroma.scale('YlGnBu'),
     unit: '',
   },
-'aerzte': {
-    title: 'aerzte',
+  'anspruchsberechtigte-kinder': {
+    title: 'Anzahl der anspruchsberechtigten Kinder nach ihrer Untersuchung in einer Kindertageseinrichtung',
     scale: chroma.scale('YlGnBu'),
     unit: '',
   },
-'alle-leipziger-buergerinnen-und-buerger-von-18-bis-85-jahre-angebot-an-arbeitsplaetzen': {
-    title: 'alle-leipziger-buergerinnen-und-buerger-von-18-bis-85-jahre-angebot-an-arbeitsplaetzen',
+  'anteil-an-den-gueltigen-listenstimmen-wahlbeteiligung-die-partei': {
+    title: 'Anteil der Partei an den Listenstimmen',
+    scale: chroma.scale('YlGnBu'),
+    unit: '%',
+  },
+  'anteil-an-den-gueltigen-stimmen-wahlbeteiligung-die-partei': {
+    title: 'Anteil der Partei an den gültigen Stimmen',
+    scale: chroma.scale('YlGnBu'),
+    unit: '%',
+  },
+  'anteil-an-den-gueltigen-zweitstimmen-wahlbeteiligung-sonstige': {
+    title: 'Anteil der Partei an den gültigen Zweitstimmen',
+    scale: chroma.scale('YlGnBu'),
+    unit: '%',
+  },
+  'anzahl-der-betreuten-kinder-insgesamt': {
+    title: 'Anzahl der in einer Tagespflege betreuten Kinder',
     scale: chroma.scale('YlGnBu'),
     unit: '',
   },
-'alle-leipziger-buergerinnen-und-buerger-von-18-bis-85-jahre-fremdenfeindlichkeit': {
-    title: 'alle-leipziger-buergerinnen-und-buerger-von-18-bis-85-jahre-fremdenfeindlichkeit',
+  'anzahl-der-einrichtungen-einrichtungen-insgesamt': {
+    title: 'Anzahl Kindertageseinrichtungen',
     scale: chroma.scale('YlGnBu'),
     unit: '',
   },
-'alle-leipziger-buergerinnen-und-buerger-von-18-bis-85-jahre-kriminalitaet-und-sicherheit': {
-    title: 'alle-leipziger-buergerinnen-und-buerger-von-18-bis-85-jahre-kriminalitaet-und-sicherheit',
+  'anzahl-der-haushalte-mit-hauptwohnsitz-insgesamt': {
+    title: 'Anzahl der von Wohnungslosigkeit bedrohten Haushalte',
     scale: chroma.scale('YlGnBu'),
     unit: '',
   },
-'alle-leipziger-buergerinnen-und-buerger-von-18-bis-85-jahre-wirtschaftsfoerderung-ansiedlung-von-investoren-unternehmen': {
-    title: 'alle-leipziger-buergerinnen-und-buerger-von-18-bis-85-jahre-wirtschaftsfoerderung-ansiedlung-von-investoren-unternehmen',
+  'anzahl-personen-wohnungslose-personen': {
+    title: 'Anzahl wohnungslose Personen',
     scale: chroma.scale('YlGnBu'),
     unit: '',
   },
-'ankuenfte-in-berhebungseinrichtungen-insgesamt': {
-    title: 'ankuenfte-in-berhebungseinrichtungen-insgesamt',
+  'apotheken': {
+    title: 'Anzahl Apotheken',
+    scale: chroma.scale('PuRd'),
+    unit: 'Apotheken',
+  },
+  'arbeitslose-insgesamt': {
+    title: 'Anzahl Arbeitslose',
+    scale: chroma.scale('OrRd'),
+    unit: 'Arbeitslose',
+  },
+  'arbeitslosenquote-15-bis-unter-20-jahre-in': {
+    title: 'Arbeitslose',
     scale: chroma.scale('YlGnBu'),
     unit: '',
   },
-'anspruchsberechtigte-kinder': {
-    title: 'anspruchsberechtigte-kinder',
+  'aufwendungen-ertrag': {
+    title: 'Aufwendungen für Kindertageseinrichtungen',
+    scale: chroma.scale('YlGnBu'),
+    unit: 'Millionen Euro',
+  },
+  'aufwendungen-fuer-hilfen-zur-erziehung-gesamt': {
+    title: 'Aufwendungen für Erziehungshilfen',
+    scale: chroma.scale('YlGnBu'),
+    unit: 'Millionen Euro',
+  },
+  'auslaender': {
+    title: 'Anzahl Ausländer',
+    scale: chroma.scale('OrRd'),
+    unit: 'Ausländer',
+  },
+  'auszubildende-insgesamt': {
+    title: 'Anzahl Auszubildende',
     scale: chroma.scale('YlGnBu'),
     unit: '',
   },
-'anteil-an-den-gueltigen-listenstimmen-wahlbeteiligung-die-partei': {
-    title: 'anteil-an-den-gueltigen-listenstimmen-wahlbeteiligung-die-partei',
+  'bedarfsgemeinschaften': {
+    title: 'Bedarfsgemeinschaften',
     scale: chroma.scale('YlGnBu'),
     unit: '',
   },
-'anteil-an-den-gueltigen-stimmen-wahlbeteiligung-die-partei': {
-    title: 'anteil-an-den-gueltigen-stimmen-wahlbeteiligung-die-partei',
+  'beschaeftigte-insgesamt': {
+    title: 'Beschäftigte',
+    scale: chroma.scale('OrRd'),
+    unit: 'Beschäftigte',
+  },
+  'beherbergungsstaetten-ankuenfte': {
+    title: 'Beherbergungsstätten Ankuenfte',
     scale: chroma.scale('YlGnBu'),
     unit: '',
   },
-'anteil-an-den-gueltigen-zweitstimmen-wahlbeteiligung-sonstige': {
-    title: 'anteil-an-den-gueltigen-zweitstimmen-wahlbeteiligung-sonstige',
+  'beherbergungsstaetten-geoeffnete-betriebe': {
+    title: 'Beherbergungsstätten geöffnete Betriebe',
     scale: chroma.scale('YlGnBu'),
     unit: '',
   },
-'anzahl-der-betreuten-kinder-insgesamt': {
-    title: 'anzahl-der-betreuten-kinder-insgesamt',
+  'bereinigte-ausgaben': {
+    title: 'Bereinigte Ausgaben',
     scale: chroma.scale('YlGnBu'),
     unit: '',
   },
-'anzahl-der-einrichtungen-einrichtungen-insgesamt': {
-    title: 'anzahl-der-einrichtungen-einrichtungen-insgesamt',
-    scale: chroma.scale('YlGnBu'),
-    unit: '',
-  },
-'anzahl-der-haushalte-mit-hauptwohnsitz-insgesamt': {
-    title: 'anzahl-der-haushalte-mit-hauptwohnsitz-insgesamt',
-    scale: chroma.scale('YlGnBu'),
-    unit: '',
-  },
-'anzahl-personen-wohnungslose-personen': {
-    title: 'anzahl-personen-wohnungslose-personen',
-    scale: chroma.scale('YlGnBu'),
-    unit: '',
-  },
-'apotheken': {
-    title: 'apotheken',
-    scale: chroma.scale('YlGnBu'),
-    unit: '',
-  },
-'arbeitslose-insgesamt': {
-    title: 'arbeitslose-insgesamt',
-    scale: chroma.scale('YlGnBu'),
-    unit: '',
-  },
-'arbeitslosenquote-15-bis-unter-20-jahre-in': {
-    title: 'arbeitslosenquote-15-bis-unter-20-jahre-in',
-    scale: chroma.scale('YlGnBu'),
-    unit: '',
-  },
-'aufwendungen-ertrag': {
-    title: 'aufwendungen-ertrag',
-    scale: chroma.scale('YlGnBu'),
-    unit: '',
-  },
-'aufwendungen-fuer-hilfen-zur-erziehung-gesamt': {
-    title: 'aufwendungen-fuer-hilfen-zur-erziehung-gesamt',
-    scale: chroma.scale('YlGnBu'),
-    unit: '',
-  },
-'auslaender': {
-    title: 'auslaender',
-    scale: chroma.scale('YlGnBu'),
-    unit: '',
-  },
-'auszubildende-insgesamt': {
-    title: 'auszubildende-insgesamt',
-    scale: chroma.scale('YlGnBu'),
-    unit: '',
-  },
-'bedarfsgemeinschaften-insgesamt': {
-    title: 'bedarfsgemeinschaften-insgesamt',
-    scale: chroma.scale('YlGnBu'),
-    unit: '',
-  },
-'bedarfsgemeinschaften': {
-    title: 'bedarfsgemeinschaften',
-    scale: chroma.scale('YlGnBu'),
-    unit: '',
-  },
-'beherbergungsstaetten-ankuenfte': {
-    title: 'beherbergungsstaetten-ankuenfte',
-    scale: chroma.scale('YlGnBu'),
-    unit: '',
-  },
-'beherbergungsstaetten-geoeffnete-betriebe': {
-    title: 'beherbergungsstaetten-geoeffnete-betriebe',
-    scale: chroma.scale('YlGnBu'),
-    unit: '',
-  },
-'bereinigte-ausgaben': {
-    title: 'bereinigte-ausgaben',
-    scale: chroma.scale('YlGnBu'),
-    unit: '',
-  },
-'bereinigte-einnahmen-einnahmen-der-laufenden-rechnung-erstattungen-und-laufende-zuweisungen-vom-bund': {
-    title: 'bereinigte-einnahmen-einnahmen-der-laufenden-rechnung-erstattungen-und-laufende-zuweisungen-vom-bund',
+  'bereinigte-einnahmen-einnahmen-der-laufenden-rechnung-erstattungen-und-laufende-zuweisungen-vom-bund': {
+    title: 'Bereinigte Einnahmen der laufenden Rechnung, Erstattungen und laufende Zuweisungen vom Bund',
     scale: chroma.scale('YlGnBu'),
     unit: '',
   },
@@ -208,10 +208,10 @@ const dataOverlayEntries = {
     scale: chroma.scale('YlGnBu'),
     unit: '',
   },
-'bruttomonatsentgelt': {
-    title: 'bruttomonatsentgelt',
-    scale: chroma.scale('YlGnBu'),
-    unit: '',
+  'bruttomonatsentgelt': {
+    title: 'Bruttomonatsentgelt',
+    scale: chroma.scale('PuBu'),
+    unit: '€'
   },
 'daten-des-leipziger-melderegisters-einwohner-mit-migrationshintergrund': {
     title: 'daten-des-leipziger-melderegisters-einwohner-mit-migrationshintergrund',
@@ -689,46 +689,7 @@ const dataOverlayEntries = {
     unit: '',
   },
 
-  'abitur': {
-    title: 'Abitur',
-    scale: chroma.scale('YlGnBu'),
-    unit: '',
-  },
-  'aerzte': {
-    title: 'Ärzte',
-    scale: chroma.scale('PuRd'),
-    unit: 'Ärzte',
-  },
-  'apotheken': {
-    title: 'Apotheken',
-    scale: chroma.scale('PuRd'),
-    unit: 'Apotheken',
-  },
-  'arbeitslose-insgesamt': {
-    title: 'Arbeitslose',
-    scale: chroma.scale('OrRd'),
-    unit: 'Arbeitslose',
-  },
-  'auslaender': {
-    title: 'Ausländer',
-    scale: chroma.scale('OrRd'),
-    unit: 'Ausländer',
-  },
-  'bedarfsgemeinschaften': {
-    title: 'Bedarfsgemeinschaften',
-    scale: chroma.scale('YlGnBu'),
-    unit: '',
-  },
-  'beschaeftigte-insgesamt': {
-    title: 'Beschäftigte',
-    scale: chroma.scale('OrRd'),
-    unit: 'Beschäftigte',
-  },
-  'bruttomonatsentgelt': {
-    title: 'Bruttomonatsentgelt',
-    scale: chroma.scale('PuBu'),
-    unit: '€'
-  },
+  
   'durchschnittsalter': {
     title: 'Durchschnittsalter',
     scale: chroma.scale('YlOrBr'),
@@ -931,7 +892,8 @@ const Map = () => {
   const [showOffcanvas, setShowOffcanvas] = useState(true);
 
   const [loadings, setLoadings] = useState({
-    districts: true
+    districts: true,
+    categories: true,
   });
 
   const [showMarker, setShowMarker] = useState({
@@ -946,6 +908,12 @@ const Map = () => {
     markets: false,
   });
 
+  const [selectedLevel1, setSelectedLevel1] = useState(null);
+  const [selectedLevel2, setSelectedLevel2] = useState(null);
+  const [selectedLevel3, setSelectedLevel3] = useState(null);
+  const [selectedLevel4, setSelectedLevel4] = useState(null);
+  const [selectedLevel5, setSelectedLevel5] = useState(null);
+  const [selectedLevel6, setSelectedLevel6] = useState(null);
   const [selectedDataKey, setSelectedDataKey] = useState(null);
   const [selectedX, setSelectedX] = useState(null);
   const [selectedY, setSelectedY] = useState(null);
@@ -987,6 +955,43 @@ const Map = () => {
     }
   }
 
+  const levelSetter = [setSelectedLevel1, setSelectedLevel2, 
+    setSelectedLevel3, setSelectedLevel4, setSelectedLevel5, setSelectedLevel6];
+
+  const setData = (inputData) => {
+    if (inputData && Object.keys(inputData).indexOf('data') >= 0) {
+      if (inputData.data && inputData.data.length > 0) {
+        selectDataOverlayCategory(inputData.data[0]);
+        return true;
+      }
+    }
+    return false; 
+  };
+
+  const handleLevelChange = (newData, selectedLevel, index) => {
+    if (newData) {
+        if (!setData(newData)) {
+          levelSetter[index](selectedLevel);
+          setSelectedY(selectedLevel);
+          const levelData = newData[selectedLevel];
+          if (levelData) {
+            const nextLevel = Object.keys(levelData)[0];
+            if (index < levelSetter.length - 1) {
+              handleLevelChange(levelData, nextLevel, index+1);
+            }
+          } else {
+            for (var i=index; i<levelSetter.length; i++) {
+              levelSetter[i](null);
+            }
+          }
+        } else {
+          for (var i=index; i<levelSetter.length; i++) {
+            levelSetter[i](null);
+          }
+        }
+    }
+  };
+
   useEffect(() => {
     fetch(`${process.env.PUBLIC_URL}/data/leipzig-districts.json`)
     .then(res => res.json())
@@ -994,7 +999,16 @@ const Map = () => {
       setCache(cache => ({ ...cache, districts: data }))
       setLoadings(loadings => ({ ...loadings, districts: false }))
     })
-    selectDataOverlayCategory(Object.keys(dataOverlayEntries)[0])
+    fetch(`${process.env.PUBLIC_URL}/data/categories.json`)
+    .then(res => res.json())
+    .then(data => {
+      setCache(cache => ({ ...cache, categories: data }))
+      setLoadings(loadings => ({ ...loadings, categories: false }))
+      if (!setData(data)) {
+        const level1 = Object.keys(data)[0];
+        handleLevelChange(data, level1, 0);
+      }
+    })
   // eslint-disable-next-line
   }, [])
 
@@ -1043,6 +1057,74 @@ const Map = () => {
     databasisMin = dataOverlayEntries[selectedDataKey].min || 0;
   }
 
+  useEffect(() => {
+    const categories = cache['categories'];
+    if (categories) {
+      handleLevelChange(categories, selectedLevel1, 0);
+    }
+  }, [selectedLevel1]);
+
+  useEffect(() => {
+    const categories = cache['categories'];
+    if (categories) {
+      const newData = categories[selectedLevel1];
+      if (newData) {
+        handleLevelChange(newData, selectedLevel2, 1);
+      }
+    }
+  }, [selectedLevel2]);
+
+  useEffect(() => {
+    const categories = cache['categories'];
+    if (categories) {
+      if (categories[selectedLevel1]) {
+        const newData = categories[selectedLevel1][selectedLevel2];
+        if (newData) {
+          handleLevelChange(newData, selectedLevel3, 2);
+        }
+      }
+    }
+  }, [selectedLevel3]);
+
+  useEffect(() => {
+    const categories = cache['categories'];
+    if (categories) {
+      if (categories[selectedLevel1] && categories[selectedLevel1][selectedLevel2]) {
+        const newData = categories[selectedLevel1][selectedLevel2][selectedLevel3];
+        if (newData) {
+          handleLevelChange(newData, selectedLevel4, 3);
+        }
+      }
+    }
+  }, [selectedLevel4]);
+
+  useEffect(() => {
+    const categories = cache['categories'];
+    if (categories) {
+      if (categories[selectedLevel1] && categories[selectedLevel1][selectedLevel2]
+         && categories[selectedLevel1][selectedLevel2][selectedLevel3]) {
+        const newData = categories[selectedLevel1][selectedLevel2][selectedLevel3][selectedLevel4];
+        if (newData) {
+          handleLevelChange(newData, selectedLevel5, 4);
+        }
+      }
+    }
+  }, [selectedLevel5]);
+
+  useEffect(() => {
+    const categories = cache['categories'];
+    if (categories) {
+      if (categories[selectedLevel1] && categories[selectedLevel1][selectedLevel2]
+         && categories[selectedLevel1][selectedLevel2][selectedLevel3]
+        && categories[selectedLevel1][selectedLevel2][selectedLevel3][selectedLevel4]) {
+        const newData = categories[selectedLevel1][selectedLevel2][selectedLevel3][selectedLevel4][selectedLevel5];
+        if (newData) {
+          handleLevelChange(newData, selectedLevel6, 5);
+        }
+      }
+    }
+  }, [selectedLevel6]);
+
   // const dataOverlayScale = chroma.scale('Spectral');
   const dataOverlayScale = dataOverlayEntries[selectedDataKey] ? dataOverlayEntries[selectedDataKey].scale : null;
 
@@ -1067,10 +1149,15 @@ const Map = () => {
       {
         showMarker.data_overlay &&
         !loadings.districts &&
+        !loadings.categories &&
         <DataOverlay
           dataOverlayEntries={dataOverlayEntries}
           scale={dataOverlayScale}
           cache={cache}
+          selectedLevel1={selectedLevel1}
+          selectedLevel2={selectedLevel2}
+          selectedLevel3={selectedLevel3}
+          selectedLevel4={selectedLevel4}
           selectedDataKey={selectedDataKey}
           showTotal={showTotal}
           selectedX={selectedX}
@@ -1155,6 +1242,12 @@ const Map = () => {
                   <DataOverlayOptions
                     dataEntries={dataOverlayEntries}
                     cache={cache}
+                    selectedLevel1={selectedLevel1}
+                    selectedLevel2={selectedLevel2}
+                    selectedLevel3={selectedLevel3}
+                    selectedLevel4={selectedLevel4}
+                    selectedLevel5={selectedLevel5}
+                    selectedLevel6={selectedLevel6}
                     selectedDataKey={selectedDataKey}
                     showTotal={showTotal}
                     selectedX={selectedX}
@@ -1163,6 +1256,12 @@ const Map = () => {
                     setSelectedY={setSelectedY}
                     setShowTotal={setShowTotal}
                     selectDataOverlayCategory={selectDataOverlayCategory}
+                    setSelectedLevel1={setSelectedLevel1}
+                    setSelectedLevel2={setSelectedLevel2}
+                    setSelectedLevel3={setSelectedLevel3}
+                    setSelectedLevel4={setSelectedLevel4}
+                    setSelectedLevel5={setSelectedLevel4}
+                    setSelectedLevel6={setSelectedLevel4}
                     loadings={loadings}
                   />
                 </>

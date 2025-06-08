@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.collapsible {
+  background-color: #eee;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  outline: none;
+}
+
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+}
